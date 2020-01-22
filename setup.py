@@ -4,6 +4,6 @@ setup(
     name         = 'bestppscraper',
     version      = '1.0',
     packages     = find_packages(),
-    scripts      = ['bin/run.py'],
+    scripts      = ['bin/run.py, bin/run.sh'],
     entry_points = {'scrapy': ['settings = bestppscraper.settings']},
 )
