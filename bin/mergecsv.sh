@@ -1,6 +1,6 @@
-OutFileName="data/facilities_all.csv"                       # Fix the output name
+OutFileName="../data/facilities_all.csv"                       # Fix the output name
 i=0                                       # Reset a counter
-for filename in data/*.csv; do 
+for filename in ../data/*.csv; do 
  if [ "$filename"  != "$OutFileName" ] ;      # Avoid recursion 
  then 
    if [[ $i -eq 0 ]] ; then 
