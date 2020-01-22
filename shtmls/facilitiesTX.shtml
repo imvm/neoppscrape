@@ -1,0 +1,3462 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ABERNATHY POST OFFICE</td>
+<td>801 AVENUE D</td>
+<td>ABERNATHY</td>
+<td>TX</td>
+<td>79311</td>
+<td>8062984111</td>
+</tr>
+<tr>
+<td>ABILENE MAIN POST OFFICE</td>
+<td>341 PINE STREET</td>
+<td>ABILENE</td>
+<td>TX</td>
+<td>79601</td>
+<td>3257382135</td>
+</tr>
+<tr>
+<td>ADDISON MAIN POST OFFICE</td>
+<td>4900 AIRPORT PKWY</td>
+<td>ADDISON</td>
+<td>TX</td>
+<td>75001</td>
+<td>9722335520</td>
+</tr>
+<tr>
+<td>ALICE POST OFFICE</td>
+<td>401 EAST 2ND STREET</td>
+<td>ALICE</td>
+<td>TX</td>
+<td>78332</td>
+<td>3616645541</td>
+</tr>
+<tr>
+<td>JIM WELLS COUNTY DISTRICT CLERK</td>
+<td>200 NORTH ALMOND STREET</td>
+<td>ALICE</td>
+<td>TX</td>
+<td>78332</td>
+<td>3616685717</td>
+</tr>
+<tr>
+<td>ALLEN POST OFFICE</td>
+<td>304  W BOYD DR</td>
+<td>ALLEN</td>
+<td>TX</td>
+<td>75013</td>
+<td>9723907993</td>
+</tr>
+<tr>
+<td>SUL ROSS STATE UNIVERSITY LIBRARY</td>
+<td>400 NORTH HARRISON</td>
+<td>ALPINE</td>
+<td>TX</td>
+<td>79832</td>
+<td>4328378123</td>
+</tr>
+<tr>
+<td>CITY OF ALTON</td>
+<td>509 SOUTH ALTON BOULEVARD</td>
+<td>ALTON</td>
+<td>TX</td>
+<td>78573</td>
+<td>9564320760</td>
+</tr>
+<tr>
+<td>ALVARADO POST OFFICE</td>
+<td>300 E. HWY  67</td>
+<td>ALVARADO</td>
+<td>TX</td>
+<td>76009</td>
+<td>8177833384</td>
+</tr>
+<tr>
+<td>ALVIN POST OFFICE</td>
+<td>455 EAST HOUSE STREET</td>
+<td>ALVIN</td>
+<td>TX</td>
+<td>77511</td>
+<td>2813312220</td>
+</tr>
+<tr>
+<td>AMARILLO MAIN POST OFFICE</td>
+<td>2301 ROSS ST.</td>
+<td>AMARILLO</td>
+<td>TX</td>
+<td>79120</td>
+<td>8064682101</td>
+</tr>
+<tr>
+<td>JORDAN STATION  POST OFFICE</td>
+<td>8301 AMARILLO BLVD WEST</td>
+<td>AMARILLO</td>
+<td>TX</td>
+<td>79124</td>
+<td>8063529038</td>
+</tr>
+<tr>
+<td>LONE STAR STATION</td>
+<td>5000 S WESTERN ST</td>
+<td>AMARILLO</td>
+<td>TX</td>
+<td>79109</td>
+<td>8063528825</td>
+</tr>
+<tr>
+<td>CHAMBERS COUNTY DISTRICT CLERK</td>
+<td>404 WASHINGTON AVENUE</td>
+<td>ANAHUAC</td>
+<td>TX</td>
+<td>77514</td>
+<td>4092672432</td>
+</tr>
+<tr>
+<td>ANGLETON POST OFFICE</td>
+<td>100 CANNAN DRIVE</td>
+<td>ANGLETON</td>
+<td>TX</td>
+<td>77515</td>
+<td>9798497500</td>
+</tr>
+<tr>
+<td>ARANSAS PASS POST OFFICE</td>
+<td>634 SOUTH COMMERCIAL STREET</td>
+<td>ARANSAS PASS</td>
+<td>TX</td>
+<td>78336</td>
+<td>3617586938</td>
+</tr>
+<tr>
+<td>ARLINGTON MAIN POST OFFICE</td>
+<td>300 E. SOUTH ST</td>
+<td>ARLINGTON</td>
+<td>TX</td>
+<td>76004</td>
+<td>8175438412</td>
+</tr>
+<tr>
+<td>ARLINGTON OAKWOOD POST OFFICE</td>
+<td>1009 OAKWOOD LANE</td>
+<td>ARLINGTON</td>
+<td>TX</td>
+<td>76012</td>
+<td>8178016860</td>
+</tr>
+<tr>
+<td>BARDIN ROAD POST OFFICE</td>
+<td>1301 E. BARDIN RD</td>
+<td>ARLINGTON</td>
+<td>TX</td>
+<td>76018</td>
+<td>8175575561</td>
+</tr>
+<tr>
+<td>TARRANT COUNTY ARLINGTON SUB-COURTHOUSE</td>
+<td>700 E. ABRAM</td>
+<td>ARLINGTON</td>
+<td>TX</td>
+<td>76010</td>
+<td>8175483963</td>
+</tr>
+<tr>
+<td>HENDERSON COUNTY DISTRICT CLERK</td>
+<td>100 EAST TYLER STREET</td>
+<td>ATHENS</td>
+<td>TX</td>
+<td>75751</td>
+<td>9036756115</td>
+</tr>
+<tr>
+<td>AUBREY POST OFFICE</td>
+<td>120 STANLEY DR</td>
+<td>AUBREY</td>
+<td>TX</td>
+<td>76227</td>
+<td>9403652621</td>
+</tr>
+<tr>
+<td>STEVEN E COPELAND GOVERNMENT CENTER</td>
+<td>1400 FM 424</td>
+<td>AUBREY</td>
+<td>TX</td>
+<td>76227</td>
+<td>9403494400</td>
+</tr>
+<tr>
+<td>AUSTIN GENERAL MAIL FACILITY</td>
+<td>8225 CROSS PARK DRIVE</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78710</td>
+<td>5123681286</td>
+</tr>
+<tr>
+<td>AUSTIN OAK HILL STATION</td>
+<td>6104 OLD FREDERICKSBURG ROAD</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78749</td>
+<td>5128922794</td>
+</tr>
+<tr>
+<td>AUSTIN SOUTH EAST STATION</td>
+<td>4516 BURLESON ROAD</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78744</td>
+<td>5124441083</td>
+</tr>
+<tr>
+<td>AUSTIN UNIVERSITY STATION</td>
+<td>306 INNER CAMPUS DRIVE</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78712</td>
+<td>5122325488</td>
+</tr>
+<tr>
+<td>BLUEBONNET POST OFFICE</td>
+<td>1822 WEST BRAKER LANE</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78758</td>
+<td>5128739289</td>
+</tr>
+<tr>
+<td>CHIMNEY CORNERS STATION</td>
+<td>3575 FAR WEST BOULEVARD</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78731</td>
+<td>5123459739</td>
+</tr>
+<tr>
+<td>DISTRICT CLERK JURY OFFICE (TRAVIS COUNTY AIRPORT OFFICE)</td>
+<td>5501 AIRPORT BOULEVARD</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78751</td>
+<td>5128544295</td>
+</tr>
+<tr>
+<td>MOCKINGBIRD STATION</td>
+<td>7310 MANCHACA ROAD</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78745</td>
+<td>5124161094</td>
+</tr>
+<tr>
+<td>NORTH AUSTIN STATION</td>
+<td>4300 SPEEDWAY</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78705</td>
+<td>5124532785</td>
+</tr>
+<tr>
+<td>NORTHEAST STATION</td>
+<td>900 BLACKSON AVENUE</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78752</td>
+<td>5124588947</td>
+</tr>
+<tr>
+<td>TRAVIS COUNTY DISTRICT CLERK</td>
+<td>1000 GUADALUPE STREET</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78701</td>
+<td>5128544295</td>
+</tr>
+<tr>
+<td>UT AUSTIN INTERNATIONAL OFFICE</td>
+<td>2400 NUECES STREET</td>
+<td>AUSTIN</td>
+<td>TX</td>
+<td>78705</td>
+<td>5122325899</td>
+</tr>
+<tr>
+<td>AZLE MAIN POST OFFICE</td>
+<td>409 COMMERCE ST.</td>
+<td>AZLE</td>
+<td>TX</td>
+<td>76020</td>
+<td>8174446332</td>
+</tr>
+<tr>
+<td>BALLINGER MAIN POST OFFICE</td>
+<td>116 S 8TH STREET</td>
+<td>BALLINGER</td>
+<td>TX</td>
+<td>76821</td>
+<td>3253652719</td>
+</tr>
+<tr>
+<td>BANDERA COUNTY DISTRICT CLERK</td>
+<td>3360 STATE HWY 173 NORTH</td>
+<td>BANDERA</td>
+<td>TX</td>
+<td>78003</td>
+<td>8307964606</td>
+</tr>
+<tr>
+<td>BARKER MAIN POST OFFICE</td>
+<td>211 BAKER ROAD</td>
+<td>BARKER</td>
+<td>TX</td>
+<td>77413</td>
+<td>2814922629</td>
+</tr>
+<tr>
+<td>BASTROP COUNTY DISTRICT CLERK</td>
+<td>804 PECAN STREET</td>
+<td>BASTROP</td>
+<td>TX</td>
+<td>78602</td>
+<td>5123327244</td>
+</tr>
+<tr>
+<td>BAY CITY POST OFFICE</td>
+<td>1309 BAYWOOD DRIVE</td>
+<td>BAY CITY</td>
+<td>TX</td>
+<td>77414</td>
+<td>9792452051</td>
+</tr>
+<tr>
+<td>BAYTOWN MAIN POST OFFICE</td>
+<td>601 WEST BAKER ROAD</td>
+<td>BAYTOWN</td>
+<td>TX</td>
+<td>77521</td>
+<td>2814220095</td>
+</tr>
+<tr>
+<td>BEAUMONT DOWNTOWN STATION</td>
+<td>300 WILLOW STREET</td>
+<td>BEAUMONT</td>
+<td>TX</td>
+<td>77701</td>
+<td>4098328205</td>
+</tr>
+<tr>
+<td>JEFFERSON COUNTY COURTHOUSE DISTRICT CLERK OFFICE</td>
+<td>1085 PEARL STREET</td>
+<td>BEAUMONT</td>
+<td>TX</td>
+<td>77701</td>
+<td>4098358580</td>
+</tr>
+<tr>
+<td>BEDFORD POST OFFICE</td>
+<td>1300 HARWOOD RD.</td>
+<td>BEDFORD</td>
+<td>TX</td>
+<td>76021</td>
+<td>8172834264</td>
+</tr>
+<tr>
+<td>BEEVILLE POST OFFICE</td>
+<td>111 NORTH SAINT MARYS STREET</td>
+<td>BEEVILLE</td>
+<td>TX</td>
+<td>78102</td>
+<td>3613583727</td>
+</tr>
+<tr>
+<td>BELLAIRE POST OFFICE</td>
+<td>5350 BELLAIRE BOULEVARD</td>
+<td>BELLAIRE</td>
+<td>TX</td>
+<td>77401</td>
+<td>7136681004</td>
+</tr>
+<tr>
+<td>AUSTIN COUNTY DISTRICT CLERK</td>
+<td>ONE EAST MAIN STREET</td>
+<td>BELLVILLE</td>
+<td>TX</td>
+<td>77418</td>
+<td>9798655911</td>
+</tr>
+<tr>
+<td>BIG SPRING MAIN POST OFFICE</td>
+<td>501 SOUTH MAIN STREET</td>
+<td>BIG SPRING</td>
+<td>TX</td>
+<td>79720</td>
+<td>4322637391</td>
+</tr>
+<tr>
+<td>BLUE RIDGE POST OFFICE</td>
+<td>301 S BUS HWY 78</td>
+<td>BLUE RIDGE</td>
+<td>TX</td>
+<td>75424</td>
+<td>9727525326</td>
+</tr>
+<tr>
+<td>KENDALL COUNTY TAX ASSESSOR COLLECTOR</td>
+<td>201 EAST SAN ANTONIO STREET</td>
+<td>BOERNE</td>
+<td>TX</td>
+<td>78006</td>
+<td>8302499343</td>
+</tr>
+<tr>
+<td>BONHAM POST OFFICE</td>
+<td>300 N. CENTER ST.</td>
+<td>BONHAM</td>
+<td>TX</td>
+<td>75418</td>
+<td>9035834815</td>
+</tr>
+<tr>
+<td>FANNIN COUNTY DISTRICT CLERK</td>
+<td>200 E. 1ST STREET</td>
+<td>BONHAM</td>
+<td>TX</td>
+<td>75418</td>
+<td>9035837459</td>
+</tr>
+<tr>
+<td>BORGER POST OFFICE</td>
+<td>500 SOUTH MCGEE ST</td>
+<td>BORGER</td>
+<td>TX</td>
+<td>79007</td>
+<td>8062733761</td>
+</tr>
+<tr>
+<td>BOWIE POST OFFICE</td>
+<td>113 N. MASON ST.</td>
+<td>BOWIE</td>
+<td>TX</td>
+<td>76230</td>
+<td>9408721170</td>
+</tr>
+<tr>
+<td>BRADY MAIN POST OFFICE</td>
+<td>229 SOUTH BLACKBURN STREET</td>
+<td>BRADY</td>
+<td>TX</td>
+<td>76925</td>
+<td>3255972298</td>
+</tr>
+<tr>
+<td>BRAZORIA POST OFFICE</td>
+<td>111 GAINES STREET</td>
+<td>BRAZORIA</td>
+<td>TX</td>
+<td>77422</td>
+<td>9797987676</td>
+</tr>
+<tr>
+<td>BRECKENRIDGE POST OFFICE</td>
+<td>123 WEST WILLIAMS STREET</td>
+<td>BRECKENRIDGE</td>
+<td>TX</td>
+<td>76424</td>
+<td>2545592877</td>
+</tr>
+<tr>
+<td>WASHINGTON COUNTY DISTRICT CLERK</td>
+<td>100 EAST MAIN STREET</td>
+<td>BRENHAM</td>
+<td>TX</td>
+<td>77833</td>
+<td>9792776231</td>
+</tr>
+<tr>
+<td>TERRY COUNTY DISTRICT CLERK</td>
+<td>500 WEST MAIN STREET</td>
+<td>BROWNFIELD</td>
+<td>TX</td>
+<td>79316</td>
+<td>8066374202</td>
+</tr>
+<tr>
+<td>BROWNSVILLE MAIN POST OFFICE</td>
+<td>1535 EAST LOS EBANOS BOULEVARD</td>
+<td>BROWNSVILLE</td>
+<td>TX</td>
+<td>78520</td>
+<td>9565462411</td>
+</tr>
+<tr>
+<td>CAMERON COUNTY DISTRICT CLERK</td>
+<td>974 EAST HARRISON STREET</td>
+<td>BROWNSVILLE</td>
+<td>TX</td>
+<td>78520</td>
+<td>9565440838</td>
+</tr>
+<tr>
+<td>BROWNWOOD MAIN POST OFFICE</td>
+<td>600 CENTER AVENUE</td>
+<td>BROWNWOOD</td>
+<td>TX</td>
+<td>76801</td>
+<td>3256460656</td>
+</tr>
+<tr>
+<td>BRYAN POST OFFICE</td>
+<td>2121 E. WM J BRYAN PKWY</td>
+<td>BRYAN</td>
+<td>TX</td>
+<td>77801</td>
+<td>9797747068</td>
+</tr>
+<tr>
+<td>BURLESON POST OFFICE</td>
+<td>232 SW JOHNSON AVENUE</td>
+<td>BURLESON</td>
+<td>TX</td>
+<td>76028</td>
+<td>8172950289</td>
+</tr>
+<tr>
+<td>JOHNSON COUNTY CLERK</td>
+<td>247 ELK DRIVE</td>
+<td>BURLESON</td>
+<td>TX</td>
+<td>76028</td>
+<td>8172022968</td>
+</tr>
+<tr>
+<td>BURNET COUNTY DISTRICT CLERK</td>
+<td>1701 EAST POLK STREET,</td>
+<td>BURNET</td>
+<td>TX</td>
+<td>78611</td>
+<td>5127565450</td>
+</tr>
+<tr>
+<td>CALDWELL POST OFFICE</td>
+<td>201 N. MAIN STREET</td>
+<td>CALDWELL</td>
+<td>TX</td>
+<td>77836</td>
+<td>9795674396</td>
+</tr>
+<tr>
+<td>MILAM COUNTY DISTRICT CLERK</td>
+<td>102 SOUTH FANNIN</td>
+<td>CAMERON</td>
+<td>TX</td>
+<td>76520</td>
+<td>2546977052</td>
+</tr>
+<tr>
+<td>CANADIAN POST OFFICE</td>
+<td>311 PURCELL AVENUE</td>
+<td>CANADIAN</td>
+<td>TX</td>
+<td>79014</td>
+<td>8063236272</td>
+</tr>
+<tr>
+<td>CANTON POST OFFICE</td>
+<td>1001 WEST DALLAS STREET</td>
+<td>CANTON</td>
+<td>TX</td>
+<td>75103</td>
+<td>9035672371</td>
+</tr>
+<tr>
+<td>VAN ZANDT COUNTY DISTRICT CLERK</td>
+<td>121 EAST DALLAS STREET</td>
+<td>CANTON</td>
+<td>TX</td>
+<td>75103</td>
+<td>9035676576</td>
+</tr>
+<tr>
+<td>CANYON POST OFFICE</td>
+<td>1304 4TH AVE</td>
+<td>CANYON</td>
+<td>TX</td>
+<td>79015</td>
+<td>8066552507</td>
+</tr>
+<tr>
+<td>DENTON COUNTY CLERK OF COURT</td>
+<td>1029 W. ROSEMEADE PKWY</td>
+<td>CARROLLTON</td>
+<td>TX</td>
+<td>75007</td>
+<td>9724347170</td>
+</tr>
+<tr>
+<td>ROSEMEADE POST OFFICE</td>
+<td>3755 N. JOSEY LANE</td>
+<td>CARROLLTON</td>
+<td>TX</td>
+<td>75007</td>
+<td>18446618730</td>
+</tr>
+<tr>
+<td>PANOLA COUNTY DISTRICT CLERK</td>
+<td>110 SOUTH SYCAMORE STREET</td>
+<td>CARTHAGE</td>
+<td>TX</td>
+<td>75633</td>
+<td>9036930306</td>
+</tr>
+<tr>
+<td>CITY OF CASTLE HILLS</td>
+<td>209 LEMONWOOD DRIVE</td>
+<td>CASTLE HILLS</td>
+<td>TX</td>
+<td>78213</td>
+<td>2102939379</td>
+</tr>
+<tr>
+<td>CASTROVILLE MAIN POST OFFICE</td>
+<td>1305 US HWY 90 W</td>
+<td>CASTROVILLE</td>
+<td>TX</td>
+<td>78009</td>
+<td>8305382251</td>
+</tr>
+<tr>
+<td>SHELBY COUNTY DISTRICT CLERK</td>
+<td>200 SAN AUGUSTINE ST.</td>
+<td>CENTER</td>
+<td>TX</td>
+<td>75935</td>
+<td>9365984164</td>
+</tr>
+<tr>
+<td>LEON COUNTY DISTRICT CLERK</td>
+<td>139 EAST MAIN STREET</td>
+<td>CENTERVILLE</td>
+<td>TX</td>
+<td>75833</td>
+<td>9035362227</td>
+</tr>
+<tr>
+<td>CHANNELVIEW POST OFFICE</td>
+<td>531 SHELDON ROAD</td>
+<td>CHANNELVIEW</td>
+<td>TX</td>
+<td>77530</td>
+<td>2814575479</td>
+</tr>
+<tr>
+<td>CHILDRESS POST OFFICE</td>
+<td>507 AVE F NW</td>
+<td>CHILDRESS</td>
+<td>TX</td>
+<td>79201</td>
+<td>9409373741</td>
+</tr>
+<tr>
+<td>CLARENDON POST OFFICE</td>
+<td>101 W. 4TH STREET</td>
+<td>CLARENDON</td>
+<td>TX</td>
+<td>79226</td>
+<td>8068743353</td>
+</tr>
+<tr>
+<td>CLEBURNE POST OFFICE</td>
+<td>201 FAIRCREST DRIVE</td>
+<td>CLEBURNE</td>
+<td>TX</td>
+<td>76031</td>
+<td>8176453991</td>
+</tr>
+<tr>
+<td>JOHNSON COUNTY CLERK</td>
+<td>2 NORTH MAIN STREET</td>
+<td>CLEBURNE</td>
+<td>TX</td>
+<td>76033</td>
+<td>8175566312</td>
+</tr>
+<tr>
+<td>CLIFTON POST OFFICE</td>
+<td>407 W. 5TH STREET</td>
+<td>CLIFTON</td>
+<td>TX</td>
+<td>76634</td>
+<td>2546753116</td>
+</tr>
+<tr>
+<td>CLINT POST OFFICE</td>
+<td>13001 ALAMEDA AVE</td>
+<td>CLINT</td>
+<td>TX</td>
+<td>79836</td>
+<td>9158514313</td>
+</tr>
+<tr>
+<td>COLEMAN POST OFFICE</td>
+<td>201 WEST PECAN STREET</td>
+<td>COLEMAN</td>
+<td>TX</td>
+<td>76834</td>
+<td>3256254315</td>
+</tr>
+<tr>
+<td>COLLEGE STATION MAIN POST OFFICE</td>
+<td>2130 HARVEY MITCHELL PARKWAY S</td>
+<td>COLLEGE STATION</td>
+<td>TX</td>
+<td>77840</td>
+<td>9796934152</td>
+</tr>
+<tr>
+<td>TEXAS AM UNIVERSITY EDUCATION ABROAD</td>
+<td>TEXAS AM UNIVERSITY</td>
+<td>COLLEGE STATION</td>
+<td>TX</td>
+<td>77843</td>
+<td>9798450544</td>
+</tr>
+<tr>
+<td>COLLEYVILLE POST OFFICE</td>
+<td>1501 HALL-JOHNSON RD</td>
+<td>COLLEYVILLE</td>
+<td>TX</td>
+<td>76034</td>
+<td>8176841950</td>
+</tr>
+<tr>
+<td>COLORADO CITY MAIN POST OFFICE</td>
+<td>116 W 3RD STREET</td>
+<td>COLORADO CITY</td>
+<td>TX</td>
+<td>79512</td>
+<td>3257283612</td>
+</tr>
+<tr>
+<td>COLORADO COUNTY DISTRICT CLERK</td>
+<td>400 SPRING STREET</td>
+<td>COLUMBUS</td>
+<td>TX</td>
+<td>78934</td>
+<td>9797322536</td>
+</tr>
+<tr>
+<td>COLUMBUS POST OFFICE</td>
+<td>1221 WALNUT STREET</td>
+<td>COLUMBUS</td>
+<td>TX</td>
+<td>78934</td>
+<td>9797325556</td>
+</tr>
+<tr>
+<td>COMBES POST OFFICE</td>
+<td>21659 S BUSINESS HIGHWAY 77</td>
+<td>COMBES</td>
+<td>TX</td>
+<td>78535</td>
+<td>9564253235</td>
+</tr>
+<tr>
+<td>COMFORT POST OFFICE</td>
+<td>726 FRONT STREET</td>
+<td>COMFORT</td>
+<td>TX</td>
+<td>78013</td>
+<td>8309953603</td>
+</tr>
+<tr>
+<td>COMMERCE PUBLIC LIBRARY</td>
+<td>1210 PARK ST</td>
+<td>COMMERCE</td>
+<td>TX</td>
+<td>75428</td>
+<td>9038866858</td>
+</tr>
+<tr>
+<td>CONROE POST OFFICE</td>
+<td>809 WEST DALLAS STREET</td>
+<td>CONROE</td>
+<td>TX</td>
+<td>77301</td>
+<td>9364416055</td>
+</tr>
+<tr>
+<td>MONTGOMERY COUNTY DISTRICT CLERK</td>
+<td>301 NORTH THOMPSON</td>
+<td>CONROE</td>
+<td>TX</td>
+<td>77301</td>
+<td>9365388067</td>
+</tr>
+<tr>
+<td>CONVERSE POST OFFICE</td>
+<td>9155 SCHAEFER ROAD</td>
+<td>CONVERSE</td>
+<td>TX</td>
+<td>78109</td>
+<td>2106585129</td>
+</tr>
+<tr>
+<td>COPPELL POST OFFICE</td>
+<td>450  S DENTON TAP RD.</td>
+<td>COPPELL</td>
+<td>TX</td>
+<td>75019</td>
+<td>8446618730</td>
+</tr>
+<tr>
+<td>HECTOR P GARCIA MAIN POST OFFICE</td>
+<td>809 NUECES BAY BOULEVARD</td>
+<td>CORPUS CHRISTI</td>
+<td>TX</td>
+<td>78469</td>
+<td>3618862238</td>
+</tr>
+<tr>
+<td>NAVARRO COUNTY DISTRICT CLERK</td>
+<td>300 WEST THIRD AVENUE</td>
+<td>CORSICANA</td>
+<td>TX</td>
+<td>75110</td>
+<td>9036543040</td>
+</tr>
+<tr>
+<td>HOUSTON COUNTY DISTRICT CLERK</td>
+<td>401 EAST HOUSTON AVENUE</td>
+<td>CROCKETT</td>
+<td>TX</td>
+<td>75835</td>
+<td>9365443255</td>
+</tr>
+<tr>
+<td>CROSBY POST OFFICE</td>
+<td>133 HARE ROAD</td>
+<td>CROSBY</td>
+<td>TX</td>
+<td>77532</td>
+<td>2814628429</td>
+</tr>
+<tr>
+<td>CYPRESS POST OFFICE</td>
+<td>16635 SPRING CYPRESS ROAD</td>
+<td>CYPRESS</td>
+<td>TX</td>
+<td>77429</td>
+<td>2813739716</td>
+</tr>
+<tr>
+<td>DALHART MAIN POST OFFICE</td>
+<td>702 W. 7TH AVE</td>
+<td>DALHART</td>
+<td>TX</td>
+<td>79022</td>
+<td>8062494731</td>
+</tr>
+<tr>
+<td>DALLAS COUNTY DISTRICT CLERK</td>
+<td>600 COMMERCE</td>
+<td>DALLAS</td>
+<td>TX</td>
+<td>75202</td>
+<td>2146537691</td>
+</tr>
+<tr>
+<td>DALLAS COUNTY DISTRICT CLERK-EAST</td>
+<td>3443 ST FRANCIS STREET</td>
+<td>DALLAS</td>
+<td>TX</td>
+<td>75228</td>
+<td>2143213182</td>
+</tr>
+<tr>
+<td>DALLAS COUNTY DISTRICT CLERK-NORTH</td>
+<td>6820 LYNDON B JOHNSON FWY</td>
+<td>DALLAS</td>
+<td>TX</td>
+<td>75229</td>
+<td>2149043030</td>
+</tr>
+<tr>
+<td>DALLAS MAIN POST OFFICE FINANCE UNIT</td>
+<td>401 W. DFW TURNPIKE</td>
+<td>DALLAS</td>
+<td>TX</td>
+<td>75260</td>
+<td>18446618730</td>
+</tr>
+<tr>
+<td>RICHLAND POSTAL STATION</td>
+<td>9130 MARKVILLE DRIVE</td>
+<td>DALLAS</td>
+<td>TX</td>
+<td>75243</td>
+<td>8446618730</td>
+</tr>
+<tr>
+<td>DAYTON POST OFFICE</td>
+<td>110 SOUTH MAIN STREET</td>
+<td>DAYTON</td>
+<td>TX</td>
+<td>77535</td>
+<td>9362585301</td>
+</tr>
+<tr>
+<td>DEL RIO MAIN POST OFFICE</td>
+<td>2001 NORTH BEDELL AVE</td>
+<td>DEL RIO</td>
+<td>TX</td>
+<td>78840</td>
+<td>8307753571</td>
+</tr>
+<tr>
+<td>DENTON COUNTY CLERK</td>
+<td>1450 E. MCKINNEY ST.</td>
+<td>DENTON</td>
+<td>TX</td>
+<td>76201</td>
+<td>9403492010</td>
+</tr>
+<tr>
+<td>DENTON MAIN POST OFFICE</td>
+<td>101 E. MCKINNEY ST</td>
+<td>DENTON</td>
+<td>TX</td>
+<td>76201</td>
+<td>9403878555</td>
+</tr>
+<tr>
+<td>UNIVERSITY OF NORTH TEXAS</td>
+<td>1511 W MULBERRY ST.</td>
+<td>DENTON</td>
+<td>TX</td>
+<td>76201</td>
+<td>9405652207</td>
+</tr>
+<tr>
+<td>DESOTO POST OFFICE</td>
+<td>229 S. HAMPTON ROAD</td>
+<td>DESOTO</td>
+<td>TX</td>
+<td>75115</td>
+<td>8446618730</td>
+</tr>
+<tr>
+<td>DICKINSON POST OFFICE</td>
+<td>2515 TERMINI STREET</td>
+<td>DICKINSON</td>
+<td>TX</td>
+<td>77539</td>
+<td>2815343974</td>
+</tr>
+<tr>
+<td>DONNA POST OFFICE</td>
+<td>509 N SALINAS BOULEVARD</td>
+<td>DONNA</td>
+<td>TX</td>
+<td>78537</td>
+<td>9564643443</td>
+</tr>
+<tr>
+<td>MOORE COUNTY DISTRICT CLERK</td>
+<td>715 S  DUMAS AVE</td>
+<td>DUMAS</td>
+<td>TX</td>
+<td>79029</td>
+<td>8069354218</td>
+</tr>
+<tr>
+<td>EAGLE PASS POST OFFICE</td>
+<td>410 S. BIBB AVE.</td>
+<td>EAGLE PASS</td>
+<td>TX</td>
+<td>78852</td>
+<td>8307733210</td>
+</tr>
+<tr>
+<td>MAVERICK COUNTY DISTRICT CLERK</td>
+<td>500 QUARRY STREET</td>
+<td>EAGLE PASS</td>
+<td>TX</td>
+<td>78852</td>
+<td>8307732629</td>
+</tr>
+<tr>
+<td>EASTLAND COUNTY DISTRICT CLERK</td>
+<td>100  WEST MAIN STREET</td>
+<td>EASTLAND</td>
+<td>TX</td>
+<td>76448</td>
+<td>2546292664</td>
+</tr>
+<tr>
+<td>CITY OF EDINBURG SECRETARY</td>
+<td>415 W UNIVERSITY DRIVE</td>
+<td>EDINBURG</td>
+<td>TX</td>
+<td>78541</td>
+<td>9563888205</td>
+</tr>
+<tr>
+<td>EDINBURG TX POST OFFICE</td>
+<td>410 SOUTH JACKSON ROAD</td>
+<td>EDINBURG</td>
+<td>TX</td>
+<td>78539</td>
+<td>9563833866</td>
+</tr>
+<tr>
+<td>HIDALGO COUNTY DISTRICT CLERK</td>
+<td>100 NORTH CLOSNER</td>
+<td>EDINBURG</td>
+<td>TX</td>
+<td>78539</td>
+<td>9563182200</td>
+</tr>
+<tr>
+<td>JACKSON COUNTY DISTRICT CLERK</td>
+<td>115 WEST MAIN STREET</td>
+<td>EDNA</td>
+<td>TX</td>
+<td>77957</td>
+<td>3617823812</td>
+</tr>
+<tr>
+<td>EL CAMPO POST OFFICE</td>
+<td>110 SOUTH MECHANIC STREET</td>
+<td>EL CAMPO</td>
+<td>TX</td>
+<td>77437</td>
+<td>9795432581</td>
+</tr>
+<tr>
+<td>DORRIS VAN DOREN REGIONAL PUBLIC LIBRARY</td>
+<td>551 EAST REDD ROAD</td>
+<td>EL PASO</td>
+<td>TX</td>
+<td>79912</td>
+<td>9152120440</td>
+</tr>
+<tr>
+<td>EL PASO COUNTY DISTRICT CLERK</td>
+<td>500 E. SAN ANTONIO RM103</td>
+<td>EL PASO</td>
+<td>TX</td>
+<td>79901</td>
+<td>9155462202</td>
+</tr>
+<tr>
+<td>EL PASO MAIN POST OFFICE</td>
+<td>8401 BOEING DR.</td>
+<td>EL PASO</td>
+<td>TX</td>
+<td>79910</td>
+<td>9157807571</td>
+</tr>
+<tr>
+<td>ESPERANZA ACOSTA MORENO PUBLIC LIBRARY</td>
+<td>12480 PEBBLE HILLS BLVD</td>
+<td>EL PASO</td>
+<td>TX</td>
+<td>79938</td>
+<td>9152120442</td>
+</tr>
+<tr>
+<td>NORTHGATE STATION</td>
+<td>5249 SANDERS AVE</td>
+<td>EL PASO</td>
+<td>TX</td>
+<td>79924</td>
+<td>9157553123</td>
+</tr>
+<tr>
+<td>RICHARD BURGES REGIONAL LIBRARY BRANCH</td>
+<td>9600 DYER ST, SUITE C</td>
+<td>EL PASO</td>
+<td>TX</td>
+<td>79924</td>
+<td>9152123135</td>
+</tr>
+<tr>
+<td>SANDY CREEK STATION</td>
+<td>2100 GEORGE DIETER</td>
+<td>EL PASO</td>
+<td>TX</td>
+<td>79936</td>
+<td>9158561516</td>
+</tr>
+<tr>
+<td>UNIVERSITY OF TEXAS AT EL PASO INTL PROGRAMS</td>
+<td>500 W. UNIVERSITY AVE.</td>
+<td>EL PASO</td>
+<td>TX</td>
+<td>79968</td>
+<td>9157475664</td>
+</tr>
+<tr>
+<td>WASHINGTON PARK POST OFFICE</td>
+<td>4400 E. PAISANO ST.</td>
+<td>EL PASO</td>
+<td>TX</td>
+<td>79905</td>
+<td>9155323147</td>
+</tr>
+<tr>
+<td>ELGIN POST OFFICE</td>
+<td>21 NORTH AVENUE C</td>
+<td>ELGIN</td>
+<td>TX</td>
+<td>78621</td>
+<td>5122853189</td>
+</tr>
+<tr>
+<td>ELMENDORF POST OFFICE</td>
+<td>8302 FM 327</td>
+<td>ELMENDORF</td>
+<td>TX</td>
+<td>78112</td>
+<td>2106359258</td>
+</tr>
+<tr>
+<td>ELSA POST OFFICE</td>
+<td>706 EAST EDINBURG AVENUE</td>
+<td>ELSA</td>
+<td>TX</td>
+<td>78543</td>
+<td>9562621611</td>
+</tr>
+<tr>
+<td>RAINS COUNTY DISTRICT CLERK</td>
+<td>220 W QUITMAN ST.</td>
+<td>EMORY</td>
+<td>TX</td>
+<td>75440</td>
+<td>9034735000</td>
+</tr>
+<tr>
+<td>ENNIS POST OFFICE</td>
+<td>205 NORTH MCKINNEY STREET</td>
+<td>ENNIS</td>
+<td>TX</td>
+<td>75119</td>
+<td>9728756701</td>
+</tr>
+<tr>
+<td>EULESS POST OFFICE</td>
+<td>210 N. ECTOR DR</td>
+<td>EULESS</td>
+<td>TX</td>
+<td>76039</td>
+<td>8176840063</td>
+</tr>
+<tr>
+<td>FALFURRIAS POST OFFICE</td>
+<td>218 E CHAPOTE STREET</td>
+<td>FALFURRIAS</td>
+<td>TX</td>
+<td>78355</td>
+<td>3613252868</td>
+</tr>
+<tr>
+<td>PARMER COUNTY DISTRICT CLERK</td>
+<td>401 THIRD STREET</td>
+<td>FARWELL</td>
+<td>TX</td>
+<td>79325</td>
+<td>8064813419</td>
+</tr>
+<tr>
+<td>DENTON COUNTY CLERK-FLOWER MOUND</td>
+<td>6200 CANYON FALLS DR.</td>
+<td>FLOWER MOUND</td>
+<td>TX</td>
+<td>76226</td>
+<td>9724343950</td>
+</tr>
+<tr>
+<td>FLOWER MOUND POST OFFICE</td>
+<td>2300 OLYMPIA DRIVE</td>
+<td>FLOWER MOUND</td>
+<td>TX</td>
+<td>75028</td>
+<td>9723555965</td>
+</tr>
+<tr>
+<td>FLOYD COUNTY DISTRICT CLERK</td>
+<td>105 S. MAIN,</td>
+<td>FLOYDADA</td>
+<td>TX</td>
+<td>79235</td>
+<td>8069834923</td>
+</tr>
+<tr>
+<td>FORT HANCOCK POST OFFICE</td>
+<td>107 W. TX HIGHWAY 20</td>
+<td>FORT HANCOCK</td>
+<td>TX</td>
+<td>79839</td>
+<td>9157693772</td>
+</tr>
+<tr>
+<td>PECOS COUNTY DISTRICT CLERK</td>
+<td>400 S NELSON</td>
+<td>FORT STOCKTON</td>
+<td>TX</td>
+<td>79735</td>
+<td>4323363503</td>
+</tr>
+<tr>
+<td>DOWNTOWN STATION</td>
+<td>251 W. LANCASTER</td>
+<td>FORT WORTH</td>
+<td>TX</td>
+<td>76102</td>
+<td>8178708112</td>
+</tr>
+<tr>
+<td>FORT WORTH PUBLIC LIBRARY</td>
+<td>500 W. 3RD STREET</td>
+<td>FORT WORTH</td>
+<td>TX</td>
+<td>76102</td>
+<td>8173927890</td>
+</tr>
+<tr>
+<td>JACK D WATSON PO</td>
+<td>4600 MARK IV PARKWAY</td>
+<td>FORT WORTH</td>
+<td>TX</td>
+<td>76161</td>
+<td>8173173808</td>
+</tr>
+<tr>
+<td>TARRANT COUNTY CLERK SOUTHWEST SUB-COURTHOUSE</td>
+<td>6551 GRANBURY RD.</td>
+<td>FORT WORTH</td>
+<td>TX</td>
+<td>76133</td>
+<td>8172486210</td>
+</tr>
+<tr>
+<td>ROBERTSON COUNTY DISTRICT CLERK</td>
+<td>103 EAST MORGAN</td>
+<td>FRANKLIN</td>
+<td>TX</td>
+<td>77856</td>
+<td>9798283636</td>
+</tr>
+<tr>
+<td>FREDERICKSBURG POST OFFICE</td>
+<td>1150 NORTH US HWY 87</td>
+<td>FREDERICKSBURG</td>
+<td>TX</td>
+<td>78624</td>
+<td>8309973355</td>
+</tr>
+<tr>
+<td>GILLESPIE COUNTY DISTRICT CLERK</td>
+<td>101 WEST MAIN STREET</td>
+<td>FREDERICKSBURG</td>
+<td>TX</td>
+<td>78624</td>
+<td>8309976517</td>
+</tr>
+<tr>
+<td>FREEPORT POST OFFICE</td>
+<td>924 NORTH AVENUE F</td>
+<td>FREEPORT</td>
+<td>TX</td>
+<td>77541</td>
+<td>9792331884</td>
+</tr>
+<tr>
+<td>FRIENDSWOOD POST OFFICE</td>
+<td>310 MORNINGSIDE DRIVE</td>
+<td>FRIENDSWOOD</td>
+<td>TX</td>
+<td>77546</td>
+<td>2819922832</td>
+</tr>
+<tr>
+<td>DENTON COUNTY CLERK-FRISCO</td>
+<td>5533 FM 423</td>
+<td>FRISCO</td>
+<td>TX</td>
+<td>75036</td>
+<td>9724343900</td>
+</tr>
+<tr>
+<td>FRISCO POST OFFICE</td>
+<td>8700 STONEBROOK PARKWAY</td>
+<td>FRISCO</td>
+<td>TX</td>
+<td>75034</td>
+<td>8446618730</td>
+</tr>
+<tr>
+<td>FRISCO PUBLIC LIBRARY</td>
+<td>6101 FRISCO SQUARE BLVD.</td>
+<td>FRISCO</td>
+<td>TX</td>
+<td>75034</td>
+<td>9722925669</td>
+</tr>
+<tr>
+<td>COOKE COUNTY DISTRICT CLERK</td>
+<td>101 S. DIXON STREET</td>
+<td>GAINESVILLE</td>
+<td>TX</td>
+<td>76240</td>
+<td>9406685450</td>
+</tr>
+<tr>
+<td>GAINESVILLE POST OFFICE</td>
+<td>321 E. CALIFORNIA STREET</td>
+<td>GAINESVILLE</td>
+<td>TX</td>
+<td>76240</td>
+<td>9406655811</td>
+</tr>
+<tr>
+<td>GALVESTON COUNTY DISTRICT CLERK</td>
+<td>600 59TH STREET</td>
+<td>GALVESTON</td>
+<td>TX</td>
+<td>77551</td>
+<td>4097662424</td>
+</tr>
+<tr>
+<td>GARLAND MAIN POST OFFICE</td>
+<td>1000 W. WALNUT STREET</td>
+<td>GARLAND</td>
+<td>TX</td>
+<td>75040</td>
+<td>9722766541</td>
+</tr>
+<tr>
+<td>CORYELL COUNTY DISTRICT CLERK</td>
+<td>620 EAST MAIN STREET</td>
+<td>GATESVILLE</td>
+<td>TX</td>
+<td>76528</td>
+<td>2548655911</td>
+</tr>
+<tr>
+<td>GEORGETOWN POST OFFICE</td>
+<td>2300 SCENIC DRIVE</td>
+<td>GEORGETOWN</td>
+<td>TX</td>
+<td>78626</td>
+<td>5128630072</td>
+</tr>
+<tr>
+<td>GIDDINGS POST OFFICE</td>
+<td>279 E AUSTIN ST</td>
+<td>GIDDINGS</td>
+<td>TX</td>
+<td>78942</td>
+<td>9795422456</td>
+</tr>
+<tr>
+<td>LEE COUNTY DISTRICT CLERK</td>
+<td>289 S. MAIN ST.</td>
+<td>GIDDINGS</td>
+<td>TX</td>
+<td>78942</td>
+<td>9795422947</td>
+</tr>
+<tr>
+<td>GOLDEN POST OFFICE</td>
+<td>5785 FM 779</td>
+<td>GOLDEN</td>
+<td>TX</td>
+<td>75444</td>
+<td>9037682678</td>
+</tr>
+<tr>
+<td>GONZALES POST OFFICE</td>
+<td>920 N SAINT JOSEPH STREET</td>
+<td>GONZALES</td>
+<td>TX</td>
+<td>78629</td>
+<td>8306722629</td>
+</tr>
+<tr>
+<td>GRAHAM MAIN POST OFFICE</td>
+<td>100 TENNESSEE ST</td>
+<td>GRAHAM</td>
+<td>TX</td>
+<td>76450</td>
+<td>9405491333</td>
+</tr>
+<tr>
+<td>ACTON POST OFFICE</td>
+<td>5561 NORTH GATE ROAD</td>
+<td>GRANBURY</td>
+<td>TX</td>
+<td>76049</td>
+<td>8173264088</td>
+</tr>
+<tr>
+<td>GRAND PRAIRIE POST OFFICE</td>
+<td>802 SOUTH CARRIER PARKWAY</td>
+<td>GRAND PRAIRIE</td>
+<td>TX</td>
+<td>75051</td>
+<td>9722372645</td>
+</tr>
+<tr>
+<td>GRAPEVINE MAIN POST OFFICE</td>
+<td>1251 WILLIAM D TATE AVE</td>
+<td>GRAPEVINE</td>
+<td>TX</td>
+<td>76051</td>
+<td>8174883343</td>
+</tr>
+<tr>
+<td>GREENVILLE MPO</td>
+<td>2600 WESLEY ST.</td>
+<td>GREENVILLE</td>
+<td>TX</td>
+<td>75401</td>
+<td>9034558576</td>
+</tr>
+<tr>
+<td>GROESBECK POST OFFICE</td>
+<td>112 S. DR JB RIGGS DR</td>
+<td>GROESBECK</td>
+<td>TX</td>
+<td>76642</td>
+<td>2547293304</td>
+</tr>
+<tr>
+<td>GROVES POST OFFICE</td>
+<td>5230 39TH STREET</td>
+<td>GROVES</td>
+<td>TX</td>
+<td>77619</td>
+<td>4099627485</td>
+</tr>
+<tr>
+<td>HAMILTON COUNTY DISTRICT CLERK</td>
+<td>102 NORTH RICE</td>
+<td>HAMILTON</td>
+<td>TX</td>
+<td>76531</td>
+<td>2543861240</td>
+</tr>
+<tr>
+<td>HARLINGEN POST OFFICE</td>
+<td>1502 NEW COMBES HWY</td>
+<td>HARLINGEN</td>
+<td>TX</td>
+<td>78550</td>
+<td>9564231464</td>
+</tr>
+<tr>
+<td>HEBBRONVILLE POST OFFICE</td>
+<td>502 NORTH SMITH AVENUE</td>
+<td>HEBBRONVILLE</td>
+<td>TX</td>
+<td>78361</td>
+<td>3615273465</td>
+</tr>
+<tr>
+<td>CLAY COUNTY DISTRICT CLERK</td>
+<td>100 NORTH BRIDGE STREET</td>
+<td>HENRIETTA</td>
+<td>TX</td>
+<td>76365</td>
+<td>9405384561</td>
+</tr>
+<tr>
+<td>HEREFORD POST OFFICE</td>
+<td>408 MAIN STREET</td>
+<td>HEREFORD</td>
+<td>TX</td>
+<td>79045</td>
+<td>8063642054</td>
+</tr>
+<tr>
+<td>HEWITT POST OFFICE</td>
+<td>901 SOUTH HEWITT DRIVE</td>
+<td>HEWITT</td>
+<td>TX</td>
+<td>76643</td>
+<td>2546667787</td>
+</tr>
+<tr>
+<td>HIDALGO POST OFFICE</td>
+<td>920 EAST COMA AVENUE</td>
+<td>HIDALGO</td>
+<td>TX</td>
+<td>78557</td>
+<td>9568438685</td>
+</tr>
+<tr>
+<td>HILLSBORO POST OFFICE</td>
+<td>100 WEST FRANKLIN STREET</td>
+<td>HILLSBORO</td>
+<td>TX</td>
+<td>76645</td>
+<td>2545823572</td>
+</tr>
+<tr>
+<td>HOCKLEY POST OFFICE</td>
+<td>17210 WARREN RANCH ROAD</td>
+<td>HOCKLEY</td>
+<td>TX</td>
+<td>77447</td>
+<td>9363723261</td>
+</tr>
+<tr>
+<td>ALBERT THOMAS POST OFFICE</td>
+<td>14917 EL CAMINO REAL</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77062</td>
+<td>2814889173</td>
+</tr>
+<tr>
+<td>ALIEF POST OFFICE</td>
+<td>11936 BELLAIRE ST</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77072</td>
+<td>2814987356</td>
+</tr>
+<tr>
+<td>ANSON JONES POST OFFICE</td>
+<td>634 WEST CAVALCADE STREET</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77009</td>
+<td>7138613577</td>
+</tr>
+<tr>
+<td>ASTRODOME POST OFFICE</td>
+<td>8205 BRAESMAIN DRIVE</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77025</td>
+<td>7136654223</td>
+</tr>
+<tr>
+<td>BARBARA JORDAN BRANCH</td>
+<td>1500 HADLEY STREET</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77002</td>
+<td>7137390616</td>
+</tr>
+<tr>
+<td>BEAR CREEK POST OFFICE</td>
+<td>16015 CAIRNWAY DRIVE</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77084</td>
+<td>2815504413</td>
+</tr>
+<tr>
+<td>BEECHNUT STATION POST OFFICE</td>
+<td>11703 BEECHNUT STREET</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77072</td>
+<td>2816774312</td>
+</tr>
+<tr>
+<td>COLLIER REGIONAL LIBRARY</td>
+<td>6200 PINEMONT DRIVE</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77092</td>
+<td>8323931743</td>
+</tr>
+<tr>
+<td>CORNERSTONE BRANCH</td>
+<td>14403 WALTERS ROAD</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77014</td>
+<td>2812017731</td>
+</tr>
+<tr>
+<td>DEBRA SUE SCHATZ POST OFFICE</td>
+<td>2909 ROGERDALE ROAD</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77042</td>
+<td>7137856478</td>
+</tr>
+<tr>
+<td>DEMOSS STATION</td>
+<td>6500 DEMOSS DRIVE</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77074</td>
+<td>7139951441</td>
+</tr>
+<tr>
+<td>EASTWOOD POST OFFICE</td>
+<td>5415 LAWNDALE STREET</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77023</td>
+<td>7139214772</td>
+</tr>
+<tr>
+<td>FLEETWOOD STATION</td>
+<td>315 ADDICKS HOWELL ROAD</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77079</td>
+<td>2817596458</td>
+</tr>
+<tr>
+<td>GRANVILLE ELDER STATION</td>
+<td>550 MAXEY ROAD</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77013</td>
+<td>7134538136</td>
+</tr>
+<tr>
+<td>GREENS NORTH POST OFFICE</td>
+<td>1530 GREENSMARK DRIVE</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77067</td>
+<td>2818756824</td>
+</tr>
+<tr>
+<td>HARRIS COUNTY DISTRICT CLERK</td>
+<td>201 CAROLINE STREET</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77002</td>
+<td>8329275690</td>
+</tr>
+<tr>
+<td>HENINGTON ALIEF REGIONAL LIBRARY</td>
+<td>7979 SOUTH KIRKWOOD ROAD</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77072</td>
+<td>8323931820</td>
+</tr>
+<tr>
+<td>HOUSTON PUBLIC LIBRARY - CENTRAL</td>
+<td>500 MCKINNEY STREET</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77002</td>
+<td>8323931313</td>
+</tr>
+<tr>
+<td>JAMES GRIFFITH STATION</td>
+<td>9320 EMNORA LANE</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77080</td>
+<td>7139730664</td>
+</tr>
+<tr>
+<td>JULIUS MELCHER STATION</td>
+<td>2802 TIMMONS LANE</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77027</td>
+<td>7135723936</td>
+</tr>
+<tr>
+<td>LONG POINT STATION</td>
+<td>8000 LONG POINT ROAD</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77055</td>
+<td>7134688067</td>
+</tr>
+<tr>
+<td>MCGOVERN - STELLA LINK LIBRARY</td>
+<td>7405 STELLA LINK</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77025</td>
+<td>8323932630</td>
+</tr>
+<tr>
+<td>MEMORIAL PARK POST OFFICE</td>
+<td>10505 TOWN AND COUNTRY WAY</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77024</td>
+<td>7134567109</td>
+</tr>
+<tr>
+<td>OAK FOREST POST OFFICE</td>
+<td>2499 JUDIWAY STREET</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77018</td>
+<td>7136863544</td>
+</tr>
+<tr>
+<td>PARK PLACE REGIONAL LIBRARY</td>
+<td>8145 PARK PLACE BOULEVARD</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77017</td>
+<td>8323931970</td>
+</tr>
+<tr>
+<td>RICH HILL STATION</td>
+<td>2950 UNITY DRIVE</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77057</td>
+<td>7137819145</td>
+</tr>
+<tr>
+<td>UNIVERSITY OF HOUSTON</td>
+<td>4302 UNIVERSITY DRIVE</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77204</td>
+<td>7137434687</td>
+</tr>
+<tr>
+<td>UNIVERSITY STATION</td>
+<td>1319 RICHMOND AVENUE</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77006</td>
+<td>7135227389</td>
+</tr>
+<tr>
+<td>WESTBURY PLACE STATION</td>
+<td>11805 CHIMNEY ROCK ROAD</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77035</td>
+<td>7137295711</td>
+</tr>
+<tr>
+<td>WESTFIELD POST OFFICE</td>
+<td>17119 RED OAK DRIVE</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77090</td>
+<td>2814444509</td>
+</tr>
+<tr>
+<td>WINDMILL POST OFFICE</td>
+<td>9898 ALMEDA GENOA ROAD</td>
+<td>HOUSTON</td>
+<td>TX</td>
+<td>77075</td>
+<td>7139471056</td>
+</tr>
+<tr>
+<td>HUFFMAN POST OFFICE</td>
+<td>24936 FM 2100 ROAD</td>
+<td>HUFFMAN</td>
+<td>TX</td>
+<td>77333</td>
+<td>2813246934</td>
+</tr>
+<tr>
+<td>HUMBLE POST OFFICE</td>
+<td>1202 FIRST STREET</td>
+<td>HUMBLE</td>
+<td>TX</td>
+<td>77338</td>
+<td>2815401775</td>
+</tr>
+<tr>
+<td>TEXAS MILITARY VETERANS POST OFFICE</td>
+<td>7231 FM 1960 WEST</td>
+<td>HUMBLE</td>
+<td>TX</td>
+<td>77338</td>
+<td>2815195519</td>
+</tr>
+<tr>
+<td>HUNTSVILLE DOWNTOWN FINANCE UNIT</td>
+<td>1315 10TH STREET</td>
+<td>HUNTSVILLE</td>
+<td>TX</td>
+<td>77320</td>
+<td>9362953037</td>
+</tr>
+<tr>
+<td>HUNTSVILLE POST OFFICE</td>
+<td>3190 HWY 30 W</td>
+<td>HUNTSVILLE</td>
+<td>TX</td>
+<td>77340</td>
+<td>9362953313</td>
+</tr>
+<tr>
+<td>HURST POST OFFICE</td>
+<td>825 PRECINCT LINE RD</td>
+<td>HURST</td>
+<td>TX</td>
+<td>76053</td>
+<td>8175899797</td>
+</tr>
+<tr>
+<td>TARRANT COUNTY NORTHEAST SUB-COURTHOUSE</td>
+<td>700 E. 645 GRAPEVINE HWY</td>
+<td>HURST</td>
+<td>TX</td>
+<td>76054</td>
+<td>8172486080</td>
+</tr>
+<tr>
+<td>HUTCHINS PO</td>
+<td>720 LANCASTER HUTCHINS RD</td>
+<td>HUTCHINS</td>
+<td>TX</td>
+<td>75141</td>
+<td>9722251204</td>
+</tr>
+<tr>
+<td>INGLESIDE POST OFFICE</td>
+<td>2230 STATE HWY 361</td>
+<td>INGLESIDE</td>
+<td>TX</td>
+<td>78362</td>
+<td>3617760835</td>
+</tr>
+<tr>
+<td>IRVING CENTRAL POST OFFICE</td>
+<td>2300 STORY RD W</td>
+<td>IRVING</td>
+<td>TX</td>
+<td>75038</td>
+<td>9722551637</td>
+</tr>
+<tr>
+<td>IRVING MAIN POST OFFICE</td>
+<td>2701 W. IRVING BLVD</td>
+<td>IRVING</td>
+<td>TX</td>
+<td>75061</td>
+<td>9729866997</td>
+</tr>
+<tr>
+<td>VALLEY RANCH STATION</td>
+<td>8501 N. MACARTHUR BLVD</td>
+<td>IRVING</td>
+<td>TX</td>
+<td>75063</td>
+<td>8446618730</td>
+</tr>
+<tr>
+<td>JASPER COUNTY DISTRICT CLERK</td>
+<td>121 NORTH AUSTIN</td>
+<td>JASPER</td>
+<td>TX</td>
+<td>75951</td>
+<td>4093842721</td>
+</tr>
+<tr>
+<td>JOHNSON CITY POST OFFICE</td>
+<td>201 SOUTH AVENUE G</td>
+<td>JOHNSON CITY</td>
+<td>TX</td>
+<td>78636</td>
+<td>8308687211</td>
+</tr>
+<tr>
+<td>ATASCOSA COUNTY DISTRICT CLERK</td>
+<td>#1 COURTHOUSE CIRCLE DRIVE STE 4-B</td>
+<td>JOURDANTON</td>
+<td>TX</td>
+<td>78026</td>
+<td>8307693011</td>
+</tr>
+<tr>
+<td>KATY POST OFFICE</td>
+<td>20180 PARK ROW DRIVE</td>
+<td>KATY</td>
+<td>TX</td>
+<td>77449</td>
+<td>2818295062</td>
+</tr>
+<tr>
+<td>KAUFMAN COUNTY DISTRICT CLERK</td>
+<td>100 WEST MULBERRY STREET</td>
+<td>KAUFMAN</td>
+<td>TX</td>
+<td>75142</td>
+<td>9729320279</td>
+</tr>
+<tr>
+<td>KEMAH POST OFFICE</td>
+<td>1129 HIGHWAY 146</td>
+<td>KEMAH</td>
+<td>TX</td>
+<td>77565</td>
+<td>2813343883</td>
+</tr>
+<tr>
+<td>KERR COUNTY DISTRICT CLERK</td>
+<td>700 MAIN STREET</td>
+<td>KERRVILLE</td>
+<td>TX</td>
+<td>78028</td>
+<td>8307922281</td>
+</tr>
+<tr>
+<td>KERRVILLE POST OFFICE</td>
+<td>244 CULLY DRIVE</td>
+<td>KERRVILLE</td>
+<td>TX</td>
+<td>78028</td>
+<td>8302575040</td>
+</tr>
+<tr>
+<td>KILGORE MAIN POST OFFICE</td>
+<td>500 NORTH KILGORE STREET</td>
+<td>KILGORE</td>
+<td>TX</td>
+<td>75662</td>
+<td>9039842313</td>
+</tr>
+<tr>
+<td>KILLEEN POST OFFICE</td>
+<td>300 NORTH 10TH STREET</td>
+<td>KILLEEN</td>
+<td>TX</td>
+<td>76541</td>
+<td>2546340281</td>
+</tr>
+<tr>
+<td>KINGSVILLE POST OFFICE</td>
+<td>103 EAST KLEBERG AVENUE</td>
+<td>KINGSVILLE</td>
+<td>TX</td>
+<td>78363</td>
+<td>3615922801</td>
+</tr>
+<tr>
+<td>TEXAS A AND M UNIVERSITY - KINGSVILLE</td>
+<td>925 W. SANTA GERTRUDIS AVE.</td>
+<td>KINGSVILLE</td>
+<td>TX</td>
+<td>78363</td>
+<td>3615933558</td>
+</tr>
+<tr>
+<td>KINGWOOD POST OFFICE</td>
+<td>4025 FEATHERS LAKE WAY</td>
+<td>KINGWOOD</td>
+<td>TX</td>
+<td>77066</td>
+<td>2819131881</td>
+</tr>
+<tr>
+<td>KIRBYVILLE PUBLIC LIBRARY</td>
+<td>210 SOUTH ELIZABETH AVENUE</td>
+<td>KIRBYVILLE</td>
+<td>TX</td>
+<td>75956</td>
+<td>4094234653</td>
+</tr>
+<tr>
+<td>LA FERIA POST OFFICE</td>
+<td>201 WEST FIRST STREET</td>
+<td>LA FERIA</td>
+<td>TX</td>
+<td>78559</td>
+<td>9567971812</td>
+</tr>
+<tr>
+<td>FAYETTE COUNTY DISTRICT CLERK</td>
+<td>151 NORTH WASHINGTON STREET</td>
+<td>LA GRANGE</td>
+<td>TX</td>
+<td>78945</td>
+<td>9799683548</td>
+</tr>
+<tr>
+<td>LA VERNIA MAIN POST OFFICE</td>
+<td>2560 FM 775</td>
+<td>LA VERNIA</td>
+<td>TX</td>
+<td>78121</td>
+<td>8307794131</td>
+</tr>
+<tr>
+<td>LAKE JACKSON POST OFFICE</td>
+<td>210 OAK DRIVE S</td>
+<td>LAKE JACKSON</td>
+<td>TX</td>
+<td>77566</td>
+<td>9792972172</td>
+</tr>
+<tr>
+<td>TARRANT COUNTY NORTHWEST SUB-COURTHOUSE</td>
+<td>6713 TELEPHONE ROAD</td>
+<td>LAKE WORTH</td>
+<td>TX</td>
+<td>76135</td>
+<td>8172384457</td>
+</tr>
+<tr>
+<td>DAWSON COUNTY DISTRICT CLERK</td>
+<td>400 SOUTH 1ST STREET</td>
+<td>LAMESA</td>
+<td>TX</td>
+<td>79331</td>
+<td>8068727373</td>
+</tr>
+<tr>
+<td>LAMPASAS COUNTY DISTRICT CLERK</td>
+<td>409 SOUTH PECAN STREET</td>
+<td>LAMPASAS</td>
+<td>TX</td>
+<td>76550</td>
+<td>5125568271</td>
+</tr>
+<tr>
+<td>LAMPASAS POST OFFICE</td>
+<td>1700 E. 4TH STREET</td>
+<td>LAMPASAS</td>
+<td>TX</td>
+<td>76550</td>
+<td>5125565131</td>
+</tr>
+<tr>
+<td>LAREDO MAIN POST OFFICE</td>
+<td>2700 EAST SAUNDERS STREET</td>
+<td>LAREDO</td>
+<td>TX</td>
+<td>78041</td>
+<td>9567232043</td>
+</tr>
+<tr>
+<td>LAREDO PUBLIC LIBRARY</td>
+<td>1120 EAST CALTON ROAD</td>
+<td>LAREDO</td>
+<td>TX</td>
+<td>78041</td>
+<td>9567952400</td>
+</tr>
+<tr>
+<td>TEXAS A AND M INTERNATIONAL UNIVERSITY</td>
+<td>5201 UNIVERSITY BLVD.</td>
+<td>LAREDO</td>
+<td>TX</td>
+<td>78041</td>
+<td>9563262282</td>
+</tr>
+<tr>
+<td>WEBB COUNTY DISTRICT CLERK</td>
+<td>1110 VICTORIA STREET</td>
+<td>LAREDO</td>
+<td>TX</td>
+<td>78040</td>
+<td>9565234268</td>
+</tr>
+<tr>
+<td>WEBB COUNTY TAX OFFICE</td>
+<td>1110 VICTORIA STREET</td>
+<td>LAREDO</td>
+<td>TX</td>
+<td>78042</td>
+<td>9565234200</td>
+</tr>
+<tr>
+<td>GALVESTON COUNTY DISTRICT CLERK OF COURT</td>
+<td>174 CALDER ROAD</td>
+<td>LEAGUE CITY</td>
+<td>TX</td>
+<td>77573</td>
+<td>2813168726</td>
+</tr>
+<tr>
+<td>LEAGUE CITY POST OFFICE</td>
+<td>240 W. GALVESTON STREET</td>
+<td>LEAGUE CITY</td>
+<td>TX</td>
+<td>77573</td>
+<td>2815549219</td>
+</tr>
+<tr>
+<td>HOCKLEY COUNTY DISTRICT CLERK</td>
+<td>802 HOUSTON STREET</td>
+<td>LEVELLAND</td>
+<td>TX</td>
+<td>79336</td>
+<td>8068948527</td>
+</tr>
+<tr>
+<td>DENTON COUNTY CLERK IN LEWISVILLE, TX</td>
+<td>400 NORTH VALLEY PARKWAY, SUITE 2094</td>
+<td>LEWISVILLE</td>
+<td>TX</td>
+<td>75067</td>
+<td>9724344790</td>
+</tr>
+<tr>
+<td>LIBERTY POST OFFICE</td>
+<td>1515 SAM HOUSTON STREET</td>
+<td>LIBERTY</td>
+<td>TX</td>
+<td>77575</td>
+<td>9363366182</td>
+</tr>
+<tr>
+<td>LITTLE ELM MAIN POST OFFICE</td>
+<td>1012 W. ELDORADO PKWY</td>
+<td>LITTLE ELM</td>
+<td>TX</td>
+<td>75068</td>
+<td>9722921864</td>
+</tr>
+<tr>
+<td>LAMB COUNTY DISTRICT CLERK</td>
+<td>100 6TH DRIVE, ROOM 212</td>
+<td>LITTLEFIELD</td>
+<td>TX</td>
+<td>79339</td>
+<td>8063854222</td>
+</tr>
+<tr>
+<td>LIVINGSTON POST OFFICE</td>
+<td>1325 W. CHURCH STREET</td>
+<td>LIVINGSTON</td>
+<td>TX</td>
+<td>77351</td>
+<td>9363278713</td>
+</tr>
+<tr>
+<td>POLK COUNTY DISTRICT CLERK</td>
+<td>101 WEST MILL STREET</td>
+<td>LIVINGSTON</td>
+<td>TX</td>
+<td>77351</td>
+<td>9363276814</td>
+</tr>
+<tr>
+<td>LLANO COUNTY DISTRICT CLERK</td>
+<td>832 FORD STREET</td>
+<td>LLANO</td>
+<td>TX</td>
+<td>78643</td>
+<td>3252475036</td>
+</tr>
+<tr>
+<td>GREGG COUNTY DISTRICT CLERK</td>
+<td>101 EAST METHVIN</td>
+<td>LONGVIEW</td>
+<td>TX</td>
+<td>75601</td>
+<td>9032343192</td>
+</tr>
+<tr>
+<td>LONGVIEW POST OFFICE</td>
+<td>2336 S MOBBERLY AVENUE</td>
+<td>LONGVIEW</td>
+<td>TX</td>
+<td>75602</td>
+<td>9037537644</td>
+</tr>
+<tr>
+<td>LOS EBANOS POST OFFICE</td>
+<td>185 ROSENDO BENAVIDEZ STREET</td>
+<td>LOS EBANOS</td>
+<td>TX</td>
+<td>78565</td>
+<td>9564852262</td>
+</tr>
+<tr>
+<td>LOS FRESNOS MAIN POST OFFICE</td>
+<td>301 W OCEAN BOULEVARD</td>
+<td>LOS FRESNOS</td>
+<td>TX</td>
+<td>78566</td>
+<td>9562335522</td>
+</tr>
+<tr>
+<td>LOS INDIOS POST OFFICE</td>
+<td>810 EAST US HIGHWAY 281</td>
+<td>LOS INDIOS</td>
+<td>TX</td>
+<td>78567</td>
+<td>9563990470</td>
+</tr>
+<tr>
+<td>LUBBOCK COUNTY DISTRICT CLERK</td>
+<td>904 BROADWAY</td>
+<td>LUBBOCK</td>
+<td>TX</td>
+<td>79401</td>
+<td>8067751317</td>
+</tr>
+<tr>
+<td>LUBBOCK DOWNTOWN STATION</td>
+<td>411 AVENUE L</td>
+<td>LUBBOCK</td>
+<td>TX</td>
+<td>79408</td>
+<td>8067443802</td>
+</tr>
+<tr>
+<td>LUBBOCK MONTEREY STATION</td>
+<td>5014 GARY AVENUE</td>
+<td>LUBBOCK</td>
+<td>TX</td>
+<td>79413</td>
+<td>8067950836</td>
+</tr>
+<tr>
+<td>TEXAS TECH UNIVERSITY</td>
+<td>601 INDIANA AVE</td>
+<td>LUBBOCK</td>
+<td>TX</td>
+<td>79409</td>
+<td>8067423667</td>
+</tr>
+<tr>
+<td>ANGELINA COUNTY DISTRICT CLERK</td>
+<td>215 EAST LUFKIN AVENUE</td>
+<td>LUFKIN</td>
+<td>TX</td>
+<td>75902</td>
+<td>9366344312</td>
+</tr>
+<tr>
+<td>LUFKIN MAIN POST OFFICE</td>
+<td>800 SOUTH JOHN REDDITT DRIVE</td>
+<td>LUFKIN</td>
+<td>TX</td>
+<td>75901</td>
+<td>9366347749</td>
+</tr>
+<tr>
+<td>LUMBERTON PUBLIC LIBRARY</td>
+<td>130 EAST CHANCE ROAD</td>
+<td>LUMBERTON</td>
+<td>TX</td>
+<td>77657</td>
+<td>4097557400</td>
+</tr>
+<tr>
+<td>LYTLE POST OFFICE</td>
+<td>14841 MAIN STREET</td>
+<td>LYTLE</td>
+<td>TX</td>
+<td>78052</td>
+<td>8307723730</td>
+</tr>
+<tr>
+<td>MADISON COUNTY DISTRICT CLERKS OFFICE</td>
+<td>101 WEST MAIN</td>
+<td>MADISONVILLE</td>
+<td>TX</td>
+<td>77864</td>
+<td>9362416212</td>
+</tr>
+<tr>
+<td>MAGNOLIA POST OFFICE</td>
+<td>815 GOODSON ROAD</td>
+<td>MAGNOLIA</td>
+<td>TX</td>
+<td>77355</td>
+<td>2813568427</td>
+</tr>
+<tr>
+<td>MANSFIELD POST OFFICE</td>
+<td>752 N. MAIN ST.</td>
+<td>MANSFIELD</td>
+<td>TX</td>
+<td>76063</td>
+<td>8174732089</td>
+</tr>
+<tr>
+<td>MANVEL POST OFFICE</td>
+<td>6925 MASTERS ROAD</td>
+<td>MANVEL</td>
+<td>TX</td>
+<td>77578</td>
+<td>2814892861</td>
+</tr>
+<tr>
+<td>MARBLE FALLS POST OFFICE</td>
+<td>1212 US HIGHWAY 281</td>
+<td>MARBLE FALLS</td>
+<td>TX</td>
+<td>78654</td>
+<td>8306933531</td>
+</tr>
+<tr>
+<td>MARFA POST OFFICE</td>
+<td>100 N HIGHLAND AVE</td>
+<td>MARFA</td>
+<td>TX</td>
+<td>79843</td>
+<td>4327294001</td>
+</tr>
+<tr>
+<td>HARRISON COUNTY DISTRICT CLERK</td>
+<td>200 WEST HOUSTON STREET</td>
+<td>MARSHALL</td>
+<td>TX</td>
+<td>75670</td>
+<td>9039358409</td>
+</tr>
+<tr>
+<td>MARSHALL MAIN POST OFFICE</td>
+<td>202 EAST TRAVIS STREET</td>
+<td>MARSHALL</td>
+<td>TX</td>
+<td>75670</td>
+<td>9039384086</td>
+</tr>
+<tr>
+<td>MATHIS POST OFFICE</td>
+<td>121 SOUTH BEE STREET</td>
+<td>MATHIS</td>
+<td>TX</td>
+<td>78368</td>
+<td>3615473061</td>
+</tr>
+<tr>
+<td>CITY OF MCALLEN-DOWNTOWN PARKING GARAGE</td>
+<td>221 SOUTH 15TH STREET</td>
+<td>MCALLEN</td>
+<td>TX</td>
+<td>78505</td>
+<td>9566811450</td>
+</tr>
+<tr>
+<td>MCALLEN DOWNTOWN STATION</td>
+<td>406 S 12TH STREET</td>
+<td>MCALLEN</td>
+<td>TX</td>
+<td>78501</td>
+<td>9569949800</td>
+</tr>
+<tr>
+<td>MCALLEN POST OFFICE</td>
+<td>620 EAST PECAN BOULEVARD</td>
+<td>MCALLEN</td>
+<td>TX</td>
+<td>78501</td>
+<td>9569711701</td>
+</tr>
+<tr>
+<td>MCKINNEY MAIN POST OFFICE</td>
+<td>550 N. CENTRAL EXPRESSWAY</td>
+<td>MCKINNEY</td>
+<td>TX</td>
+<td>75070</td>
+<td>9725422931</td>
+</tr>
+<tr>
+<td>MERIDIAN POST OFFICE</td>
+<td>512 E LIVE OAK</td>
+<td>MERIDIAN</td>
+<td>TX</td>
+<td>76665</td>
+<td>2544352261</td>
+</tr>
+<tr>
+<td>MESQUITE POST OFFICE</td>
+<td>120 E. GRUBB DRIVE</td>
+<td>MESQUITE</td>
+<td>TX</td>
+<td>75149</td>
+<td>9722884477</td>
+</tr>
+<tr>
+<td>CITY OF MIDLAND - CITY SECRETARYS OFFICE</td>
+<td>300 NORTH LORAINE,</td>
+<td>MIDLAND</td>
+<td>TX</td>
+<td>79701</td>
+<td>4326857430</td>
+</tr>
+<tr>
+<td>MIDLAND COUNTY PUBLIC LIBRARY</td>
+<td>301 W. MISSOURI</td>
+<td>MIDLAND</td>
+<td>TX</td>
+<td>79701</td>
+<td>4326884342</td>
+</tr>
+<tr>
+<td>MIDLAND GMF</td>
+<td>10000 LOOP 40</td>
+<td>MIDLAND</td>
+<td>TX</td>
+<td>79711</td>
+<td>4325605066</td>
+</tr>
+<tr>
+<td>MISSION POST OFFICE</td>
+<td>901 NORTH FRANCISCO AVENUE</td>
+<td>MISSION</td>
+<td>TX</td>
+<td>78572</td>
+<td>9565851481</td>
+</tr>
+<tr>
+<td>MISSOURI CITY POST OFFICE</td>
+<td>1902 TEXAS PARKWAY</td>
+<td>MISSOURI CITY</td>
+<td>TX</td>
+<td>77489</td>
+<td>2814994412</td>
+</tr>
+<tr>
+<td>WARD COUNTY DISTRICT COURT</td>
+<td>400 SOUTH ALLEN, SUITE 202</td>
+<td>MONAHANS</td>
+<td>TX</td>
+<td>79756</td>
+<td>4329432751</td>
+</tr>
+<tr>
+<td>MONTGOMERY MPO</td>
+<td>20821 EVA SUITE H</td>
+<td>MONTGOMERY</td>
+<td>TX</td>
+<td>77356</td>
+<td>9365978099</td>
+</tr>
+<tr>
+<td>MOODY POST OFFICE</td>
+<td>501 AVENUE EAST</td>
+<td>MOODY</td>
+<td>TX</td>
+<td>76557</td>
+<td>2548532142</td>
+</tr>
+<tr>
+<td>TITUS COUNTY DISTRICT CLERK</td>
+<td>105 WEST 1ST STREET</td>
+<td>MOUNT PLEASANT</td>
+<td>TX</td>
+<td>75455</td>
+<td>9035776724</td>
+</tr>
+<tr>
+<td>FRANKLIN COUNTY DISTRICT CLERK</td>
+<td>200 N. KAUFMAN ST.</td>
+<td>MT. VERNON</td>
+<td>TX</td>
+<td>75457</td>
+<td>9035378337</td>
+</tr>
+<tr>
+<td>BAILEY COUNTY DISTRICT CLERK</td>
+<td>300 SOUTH FIRST STREET</td>
+<td>MULESHOE</td>
+<td>TX</td>
+<td>79347</td>
+<td>8062723165</td>
+</tr>
+<tr>
+<td>NACOGDOCHES COUNTY DISTRICT CLERK</td>
+<td>101 WEST MAIN</td>
+<td>NACOGDOCHES</td>
+<td>TX</td>
+<td>75961</td>
+<td>9365607730</td>
+</tr>
+<tr>
+<td>NEDERLAND POST OFFICE</td>
+<td>223 NORTH 14TH STREET</td>
+<td>NEDERLAND</td>
+<td>TX</td>
+<td>77627</td>
+<td>4097298837</td>
+</tr>
+<tr>
+<td>NEVADA POST OFFICE</td>
+<td>102 S FM 1138</td>
+<td>NEVADA</td>
+<td>TX</td>
+<td>75173</td>
+<td>9728533621</td>
+</tr>
+<tr>
+<td>COMAL COUNTY DISTRICT CLERK</td>
+<td>150 NORTH SEGUIN AVENUE</td>
+<td>NEW BRAUNFELS</td>
+<td>TX</td>
+<td>78130</td>
+<td>8302211250</td>
+</tr>
+<tr>
+<td>NEW BRAUNFELS POST OFFICE</td>
+<td>686 SOUTH SEGUIN AVENUE</td>
+<td>NEW BRAUNFELS</td>
+<td>TX</td>
+<td>78130</td>
+<td>8306257736</td>
+</tr>
+<tr>
+<td>NEW CANEY POST OFFICE</td>
+<td>20811 US HWY 59</td>
+<td>NEW CANEY</td>
+<td>TX</td>
+<td>77357</td>
+<td>2813991190</td>
+</tr>
+<tr>
+<td>NEW WAVERLY MPO</td>
+<td>9301 STATE HIGHWAY 75 SOUTH</td>
+<td>NEW WAVERLY</td>
+<td>TX</td>
+<td>77358</td>
+<td>9363446259</td>
+</tr>
+<tr>
+<td>ECTOR COUNTY DISTRICT CLERK</td>
+<td>300 NORTH GRANT AVENUE</td>
+<td>ODESSA</td>
+<td>TX</td>
+<td>79761</td>
+<td>4324984290</td>
+</tr>
+<tr>
+<td>OLMITO POST OFFICE</td>
+<td>7955 NORTH EXPRESSWAY 77</td>
+<td>OLMITO</td>
+<td>TX</td>
+<td>78575</td>
+<td>9563504712</td>
+</tr>
+<tr>
+<td>ONALASKA POST OFFICE</td>
+<td>203 N FM 356</td>
+<td>ONALASKA</td>
+<td>TX</td>
+<td>77360</td>
+<td>9366463313</td>
+</tr>
+<tr>
+<td>PALESTINE POST OFFICE</td>
+<td>1213 NORTH LINK STREET</td>
+<td>PALESTINE</td>
+<td>TX</td>
+<td>75803</td>
+<td>9037231084</td>
+</tr>
+<tr>
+<td>PAMPA POST OFFICE</td>
+<td>120 E. FOSTER AVE</td>
+<td>PAMPA</td>
+<td>TX</td>
+<td>79065</td>
+<td>8066654260</td>
+</tr>
+<tr>
+<td>PANHANDLE POST OFFICE</td>
+<td>402 MAIN</td>
+<td>PANHANDLE</td>
+<td>TX</td>
+<td>79068</td>
+<td>8065373721</td>
+</tr>
+<tr>
+<td>PARIS MAIN POST OFFICE</td>
+<td>500 CLARKSVILLE STREET</td>
+<td>PARIS</td>
+<td>TX</td>
+<td>75460</td>
+<td>9037843381</td>
+</tr>
+<tr>
+<td>JIM FONTENO POST OFFICE</td>
+<td>1199 PASADENA BOULEVARD</td>
+<td>PASADENA</td>
+<td>TX</td>
+<td>77501</td>
+<td>7134750209</td>
+</tr>
+<tr>
+<td>PEARSALL POST OFFICE</td>
+<td>411 EAST COLORADO STREET</td>
+<td>PEARSALL</td>
+<td>TX</td>
+<td>78061</td>
+<td>8303343303</td>
+</tr>
+<tr>
+<td>PENITAS POST OFFICE</td>
+<td>500 TOM GILL ROAD</td>
+<td>PENITAS</td>
+<td>TX</td>
+<td>78576</td>
+<td>9565854655</td>
+</tr>
+<tr>
+<td>OCHILTREE COUNTY DISTRICT CLERK</td>
+<td>511 S MAIN</td>
+<td>PERRYTON</td>
+<td>TX</td>
+<td>79070</td>
+<td>8064358054</td>
+</tr>
+<tr>
+<td>PERRYTON POST OFFICE</td>
+<td>2722 S. MAIN ST</td>
+<td>PERRYTON</td>
+<td>TX</td>
+<td>79070</td>
+<td>8064352542</td>
+</tr>
+<tr>
+<td>PFLUGERVILLE POST OFFICE</td>
+<td>301 SOUTH HEATHERWILDE BOULEVARD</td>
+<td>PFLUGERVILLE</td>
+<td>TX</td>
+<td>78660</td>
+<td>5122511184</td>
+</tr>
+<tr>
+<td>PINEHURST POST OFFICE</td>
+<td>34635 WRIGHT ROAD</td>
+<td>PINEHURST</td>
+<td>TX</td>
+<td>77362</td>
+<td>2812590234</td>
+</tr>
+<tr>
+<td>YOAKUM COUNTY DISTRICT CLERK</td>
+<td>600 COWBOY WAY</td>
+<td>PLAINS</td>
+<td>TX</td>
+<td>79355</td>
+<td>8064567491</td>
+</tr>
+<tr>
+<td>HALE COUNTY DISTRICT CLERK</td>
+<td>225 BROADWAY STREET</td>
+<td>PLAINVIEW</td>
+<td>TX</td>
+<td>79072</td>
+<td>8062915226</td>
+</tr>
+<tr>
+<td>PLANO COIT</td>
+<td>3400 COIT ROAD</td>
+<td>PLANO</td>
+<td>TX</td>
+<td>75075</td>
+<td>9725965951</td>
+</tr>
+<tr>
+<td>PLANO MAIN POST OFFICE</td>
+<td>1200 JUPITER RD.</td>
+<td>PLANO</td>
+<td>TX</td>
+<td>75074</td>
+<td>9726335754</td>
+</tr>
+<tr>
+<td>PLANO NORTHWEST</td>
+<td>3905 HEDGCOXE ROAD</td>
+<td>PLANO</td>
+<td>TX</td>
+<td>75025</td>
+<td>9723773166</td>
+</tr>
+<tr>
+<td>PORT ARTHUR POST OFFICE</td>
+<td>345 LAKESHORE DRIVE</td>
+<td>PORT ARTHUR</td>
+<td>TX</td>
+<td>77640</td>
+<td>4099837611</td>
+</tr>
+<tr>
+<td>PORT NECHES POST OFFICE</td>
+<td>1324 PORT NECHES AVENUE</td>
+<td>PORT NECHES</td>
+<td>TX</td>
+<td>77651</td>
+<td>4097298894</td>
+</tr>
+<tr>
+<td>PORTLAND MAIN POST OFFICE</td>
+<td>120 LANG ROAD</td>
+<td>PORTLAND</td>
+<td>TX</td>
+<td>78374</td>
+<td>3617770845</td>
+</tr>
+<tr>
+<td>POTH POST OFFICE</td>
+<td>1100 STORTS STREET</td>
+<td>POTH</td>
+<td>TX</td>
+<td>78147</td>
+<td>8304842279</td>
+</tr>
+<tr>
+<td>PRAIRIE VIEW POST OFFICE</td>
+<td>21212NFM 1098</td>
+<td>PRAIRIE VIEW</td>
+<td>TX</td>
+<td>77446</td>
+<td>9368573570</td>
+</tr>
+<tr>
+<td>PRESIDIO POST OFFICE</td>
+<td>202 E OREILLY ST</td>
+<td>PRESIDIO</td>
+<td>TX</td>
+<td>79845</td>
+<td>4322293375</td>
+</tr>
+<tr>
+<td>REFUGIO MPO</td>
+<td>507 OSAGE STREET</td>
+<td>REFUGIO</td>
+<td>TX</td>
+<td>78377</td>
+<td>3615264024</td>
+</tr>
+<tr>
+<td>RICHARDSON MAIN POST OFFICE</td>
+<td>433 BELLE GROVE DR</td>
+<td>RICHARDSON</td>
+<td>TX</td>
+<td>75080</td>
+<td>9722354843</td>
+</tr>
+<tr>
+<td>FORT BEND COUNTY DISTRICT CLERK</td>
+<td>1422 EUGENE HEIMANN CIRCLE</td>
+<td>RICHMOND</td>
+<td>TX</td>
+<td>77469</td>
+<td>2813414509</td>
+</tr>
+<tr>
+<td>RICHMOND POST OFFICE</td>
+<td>5560 FM 1640 ROAD</td>
+<td>RICHMOND</td>
+<td>TX</td>
+<td>77469</td>
+<td>2816330386</td>
+</tr>
+<tr>
+<td>RIO GRANDE CITY POST OFFICE</td>
+<td>500 W. EISENHOWER STREET</td>
+<td>RIO GRANDE CITY</td>
+<td>TX</td>
+<td>78582</td>
+<td>9564873315</td>
+</tr>
+<tr>
+<td>ROARING SPRINGS POST OFFICE</td>
+<td>403 2ND STREET</td>
+<td>ROARING SPRINGS</td>
+<td>TX</td>
+<td>79256</td>
+<td>8063487951</td>
+</tr>
+<tr>
+<td>ROBSTOWN MAIN POST OFFICE</td>
+<td>313 E MAIN AVE</td>
+<td>ROBSTOWN</td>
+<td>TX</td>
+<td>78380</td>
+<td>3613874786</td>
+</tr>
+<tr>
+<td>ARANSAS COUNTY DISTRICT CLERK</td>
+<td>2840 HWY 35 NORTH</td>
+<td>ROCKPORT</td>
+<td>TX</td>
+<td>78382</td>
+<td>3617900128</td>
+</tr>
+<tr>
+<td>ROCKWALL COUNTY DISTRICT CLERK</td>
+<td>1111 E YELLOWJACKET LANE,</td>
+<td>ROCKWALL</td>
+<td>TX</td>
+<td>75087</td>
+<td>9722046500</td>
+</tr>
+<tr>
+<td>ROCKWALL POST OFFICE</td>
+<td>609 S. GOLIAD STREET</td>
+<td>ROCKWALL</td>
+<td>TX</td>
+<td>75087</td>
+<td>8446618730</td>
+</tr>
+<tr>
+<td>ROMA POST OFFICE</td>
+<td>1724 EAST GRANT STREET</td>
+<td>ROMA</td>
+<td>TX</td>
+<td>78584</td>
+<td>9568491516</td>
+</tr>
+<tr>
+<td>ROSENBERG POST OFFICE</td>
+<td>2103 AVENUE G</td>
+<td>ROSENBERG</td>
+<td>TX</td>
+<td>77471</td>
+<td>2815867004</td>
+</tr>
+<tr>
+<td>ROUND ROCK FRONTIER STATION</td>
+<td>2250 DOUBLE CREEK DRIVE</td>
+<td>ROUND ROCK</td>
+<td>TX</td>
+<td>78664</td>
+<td>5122440065</td>
+</tr>
+<tr>
+<td>ROWLETT POST OFFICE</td>
+<td>3416 ENTERPRISE DRIVE</td>
+<td>ROWLETT</td>
+<td>TX</td>
+<td>75088</td>
+<td>2142919721</td>
+</tr>
+<tr>
+<td>ANGELO STATE UNIVERSITY</td>
+<td>2419 WEST AVENUE N</td>
+<td>SAN ANGELO</td>
+<td>TX</td>
+<td>76909</td>
+<td>3259422083</td>
+</tr>
+<tr>
+<td>SAN ANGELO MAIN POST OFFICE</td>
+<td>1 NORTH ABE ST</td>
+<td>SAN ANGELO</td>
+<td>TX</td>
+<td>76902</td>
+<td>3256597799</td>
+</tr>
+<tr>
+<td>SOUTHWEST STATION</td>
+<td>3201 WEST LOOP 306</td>
+<td>SAN ANGELO</td>
+<td>TX</td>
+<td>76904</td>
+<td>3259478817</td>
+</tr>
+<tr>
+<td>ALAMO HEIGHTS STATION</td>
+<td>4801 BROADWAY STREET</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78209</td>
+<td>2108264731</td>
+</tr>
+<tr>
+<td>ARSENAL STATION</td>
+<td>1140 SOUTH LAREDO STREET</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78204</td>
+<td>2102276900</td>
+</tr>
+<tr>
+<td>BEXAR COUNTY DISTRICT CLERK</td>
+<td>101 WEST NUEVA STREET</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78205</td>
+<td>2103352179</td>
+</tr>
+<tr>
+<td>CEDAR ELM STATION</td>
+<td>5837 DE ZAVALA ROAD</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78249</td>
+<td>2106410735</td>
+</tr>
+<tr>
+<td>DOWNTOWN SAN ANTONIO STATION</td>
+<td>615 EAST HOUSTON STREET</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78205</td>
+<td>2102128046</td>
+</tr>
+<tr>
+<td>ENCINO PARK STATION</td>
+<td>20403 ENCINO LEDGE</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78259</td>
+<td>2104976391</td>
+</tr>
+<tr>
+<td>FRANK TEJEDA STATION</td>
+<td>7411 BARLITE BOULEVARD</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78224</td>
+<td>2109230941</td>
+</tr>
+<tr>
+<td>HERITAGE POST OFFICE</td>
+<td>702 RICHLAND HILLS</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78245</td>
+<td>2105438237</td>
+</tr>
+<tr>
+<td>J FRANK DOBIE STATION</td>
+<td>4950 EAST HOUSTON STREET</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78220</td>
+<td>2106627302</td>
+</tr>
+<tr>
+<td>LEON VALLEY BRANCH POST OFFICE</td>
+<td>6825 HUEBNER ROAD</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78238</td>
+<td>2105205962</td>
+</tr>
+<tr>
+<td>LOCKHILL STATION</td>
+<td>12951 HUEBNER ROAD</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78230</td>
+<td>2104939533</td>
+</tr>
+<tr>
+<td>OFFICE OF THE CLERK - MUNICIPAL ARCHIVES AND RECORDS</td>
+<td>719 SOUTH SANTA ROSA</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78204</td>
+<td>2102077253</td>
+</tr>
+<tr>
+<td>SAN ANTONIO GENERAL MAIL FACILITY</td>
+<td>10410 PERRIN-BIETEL ROAD</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78284</td>
+<td>2103681720</td>
+</tr>
+<tr>
+<td>SOUTH TEXAS MEDICAL CENTER STATION</td>
+<td>4835 MEDICAL DRIVE</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78229</td>
+<td>2109491327</td>
+</tr>
+<tr>
+<td>THOUSAND OAKS STATION</td>
+<td>15610 HENDERSON PASS</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78232</td>
+<td>2104952984</td>
+</tr>
+<tr>
+<td>VALLEY HI POST OFFICE</td>
+<td>5510 SOUTWEST LOOP 410</td>
+<td>SAN ANTONIO</td>
+<td>TX</td>
+<td>78227</td>
+<td>2106745977</td>
+</tr>
+<tr>
+<td>CITY OF SAN MARCOS</td>
+<td>630 EAST HOPKINS</td>
+<td>SAN MARCOS</td>
+<td>TX</td>
+<td>78666</td>
+<td>5123938086</td>
+</tr>
+<tr>
+<td>SAN MARCOS POST OFFICE</td>
+<td>210 S STAGECOACH TRAIL</td>
+<td>SAN MARCOS</td>
+<td>TX</td>
+<td>78666</td>
+<td>5123924832</td>
+</tr>
+<tr>
+<td>SEALY POST OFFICE</td>
+<td>222 MOODY STREET</td>
+<td>SEALY</td>
+<td>TX</td>
+<td>77474</td>
+<td>9798853439</td>
+</tr>
+<tr>
+<td>SEBASTIAN POST OFFICE</td>
+<td>3476 BUSINESS 77</td>
+<td>SEBASTIAN</td>
+<td>TX</td>
+<td>78594</td>
+<td>9563475007</td>
+</tr>
+<tr>
+<td>GUADALUPE COUNTY DISTRICT CLERK</td>
+<td>211 WEST COURT STREET STE 209</td>
+<td>SEGUIN</td>
+<td>TX</td>
+<td>78155</td>
+<td>8303038875</td>
+</tr>
+<tr>
+<td>SEMINOLE POST OFFICE</td>
+<td>201 SE 3RD STREET</td>
+<td>SEMINOLE</td>
+<td>TX</td>
+<td>79360</td>
+<td>4327582141</td>
+</tr>
+<tr>
+<td>SEYMOUR POST OFFICE</td>
+<td>210 N WASHINGTON ST.</td>
+<td>SEYMOUR</td>
+<td>TX</td>
+<td>76380</td>
+<td>9408893550</td>
+</tr>
+<tr>
+<td>GRAYSON COUNTY DISTRICT CLERK</td>
+<td>200 S CROCKETT STREET</td>
+<td>SHERMAN</td>
+<td>TX</td>
+<td>75090</td>
+<td>9038134358</td>
+</tr>
+<tr>
+<td>SHERMAN POST OFFICE</td>
+<td>701 E. PEYTON</td>
+<td>SHERMAN</td>
+<td>TX</td>
+<td>75090</td>
+<td>9038929234</td>
+</tr>
+<tr>
+<td>SILSBEE POST OFFICE</td>
+<td>111 WEST AVENUE P</td>
+<td>SILSBEE</td>
+<td>TX</td>
+<td>77656</td>
+<td>4093853776</td>
+</tr>
+<tr>
+<td>SCURRY COUNTY DISTRICT CLERK OFFICE</td>
+<td>1806 25TH STREET,</td>
+<td>SNYDER</td>
+<td>TX</td>
+<td>79549</td>
+<td>3255735641</td>
+</tr>
+<tr>
+<td>SONORA POST OFFICE</td>
+<td>102 WEST MAIN STREET</td>
+<td>SONORA</td>
+<td>TX</td>
+<td>76950</td>
+<td>3253873161</td>
+</tr>
+<tr>
+<td>SOUTH HOUSTON POST OFFICE</td>
+<td>315 NORTH ALLEN GENOA ROAD</td>
+<td>SOUTH HOUSTON</td>
+<td>TX</td>
+<td>77587</td>
+<td>7139461767</td>
+</tr>
+<tr>
+<td>SOUTHLAKE POST OFFICE</td>
+<td>300 STATE STREET</td>
+<td>SOUTHLAKE</td>
+<td>TX</td>
+<td>76092</td>
+<td>8174166129</td>
+</tr>
+<tr>
+<td>TARRANT COUNTY CLERK SOUTHLAKE SUB-COURTHOUSE</td>
+<td>1400 MAIN STREET</td>
+<td>SOUTHLAKE</td>
+<td>TX</td>
+<td>76092</td>
+<td>8174818190</td>
+</tr>
+<tr>
+<td>SPEARMAN POST OFFICE</td>
+<td>101 N. BERNICE ST.</td>
+<td>SPEARMAN</td>
+<td>TX</td>
+<td>79081</td>
+<td>8066593313</td>
+</tr>
+<tr>
+<td>KLEIN POST OFFICE</td>
+<td>7717 LOUETTA ROAD</td>
+<td>SPRING</td>
+<td>TX</td>
+<td>77379</td>
+<td>2812573806</td>
+</tr>
+<tr>
+<td>THE WOODLANDS METRO STATION</td>
+<td>9450 PINECROFT DR.</td>
+<td>SPRING</td>
+<td>TX</td>
+<td>77380</td>
+<td>2814197948</td>
+</tr>
+<tr>
+<td>SPRING BRANCH POST OFFICE</td>
+<td>132 BLAZING MEADOW</td>
+<td>SPRING BRANCH</td>
+<td>TX</td>
+<td>78070</td>
+<td>8308854508</td>
+</tr>
+<tr>
+<td>STAFFORD MAIN POST OFFICE</td>
+<td>4110 BLUEBONNET DRIVE</td>
+<td>STAFFORD</td>
+<td>TX</td>
+<td>77477</td>
+<td>2414942248</td>
+</tr>
+<tr>
+<td>ERATH COUNTY DISTRICT CLERK</td>
+<td>112 WEST COLLEGE</td>
+<td>STEPHENVILLE</td>
+<td>TX</td>
+<td>76401</td>
+<td>2549651486</td>
+</tr>
+<tr>
+<td>STEPHENVILLE POST OFFICE</td>
+<td>431 NORTH GRAHAM STREET</td>
+<td>STEPHENVILLE</td>
+<td>TX</td>
+<td>76401</td>
+<td>2549655870</td>
+</tr>
+<tr>
+<td>HUTCHINSON COUNTY DISTRICT CLERK</td>
+<td>500 MAIN ST</td>
+<td>STINNETT</td>
+<td>TX</td>
+<td>79083</td>
+<td>8068784017</td>
+</tr>
+<tr>
+<td>FIRST COLONY POST OFFICE</td>
+<td>3130 GRANTS LAKE BOULEVARD</td>
+<td>SUGAR LAND</td>
+<td>TX</td>
+<td>77479</td>
+<td>2814944150</td>
+</tr>
+<tr>
+<td>SUGAR LAND MAIN POST OFFICE</td>
+<td>225 MATLAGE WAY</td>
+<td>SUGAR LAND</td>
+<td>TX</td>
+<td>77478</td>
+<td>2814940013</td>
+</tr>
+<tr>
+<td>HOPKINS COUNTY DISTRICT CLERK</td>
+<td>282 ROSEMONT ST.</td>
+<td>SULPHUR SPRINGS</td>
+<td>TX</td>
+<td>75482</td>
+<td>9034384081</td>
+</tr>
+<tr>
+<td>NOLAN COUNTY DISTRICT CLERK</td>
+<td>100 E 3RD STREET</td>
+<td>SWEETWATER</td>
+<td>TX</td>
+<td>79556</td>
+<td>3252352111</td>
+</tr>
+<tr>
+<td>TAFT POST OFFICE</td>
+<td>110 VICTORIA AVENUE</td>
+<td>TAFT</td>
+<td>TX</td>
+<td>78390</td>
+<td>3615282844</td>
+</tr>
+<tr>
+<td>LYNN COUNTY DISTRICT CLERK</td>
+<td>1501 S. FIRST STREET</td>
+<td>TAHOKA</td>
+<td>TX</td>
+<td>79373</td>
+<td>8065614274</td>
+</tr>
+<tr>
+<td>TAYLOR POST OFFICE</td>
+<td>202 W 4TH STREET</td>
+<td>TAYLOR</td>
+<td>TX</td>
+<td>76574</td>
+<td>5123523162</td>
+</tr>
+<tr>
+<td>TEMPLE MAIN POST OFFICE</td>
+<td>401 NORTH MAIN STREET</td>
+<td>TEMPLE</td>
+<td>TX</td>
+<td>76501</td>
+<td>2547735879</td>
+</tr>
+<tr>
+<td>TERRELL POST OFFICE</td>
+<td>1250 STATE HIGHWAY 34 SOUTH</td>
+<td>TERRELL</td>
+<td>TX</td>
+<td>75160</td>
+<td>9725632708</td>
+</tr>
+<tr>
+<td>TEXARKANA MAIN POST OFFICE</td>
+<td>2211 NORTH ROBISON RD</td>
+<td>TEXARKANA</td>
+<td>TX</td>
+<td>75501</td>
+<td>8446678730</td>
+</tr>
+<tr>
+<td>TEXAS CITY POST OFFICE</td>
+<td>2002 11TH AVE N</td>
+<td>TEXAS CITY</td>
+<td>TX</td>
+<td>77590</td>
+<td>4099481578</td>
+</tr>
+<tr>
+<td>PANTHER CREEK POST OFFICE</td>
+<td>10800 GOSLING ROAD</td>
+<td>THE WOODLANDS</td>
+<td>TX</td>
+<td>77381</td>
+<td>2814198231</td>
+</tr>
+<tr>
+<td>TOMBALL POST OFFICE</td>
+<td>122 N. HOLDERRIETH BOULEVARD</td>
+<td>TOMBALL</td>
+<td>TX</td>
+<td>77375</td>
+<td>2813512845</td>
+</tr>
+<tr>
+<td>THE UNIVERSITY OF TEXAS AT TYLER</td>
+<td>3620 VARSITY DRIVE</td>
+<td>TYLER</td>
+<td>TX</td>
+<td>75701</td>
+<td>9035655701</td>
+</tr>
+<tr>
+<td>TYLER POST OFFICE</td>
+<td>2100 WEST MARTIN LUTHER KING BOULEVARD</td>
+<td>TYLER</td>
+<td>TX</td>
+<td>75702</td>
+<td>9035798674</td>
+</tr>
+<tr>
+<td>UVALDE COUNTY DISTRICT CLERK</td>
+<td>100 MAIN</td>
+<td>UVALDE</td>
+<td>TX</td>
+<td>78801</td>
+<td>8302783918</td>
+</tr>
+<tr>
+<td>VALENTINE POST OFFICE</td>
+<td>311 W CALIFORNIA AVE.</td>
+<td>VALENTINE</td>
+<td>TX</td>
+<td>79854</td>
+<td>4324672912</td>
+</tr>
+<tr>
+<td>VICTORIA MAIN POST OFFICE</td>
+<td>2804 SAM HOUSTON DR.</td>
+<td>VICTORIA</td>
+<td>TX</td>
+<td>77904</td>
+<td>3615755611</td>
+</tr>
+<tr>
+<td>VIDOR POST OFFICE</td>
+<td>285 SOUTH ARCHIE STREET</td>
+<td>VIDOR</td>
+<td>TX</td>
+<td>77662</td>
+<td>4097832074</td>
+</tr>
+<tr>
+<td>VON ORMY POST OFFICE</td>
+<td>13636 IH 35 SOUTH</td>
+<td>VON ORMY</td>
+<td>TX</td>
+<td>78073</td>
+<td>2106228990</td>
+</tr>
+<tr>
+<td>WACO DOWNTOWN STATION</td>
+<td>424 CLAY AVENUE</td>
+<td>WACO</td>
+<td>TX</td>
+<td>76706</td>
+<td>2547544189</td>
+</tr>
+<tr>
+<td>WOODWAY STATION</td>
+<td>430 W STATE HWY 6</td>
+<td>WACO</td>
+<td>TX</td>
+<td>76702</td>
+<td>2543992201</td>
+</tr>
+<tr>
+<td>WASKOM POST OFFICE</td>
+<td>265 SPUR 156</td>
+<td>WASKOM</td>
+<td>TX</td>
+<td>75692</td>
+<td>9036872202</td>
+</tr>
+<tr>
+<td>ELLIS COUNTY DISTRICT CLERK</td>
+<td>109 S JACKSON</td>
+<td>WAXAHACHIE</td>
+<td>TX</td>
+<td>75165</td>
+<td>9728255094</td>
+</tr>
+<tr>
+<td>WEATHERFORD POST OFFICE</td>
+<td>1145 SANTA FE DRIVE</td>
+<td>WEATHERFORD</td>
+<td>TX</td>
+<td>76086</td>
+<td>8175943072</td>
+</tr>
+<tr>
+<td>WESLACO POST OFFICE</td>
+<td>109 NORTH BORDER AVENUE</td>
+<td>WESLACO</td>
+<td>TX</td>
+<td>78596</td>
+<td>9569687412</td>
+</tr>
+<tr>
+<td>WEST POST OFFICE</td>
+<td>301 W COLUMBUS STREET</td>
+<td>WEST</td>
+<td>TX</td>
+<td>76691</td>
+<td>2548265731</td>
+</tr>
+<tr>
+<td>WEST COLUMBIA POST OFFICE</td>
+<td>350 W. BRAZOS AVENUE</td>
+<td>WEST COLUMBIA</td>
+<td>TX</td>
+<td>77486</td>
+<td>9793453242</td>
+</tr>
+<tr>
+<td>WHEELER COUNTY DISTRICT CLERK</td>
+<td>401 S MAIN ST.</td>
+<td>WHEELER</td>
+<td>TX</td>
+<td>79096</td>
+<td>8068265931</td>
+</tr>
+<tr>
+<td>WHITESBORO PUBLIC LIBRARY</td>
+<td>308 WEST MAIN ST.</td>
+<td>WHITESBORO</td>
+<td>TX</td>
+<td>76273</td>
+<td>9035645432</td>
+</tr>
+<tr>
+<td>WICHITA COUNTY CLERK</td>
+<td>900 7TH STREET</td>
+<td>WICHITA FALLS</td>
+<td>TX</td>
+<td>76301</td>
+<td>9407668100</td>
+</tr>
+<tr>
+<td>WICHITA FALLS MAIN POST OFFICE</td>
+<td>1000 LAMAR ST</td>
+<td>WICHITA FALLS</td>
+<td>TX</td>
+<td>76301</td>
+<td>9403975065</td>
+</tr>
+<tr>
+<td>WILLIS POST OFFICE</td>
+<td>609 N. CAMPBELL STREET</td>
+<td>WILLIS</td>
+<td>TX</td>
+<td>77378</td>
+<td>9368564981</td>
+</tr>
+<tr>
+<td>TYLER COUNTY DISTRICT CLERK</td>
+<td>100 WEST BLUFF STREET</td>
+<td>WOODVILLE</td>
+<td>TX</td>
+<td>75979</td>
+<td>4092832162</td>
+</tr>
+<tr>
+<td>ZAPATA POST OFFICE</td>
+<td>810 N US HWY 83</td>
+<td>ZAPATA</td>
+<td>TX</td>
+<td>78076</td>
+<td>9567654666</td>
+</tr>
+</tbody>
+</table>

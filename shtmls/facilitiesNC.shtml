@@ -1,0 +1,1230 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ALBEMARLE POST OFFICE</td>
+<td>320 S 2ND STREET</td>
+<td>ALBEMARLE</td>
+<td>NC</td>
+<td>28001</td>
+<td>7049824108</td>
+</tr>
+<tr>
+<td>ANGIER POST OFFICE</td>
+<td>31 W DUPREE ST</td>
+<td>ANGIER</td>
+<td>NC</td>
+<td>27501</td>
+<td>9194205343</td>
+</tr>
+<tr>
+<td>APEX POST OFFICE</td>
+<td>501 W WILLIAM ST</td>
+<td>APEX</td>
+<td>NC</td>
+<td>27502</td>
+<td>9193876708</td>
+</tr>
+<tr>
+<td>ASHEBORO POST OFFICE</td>
+<td>1030 S CHURCH ST</td>
+<td>ASHEBORO</td>
+<td>NC</td>
+<td>27203</td>
+<td>3366299119</td>
+</tr>
+<tr>
+<td>BILTMORE STATION POST OFFICE</td>
+<td>780 HENDERSONVILLE RD</td>
+<td>ASHEVILLE</td>
+<td>NC</td>
+<td>28803</td>
+<td>8282716455</td>
+</tr>
+<tr>
+<td>DOWNTOWN ASHEVILLE POST OFFICE</td>
+<td>33 COXE AVE.</td>
+<td>ASHEVILLE</td>
+<td>NC</td>
+<td>28801</td>
+<td>8282716428</td>
+</tr>
+<tr>
+<td>BAILEY POST OFFICE</td>
+<td>6171 DEANS ST.</td>
+<td>BAILEY</td>
+<td>NC</td>
+<td>27807</td>
+<td>2522353565</td>
+</tr>
+<tr>
+<td>BAKERSVILLE POST OFFICE</td>
+<td>130 HEMLOCK DR</td>
+<td>BAKERSVILLE</td>
+<td>NC</td>
+<td>28705</td>
+<td>8286882571</td>
+</tr>
+<tr>
+<td>BANNER ELK POST OFFICE</td>
+<td>155 CENTRAL WAY SW</td>
+<td>BANNER ELK</td>
+<td>NC</td>
+<td>28604</td>
+<td>8288984334</td>
+</tr>
+<tr>
+<td>CARTERET COUNTY REGISTER OF DEEDS</td>
+<td>302 COURTHOUSE SQUARE</td>
+<td>BEAUFORT</td>
+<td>NC</td>
+<td>28516</td>
+<td>2527288474</td>
+</tr>
+<tr>
+<td>BENSON POST OFFICE</td>
+<td>402 S MARKET STREET</td>
+<td>BENSON</td>
+<td>NC</td>
+<td>27504</td>
+<td>9198946156</td>
+</tr>
+<tr>
+<td>BRUNSWICK COUNTY REGISTER OF DEEDS</td>
+<td>75 COURTHOUSE DRIVE</td>
+<td>BOLIVIA</td>
+<td>NC</td>
+<td>28422</td>
+<td>9102532690</td>
+</tr>
+<tr>
+<td>APPALACHIAN STATE UNIVERSITY</td>
+<td>614 HOWARD ST</td>
+<td>BOONE</td>
+<td>NC</td>
+<td>28608</td>
+<td>8282622246</td>
+</tr>
+<tr>
+<td>BOONE MAIN POST OFFICE</td>
+<td>1544 BLOWING ROCK RD</td>
+<td>BOONE</td>
+<td>NC</td>
+<td>28607</td>
+<td>8282643813</td>
+</tr>
+<tr>
+<td>WATAUGA COUNTY TAX ADMINISTRATION</td>
+<td>274 WINKLERS CREEK ROAD</td>
+<td>BOONE</td>
+<td>NC</td>
+<td>28607</td>
+<td>8282682315</td>
+</tr>
+<tr>
+<td>BROADWAY POST OFFICE</td>
+<td>101 S MAIN ST</td>
+<td>BROADWAY</td>
+<td>NC</td>
+<td>27505</td>
+<td>9192583934</td>
+</tr>
+<tr>
+<td>PENDER COUNTY REGISTER OF DEEDS</td>
+<td>300 E FREMONT ST</td>
+<td>BURGAW</td>
+<td>NC</td>
+<td>28478</td>
+<td>9102591225</td>
+</tr>
+<tr>
+<td>ALAMANCE COUNTY PASSORT SERVICES</td>
+<td>342 SOUTH SPRING STREET</td>
+<td>BURLINGTON</td>
+<td>NC</td>
+<td>27215</td>
+<td>3365704160</td>
+</tr>
+<tr>
+<td>YANCEY COUNTY CLERK OF SUPERIOR COURT</td>
+<td>110 TOWN SQUARE</td>
+<td>BURNSVILLE</td>
+<td>NC</td>
+<td>28714</td>
+<td>8286785705</td>
+</tr>
+<tr>
+<td>BUXTON MAIN POST OFFICE</td>
+<td>48042 NC HWY 12</td>
+<td>BUXTON</td>
+<td>NC</td>
+<td>27920</td>
+<td>2529955755</td>
+</tr>
+<tr>
+<td>CLERK OF SUPERIOR COURT</td>
+<td>117 NC HWY 343 NORTH</td>
+<td>CAMDEN</td>
+<td>NC</td>
+<td>27921</td>
+<td>2523364000</td>
+</tr>
+<tr>
+<td>CAROLINA BEACH POST OFFICE</td>
+<td>1323 BRIDGE BARRIER RD</td>
+<td>CAROLINA BEACH</td>
+<td>NC</td>
+<td>28428</td>
+<td>9104584468</td>
+</tr>
+<tr>
+<td>CARRBORO POST OFFICE</td>
+<td>1500 W MAIN ST</td>
+<td>CARRBORO</td>
+<td>NC</td>
+<td>27510</td>
+<td>9199684573</td>
+</tr>
+<tr>
+<td>CARY POST OFFICE</td>
+<td>150 WRENN DR</td>
+<td>CARY</td>
+<td>NC</td>
+<td>27511</td>
+<td>9194603897</td>
+</tr>
+<tr>
+<td>CHAPEL HILL POST OFFICE</td>
+<td>125 S ESTES DR</td>
+<td>CHAPEL HILL</td>
+<td>NC</td>
+<td>27514</td>
+<td>9199299892</td>
+</tr>
+<tr>
+<td>CHARLOTTE PASSPORT ACCEPTANCE FACILITY</td>
+<td>1820 HARRIS HOUSTON RD</td>
+<td>CHARLOTTE</td>
+<td>NC</td>
+<td>28262</td>
+<td>7047172713</td>
+</tr>
+<tr>
+<td>SOUTH PROVIDENCE CHARLOTTE USPS</td>
+<td>11035 GOLF LINKS DRIVE</td>
+<td>CHARLOTTE</td>
+<td>NC</td>
+<td>28277</td>
+<td>7045408529</td>
+</tr>
+<tr>
+<td>UNION STATION - UNC CHARLOTTE</td>
+<td>8845 CRAVER RD</td>
+<td>CHARLOTTE</td>
+<td>NC</td>
+<td>28262</td>
+<td>7046875893</td>
+</tr>
+<tr>
+<td>CLEVELAND POST OFFICE</td>
+<td>105 W MAIN ST</td>
+<td>CLEVELAND</td>
+<td>NC</td>
+<td>27013</td>
+<td>7042789192</td>
+</tr>
+<tr>
+<td>CLERK OF SUPERIOR COURT SAMPSON COUNTY</td>
+<td>101 E. MAIN ST.</td>
+<td>CLINTON</td>
+<td>NC</td>
+<td>28328</td>
+<td>9105966600</td>
+</tr>
+<tr>
+<td>DURHAM COUNTY REGISTER OF DEEDS</td>
+<td>201 EAST MAIN STREET</td>
+<td>DURHAM</td>
+<td>NC</td>
+<td>27701</td>
+<td>9195600481</td>
+</tr>
+<tr>
+<td>DURHAM MPO</td>
+<td>323 E CHAPEL HILL ST</td>
+<td>DURHAM</td>
+<td>NC</td>
+<td>27701</td>
+<td>9196831188</td>
+</tr>
+<tr>
+<td>NORTH CAROLINA CENTRAL UNIVERSITY</td>
+<td>1801 FAYETTEVILLE STREET</td>
+<td>DURHAM</td>
+<td>NC</td>
+<td>27707</td>
+<td>9195307272</td>
+</tr>
+<tr>
+<td>RTP POST OFFICE</td>
+<td>65 T W ALEXANDER DRIVE</td>
+<td>DURHAM</td>
+<td>NC</td>
+<td>27709</td>
+<td>9194205343</td>
+</tr>
+<tr>
+<td>ELIZABETH CITY MAIN POST OFFICE</td>
+<td>1001 W EHRINGHAUS ST</td>
+<td>ELIZABETH CITY</td>
+<td>NC</td>
+<td>27909</td>
+<td>2523352582</td>
+</tr>
+<tr>
+<td>ELKIN POST OFFICE</td>
+<td>213 WEST MAIN STREET</td>
+<td>ELKIN</td>
+<td>NC</td>
+<td>28621</td>
+<td>3368352113</td>
+</tr>
+<tr>
+<td>ELON POST OFFICE</td>
+<td>105 S WILLIAMSON AVE</td>
+<td>ELON</td>
+<td>NC</td>
+<td>27244</td>
+<td>3365845943</td>
+</tr>
+<tr>
+<td>ENGELHARD POST OFFICE</td>
+<td>34668 US HWY 264</td>
+<td>ENGELHARD</td>
+<td>NC</td>
+<td>27824</td>
+<td>2529254671</td>
+</tr>
+<tr>
+<td>FAYETTEVILLE MAIN POST OFFICE</td>
+<td>301 GREEN ST</td>
+<td>FAYETTEVILLE</td>
+<td>NC</td>
+<td>28301</td>
+<td>9104862464</td>
+</tr>
+<tr>
+<td>FAYETTEVILLE STATE UNIVERSITY</td>
+<td>1200 MURCHISON RD</td>
+<td>FAYETTEVILLE</td>
+<td>NC</td>
+<td>28301</td>
+<td>9106721078</td>
+</tr>
+<tr>
+<td>FORT BRAGG STATION</td>
+<td>1605 REILLY RD</td>
+<td>FORT BRAGG</td>
+<td>NC</td>
+<td>28307</td>
+<td>9104362521</td>
+</tr>
+<tr>
+<td>MACON COUNTY CLERK OF SUPERIOR COURT</td>
+<td>5 WEST MAIN ST</td>
+<td>FRANKLIN</td>
+<td>NC</td>
+<td>28734</td>
+<td>8283497200</td>
+</tr>
+<tr>
+<td>FUQUAY-VARINA POST OFFICE</td>
+<td>131 NORTH JUDD PARKWAY</td>
+<td>FUQUAY VARINA</td>
+<td>NC</td>
+<td>27526</td>
+<td>9195521036</td>
+</tr>
+<tr>
+<td>GARNER POST OFFICE</td>
+<td>267 W. TIMBER DR</td>
+<td>GARNER</td>
+<td>NC</td>
+<td>27529</td>
+<td>9197797331</td>
+</tr>
+<tr>
+<td>GASTON COUNTY REGISTER OF DEEDS</td>
+<td>325 DR MARTIN LUTHER KING JR WAY</td>
+<td>GASTONIA</td>
+<td>NC</td>
+<td>28052</td>
+<td>7048627685</td>
+</tr>
+<tr>
+<td>GASTONIA POST OFFICE</td>
+<td>301 W MAIN STREET</td>
+<td>GASTONIA</td>
+<td>NC</td>
+<td>28052</td>
+<td>7048676312</td>
+</tr>
+<tr>
+<td>SUPERIOR COURT CLERK GATES COUNTY</td>
+<td>202 COURT ST.</td>
+<td>GATESVILLE</td>
+<td>NC</td>
+<td>27938</td>
+<td>2523571365</td>
+</tr>
+<tr>
+<td>GIBSONVILLE POST OFFICE</td>
+<td>221 E. MAIN ST</td>
+<td>GIBSONVILLE</td>
+<td>NC</td>
+<td>27249</td>
+<td>3369319320</td>
+</tr>
+<tr>
+<td>GOLDSBORO POST OFFICE</td>
+<td>200 N WILLIAM ST</td>
+<td>GOLDSBORO</td>
+<td>NC</td>
+<td>27530</td>
+<td>9197340558</td>
+</tr>
+<tr>
+<td>ALAMANCE COUNTY REGISTER OF DEEDS</td>
+<td>118 W HARDEN STREET</td>
+<td>GRAHAM</td>
+<td>NC</td>
+<td>27253</td>
+<td>3365706563</td>
+</tr>
+<tr>
+<td>FOUR SEASONS STATION USPS</td>
+<td>301 FOUR SEASONS TOWN CTR</td>
+<td>GREENSBORO</td>
+<td>NC</td>
+<td>27427</td>
+<td>3362998085</td>
+</tr>
+<tr>
+<td>GREENSBORO MAIN POST OFFICE</td>
+<td>201 N MURROW BLVD</td>
+<td>GREENSBORO</td>
+<td>NC</td>
+<td>27401</td>
+<td>3363700227</td>
+</tr>
+<tr>
+<td>GUILFORD COUNTY PASSPORT ACCEPTANCE SERVICES</td>
+<td>201 WEST MARKET ST</td>
+<td>GREENSBORO</td>
+<td>NC</td>
+<td>27401</td>
+<td>3366415322</td>
+</tr>
+<tr>
+<td>UNC GREENSBORO</td>
+<td>1209 NORTH DR.</td>
+<td>GREENSBORO</td>
+<td>NC</td>
+<td>27413</td>
+<td>3362560147</td>
+</tr>
+<tr>
+<td>EAST CAROLINA UNIVERSITY INTERNATIONAL HOUSE</td>
+<td>306 EAST 5TH ST</td>
+<td>GREENVILLE</td>
+<td>NC</td>
+<td>27858</td>
+<td>2523285829</td>
+</tr>
+<tr>
+<td>GREENVILLE MPO</td>
+<td>300 W 2ND ST</td>
+<td>GREENVILLE</td>
+<td>NC</td>
+<td>27834</td>
+<td>2523212291</td>
+</tr>
+<tr>
+<td>TOWN OF HARRISBURG</td>
+<td>4100 MAIN ST</td>
+<td>HARRISBURG</td>
+<td>NC</td>
+<td>28075</td>
+<td>7044555614</td>
+</tr>
+<tr>
+<td>HAVELOCK POST OFFICE</td>
+<td>133 HWY 70 W</td>
+<td>HAVELOCK</td>
+<td>NC</td>
+<td>28532</td>
+<td>2524473819</td>
+</tr>
+<tr>
+<td>HENDERSON POST OFFICE</td>
+<td>905 S GARNETT ST</td>
+<td>HENDERSON</td>
+<td>NC</td>
+<td>27536</td>
+<td>2524386752</td>
+</tr>
+<tr>
+<td>HENDERSONVILLE POST OFFICE</td>
+<td>1800 FOUR SEASONS BLVD</td>
+<td>HENDERSONVILLE</td>
+<td>NC</td>
+<td>28792</td>
+<td>8286981299</td>
+</tr>
+<tr>
+<td>PERQUIMANS COUNTY CLERK</td>
+<td>128 N. CHURCH ST.</td>
+<td>HERTFORD</td>
+<td>NC</td>
+<td>27944</td>
+<td>2524045000</td>
+</tr>
+<tr>
+<td>HICKORY MAIN POST OFFICE</td>
+<td>231 GOVERNMENT AVE SW</td>
+<td>HICKORY</td>
+<td>NC</td>
+<td>28602</td>
+<td>8283285503</td>
+</tr>
+<tr>
+<td>HIGH POINT POST OFFICE</td>
+<td>315 E GREEN DR</td>
+<td>HIGH POINT</td>
+<td>NC</td>
+<td>27260</td>
+<td>3368846098</td>
+</tr>
+<tr>
+<td>ORANGE COUNTY REGISTER OF DEEDS</td>
+<td>228 SOUTH CHURTON ST, STE 300</td>
+<td>HILLSBOROUGH</td>
+<td>NC</td>
+<td>27278</td>
+<td>9192452681</td>
+</tr>
+<tr>
+<td>HOLLY SPRINGS POST OFFICE</td>
+<td>112 THIRD STREET</td>
+<td>HOLLY SPRINGS</td>
+<td>NC</td>
+<td>27540</td>
+<td>9194205343</td>
+</tr>
+<tr>
+<td>ICARD POST OFFICE</td>
+<td>3462 MILLER BRIDGE RD</td>
+<td>ICARD</td>
+<td>NC</td>
+<td>28666</td>
+<td>8283975071</td>
+</tr>
+<tr>
+<td>JACKSON POST OFFICE</td>
+<td>104 ATHERTON ST</td>
+<td>JACKSON</td>
+<td>NC</td>
+<td>27845</td>
+<td>2525343841</td>
+</tr>
+<tr>
+<td>CITY OF JACKSONVILLE - CENTER FOR PUBLIC SAFETY</td>
+<td>200 MARINE BLVD</td>
+<td>JACKSONVILLE</td>
+<td>NC</td>
+<td>28540</td>
+<td>9104554000</td>
+</tr>
+<tr>
+<td>CITY OF JACKSONVILLE-CITY HALL</td>
+<td>815 NEW BRIDGE STREET</td>
+<td>JACKSONVILLE</td>
+<td>NC</td>
+<td>28540</td>
+<td>9109385200</td>
+</tr>
+<tr>
+<td>JAMESTOWN POST OFFICE</td>
+<td>203 E MAIN ST</td>
+<td>JAMESTOWN</td>
+<td>NC</td>
+<td>27282</td>
+<td>3364542124</td>
+</tr>
+<tr>
+<td>JEFFERSON POST OFFICE</td>
+<td>410 E MAIN ST</td>
+<td>JEFFERSON</td>
+<td>NC</td>
+<td>28640</td>
+<td>3362469632</td>
+</tr>
+<tr>
+<td>JONESVILLE POST OFFICE</td>
+<td>127 N BRIDGE ST</td>
+<td>JONESVILLE</td>
+<td>NC</td>
+<td>28642</td>
+<td>3368355047</td>
+</tr>
+<tr>
+<td>KANNAPOLIS POST OFFICE</td>
+<td>1040 DALE EARNHARDT BLVD</td>
+<td>KANNAPOLIS</td>
+<td>NC</td>
+<td>28083</td>
+<td>7049381120</td>
+</tr>
+<tr>
+<td>KERNERSVILLE POST OFFICE</td>
+<td>325 WEST MOUNTAIN ST</td>
+<td>KERNERSVILLE</td>
+<td>NC</td>
+<td>27284</td>
+<td>3369937262</td>
+</tr>
+<tr>
+<td>KING POST OFFICE</td>
+<td>603 S MAIN ST</td>
+<td>KING</td>
+<td>NC</td>
+<td>27021</td>
+<td>3369857088</td>
+</tr>
+<tr>
+<td>LENOIR COMMUNITY COLLEGE</td>
+<td>231 HWY 58 SOUTH</td>
+<td>KINSTON</td>
+<td>NC</td>
+<td>28502</td>
+<td>2522336872</td>
+</tr>
+<tr>
+<td>KITTY HAWK POST OFFICE</td>
+<td>3841 N CROATAN HWY</td>
+<td>KITTY HAWK</td>
+<td>NC</td>
+<td>27949</td>
+<td>2522612211</td>
+</tr>
+<tr>
+<td>LA GRANGE POST OFFICE</td>
+<td>209 S CASWELL ST</td>
+<td>LA GRANGE</td>
+<td>NC</td>
+<td>28551</td>
+<td>2525663196</td>
+</tr>
+<tr>
+<td>DAVIDSON COUNTY CLERK OF SUPERIOR COURT</td>
+<td>110 W. CENTER ST.</td>
+<td>LEXINGTON</td>
+<td>NC</td>
+<td>27292</td>
+<td>3362426701</td>
+</tr>
+<tr>
+<td>LOUISBURG POST OFFICE</td>
+<td>125 N MAIN ST</td>
+<td>LOUISBURG</td>
+<td>NC</td>
+<td>27549</td>
+<td>9194961084</td>
+</tr>
+<tr>
+<td>MAIDEN POST OFFICE</td>
+<td>512 ISLAND FORD RD</td>
+<td>MAIDEN</td>
+<td>NC</td>
+<td>28650</td>
+<td>8284288609</td>
+</tr>
+<tr>
+<td>DARE COUNTY REGISTER OF DEEDS</td>
+<td>962 MARSHALL C COLLINS DR</td>
+<td>MANTEO</td>
+<td>NC</td>
+<td>27954</td>
+<td>2524755970</td>
+</tr>
+<tr>
+<td>MARION POST OFFICE</td>
+<td>215 S MAIN ST</td>
+<td>MARION</td>
+<td>NC</td>
+<td>28752</td>
+<td>8286525838</td>
+</tr>
+<tr>
+<td>MATTHEWS POST OFFICE</td>
+<td>301 E JOHN ST</td>
+<td>MATTHEWS</td>
+<td>NC</td>
+<td>28105</td>
+<td>7048476063</td>
+</tr>
+<tr>
+<td>MOCKSVILLE POST OFFICE</td>
+<td>1119 YADKINVILLE RD</td>
+<td>MOCKSVILLE</td>
+<td>NC</td>
+<td>27028</td>
+<td>3367512011</td>
+</tr>
+<tr>
+<td>UNION COUNTY REGISTER OF DEEDS</td>
+<td>500 NORTH MAIN STREET STE 239</td>
+<td>MONROE</td>
+<td>NC</td>
+<td>28112</td>
+<td>7042820216</td>
+</tr>
+<tr>
+<td>MORGANTON POST OFFICE</td>
+<td>320 SANFORD DR</td>
+<td>MORGANTON</td>
+<td>NC</td>
+<td>28655</td>
+<td>8284373484</td>
+</tr>
+<tr>
+<td>SUPERIOR COURT CLERK BURKE COUNTY</td>
+<td>201 SOUTH GREEN ST</td>
+<td>MORGANTON</td>
+<td>NC</td>
+<td>28655</td>
+<td>8284333200</td>
+</tr>
+<tr>
+<td>MT AIRY MAIN POST OFFICE</td>
+<td>111 S MAIN ST</td>
+<td>MT. AIRY</td>
+<td>NC</td>
+<td>27030</td>
+<td>3367862805</td>
+</tr>
+<tr>
+<td>MT GILEAD POST OFFICE</td>
+<td>106 N SCHOOL ST</td>
+<td>MT. GILEAD</td>
+<td>NC</td>
+<td>27306</td>
+<td>3364399320</td>
+</tr>
+<tr>
+<td>MURPHY POST OFFICE</td>
+<td>388 VALLEY RIVER AVE</td>
+<td>MURPHY</td>
+<td>NC</td>
+<td>28906</td>
+<td>8288376214</td>
+</tr>
+<tr>
+<td>NEW BERN POST OFFICE</td>
+<td>1851 S. GLENBURNIE RD.</td>
+<td>NEW BERN</td>
+<td>NC</td>
+<td>28562</td>
+<td>2526386752</td>
+</tr>
+<tr>
+<td>TOWN OF NEWLAND</td>
+<td>301 CRANBERRY STREET</td>
+<td>NEWLAND</td>
+<td>NC</td>
+<td>28657</td>
+<td>8287332023</td>
+</tr>
+<tr>
+<td>NEWPORT POST OFFICE</td>
+<td>337 HOWARD BLVD</td>
+<td>NEWPORT</td>
+<td>NC</td>
+<td>28570</td>
+<td>2522234638</td>
+</tr>
+<tr>
+<td>NEWTON POST OFFICE</td>
+<td>218 S MAIN AVE</td>
+<td>NEWTON</td>
+<td>NC</td>
+<td>28658</td>
+<td>8284644031</td>
+</tr>
+<tr>
+<td>NORTH WILKESBORO USPS</td>
+<td>300 8TH ST</td>
+<td>NORTH WILKESBORO</td>
+<td>NC</td>
+<td>28659</td>
+<td>336677121</td>
+</tr>
+<tr>
+<td>NORWOOD POST OFFICE</td>
+<td>243 S MAIN ST</td>
+<td>NORWOOD</td>
+<td>NC</td>
+<td>28128</td>
+<td>7044743048</td>
+</tr>
+<tr>
+<td>OXFORD POST OFFICE</td>
+<td>144 MAIN ST</td>
+<td>OXFORD</td>
+<td>NC</td>
+<td>27565</td>
+<td>9196931591</td>
+</tr>
+<tr>
+<td>UNIVERSITY OF NORTH CAROLINA PEMBROKE</td>
+<td>ONE UNIVERSITY DRIVE</td>
+<td>PEMBROKE</td>
+<td>NC</td>
+<td>28372</td>
+<td>9105225759</td>
+</tr>
+<tr>
+<td>PINEHURST POST OFFICE</td>
+<td>80 BLAKE BLVD</td>
+<td>PINEHURST</td>
+<td>NC</td>
+<td>28374</td>
+<td>9102951231</td>
+</tr>
+<tr>
+<td>PITTSBORO MAIN OFFICE</td>
+<td>916 EAST ST</td>
+<td>PITTSBORO</td>
+<td>NC</td>
+<td>27312</td>
+<td>9196420128</td>
+</tr>
+<tr>
+<td>PRINCETON POST OFFICE</td>
+<td>107 W EDWARDS ST</td>
+<td>PRINCETON</td>
+<td>NC</td>
+<td>27569</td>
+<td>9199360013</td>
+</tr>
+<tr>
+<td>CAPITAL STATION POST OFFICE</td>
+<td>311 NEW BERN AVE</td>
+<td>RALEIGH</td>
+<td>NC</td>
+<td>27611</td>
+<td>9198323478</td>
+</tr>
+<tr>
+<td>NC STATE UNIVERSITY</td>
+<td>WITHERSPOON STUDENT CENTER 321</td>
+<td>RALEIGH</td>
+<td>NC</td>
+<td>27695</td>
+<td>9195152249</td>
+</tr>
+<tr>
+<td>WESTGATE POSTAL STORE</td>
+<td>1 FLORETTA PLACE</td>
+<td>RALEIGH</td>
+<td>NC</td>
+<td>27676</td>
+<td>9194205245</td>
+</tr>
+<tr>
+<td>RANDLEMAN POST OFFICE</td>
+<td>611 W ACADEMY ST</td>
+<td>RANDLEMAN</td>
+<td>NC</td>
+<td>27317</td>
+<td>3367996020</td>
+</tr>
+<tr>
+<td>REIDSVILLE POST OFFICE</td>
+<td>201 PIEDMONT ST</td>
+<td>REIDSVILLE</td>
+<td>NC</td>
+<td>27320</td>
+<td>3363427480</td>
+</tr>
+<tr>
+<td>ROCKINGHAM CO REGISTER OF DEEDS</td>
+<td>170 NC 65 STE 150</td>
+<td>REIDSVILLE</td>
+<td>NC</td>
+<td>27320</td>
+<td>3363428820</td>
+</tr>
+<tr>
+<td>ROANOKE RAPIDS POST OFFICE</td>
+<td>725 ROANOKE AVENUE</td>
+<td>ROANOKE RAPIDS</td>
+<td>NC</td>
+<td>27870</td>
+<td>2525376031</td>
+</tr>
+<tr>
+<td>ROBBINS POST OFFICE</td>
+<td>181 N MIDDLETON ST</td>
+<td>ROBBINS</td>
+<td>NC</td>
+<td>27325</td>
+<td>8774872778</td>
+</tr>
+<tr>
+<td>CLERK OF COURT GRAHAM COUNTY</td>
+<td>12 N MAIN ST</td>
+<td>ROBBINSVILLE</td>
+<td>NC</td>
+<td>28771</td>
+<td>8284797000</td>
+</tr>
+<tr>
+<td>SUPERIOR COURT CLERK RICHMOND COUNTY</td>
+<td>105 WEST FRANKLIN STREET</td>
+<td>ROCKINGHAM</td>
+<td>NC</td>
+<td>28379</td>
+<td>9104197400</td>
+</tr>
+<tr>
+<td>BRASWELL MEMORIAL LIBRARY</td>
+<td>727 NORTH GRACE ST</td>
+<td>ROCKY MOUNT</td>
+<td>NC</td>
+<td>27804</td>
+<td>2524421951</td>
+</tr>
+<tr>
+<td>ROCKY MOUNT MAIN OFFICE</td>
+<td>327 E RALEIGH BLVD</td>
+<td>ROCKY MOUNT</td>
+<td>NC</td>
+<td>27801</td>
+<td>2524071000</td>
+</tr>
+<tr>
+<td>ROSE HILL POST OFFICE</td>
+<td>128 E CHURCH ST</td>
+<td>ROSE HILL</td>
+<td>NC</td>
+<td>28458</td>
+<td>9102892348</td>
+</tr>
+<tr>
+<td>ROUGEMONT MAIN POST OFFICE</td>
+<td>12311 ROXBORO RD</td>
+<td>ROUGEMONT</td>
+<td>NC</td>
+<td>27572</td>
+<td>9194777809</td>
+</tr>
+<tr>
+<td>SUPERIOR COURT CLERK PERSON COUNTY</td>
+<td>105 S. MAIN ST.</td>
+<td>ROXBORO</td>
+<td>NC</td>
+<td>27573</td>
+<td>3365035200</td>
+</tr>
+<tr>
+<td>CLERK OF CIVIL COURT RUTHERFORD COUNTY</td>
+<td>229 N. MAIN ST. SUITE 203</td>
+<td>RUTHERFORDTON</td>
+<td>NC</td>
+<td>28139</td>
+<td>8282886100</td>
+</tr>
+<tr>
+<td>ROWAN COUNTY REGISTER OF DEEDS</td>
+<td>402 NORTH MAIN STREET</td>
+<td>SALISBURY</td>
+<td>NC</td>
+<td>28144</td>
+<td>7042168626</td>
+</tr>
+<tr>
+<td>SALISBURY POST OFFICE</td>
+<td>605 E INNES STREET</td>
+<td>SALISBURY</td>
+<td>NC</td>
+<td>28144</td>
+<td>7046367821</td>
+</tr>
+<tr>
+<td>SANFORD POST OFFICE</td>
+<td>1200 S HORNER BLVD</td>
+<td>SANFORD</td>
+<td>NC</td>
+<td>27330</td>
+<td>9197744926</td>
+</tr>
+<tr>
+<td>SELMA POST OFFICE</td>
+<td>308 N RAIFORD STREET</td>
+<td>SELMA</td>
+<td>NC</td>
+<td>27576</td>
+<td>9199650669</td>
+</tr>
+<tr>
+<td>CLEVELAND COUNTY REGISTER OF DEEDS</td>
+<td>311 E. MARION ST</td>
+<td>SHELBY</td>
+<td>NC</td>
+<td>28150</td>
+<td>7044844780</td>
+</tr>
+<tr>
+<td>JOHNSTON COUNTY REGISTER OF DEEDS OFFICE</td>
+<td>207 E JOHNSTON ST</td>
+<td>SMITHFIELD</td>
+<td>NC</td>
+<td>27577</td>
+<td>9192098327</td>
+</tr>
+<tr>
+<td>SUPERIOR COURT CLERK ALLEGHANY COUNTY</td>
+<td>12 N MAIN ST</td>
+<td>SPARTA</td>
+<td>NC</td>
+<td>28675</td>
+<td>3363723900</td>
+</tr>
+<tr>
+<td>RUTHERFORD COUNTY LIBRARY</td>
+<td>255 CALLAHAN KOON RD</td>
+<td>SPINDALE</td>
+<td>NC</td>
+<td>28160</td>
+<td>8282876115</td>
+</tr>
+<tr>
+<td>STATESVILLE POST OFFICE</td>
+<td>301 S OAKLAND AVE</td>
+<td>STATESVILLE</td>
+<td>NC</td>
+<td>28677</td>
+<td>7048725213</td>
+</tr>
+<tr>
+<td>JACKSON COUNTY CLERK OF SUPERIOR COURT</td>
+<td>401 GRINDSTAFF COVE ROAD</td>
+<td>SYLVA</td>
+<td>NC</td>
+<td>28779</td>
+<td>8286316400</td>
+</tr>
+<tr>
+<td>TABOR CITY POST OFFICE</td>
+<td>200 E. 5TH ST</td>
+<td>TABOR CITY</td>
+<td>NC</td>
+<td>28463</td>
+<td>9106532658</td>
+</tr>
+<tr>
+<td>EDGECOMBE COUNTY MEMORIAL LIBRARY</td>
+<td>909 N MAIN STREET</td>
+<td>TARBORO</td>
+<td>NC</td>
+<td>27886</td>
+<td>2528231141</td>
+</tr>
+<tr>
+<td>TAYLORSVILLE POST OFFICE</td>
+<td>220 FIRST AVE SW</td>
+<td>TAYLORSVILLE</td>
+<td>NC</td>
+<td>28681</td>
+<td>8286324209</td>
+</tr>
+<tr>
+<td>THOMASVILLE POST OFFICE</td>
+<td>101 W MAIN STREET</td>
+<td>THOMASVILLE</td>
+<td>NC</td>
+<td>27360</td>
+<td>3364723892</td>
+</tr>
+<tr>
+<td>CLERK OF SUPERIOR COURT MONTGOMERY COUNTY</td>
+<td>108 E. MAIN ST.</td>
+<td>TROY</td>
+<td>NC</td>
+<td>27371</td>
+<td>9105713731</td>
+</tr>
+<tr>
+<td>TRYON POST OFFICE</td>
+<td>95 PACOLET ST.</td>
+<td>TRYON</td>
+<td>NC</td>
+<td>28782</td>
+<td>8288599357</td>
+</tr>
+<tr>
+<td>VALDESE POST OFFICE</td>
+<td>300 RODORET ST S</td>
+<td>VALDESE</td>
+<td>NC</td>
+<td>28690</td>
+<td>8288742812</td>
+</tr>
+<tr>
+<td>WAKE FOREST POST OFFICE</td>
+<td>224 E HOLDING AVE</td>
+<td>WAKE FOREST</td>
+<td>NC</td>
+<td>27587</td>
+<td>9195568859</td>
+</tr>
+<tr>
+<td>THELMA DINGUS BRYANT LIBRARY</td>
+<td>409 W MAIN ST</td>
+<td>WALLACE</td>
+<td>NC</td>
+<td>28466</td>
+<td>9102853796</td>
+</tr>
+<tr>
+<td>WALNUT COVE POST OFFICE</td>
+<td>217 N MAIN ST</td>
+<td>WALNUT COVE</td>
+<td>NC</td>
+<td>27052</td>
+<td>3365917380</td>
+</tr>
+<tr>
+<td>CLERK OF SUPERIOR COURT WARREN COUNTY</td>
+<td>109 S MAIN ST.</td>
+<td>WARRENTON</td>
+<td>NC</td>
+<td>27589</td>
+<td>2522576300</td>
+</tr>
+<tr>
+<td>HAYWOOD CO JUSTICE CENTER - CLERK OF SUPERIOR CT</td>
+<td>285 N. MAIN ST</td>
+<td>WAYNESVILLE</td>
+<td>NC</td>
+<td>28786</td>
+<td>8284546503</td>
+</tr>
+<tr>
+<td>WENDELL POST OFFICE</td>
+<td>40 HANOR LANE</td>
+<td>WENDELL</td>
+<td>NC</td>
+<td>27591</td>
+<td>9193650657</td>
+</tr>
+<tr>
+<td>WILKESBORO POST OFFICE</td>
+<td>207 W MAIN ST</td>
+<td>WILKESBORO</td>
+<td>NC</td>
+<td>28697</td>
+<td>3366676241</td>
+</tr>
+<tr>
+<td>WILLOW SPRING POST OFFICE</td>
+<td>6805 DWIGHT ROWLAND RD</td>
+<td>WILLOW SPRING</td>
+<td>NC</td>
+<td>27592</td>
+<td>9194205343</td>
+</tr>
+<tr>
+<td>AZALEA</td>
+<td>3916 OLEANDER DR</td>
+<td>WILMINGTON</td>
+<td>NC</td>
+<td>28403</td>
+<td>9103133262</td>
+</tr>
+<tr>
+<td>UNIVERSITY OF NORTH CAROLINA WILMINGTON</td>
+<td>601 S COLLEGE RD</td>
+<td>WILMINGTON</td>
+<td>NC</td>
+<td>28403</td>
+<td>9109622432</td>
+</tr>
+<tr>
+<td>WILMINGTON POST OFFICE</td>
+<td>152 NORTH FRONT STREET</td>
+<td>WILMINGTON</td>
+<td>NC</td>
+<td>28401</td>
+<td>9103133292</td>
+</tr>
+<tr>
+<td>WILSON POST OFFICE</td>
+<td>501 MERCER ST</td>
+<td>WILSON</td>
+<td>NC</td>
+<td>27893</td>
+<td>2522374161</td>
+</tr>
+<tr>
+<td>HANES MALL POST OFFICE</td>
+<td>3320 SILAS CREEK PKWY, STE 500</td>
+<td>WINSTON-SALEM</td>
+<td>NC</td>
+<td>27103</td>
+<td>3367216009</td>
+</tr>
+<tr>
+<td>NORTH POINT STATION USPS</td>
+<td>7840 NORTH POINT BLVD</td>
+<td>WINSTON-SALEM</td>
+<td>NC</td>
+<td>27106</td>
+<td>3367571488</td>
+</tr>
+<tr>
+<td>WINSTON - SALEM STATE UNIVERSITY</td>
+<td>601 S MARTIN LUTHER KING, JR. DR.</td>
+<td>WINSTON-SALEM</td>
+<td>NC</td>
+<td>27110</td>
+<td>3367502127</td>
+</tr>
+<tr>
+<td>YADKINVILLE MAIN POST OFFICE</td>
+<td>315 W MAIN ST</td>
+<td>YADKINVILLE</td>
+<td>NC</td>
+<td>27055</td>
+<td>3366798310</td>
+</tr>
+<tr>
+<td>ZEBULON POST OFFICE</td>
+<td>139 E VANCE STREET</td>
+<td>ZEBULON</td>
+<td>NC</td>
+<td>27597</td>
+<td>9192690361</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,1566 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>USPS ABERDEEN POST OFFICE</td>
+<td>30 WEST BELAIR AVENUE</td>
+<td>ABERDEEN</td>
+<td>MD</td>
+<td>21001</td>
+<td>4102978778</td>
+</tr>
+<tr>
+<td>USPS ABINGDON POST OFFICE</td>
+<td>2945 EMMORTON ROAD</td>
+<td>ABINGDON</td>
+<td>MD</td>
+<td>21009</td>
+<td>4105694421</td>
+</tr>
+<tr>
+<td>USPS ACCIDENT POST OFFICE</td>
+<td>103 SOUTH STREET</td>
+<td>ACCIDENT</td>
+<td>MD</td>
+<td>21520</td>
+<td>3017468420</td>
+</tr>
+<tr>
+<td>PRINCE GEORGES COUNTY MEMORIAL LIBRARY-ACCOKEEK BRANCH</td>
+<td>15773 LIVINGSTON RD.</td>
+<td>ACCOKEEK</td>
+<td>MD</td>
+<td>20607</td>
+<td>3012922880</td>
+</tr>
+<tr>
+<td>USPS ACCOKEEK POST OFFICE</td>
+<td>16405 LIVINGSTON RD</td>
+<td>ACCOKEEK</td>
+<td>MD</td>
+<td>20607</td>
+<td>3012832861</td>
+</tr>
+<tr>
+<td>ANNE ARUNDEL COUNTY CIRCUIT COURT</td>
+<td>8 CHURCH CIRCLE</td>
+<td>ANNAPOLIS</td>
+<td>MD</td>
+<td>21401</td>
+<td>4102221434</td>
+</tr>
+<tr>
+<td>USPS ANNAPOLIS  - US NAVAL ACADEMY POST OFFICE</td>
+<td>1  WILSON ROAD</td>
+<td>ANNAPOLIS</td>
+<td>MD</td>
+<td>21402</td>
+<td>4102933787</td>
+</tr>
+<tr>
+<td>USPS ANNAPOLIS JUNCTION POST OFFICE</td>
+<td>10820 GUILFORD RD</td>
+<td>ANNAPOLIS JUNCTION</td>
+<td>MD</td>
+<td>20701</td>
+<td>3017252512</td>
+</tr>
+<tr>
+<td>ABERDEEN PROVING GROUND POST OFFICE</td>
+<td>4510 BOOTHBY HILL AVE</td>
+<td>APG</td>
+<td>MD</td>
+<td>21005</td>
+<td>4102787967</td>
+</tr>
+<tr>
+<td>USPS ARNOLD POST OFFICE</td>
+<td>1521 RITCHIE HIGHWAY</td>
+<td>ARNOLD</td>
+<td>MD</td>
+<td>21012</td>
+<td>4107570692</td>
+</tr>
+<tr>
+<td>USPS ASHTON POST OFFICE</td>
+<td>19 OLNEY SANDY SPRING RD</td>
+<td>ASHTON</td>
+<td>MD</td>
+<td>20861</td>
+<td>3017740100</td>
+</tr>
+<tr>
+<td>BCPL - ARBUTUS BRANCH</td>
+<td>855 SULPHUR SPRING RD.</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21227</td>
+<td>4108871451</td>
+</tr>
+<tr>
+<td>ENOCH PRATT FREE LIBRARY</td>
+<td>400 CATHEDRAL STREET</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21201</td>
+<td>4103965325</td>
+</tr>
+<tr>
+<td>USPS ARLINGTON STATION POST OFFICE</td>
+<td>3500 DOLFIELD AVENUE</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21215</td>
+<td>4103675458</td>
+</tr>
+<tr>
+<td>USPS BALTIMORE MAIN POST OFFICE</td>
+<td>900 E FAYETTE STREET  RM 118</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21233</td>
+<td>4103474202</td>
+</tr>
+<tr>
+<td>USPS BROOKLYN CURTIS BAY POST OFFICE</td>
+<td>10 16TH AVENUE</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21225</td>
+<td>4103540821</td>
+</tr>
+<tr>
+<td>USPS CLIFTON EAST END POST OFFICE</td>
+<td>4200 SHANNON DRIVE</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21213</td>
+<td>4104882870</td>
+</tr>
+<tr>
+<td>USPS DRUID STATION POST OFFICE</td>
+<td>1826 PENNSYLVANIA AVENUE</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21217</td>
+<td>4105233479</td>
+</tr>
+<tr>
+<td>USPS DUNDALK POST OFFICE</td>
+<td>44 SHIPPING PLACE</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21222</td>
+<td>4102842061</td>
+</tr>
+<tr>
+<td>USPS ESSEX POST OFFICE</td>
+<td>444 MARYLAND AVENUE</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21221</td>
+<td>4106870326</td>
+</tr>
+<tr>
+<td>USPS GOVANS POST OFFICE</td>
+<td>4904 YORK ROAD</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21212</td>
+<td>4103232355</td>
+</tr>
+<tr>
+<td>USPS GWYNN OAK BRANCH</td>
+<td>6101 LIBERTY ROAD</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21207</td>
+<td>4109442435</td>
+</tr>
+<tr>
+<td>USPS HALETHORPE POST OFFICE</td>
+<td>6 WAELCHLI AVENUE</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21227</td>
+<td>4103474275</td>
+</tr>
+<tr>
+<td>USPS HAMPDEN STATION</td>
+<td>919 WEST 34TH STREET</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21211</td>
+<td>2022687900</td>
+</tr>
+<tr>
+<td>USPS HIGHLANDTOWN POST OFFICE</td>
+<td>6221 EASTERN AVEUE</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21224</td>
+<td>4106331305</td>
+</tr>
+<tr>
+<td>USPS MT WASHINGTON STATION</td>
+<td>5730 COTTONWORTH AVENUE</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21209</td>
+<td>2022687900</td>
+</tr>
+<tr>
+<td>USPS NORTHWOOD STATION POST OFFICE</td>
+<td>1800 E NORTHWOOD PARKWAY</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21239</td>
+<td>4103238896</td>
+</tr>
+<tr>
+<td>USPS NOTTINGHAM BRANCH</td>
+<td>4990 MERCANTILE ROAD</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21236</td>
+<td>4109314305</td>
+</tr>
+<tr>
+<td>USPS RASPEBURG STATION</td>
+<td>6502 BELAIR ROAD</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21206</td>
+<td>2022687900</td>
+</tr>
+<tr>
+<td>USPS ROSEDALE POST OFFICE</td>
+<td>7000 GOLDEN RING ROAD</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21237</td>
+<td>4103474275</td>
+</tr>
+<tr>
+<td>USPS SOUTH STATION POST OFFICE</td>
+<td>146 WEST OSTEND STREET</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21230</td>
+<td>4103474275</td>
+</tr>
+<tr>
+<td>USPS WAVERLY STATION POST OFFICE</td>
+<td>3000 HOMEWOOD AVENUE</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21218</td>
+<td>4108898951</td>
+</tr>
+<tr>
+<td>USPS WINDSOR MILL POST OFFICE</td>
+<td>2513 N ROLLING ROAD</td>
+<td>BALTIMORE</td>
+<td>MD</td>
+<td>21244</td>
+<td>4103474275</td>
+</tr>
+<tr>
+<td>BEL AIR POST OFFICE</td>
+<td>202 BLUM COURT</td>
+<td>BEL AIR</td>
+<td>MD</td>
+<td>21014</td>
+<td>4104207544</td>
+</tr>
+<tr>
+<td>HARFORD COUNTY PUBLIC LIBRARY</td>
+<td>100 E PENNSYLVANIA AVE</td>
+<td>BEL AIR</td>
+<td>MD</td>
+<td>21014</td>
+<td>4106383151</td>
+</tr>
+<tr>
+<td>USPS BELTSVILLE POST OFFICE</td>
+<td>10901 RHODE ISLAND AVENUE</td>
+<td>BELTSVILLE</td>
+<td>MD</td>
+<td>20705</td>
+<td>3019373356</td>
+</tr>
+<tr>
+<td>USPS OCEAN PINES BRANCH OFFICE</td>
+<td>11115 LAKE VIEW LANE</td>
+<td>BERLIN</td>
+<td>MD</td>
+<td>21811</td>
+<td>4102083959</td>
+</tr>
+<tr>
+<td>USPS WEST LAKE STATION POST OFFICE</td>
+<td>10421 MOTOR CITY DRIVE</td>
+<td>BETHESDA</td>
+<td>MD</td>
+<td>20817</td>
+<td>3017671742</td>
+</tr>
+<tr>
+<td>BLADENSBURG POST OFFICE</td>
+<td>4921 TILDEN RD</td>
+<td>BLADENSBURG</td>
+<td>MD</td>
+<td>20710</td>
+<td>3018645985</td>
+</tr>
+<tr>
+<td>USPS BOWIE MITCHELLVILLE POST OFFICE</td>
+<td>1500 POINTER RIDGE DRIVE</td>
+<td>BOWIE</td>
+<td>MD</td>
+<td>20716</td>
+<td>3012492512</td>
+</tr>
+<tr>
+<td>USPS BOWIE POST OFFICE</td>
+<td>6710  LAUREL-BOWIE ROAD</td>
+<td>BOWIE</td>
+<td>MD</td>
+<td>20715</td>
+<td>3014640094</td>
+</tr>
+<tr>
+<td>BRADDOCK HEIGHTS POST OFFICE</td>
+<td>4707 SCHLEY AVE</td>
+<td>BRADDOCK HEIGHTS</td>
+<td>MD</td>
+<td>21714</td>
+<td>3013715998</td>
+</tr>
+<tr>
+<td>USPS BROOKEVILLE POST OFFICE</td>
+<td>22311 GEORGIA AVENUE</td>
+<td>BROOKEVILLE</td>
+<td>MD</td>
+<td>20833</td>
+<td>3015703056</td>
+</tr>
+<tr>
+<td>USPS BRUNSWICK POST OFFICE</td>
+<td>315 BRUNSWICK STREET</td>
+<td>BRUNSWICK</td>
+<td>MD</td>
+<td>21716</td>
+<td>3018349944</td>
+</tr>
+<tr>
+<td>USPS BRYANS ROAD</td>
+<td>6960 INDIAN HEAD HWY</td>
+<td>BRYANS ROAD</td>
+<td>MD</td>
+<td>20616</td>
+<td>3012836460</td>
+</tr>
+<tr>
+<td>USPS BRYANTOWN MAIN POST OFFICE</td>
+<td>6425 LEONARDTOWN RD</td>
+<td>BRYANTOWN</td>
+<td>MD</td>
+<td>20617</td>
+<td>3012743731</td>
+</tr>
+<tr>
+<td>USPS BURTONSVILLE POST OFFICE</td>
+<td>15210 DINO DRIVE</td>
+<td>BURTONSVILLE</td>
+<td>MD</td>
+<td>20866</td>
+<td>3014769371</td>
+</tr>
+<tr>
+<td>USPS CALLAWAY POST OFFICE</td>
+<td>20293 PINEY POINT RD.</td>
+<td>CALLAWAY</td>
+<td>MD</td>
+<td>20620</td>
+<td>3019941183</td>
+</tr>
+<tr>
+<td>USPS CAMBRIDGE POST OFFICE</td>
+<td>301 HIGH STREET</td>
+<td>CAMBRIDGE</td>
+<td>MD</td>
+<td>21613</td>
+<td>4102281484</td>
+</tr>
+<tr>
+<td>USPS HAMPTON PARK FINANCE UNIT</td>
+<td>9301 EDGEWORTH DRIVE</td>
+<td>CAPITOL HEIGHTS</td>
+<td>MD</td>
+<td>20791</td>
+<td>3014997304</td>
+</tr>
+<tr>
+<td>USPS CATONSVILLE FINANCE POST OFFICE</td>
+<td>1001 FREDERICK ROAD</td>
+<td>CATONSVILLE</td>
+<td>MD</td>
+<td>21228</td>
+<td>4103474275</td>
+</tr>
+<tr>
+<td>QUEEN ANNES COUNTY CIRCUIT COURT</td>
+<td>220 N COMMERCE ST</td>
+<td>CENTREVILLE</td>
+<td>MD</td>
+<td>21617</td>
+<td>4107581773</td>
+</tr>
+<tr>
+<td>USPS CENTREVILLE POST OFFICE</td>
+<td>202 EAST WATER STREET</td>
+<td>CENTREVILLE</td>
+<td>MD</td>
+<td>21617</td>
+<td>4107580640</td>
+</tr>
+<tr>
+<td>CHASE POST OFFICE</td>
+<td>12404 EASTERN AVE</td>
+<td>CHASE</td>
+<td>MD</td>
+<td>21027</td>
+<td>4103356283</td>
+</tr>
+<tr>
+<td>USPS CHESAPEAKE CITY POST OFFICE</td>
+<td>2551 AUGUSTINE HERMAN HIGHWAY</td>
+<td>CHESAPEAKE CITY</td>
+<td>MD</td>
+<td>21915</td>
+<td>4108852110</td>
+</tr>
+<tr>
+<td>CHESTER POST OFFICE</td>
+<td>1575 POSTAL RD</td>
+<td>CHESTER</td>
+<td>MD</td>
+<td>21619</td>
+<td>4106436488</td>
+</tr>
+<tr>
+<td>USPS CHESTERTOWN POST OFFICE</td>
+<td>104 SPRING AVENUE</td>
+<td>CHESTERTOWN</td>
+<td>MD</td>
+<td>21620</td>
+<td>4107780690</td>
+</tr>
+<tr>
+<td>USPS BETHESDA POST OFFICE</td>
+<td>6900 WISCONSIN AVENUE</td>
+<td>CHEVY CHASE</td>
+<td>MD</td>
+<td>20815</td>
+<td>3019412670</td>
+</tr>
+<tr>
+<td>USPS CLARKSBURG POST OFFICE</td>
+<td>22505 GATEWAY CENTER DRIVE</td>
+<td>CLARKSBURG</td>
+<td>MD</td>
+<td>20871</td>
+<td>3015400856</td>
+</tr>
+<tr>
+<td>USPS CLEAR SPRING POST OFFICE</td>
+<td>21 MULBERRY ST.</td>
+<td>CLEAR SPRING</td>
+<td>MD</td>
+<td>21722</td>
+<td>3018422381</td>
+</tr>
+<tr>
+<td>USPS CLINTON POST OFFICE</td>
+<td>9134 PISCATAWAY ROAD</td>
+<td>CLINTON</td>
+<td>MD</td>
+<td>20735</td>
+<td>8772758777</td>
+</tr>
+<tr>
+<td>USPS COCKEYSVILLE POST OFFICE</td>
+<td>115 WIGHT AVENUE</td>
+<td>COCKEYSVILLE</td>
+<td>MD</td>
+<td>21030</td>
+<td>4107710783</td>
+</tr>
+<tr>
+<td>USPS COLORA POST OFFICE</td>
+<td>2167 LIBERTY GROVE RD.</td>
+<td>COLORA</td>
+<td>MD</td>
+<td>21917</td>
+<td>4106585743</td>
+</tr>
+<tr>
+<td>HCLS - EAST COLUMBIA BRANCH LIBRARY</td>
+<td>6600 CRADLEROCK WAY</td>
+<td>COLUMBIA</td>
+<td>MD</td>
+<td>21045</td>
+<td>4103137700</td>
+</tr>
+<tr>
+<td>USPS COLUMBIA MAIN POST OFFICE</td>
+<td>6801 OAK HALL LANE</td>
+<td>COLUMBIA</td>
+<td>MD</td>
+<td>21045</td>
+<td>4103814373</td>
+</tr>
+<tr>
+<td>HCLS GLENWOOD BRANCH LIBRARY</td>
+<td>2350 STATE ROUTE 97</td>
+<td>COOKSVILLE</td>
+<td>MD</td>
+<td>21723</td>
+<td>4103135577</td>
+</tr>
+<tr>
+<td>USPS CRISFIELD POST OFFICE</td>
+<td>400 W MAIN STREET</td>
+<td>CRISFIELD</td>
+<td>MD</td>
+<td>21817</td>
+<td>4109681550</td>
+</tr>
+<tr>
+<td>ALLEGANY COUNTY CIRCUIT COURT</td>
+<td>30 WASHINGTON STREET</td>
+<td>CUMBERLAND</td>
+<td>MD</td>
+<td>21502</td>
+<td>3017775922</td>
+</tr>
+<tr>
+<td>USPS CUMBERLAND POST OFFICE</td>
+<td>215 PARK STREET</td>
+<td>CUMBERLAND</td>
+<td>MD</td>
+<td>21502</td>
+<td>3017228190</td>
+</tr>
+<tr>
+<td>USPS DAMASCUS POST OFFICE</td>
+<td>26400 WOODFIELD ROAD</td>
+<td>DAMASCUS</td>
+<td>MD</td>
+<td>20872</td>
+<td>3014140163</td>
+</tr>
+<tr>
+<td>USPS DAVIDSONVILLE POST OFFICE</td>
+<td>820 WEST CENTRAL AVENUE</td>
+<td>DAVIDSONVILLE</td>
+<td>MD</td>
+<td>21035</td>
+<td>4109568352</td>
+</tr>
+<tr>
+<td>USPS DEALE POST OFFICE</td>
+<td>650 DEALE RD.</td>
+<td>DEALE</td>
+<td>MD</td>
+<td>20751</td>
+<td>4108676135</td>
+</tr>
+<tr>
+<td>USPS DENTON POST OFFICE</td>
+<td>503 MARKET STREET</td>
+<td>DENTON</td>
+<td>MD</td>
+<td>21629</td>
+<td>4104792363</td>
+</tr>
+<tr>
+<td>USPS DUNKIRK POST OFFICE</td>
+<td>10383 SOUTHERN MARYLAND BOULEVARD</td>
+<td>DUNKIRK</td>
+<td>MD</td>
+<td>20754</td>
+<td>3018555384</td>
+</tr>
+<tr>
+<td>USPS EASTON POST OFFICE</td>
+<td>116 E. DOVER STREET</td>
+<td>EASTON</td>
+<td>MD</td>
+<td>21601</td>
+<td>4108220491</td>
+</tr>
+<tr>
+<td>USPS EASTPORT STATION POST OFFICE</td>
+<td>821 CHESAPEAKE AVENUE</td>
+<td>EASTPORT</td>
+<td>MD</td>
+<td>21403</td>
+<td>4102677051</td>
+</tr>
+<tr>
+<td>USPS EDGEWATER POST OFFICE</td>
+<td>39 STEPNEY LANE</td>
+<td>EDGEWATER</td>
+<td>MD</td>
+<td>21037</td>
+<td>4109562088</td>
+</tr>
+<tr>
+<td>USPS EDGEWOOD POST OFFICE</td>
+<td>2290 HANSON ROAD</td>
+<td>EDGEWOOD</td>
+<td>MD</td>
+<td>21040</td>
+<td>4106769378</td>
+</tr>
+<tr>
+<td>ELDERSBURG BRANCH LIBRARY</td>
+<td>6400 W. HEMLOCK DRIVE</td>
+<td>ELDERSBURG</td>
+<td>MD</td>
+<td>21784</td>
+<td>4103864460</td>
+</tr>
+<tr>
+<td>USPS ELKRIDGE POST OFFICE</td>
+<td>6655 SANTA BARBARA ROAD</td>
+<td>ELKRIDGE</td>
+<td>MD</td>
+<td>21075</td>
+<td>4107968093</td>
+</tr>
+<tr>
+<td>USPS ELKTON POST OFFICE</td>
+<td>137 WEST MAIN STREET</td>
+<td>ELKTON</td>
+<td>MD</td>
+<td>21921</td>
+<td>4103984040</td>
+</tr>
+<tr>
+<td>USPS ELLICOTT CITY POST OFFICE</td>
+<td>3375 ELLICOTT CENTER DRIVE</td>
+<td>ELLICOT CITY</td>
+<td>MD</td>
+<td>21043</td>
+<td>4107501340</td>
+</tr>
+<tr>
+<td>USPS FALLSTON POST OFFICE</td>
+<td>2416 WATERVALE ROAD</td>
+<td>FALLSTON</td>
+<td>MD</td>
+<td>21047</td>
+<td>4108772846</td>
+</tr>
+<tr>
+<td>USPS FOREST HILL MAIN POST OFFICE</td>
+<td>2329 ROCKSPRING ROAD</td>
+<td>FOREST HILL</td>
+<td>MD</td>
+<td>21050</td>
+<td>4108380820</td>
+</tr>
+<tr>
+<td>USPS FORESTVILLE BRANCH POST OFFICE</td>
+<td>6514 MARLBORO PIKE</td>
+<td>FORESTVILLE</td>
+<td>MD</td>
+<td>20747</td>
+<td>3015168536</td>
+</tr>
+<tr>
+<td>USPS FORT WASHINGTON POST OFFICE</td>
+<td>11550 LIVINGSTON ROAD</td>
+<td>FORT WASHINGTON</td>
+<td>MD</td>
+<td>20744</td>
+<td>3012924201</td>
+</tr>
+<tr>
+<td>FCPL-C. BURR ARTZ PUBLIC LIBRARY</td>
+<td>110 E. PATRICK ST.</td>
+<td>FREDERICK</td>
+<td>MD</td>
+<td>21701</td>
+<td>3016003769</td>
+</tr>
+<tr>
+<td>USPS FREDERICK POST OFFICE</td>
+<td>201 E PATRICK STREET</td>
+<td>FREDERICK</td>
+<td>MD</td>
+<td>21701</td>
+<td>3016248019</td>
+</tr>
+<tr>
+<td>USPS FRIENDSVILLE POST OFFICE</td>
+<td>836 FIRST AVENUE</td>
+<td>FRIENDSVILLE</td>
+<td>MD</td>
+<td>21531</td>
+<td>3017465985</td>
+</tr>
+<tr>
+<td>USPS FRUITLAND POST OFFICE</td>
+<td>201 E MAIN STREET</td>
+<td>FRUITLAND</td>
+<td>MD</td>
+<td>21826</td>
+<td>4107496677</td>
+</tr>
+<tr>
+<td>USPS FT MEADE POST OFFICE</td>
+<td>2789 MACARTHUR ROAD</td>
+<td>FT MEADE</td>
+<td>MD</td>
+<td>20755</td>
+<td>3016217071</td>
+</tr>
+<tr>
+<td>USPS FULTON POST OFFICE</td>
+<td>11831 SCAGGSVILLE ROAD</td>
+<td>FULTON</td>
+<td>MD</td>
+<td>20759</td>
+<td>3016043425</td>
+</tr>
+<tr>
+<td>USPS FUNKSTOWN POST OFFICE</td>
+<td>29 FREDERICK ROAD</td>
+<td>FUNKSTOWN</td>
+<td>MD</td>
+<td>21734</td>
+<td>3017977331</td>
+</tr>
+<tr>
+<td>CITY OF GAITHERSBURG</td>
+<td>31 SOUTH SUMMIT AVENUE</td>
+<td>GAITHERSBURG</td>
+<td>MD</td>
+<td>20877</td>
+<td>3012586330</td>
+</tr>
+<tr>
+<td>USPS DIAMOND FARMS POST OFFICE</td>
+<td>23 FIRSTFIELD ROAD</td>
+<td>GAITHERSBURG</td>
+<td>MD</td>
+<td>20878</td>
+<td>3012083735</td>
+</tr>
+<tr>
+<td>USPS GAITHERSBURG POST OFFICE</td>
+<td>21 SOUTH SUMMIT AVENUE</td>
+<td>GAITHERSBURG</td>
+<td>MD</td>
+<td>20877</td>
+<td>3012083703</td>
+</tr>
+<tr>
+<td>USPS MONTGOMERY VILLAGE POST OFFICE</td>
+<td>10079 STEDWICK ROAD</td>
+<td>GAITHERSBURG</td>
+<td>MD</td>
+<td>20879</td>
+<td>3012083718</td>
+</tr>
+<tr>
+<td>USPS GAMBRILLS POST OFFICE</td>
+<td>388 GAMBRILLS ROAD</td>
+<td>GAMBRILLS</td>
+<td>MD</td>
+<td>21054</td>
+<td>4109231554</td>
+</tr>
+<tr>
+<td>USPS GERMANTOWN POST OFFICE</td>
+<td>12774 WISTERIA DRIVE</td>
+<td>GERMANTOWN</td>
+<td>MD</td>
+<td>20874</td>
+<td>3014280039</td>
+</tr>
+<tr>
+<td>USPS GLEN ARM POST OFFICE</td>
+<td>12112 LONG GREEN PIKE</td>
+<td>GLEN ARM</td>
+<td>MD</td>
+<td>21057</td>
+<td>4105929658</td>
+</tr>
+<tr>
+<td>USPS GLEN BURNIE POST OFFICE</td>
+<td>7596 RITCHIE HWY</td>
+<td>GLEN BURNIE</td>
+<td>MD</td>
+<td>21061</td>
+<td>4107668882</td>
+</tr>
+<tr>
+<td>GLENELG POST OFFICE</td>
+<td>3900 TEN OAKS ROAD</td>
+<td>GLENELG</td>
+<td>MD</td>
+<td>21737</td>
+<td>4105315016</td>
+</tr>
+<tr>
+<td>GLYNDON POST OFFICE</td>
+<td>2 RAILROAD AVENUE</td>
+<td>GLYNDON</td>
+<td>MD</td>
+<td>21071</td>
+<td>4105173184</td>
+</tr>
+<tr>
+<td>USPS GRASONVILLE POST OFFICE</td>
+<td>4307  MAIN ST</td>
+<td>GRASONVILLE</td>
+<td>MD</td>
+<td>21638</td>
+<td>4108277322</td>
+</tr>
+<tr>
+<td>PGCML-GREENBELT BRANCH</td>
+<td>11 CRESCENT RD</td>
+<td>GREENBELT</td>
+<td>MD</td>
+<td>20770</td>
+<td>3013455800</td>
+</tr>
+<tr>
+<td>USPS GREENBELT POST OFFICE</td>
+<td>7600 ORA GLEN DR</td>
+<td>GREENBELT</td>
+<td>MD</td>
+<td>20770</td>
+<td>3013451722</td>
+</tr>
+<tr>
+<td>USPS GREENSBORO MAIN POST OFFICE</td>
+<td>202 W. SUNSET  AVENUE</td>
+<td>GREENSBORO</td>
+<td>MD</td>
+<td>21639</td>
+<td>4104828366</td>
+</tr>
+<tr>
+<td>USPS HAGERSTOWN POST OFFICE</td>
+<td>44 WEST FRANKLIN STREET</td>
+<td>HAGERSTOWN</td>
+<td>MD</td>
+<td>21740</td>
+<td>3017978101</td>
+</tr>
+<tr>
+<td>WASHINGTON COUNTY LIBRARY-FLETCHER BRANCH</td>
+<td>100 SOUTH POTOMAC ST.</td>
+<td>HAGERSTOWN</td>
+<td>MD</td>
+<td>21740</td>
+<td>3017393250</td>
+</tr>
+<tr>
+<td>NORTH CARROLL BRANCH LIBRARY</td>
+<td>2255 HANOVER PIKE</td>
+<td>HAMPSTEAD</td>
+<td>MD</td>
+<td>21074</td>
+<td>4103864480</td>
+</tr>
+<tr>
+<td>USPS HAMPSTEAD POST OFFICE</td>
+<td>4005 HOUCK AVENUE</td>
+<td>HAMPSTEAD</td>
+<td>MD</td>
+<td>21074</td>
+<td>4103743035</td>
+</tr>
+<tr>
+<td>USPS HARWOOD POST OFFICE</td>
+<td>4450 SOLOMONS ISLAND RD.</td>
+<td>HARWOOD</td>
+<td>MD</td>
+<td>20776</td>
+<td>4108673800</td>
+</tr>
+<tr>
+<td>USPS HUGHESVILLE POST OFFICE</td>
+<td>15485 PRINCE FREDERICK ROAD</td>
+<td>HUGHESVILLE</td>
+<td>MD</td>
+<td>20637</td>
+<td>3012743133</td>
+</tr>
+<tr>
+<td>USPS HYATTSVILLE POST OFFICE</td>
+<td>4325 GALLATIN STREET</td>
+<td>HYATTSVILLE</td>
+<td>MD</td>
+<td>20781</td>
+<td>3012098901</td>
+</tr>
+<tr>
+<td>USPS LANDOVER HILLS POST OFFICE</td>
+<td>7400 BUCHANAN STREET</td>
+<td>HYATTSVILLE</td>
+<td>MD</td>
+<td>20784</td>
+<td>3017313423</td>
+</tr>
+<tr>
+<td>USPS INDIAN HEAD POST OFFICE</td>
+<td>4050 INDIAN HEAD HIGHWAY</td>
+<td>INDIAN HEAD</td>
+<td>MD</td>
+<td>20640</td>
+<td>3017433911</td>
+</tr>
+<tr>
+<td>USPS JESSUP POST OFFICE</td>
+<td>2851 JESSUP ROAD</td>
+<td>JESSUP</td>
+<td>MD</td>
+<td>20794</td>
+<td>3016211082</td>
+</tr>
+<tr>
+<td>USPS KENSINGTON POST OFFICE</td>
+<td>10325 KENSINGTON PARKWAY</td>
+<td>KENSINGTON</td>
+<td>MD</td>
+<td>20895</td>
+<td>3019492863</td>
+</tr>
+<tr>
+<td>USPS KINGSVILLE POST OFFICE</td>
+<td>7363 SUNSHINE AVENUE</td>
+<td>KINGSVILLE</td>
+<td>MD</td>
+<td>21087</td>
+<td>4105923503</td>
+</tr>
+<tr>
+<td>LARGO-KETTERING LIBRARY</td>
+<td>9601 CAPITAL LANE</td>
+<td>LARGO</td>
+<td>MD</td>
+<td>20774</td>
+<td>3013364044</td>
+</tr>
+<tr>
+<td>USPS LARGO - KETTERING POST OFFICE</td>
+<td>9801 APOLLO DRIVE</td>
+<td>LARGO</td>
+<td>MD</td>
+<td>20774</td>
+<td>3019256353</td>
+</tr>
+<tr>
+<td>CITY OF LAUREL</td>
+<td>8103 SANDY SPRINGS ROAD</td>
+<td>LAUREL</td>
+<td>MD</td>
+<td>20707</td>
+<td>3017255300</td>
+</tr>
+<tr>
+<td>PGC MEMORIAL LIBRARY-LAUREL BRANCH</td>
+<td>507 7TH STREET</td>
+<td>LAUREL</td>
+<td>MD</td>
+<td>20707</td>
+<td>3017766790</td>
+</tr>
+<tr>
+<td>USPS LEXINGTON PARK POST OFFICE</td>
+<td>21745 SOUTH CORAL DRIVE</td>
+<td>LEXINGTON PARK</td>
+<td>MD</td>
+<td>20653</td>
+<td>3018622380</td>
+</tr>
+<tr>
+<td>USPS LINTHICUM HEIGHTS POST OFFICE</td>
+<td>515 S CAMP MEADE ROAD</td>
+<td>LINTHICUM HEIGHTS</td>
+<td>MD</td>
+<td>21090</td>
+<td>4108599886</td>
+</tr>
+<tr>
+<td>USPS LOTHIAN POST OFFICE</td>
+<td>5471 SOUTHERN MARYLAND BOULEVARD</td>
+<td>LOTHIAN</td>
+<td>MD</td>
+<td>20711</td>
+<td>3015743558</td>
+</tr>
+<tr>
+<td>USPS LUTHERVILLE TIMONIUM POST OFFICE</td>
+<td>9603 DEERECO ROAD</td>
+<td>LUTHERVILLE</td>
+<td>MD</td>
+<td>21093</td>
+<td>4102520741</td>
+</tr>
+<tr>
+<td>USPS MARYDEL POST OFFICE</td>
+<td>114 HALLTOWN ROAD</td>
+<td>MARYDEL</td>
+<td>MD</td>
+<td>21649</td>
+<td>4104828081</td>
+</tr>
+<tr>
+<td>USPS MIDDLE RIVER BRANCH POST OFFICE</td>
+<td>200 WILSON POINT ROAD</td>
+<td>MIDDLE RIVER</td>
+<td>MD</td>
+<td>21220</td>
+<td>4103474275</td>
+</tr>
+<tr>
+<td>USPS MIDDLETOWN POST OFFICE</td>
+<td>7227 HOLLOW ROAD</td>
+<td>MIDDLETOWN</td>
+<td>MD</td>
+<td>21769</td>
+<td>3013716880</td>
+</tr>
+<tr>
+<td>USPS MILLERSVILLE POST OFFICE</td>
+<td>221 NAJOLES ROAD</td>
+<td>MILLERSVILLE</td>
+<td>MD</td>
+<td>21108</td>
+<td>4109873468</td>
+</tr>
+<tr>
+<td>USPS MONKTON POST OFFICE</td>
+<td>16944 YORK ROAD</td>
+<td>MONKTON</td>
+<td>MD</td>
+<td>21111</td>
+<td>4103578869</td>
+</tr>
+<tr>
+<td>USPS MOUNT AIRY POST OFFICE</td>
+<td>505 WINDY KNOLL DR.</td>
+<td>MOUNT AIRY</td>
+<td>MD</td>
+<td>21771</td>
+<td>3018291199</td>
+</tr>
+<tr>
+<td>USPS MOUNT RAINIER POST OFFICE</td>
+<td>3709 RHODE ISLAND AVENUE</td>
+<td>MOUNT RAINIER</td>
+<td>MD</td>
+<td>20712</td>
+<td>3016998856</td>
+</tr>
+<tr>
+<td>USPS MYERSVILLE POST OFFICE</td>
+<td>1 WOLFSVILLE ROAD</td>
+<td>MYERSVILLE</td>
+<td>MD</td>
+<td>21773</td>
+<td>3012931180</td>
+</tr>
+<tr>
+<td>PGCML - NEW CARROLLTON</td>
+<td>7414 RIVERDALE RD</td>
+<td>NEW CARROLLTON</td>
+<td>MD</td>
+<td>20784</td>
+<td>3014596900</td>
+</tr>
+<tr>
+<td>USPS NEW MARKET POST OFFICE</td>
+<td>168 W MAIN STREET</td>
+<td>NEW MARKET</td>
+<td>MD</td>
+<td>21774</td>
+<td>3018653333</td>
+</tr>
+<tr>
+<td>USPS NORTH BEACH POST OFFICE</td>
+<td>9132A BAY AVENUE</td>
+<td>NORTH BEACH</td>
+<td>MD</td>
+<td>20714</td>
+<td>3018121597</td>
+</tr>
+<tr>
+<td>BCPL - WHITE MARSH BRANCH</td>
+<td>8133 SANDPIPER CIRCLE</td>
+<td>NOTTINGHAM</td>
+<td>MD</td>
+<td>21236</td>
+<td>4108875097</td>
+</tr>
+<tr>
+<td>TOWN OF OCEAN CITY</td>
+<td>301 N BALTIMORE AVENUE</td>
+<td>OCEAN CITY</td>
+<td>MD</td>
+<td>21842</td>
+<td>4102898824</td>
+</tr>
+<tr>
+<td>USPS OCEAN CITY POST OFFICE</td>
+<td>7101 COSTAL HIGHWAY</td>
+<td>OCEAN CITY</td>
+<td>MD</td>
+<td>21842</td>
+<td>4105247611</td>
+</tr>
+<tr>
+<td>USPS ODENTON POST OFFICE</td>
+<td>1177 ANNAPOLIS ROAD</td>
+<td>ODENTON</td>
+<td>MD</td>
+<td>21113</td>
+<td>4105512520</td>
+</tr>
+<tr>
+<td>PGCML-OXON HILL BRANCH</td>
+<td>6200 OXON HILL RD</td>
+<td>OXON HILL</td>
+<td>MD</td>
+<td>20745</td>
+<td>3018392400</td>
+</tr>
+<tr>
+<td>USPS OXON HILL POST OFFICE</td>
+<td>6316 OXON HILL RD</td>
+<td>OXON HILL</td>
+<td>MD</td>
+<td>20745</td>
+<td>3018395617</td>
+</tr>
+<tr>
+<td>USPS PARKVILLE BRANCH POST OFFICE</td>
+<td>8201 HARFORD ROAD</td>
+<td>PARKVILLE</td>
+<td>MD</td>
+<td>21234</td>
+<td>4103474275</td>
+</tr>
+<tr>
+<td>USPS PATUXENT RIVER POST OFFICE</td>
+<td>459 CEDAR POINT ROAD</td>
+<td>PATUXENT RIVER</td>
+<td>MD</td>
+<td>20670</td>
+<td>3013427641</td>
+</tr>
+<tr>
+<td>PERRY HALL POST OFFICE</td>
+<td>8744 BELAIR ROAD</td>
+<td>PERRY HALL</td>
+<td>MD</td>
+<td>21128</td>
+<td>4102561014</td>
+</tr>
+<tr>
+<td>USPS PIKESVILLE FINANCE OFFICE</td>
+<td>1325 BEDFORD AVENUE</td>
+<td>PIKESVILLE</td>
+<td>MD</td>
+<td>21208</td>
+<td>4103474275</td>
+</tr>
+<tr>
+<td>POINT OF ROCKS POST OFFICE</td>
+<td>1597 BOWIS DRIVE</td>
+<td>POINT OF ROCKS</td>
+<td>MD</td>
+<td>21777</td>
+<td>3018742131</td>
+</tr>
+<tr>
+<td>USPS POMFRET MAIN OFFICE</td>
+<td>8205 MARSHALL CORNER RD.</td>
+<td>POMFRET</td>
+<td>MD</td>
+<td>20675</td>
+<td>3019343117</td>
+</tr>
+<tr>
+<td>USPS POTOMAC POST OFFICE</td>
+<td>10221 RIVER ROAD</td>
+<td>POTOMAC</td>
+<td>MD</td>
+<td>20854</td>
+<td>3019834671</td>
+</tr>
+<tr>
+<td>USPS PRESTON POST OFFICE</td>
+<td>301 MAIN STREET</td>
+<td>PRESTON</td>
+<td>MD</td>
+<td>21655</td>
+<td>4106732166</td>
+</tr>
+<tr>
+<td>CALVERT LIBRARY PRINCE FREDERICK</td>
+<td>850 COSTLEY WAY</td>
+<td>PRINCE FREDERICK</td>
+<td>MD</td>
+<td>20678</td>
+<td>4105350291</td>
+</tr>
+<tr>
+<td>USPS PRINCE FREDERICK POST OFFICE</td>
+<td>35 DUKE STREET</td>
+<td>PRINCE FREDERICK</td>
+<td>MD</td>
+<td>20678</td>
+<td>4105351449</td>
+</tr>
+<tr>
+<td>USPS PRINCESS ANNE POST OFFICE</td>
+<td>11690 SOMERSET AVENUE</td>
+<td>PRINCESS ANNE</td>
+<td>MD</td>
+<td>21853</td>
+<td>4106512101</td>
+</tr>
+<tr>
+<td>USPS QUEENSTOWN POST OFFICE</td>
+<td>7100 MAIN STREET</td>
+<td>QUEENSTOWN</td>
+<td>MD</td>
+<td>21658</td>
+<td>4108277111</td>
+</tr>
+<tr>
+<td>USPS REISTERSTOWN POST OFFICE</td>
+<td>5 GLYDON DRIVE</td>
+<td>REISTERSTOWN</td>
+<td>MD</td>
+<td>21136</td>
+<td>4108334259</td>
+</tr>
+<tr>
+<td>USPS RIVA POST OFFICE</td>
+<td>3123 RIVA ROAD</td>
+<td>RIVA</td>
+<td>MD</td>
+<td>21140</td>
+<td>4109562187</td>
+</tr>
+<tr>
+<td>USPS ROCK HALL POST OFFICE</td>
+<td>5691 LIBERTY ST</td>
+<td>ROCK HALL</td>
+<td>MD</td>
+<td>21661</td>
+<td>4106397054</td>
+</tr>
+<tr>
+<td>USPS ROCKVILLE MAIN OFFICE</td>
+<td>500 N WASHINGTON STREET</td>
+<td>ROCKVILLE</td>
+<td>MD</td>
+<td>20850</td>
+<td>3017625802</td>
+</tr>
+<tr>
+<td>USPS ROCKVILLE PIKE FINANCE</td>
+<td>143 ROLLINS AVENUE</td>
+<td>ROCKVILLE</td>
+<td>MD</td>
+<td>20852</td>
+<td>3012315973</td>
+</tr>
+<tr>
+<td>USPS TWINBROOK STATION</td>
+<td>2001 VIERS MILL ROAD</td>
+<td>ROCKVILLE</td>
+<td>MD</td>
+<td>20851</td>
+<td>3018382934</td>
+</tr>
+<tr>
+<td>USPS SALISBURY POST OFFICE</td>
+<td>816 EAST SALISBURY PARKWAY</td>
+<td>SALISBURY</td>
+<td>MD</td>
+<td>21801</td>
+<td>4107429261</td>
+</tr>
+<tr>
+<td>WICOMICO PUBLIC LIBRARIES CENTRE BRANCH</td>
+<td>2300 N. SALISBURY BLVD. STE L101</td>
+<td>SALISBURY</td>
+<td>MD</td>
+<td>21801</td>
+<td>4105465397</td>
+</tr>
+<tr>
+<td>USPS SEVERNA PARK POST OFFICE</td>
+<td>21 MAGOTHY BRIDGE RD</td>
+<td>SEVERNA PARK</td>
+<td>MD</td>
+<td>21146</td>
+<td>4106472904</td>
+</tr>
+<tr>
+<td>USPS ASPEN HILL POST OFFICE</td>
+<td>14030 CONNECTICUT AVENUE</td>
+<td>SILVER SPRING</td>
+<td>MD</td>
+<td>20906</td>
+<td>3018714444</td>
+</tr>
+<tr>
+<td>USPS WHEATON POST OFFICE</td>
+<td>11431 AMHERST AVE</td>
+<td>SILVER SPRING</td>
+<td>MD</td>
+<td>20902</td>
+<td>3019297831</td>
+</tr>
+<tr>
+<td>USPS WOODMOOR BRANCH POST OFFICE</td>
+<td>110 WEST UNIVERSITY BOULEVARD</td>
+<td>SILVER SPRING</td>
+<td>MD</td>
+<td>20901</td>
+<td>3015935728</td>
+</tr>
+<tr>
+<td>USPS SIMPSONVILLE POST OFFICE</td>
+<td>10400 SHAKER DRIVE</td>
+<td>SIMPSONVILLE</td>
+<td>MD</td>
+<td>21150</td>
+<td>4107720194</td>
+</tr>
+<tr>
+<td>SOLOMONS POST OFFICE</td>
+<td>13946 H.G. TRUEMAN ROAD</td>
+<td>SOLOMONS</td>
+<td>MD</td>
+<td>20688</td>
+<td>4103263193</td>
+</tr>
+<tr>
+<td>USPS ST MICHAELS POST OFFICE</td>
+<td>303 S. TALBOT STREET</td>
+<td>ST. MICHAELS</td>
+<td>MD</td>
+<td>21663</td>
+<td>4107459616</td>
+</tr>
+<tr>
+<td>USPS STEVENSON POST OFFICE</td>
+<td>10421 STEVENSON ROAD</td>
+<td>STEVENSON</td>
+<td>MD</td>
+<td>21153</td>
+<td>4106535613</td>
+</tr>
+<tr>
+<td>USPS STEVENSVILLE POST OFFICE</td>
+<td>366 THOMPSON CREEK MALL</td>
+<td>STEVENSVILLE</td>
+<td>MD</td>
+<td>21666</td>
+<td>4106435640</td>
+</tr>
+<tr>
+<td>USPS SUITLAND POST OFFICE</td>
+<td>4520 SUITLAND ROAD</td>
+<td>SUITLAND</td>
+<td>MD</td>
+<td>20746</td>
+<td>3017351939</td>
+</tr>
+<tr>
+<td>USPS SWANTON POST OFFICE</td>
+<td>3320 SWANTON ROAD</td>
+<td>SWANTON</td>
+<td>MD</td>
+<td>21561</td>
+<td>3013876425</td>
+</tr>
+<tr>
+<td>USPS SYKESVILLE POST OFFICE</td>
+<td>1363 PROGRESS WAY</td>
+<td>SYKESVILLE</td>
+<td>MD</td>
+<td>21784</td>
+<td>4107950350</td>
+</tr>
+<tr>
+<td>CITY OF TAKOMA PARK</td>
+<td>7500 MAPLE AVENUE</td>
+<td>TAKOMA PARK</td>
+<td>MD</td>
+<td>20912</td>
+<td>3018917204</td>
+</tr>
+<tr>
+<td>USPS TANEYTOWN POST OFFICE</td>
+<td>13 MIDDLE STREET</td>
+<td>TANEYTOWN</td>
+<td>MD</td>
+<td>21787</td>
+<td>4107566411</td>
+</tr>
+<tr>
+<td>USPS TEMPLE HILLS POST OFFICE</td>
+<td>4806 ST BARNABAS ROAD</td>
+<td>TEMPLE HILLS</td>
+<td>MD</td>
+<td>20748</td>
+<td>3014236082</td>
+</tr>
+<tr>
+<td>USPS THURMONT POST OFFICE</td>
+<td>110 WATER STREET</td>
+<td>THURMONT</td>
+<td>MD</td>
+<td>21788</td>
+<td>3012712226</td>
+</tr>
+<tr>
+<td>BCPL-TOWSON BRANCH</td>
+<td>320 YORK ROAD</td>
+<td>TOWSON</td>
+<td>MD</td>
+<td>21204</td>
+<td>4108876166</td>
+</tr>
+<tr>
+<td>TOWSON UNIVERSITY-AUXILIARY SERVICE BUISNESS OFFICE</td>
+<td>UNIVERSITY UNION - 8000 YORK ROAD</td>
+<td>TOWSON</td>
+<td>MD</td>
+<td>21252</td>
+<td>4107043518</td>
+</tr>
+<tr>
+<td>USPS LOCH RAVEN BRANCH</td>
+<td>808 GLEN EAGLES COURT</td>
+<td>TOWSON</td>
+<td>MD</td>
+<td>21286</td>
+<td>4103474275</td>
+</tr>
+<tr>
+<td>USPS TRACYS LANDING POST OFFICE</td>
+<td>5889 SOLOMONS ISLAND ROAD</td>
+<td>TRACYS LANDING</td>
+<td>MD</td>
+<td>20779</td>
+<td>4108670296</td>
+</tr>
+<tr>
+<td>UPPER MARLBORO CIRCUIT COURT CLERK</td>
+<td>14701 GOVERNOR ODEN BOWIE DRIVE</td>
+<td>UPPER MARLBORO</td>
+<td>MD</td>
+<td>20772</td>
+<td>3019525264</td>
+</tr>
+<tr>
+<td>USPS WALDORF POST OFFICE</td>
+<td>150 POST OFFICE ROAD</td>
+<td>WALDORF</td>
+<td>MD</td>
+<td>20601</td>
+<td>3017057288</td>
+</tr>
+<tr>
+<td>USPS WASHINGTON GROVE POST OFFICE</td>
+<td>111 WASHINGTON GROVE LANE</td>
+<td>WASHINGTON GROVE</td>
+<td>MD</td>
+<td>20880</td>
+<td>3019485009</td>
+</tr>
+<tr>
+<td>WEST FRIENDSHIP POST OFFICE</td>
+<td>12800 STATE ROUTE 144</td>
+<td>WEST FRIENDSHIP</td>
+<td>MD</td>
+<td>21794</td>
+<td>4104421790</td>
+</tr>
+<tr>
+<td>USPS WESTERNPORT POST OFFICE</td>
+<td>72 MAIN ST.</td>
+<td>WESTERNPORT</td>
+<td>MD</td>
+<td>21562</td>
+<td>3013599261</td>
+</tr>
+<tr>
+<td>USPS WESTMINSTER POST OFFICE</td>
+<td>345 WOODWARD ROAD</td>
+<td>WESTMINSTER</td>
+<td>MD</td>
+<td>21157</td>
+<td>4108762944</td>
+</tr>
+<tr>
+<td>USPS WHITE MARSH POST OFFICE</td>
+<td>5422 EBENEZER ROAD</td>
+<td>WHITE MARSH</td>
+<td>MD</td>
+<td>21162</td>
+<td>4103357215</td>
+</tr>
+<tr>
+<td>USPS WILLIAMSPORT POST OFFICE</td>
+<td>28 W SALISBURY STREET</td>
+<td>WILLIAMSPORT</td>
+<td>MD</td>
+<td>21795</td>
+<td>3012237007</td>
+</tr>
+<tr>
+<td>SECURITY SQUARE MALL POST OFFICE</td>
+<td>6901 SECURITY BLVD</td>
+<td>WINDSOR MILL</td>
+<td>MD</td>
+<td>21244</td>
+<td>4109443251</td>
+</tr>
+<tr>
+<td>WOODSBORO POST OFFICE</td>
+<td>602 SOUTH MAIN ST.</td>
+<td>WOODSBORO</td>
+<td>MD</td>
+<td>21798</td>
+<td>3018458408</td>
+</tr>
+</tbody>
+</table>

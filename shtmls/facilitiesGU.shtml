@@ -1,0 +1,22 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GUAM PASSPORT DIVISION OF REVENUE AND TAXATION</td>
+<td>1240 ROUTE 16 ARMY DR</td>
+<td>BARRIGADA</td>
+<td>GU</td>
+<td>96913</td>
+<td>6716351778</td>
+</tr>
+</tbody>
+</table>

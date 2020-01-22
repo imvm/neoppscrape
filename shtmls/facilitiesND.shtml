@@ -1,0 +1,422 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MCINTOSH COUNTY RECORDER</td>
+<td>112 1ST STREET NE</td>
+<td>ASHLEY</td>
+<td>ND</td>
+<td>58413</td>
+<td>7012885147</td>
+</tr>
+<tr>
+<td>GOLDEN VALLEY CLERK OF COURT</td>
+<td>150 - 1ST AVE. SE</td>
+<td>BEACH</td>
+<td>ND</td>
+<td>58621</td>
+<td>7018723713</td>
+</tr>
+<tr>
+<td>BURLEIGH COUNTY RECORDER</td>
+<td>221 N. 5TH ST</td>
+<td>BISMARCK</td>
+<td>ND</td>
+<td>58501</td>
+<td>7012226749</td>
+</tr>
+<tr>
+<td>USPO - BISMARCK</td>
+<td>220 EAST ROSSER AVE</td>
+<td>BISMARCK</td>
+<td>ND</td>
+<td>58501</td>
+<td>7012238810</td>
+</tr>
+<tr>
+<td>BOTTINEAU COUNTY CLERK OF COURT</td>
+<td>314 W 5TH ST</td>
+<td>BOTTINEAU</td>
+<td>ND</td>
+<td>58318</td>
+<td>7012283983</td>
+</tr>
+<tr>
+<td>BURKE COUNTY COURTHOUSE RECORDERS OFFIE</td>
+<td>103 MAIN ST SE</td>
+<td>BOWBELLS</td>
+<td>ND</td>
+<td>58721</td>
+<td>7013772818</td>
+</tr>
+<tr>
+<td>BOWMAN COUNTY RECORDER</td>
+<td>104 - 1ST ST. NW</td>
+<td>BOWMAN</td>
+<td>ND</td>
+<td>58623</td>
+<td>7015233450</td>
+</tr>
+<tr>
+<td>TOWNER COUNTY CLERK OF DISTRICT COURT</td>
+<td>315 2ND STREET</td>
+<td>CANDO</td>
+<td>ND</td>
+<td>58324</td>
+<td>7019684340</td>
+</tr>
+<tr>
+<td>FOSTER COUNTY RECORDER</td>
+<td>1000 - 5TH ST. N.</td>
+<td>CARRINGTON</td>
+<td>ND</td>
+<td>58421</td>
+<td>7016522491</td>
+</tr>
+<tr>
+<td>GRANT COUNTY CLERK OF COURT</td>
+<td>106 2ND AVE NE</td>
+<td>CARSON</td>
+<td>ND</td>
+<td>58529</td>
+<td>7016223615</td>
+</tr>
+<tr>
+<td>PEMBINA COUNTY CLERK - RECORDER</td>
+<td>301 DAKOTA ST. W #10</td>
+<td>CAVALIER</td>
+<td>ND</td>
+<td>58220</td>
+<td>7012654373</td>
+</tr>
+<tr>
+<td>DIVIDE COUNTY CLERK OF COURT</td>
+<td>200 NORTH MAIN ST</td>
+<td>CROSBY</td>
+<td>ND</td>
+<td>58730</td>
+<td>7019656831</td>
+</tr>
+<tr>
+<td>RAMSEY COUNTY RECORDER</td>
+<td>524 - 4TH AVE. NE</td>
+<td>DEVILS LAKE</td>
+<td>ND</td>
+<td>58301</td>
+<td>7016627018</td>
+</tr>
+<tr>
+<td>STARK COUNTY RECORDER</td>
+<td>51 - 3RD STREET EAST</td>
+<td>DICKINSON</td>
+<td>ND</td>
+<td>58601</td>
+<td>7014567645</td>
+</tr>
+<tr>
+<td>DICKEY COUNTY CLERK OF DISTRICT COURT</td>
+<td>309 2ND ST N</td>
+<td>ELLENDALE</td>
+<td>ND</td>
+<td>58436</td>
+<td>7013493249</td>
+</tr>
+<tr>
+<td>NDSU STUDY ABROAD</td>
+<td>1401 ADMINISTRATION AVEUNUE, MU 116</td>
+<td>FARGO</td>
+<td>ND</td>
+<td>58102</td>
+<td>7012317895</td>
+</tr>
+<tr>
+<td>USPO - FARGO</td>
+<td>657 - 2ND AVE. N</td>
+<td>FARGO</td>
+<td>ND</td>
+<td>58102</td>
+<td>7012416122</td>
+</tr>
+<tr>
+<td>USPO - PRAIRIEWOOD STATION</td>
+<td>1455 32ND ST. S</td>
+<td>FARGO</td>
+<td>ND</td>
+<td>58103</td>
+<td>7012719210</td>
+</tr>
+<tr>
+<td>WELLS COUNTY RECORDER</td>
+<td>700 RAILWAY STREET N #125</td>
+<td>FESSENDEN</td>
+<td>ND</td>
+<td>58438</td>
+<td>7015473141</td>
+</tr>
+<tr>
+<td>STEELE COUNTY CLERK OF COURT</td>
+<td>201 WASHINGTON AVE W</td>
+<td>FINLEY</td>
+<td>ND</td>
+<td>58230</td>
+<td>7015242152</td>
+</tr>
+<tr>
+<td>WALSH COUNTY RECORDER</td>
+<td>600 COOPER AVE.</td>
+<td>GRAFTON</td>
+<td>ND</td>
+<td>58237</td>
+<td>7013522380</td>
+</tr>
+<tr>
+<td>GRAND FORKS COUNTY TAX EQUALIZATION</td>
+<td>151 S. 4TH STREET</td>
+<td>GRAND FORKS</td>
+<td>ND</td>
+<td>58201</td>
+<td>7017808251</td>
+</tr>
+<tr>
+<td>GRAND FORKS POST OFFICE</td>
+<td>2501 - 28TH AVE S</td>
+<td>GRAND FORKS</td>
+<td>ND</td>
+<td>58201</td>
+<td>7013352001</td>
+</tr>
+<tr>
+<td>UNIVERSITY OF NORTH DAKOTA INTERNATIONAL CENTER</td>
+<td>2891 2ND AVE N</td>
+<td>GRAND FORKS</td>
+<td>ND</td>
+<td>58202</td>
+<td>7017774231</td>
+</tr>
+<tr>
+<td>ADAMS COUNTY RECORDER - CLERK OF COURT</td>
+<td>602 ADAMS AVENUE</td>
+<td>HETTINGER</td>
+<td>ND</td>
+<td>58639</td>
+<td>7015672460</td>
+</tr>
+<tr>
+<td>TRAILL COUNTY CLERK OF COURT</td>
+<td>114 W. CALEDONIA AVE.</td>
+<td>HILLSBORO</td>
+<td>ND</td>
+<td>58045</td>
+<td>7016364454</td>
+</tr>
+<tr>
+<td>STUTSMAN COUNTY RECORDER</td>
+<td>511 2ND AVE. SE</td>
+<td>JAMESTOWN</td>
+<td>ND</td>
+<td>58401</td>
+<td>7012529034</td>
+</tr>
+<tr>
+<td>LA MOURE COUNTY DISTRICT COURT</td>
+<td>202 FOURTH AVE. NE</td>
+<td>LA MOURE</td>
+<td>ND</td>
+<td>58458</td>
+<td>7018836050</td>
+</tr>
+<tr>
+<td>NELSON COUNTY RECORDER</td>
+<td>210 B AVE W, SUITE 203</td>
+<td>LAKOTA</td>
+<td>ND</td>
+<td>58344</td>
+<td>7012472433</td>
+</tr>
+<tr>
+<td>CAVALIER COUNTY CLERK OF COURT</td>
+<td>901 3RD STREET, SUITE 1</td>
+<td>LANGDON</td>
+<td>ND</td>
+<td>58249</td>
+<td>7012562124</td>
+</tr>
+<tr>
+<td>RANSOM COUNTY DISTRICT COURT</td>
+<td>204 5TH AVE W</td>
+<td>LISBON</td>
+<td>ND</td>
+<td>58054</td>
+<td>7016836120</td>
+</tr>
+<tr>
+<td>MORTON COUNTY RECORDER</td>
+<td>210 2ND AVE NW</td>
+<td>MANDAN</td>
+<td>ND</td>
+<td>58554</td>
+<td>7016673305</td>
+</tr>
+<tr>
+<td>MORTON MANDAN PUBLIC LIBRARY</td>
+<td>609 WEST MAIN STREET</td>
+<td>MANDAN</td>
+<td>ND</td>
+<td>58554</td>
+<td>7016675365</td>
+</tr>
+<tr>
+<td>DUNN COUNTY RECORDER</td>
+<td>205 OWENS ST.</td>
+<td>MANNING</td>
+<td>ND</td>
+<td>58642</td>
+<td>7015734443</td>
+</tr>
+<tr>
+<td>BILLINGS COUNTY CLERK OF COURT</td>
+<td>495 4TH ST</td>
+<td>MEDORA</td>
+<td>ND</td>
+<td>58645</td>
+<td>7016234491</td>
+</tr>
+<tr>
+<td>USPO - MINOT</td>
+<td>117 5TH AVE. SW</td>
+<td>MINOT</td>
+<td>ND</td>
+<td>58701</td>
+<td>7018576100</td>
+</tr>
+<tr>
+<td>WARD COUNTY RECORDER</td>
+<td>225 3RD ST. SE</td>
+<td>MINOT</td>
+<td>ND</td>
+<td>58701</td>
+<td>7018576406</td>
+</tr>
+<tr>
+<td>RENVILLE COUNTY CLERK OF DISTRICT COURT</td>
+<td>205 MAIN ST. EAST</td>
+<td>MOHALL</td>
+<td>ND</td>
+<td>58761</td>
+<td>7017566398</td>
+</tr>
+<tr>
+<td>ROLETTE COUNTY RECORDER</td>
+<td>102 2ND ST. NE</td>
+<td>ROLLA</td>
+<td>ND</td>
+<td>58367</td>
+<td>7014773166</td>
+</tr>
+<tr>
+<td>PIERCE COUNTY CLERK OF COURT</td>
+<td>240 SE 2ND ST.</td>
+<td>RUGBY</td>
+<td>ND</td>
+<td>58368</td>
+<td>7017766161</td>
+</tr>
+<tr>
+<td>MOUNTRAIL COUNTY CLERK OF COURT</td>
+<td>101 N. MAIN ST.</td>
+<td>STANLEY</td>
+<td>ND</td>
+<td>58784</td>
+<td>7016282915</td>
+</tr>
+<tr>
+<td>MERCER COUNTY DISTRICT COURT</td>
+<td>410 VANSLYCK AVENUE</td>
+<td>STANTON</td>
+<td>ND</td>
+<td>58571</td>
+<td>7017453262</td>
+</tr>
+<tr>
+<td>USPO - STANTON</td>
+<td>119 HARMON AVE.</td>
+<td>STANTON</td>
+<td>ND</td>
+<td>58571</td>
+<td>7017453501</td>
+</tr>
+<tr>
+<td>MCHENRY COUNTY CLERK OF COURT</td>
+<td>407 MAIN ST S</td>
+<td>TOWNER</td>
+<td>ND</td>
+<td>58788</td>
+<td>7015375729</td>
+</tr>
+<tr>
+<td>BARNES COUNTY RECORDERS OFFICE</td>
+<td>230 4TH ST NW</td>
+<td>VALLEY CITY</td>
+<td>ND</td>
+<td>58072</td>
+<td>7018458506</td>
+</tr>
+<tr>
+<td>WAHPETON MAIN POST OFFICE</td>
+<td>926 2ND AVENUE N</td>
+<td>WAHPETON</td>
+<td>ND</td>
+<td>58075</td>
+<td>7016422347</td>
+</tr>
+<tr>
+<td>MCLEAN COUNTY RECORDERS OFFICE</td>
+<td>712 5TH AVENUE</td>
+<td>WASHBURN</td>
+<td>ND</td>
+<td>58577</td>
+<td>7014628541</td>
+</tr>
+<tr>
+<td>MCKENZIE COUNTY COURTHOUSE</td>
+<td>201 5TH ST NW, STE 510</td>
+<td>WATFORD CITY</td>
+<td>ND</td>
+<td>58854</td>
+<td>7014443616</td>
+</tr>
+<tr>
+<td>USPO - WEST FARGO</td>
+<td>415 MAIN AVE E</td>
+<td>WEST FARGO</td>
+<td>ND</td>
+<td>58078</td>
+<td>7012823158</td>
+</tr>
+<tr>
+<td>WILLIAMS COUNTY TREASURER - RECORDER</td>
+<td>206 EAST BROADWAY</td>
+<td>WILLISTON</td>
+<td>ND</td>
+<td>58801</td>
+<td>7015774540</td>
+</tr>
+<tr>
+<td>WILLISTON DMV</td>
+<td>206 E BROADWAY</td>
+<td>WILLISTON</td>
+<td>ND</td>
+<td>58801</td>
+<td>7017133410</td>
+</tr>
+</tbody>
+</table>

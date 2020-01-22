@@ -1,0 +1,5182 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ACCORD POST OFFICE</td>
+<td>30 MAIN STREET</td>
+<td>ACCORD</td>
+<td>NY</td>
+<td>12404</td>
+<td>8456265881</td>
+</tr>
+<tr>
+<td>ADAMS POST OFFICE</td>
+<td>27 E CHURCH STREET</td>
+<td>ADAMS</td>
+<td>NY</td>
+<td>13605</td>
+<td>3152322312</td>
+</tr>
+<tr>
+<td>ADDISON POST OFFICE</td>
+<td>150 FRONT ST</td>
+<td>ADDISON</td>
+<td>NY</td>
+<td>14801</td>
+<td>6073592136</td>
+</tr>
+<tr>
+<td>AKRON POST OFFICE</td>
+<td>118 MAIN STREET</td>
+<td>AKRON</td>
+<td>NY</td>
+<td>14001</td>
+<td>7165429756</td>
+</tr>
+<tr>
+<td>ALBANY CITY CLERK</td>
+<td>24 EAGLE ST.</td>
+<td>ALBANY</td>
+<td>NY</td>
+<td>12207</td>
+<td>5184345092</td>
+</tr>
+<tr>
+<td>ALBANY COUNTY CLERK OF COURT</td>
+<td>16 EAGLE ST</td>
+<td>ALBANY</td>
+<td>NY</td>
+<td>12207</td>
+<td>5184875102</td>
+</tr>
+<tr>
+<td>ALBANY GMF POST OFFICE</td>
+<td>30 KARNER RD</td>
+<td>ALBANY</td>
+<td>NY</td>
+<td>12288</td>
+<td>5184522286</td>
+</tr>
+<tr>
+<td>PINE HILLS BRANCH - ALBANY PUBLIC LIBRARY</td>
+<td>517 WESTERN AVE.</td>
+<td>ALBANY</td>
+<td>NY</td>
+<td>12203</td>
+<td>5184827911</td>
+</tr>
+<tr>
+<td>ALBERTSON POST OFFICE</td>
+<td>860 WILLIS AVENUE</td>
+<td>ALBERTSON</td>
+<td>NY</td>
+<td>11507</td>
+<td>5167463512</td>
+</tr>
+<tr>
+<td>ALBION POST OFFICE</td>
+<td>8 SOUTH MAIN STREET</td>
+<td>ALBION</td>
+<td>NY</td>
+<td>14411</td>
+<td>5855895928</td>
+</tr>
+<tr>
+<td>ORLEANS COUNTY CLERK OF COURT</td>
+<td>3 SOUTH MAIN STREETCOURT HOUSE SQUARE</td>
+<td>ALBION</td>
+<td>NY</td>
+<td>14411</td>
+<td>5855895334</td>
+</tr>
+<tr>
+<td>ALDEN POST OFFICE</td>
+<td>13127 BROADWAY ST</td>
+<td>ALDEN</td>
+<td>NY</td>
+<td>14004</td>
+<td>7169376020</td>
+</tr>
+<tr>
+<td>ALEXANDRIA BAY POST OFFICE</td>
+<td>13 BETHUNE STREET</td>
+<td>ALEXANDRIA BAY</td>
+<td>NY</td>
+<td>13607</td>
+<td>3154829521</td>
+</tr>
+<tr>
+<td>ALFRED POST OFFICE</td>
+<td>63 N MAIN ST</td>
+<td>ALFRED</td>
+<td>NY</td>
+<td>14802</td>
+<td>6075878449</td>
+</tr>
+<tr>
+<td>ALTAMONT POST OFFICE</td>
+<td>108 PARK ST</td>
+<td>ALTAMONT</td>
+<td>NY</td>
+<td>12009</td>
+<td>5188616953</td>
+</tr>
+<tr>
+<td>AMAGANSETT MAIN POST OFFICE</td>
+<td>501 MONTAUK HIGHWAY</td>
+<td>AMAGANSETT</td>
+<td>NY</td>
+<td>11930</td>
+<td>6312672804</td>
+</tr>
+<tr>
+<td>AMENIA POST OFFICE</td>
+<td>3296 ROUTE 343</td>
+<td>AMENIA</td>
+<td>NY</td>
+<td>12501</td>
+<td>8453739306</td>
+</tr>
+<tr>
+<td>AMHERST BRANCH POST OFFICE</td>
+<td>5500 NORTH BAILEY AVENUE</td>
+<td>AMHERST</td>
+<td>NY</td>
+<td>14226</td>
+<td>7168318651</td>
+</tr>
+<tr>
+<td>AMITYVILLE POST OFFICE</td>
+<td>77 IRELAND PLACE</td>
+<td>AMITYVILLE</td>
+<td>NY</td>
+<td>11701</td>
+<td>6312643532</td>
+</tr>
+<tr>
+<td>TOWN OF EVANS</td>
+<td>8787 ERIE ROAD</td>
+<td>ANGOLA</td>
+<td>NY</td>
+<td>14006</td>
+<td>7165495755</td>
+</tr>
+<tr>
+<td>ARCADE POST OFFICE</td>
+<td>23 EDWARD STREET</td>
+<td>ARCADE</td>
+<td>NY</td>
+<td>14009</td>
+<td>5854965377</td>
+</tr>
+<tr>
+<td>ARDSLEY POST OFFICE</td>
+<td>875 SAW MILL RIVER ROAD</td>
+<td>ARDSLEY</td>
+<td>NY</td>
+<td>10502</td>
+<td>9146930476</td>
+</tr>
+<tr>
+<td>ARDSLEY - ON - HUDSON POST OFFICE</td>
+<td>110 ARDSLEY AVE. WEST WESTCHESTER CO</td>
+<td>ARDSLEY-ON-HUDSON</td>
+<td>NY</td>
+<td>10503</td>
+<td>9145917299</td>
+</tr>
+<tr>
+<td>ARVERNE POST OFFICE</td>
+<td>329 B 59TH STREET</td>
+<td>ARVERNE</td>
+<td>NY</td>
+<td>11692</td>
+<td>7184746973</td>
+</tr>
+<tr>
+<td>ATLANTIC BEACH POST OFFICE</td>
+<td>2009 PARK STREET</td>
+<td>ATLANTIC BEACH</td>
+<td>NY</td>
+<td>11509</td>
+<td>5162391178</td>
+</tr>
+<tr>
+<td>ATTICA POST OFFICE</td>
+<td>76 MAIN STREET</td>
+<td>ATTICA</td>
+<td>NY</td>
+<td>14011</td>
+<td>5855910900</td>
+</tr>
+<tr>
+<td>AUBURN POST OFFICE</td>
+<td>1 JAMES STREET</td>
+<td>AUBURN</td>
+<td>NY</td>
+<td>13021</td>
+<td>3152529554</td>
+</tr>
+<tr>
+<td>CAYUGA COUNTY CLERK</td>
+<td>160 GENESEE STREET</td>
+<td>AUBURN</td>
+<td>NY</td>
+<td>13021</td>
+<td>3152531271</td>
+</tr>
+<tr>
+<td>AVON POST OFFICE</td>
+<td>80 PROSPECT ST</td>
+<td>AVON</td>
+<td>NY</td>
+<td>14414</td>
+<td>5852263550</td>
+</tr>
+<tr>
+<td>BALDWIN POST OFFICE</td>
+<td>2260 GRAND AVENUE</td>
+<td>BALDWIN</td>
+<td>NY</td>
+<td>11510</td>
+<td>5162235024</td>
+</tr>
+<tr>
+<td>BALDWIN PUBLIC LIBRARY</td>
+<td>2385 GRAND AVENUE</td>
+<td>BALDWIN</td>
+<td>NY</td>
+<td>11510</td>
+<td>5162236228</td>
+</tr>
+<tr>
+<td>BALDWINSVILLE POST OFFICE</td>
+<td>26 E GENESEE ST.</td>
+<td>BALDWINSVILLE</td>
+<td>NY</td>
+<td>13027</td>
+<td>3156355241</td>
+</tr>
+<tr>
+<td>LYSANDER TOWN CLERK</td>
+<td>8220 LOOP RD</td>
+<td>BALDWINSVILLE</td>
+<td>NY</td>
+<td>13027</td>
+<td>3156380224</td>
+</tr>
+<tr>
+<td>VAN BUREN TOWN CLERK</td>
+<td>7575 VAN BUREN ROAD</td>
+<td>BALDWINSVILLE</td>
+<td>NY</td>
+<td>13027</td>
+<td>3156353010</td>
+</tr>
+<tr>
+<td>SARATOGA COUNTY CLERKS OFFICE</td>
+<td>40 MCMASTER ST</td>
+<td>BALLSTON SPA</td>
+<td>NY</td>
+<td>12020</td>
+<td>5188852213</td>
+</tr>
+<tr>
+<td>SOMERSET TOWN CLERK</td>
+<td>8700 HAIGHT ROAD TOWN OF SOMERSET</td>
+<td>BARKER</td>
+<td>NY</td>
+<td>14012</td>
+<td>7167953575</td>
+</tr>
+<tr>
+<td>BATAVIA POST OFFICE</td>
+<td>2 W MAIN ST</td>
+<td>BATAVIA</td>
+<td>NY</td>
+<td>14020</td>
+<td>5853430491</td>
+</tr>
+<tr>
+<td>GENESEE COUNTY CLERK OF COURT</td>
+<td>15 MAIN STREET</td>
+<td>BATAVIA</td>
+<td>NY</td>
+<td>14020</td>
+<td>5858157802</td>
+</tr>
+<tr>
+<td>STEUBEN COUNTY CLERK OF COURT</td>
+<td>3 EAST PULTENEY SQUARE</td>
+<td>BATH</td>
+<td>NY</td>
+<td>14810</td>
+<td>6076642564</td>
+</tr>
+<tr>
+<td>BAY SHORE POST OFFICE</td>
+<td>1314 FIFTH AVENUE</td>
+<td>BAY SHORE</td>
+<td>NY</td>
+<td>11706</td>
+<td>6319693504</td>
+</tr>
+<tr>
+<td>QUEENSBOROUGH COMMUNITY COLLEGE</td>
+<td>222-05 56TH AVENUE</td>
+<td>BAYSIDE</td>
+<td>NY</td>
+<td>11364</td>
+<td>7186316265</td>
+</tr>
+<tr>
+<td>BEACON POST OFFICE</td>
+<td>369 MAIN STREET</td>
+<td>BEACON</td>
+<td>NY</td>
+<td>12508</td>
+<td>8458314372</td>
+</tr>
+<tr>
+<td>BELLMORE POST OFFICE</td>
+<td>2611 MERRICK ROAD</td>
+<td>BELLMORE</td>
+<td>NY</td>
+<td>11710</td>
+<td>5167818111</td>
+</tr>
+<tr>
+<td>BELLPORT MAIN POST OFFICE</td>
+<td>26 STATION ROAD</td>
+<td>BELLPORT</td>
+<td>NY</td>
+<td>11713</td>
+<td>6312868561</td>
+</tr>
+<tr>
+<td>ALLEGANY COUNTY CLERK</td>
+<td>7 COURT STREET</td>
+<td>BELMONT</td>
+<td>NY</td>
+<td>14813</td>
+<td>5852689270</td>
+</tr>
+<tr>
+<td>BETHPAGE POST OFFICE</td>
+<td>339 HICKSVILLE ROAD</td>
+<td>BETHPAGE</td>
+<td>NY</td>
+<td>11714</td>
+<td>5169383901</td>
+</tr>
+<tr>
+<td>BINGHAMTON POST OFFICE</td>
+<td>115 HENRY STREET</td>
+<td>BINGHAMTON</td>
+<td>NY</td>
+<td>13902</td>
+<td>6077732385</td>
+</tr>
+<tr>
+<td>BROOME COUNTY CLERKS OFFICE</td>
+<td>44 HAWLEY STREET</td>
+<td>BINGHAMTON</td>
+<td>NY</td>
+<td>13901</td>
+<td>6077782255</td>
+</tr>
+<tr>
+<td>BLACK RIVER POST OFFICE</td>
+<td>28553 STATE ROUTE 3</td>
+<td>BLACK RIVER</td>
+<td>NY</td>
+<td>13612</td>
+<td>3157735000</td>
+</tr>
+<tr>
+<td>BLAUVELT POST OFFICE</td>
+<td>545 WESTERN HIGHWAY</td>
+<td>BLAUVELT</td>
+<td>NY</td>
+<td>10913</td>
+<td>8453593477</td>
+</tr>
+<tr>
+<td>BLOOMFIELD POST OFFICE</td>
+<td>2 ELM STREET</td>
+<td>BLOOMFIELD</td>
+<td>NY</td>
+<td>14469</td>
+<td>5856577225</td>
+</tr>
+<tr>
+<td>BAYPORT-BLUE POINT LIBRARY</td>
+<td>203 BLUE POINT AVENUE</td>
+<td>BLUE POINT</td>
+<td>NY</td>
+<td>11715</td>
+<td>6313636133</td>
+</tr>
+<tr>
+<td>BOHEMIA POST OFFICE</td>
+<td>200 ORVILLE DRIVE</td>
+<td>BOHEMIA</td>
+<td>NY</td>
+<td>11716</td>
+<td>6315892487</td>
+</tr>
+<tr>
+<td>CONNETQUOT PUBLIC LIBRARY</td>
+<td>760 OCEAN AVENUE</td>
+<td>BOHEMIA</td>
+<td>NY</td>
+<td>11716</td>
+<td>6315675079</td>
+</tr>
+<tr>
+<td>BOONVILLE POST OFFICE</td>
+<td>100 MAIN STREET</td>
+<td>BOONVILLE</td>
+<td>NY</td>
+<td>13309</td>
+<td>3159424816</td>
+</tr>
+<tr>
+<td>BOWMANSVILLE POST OFFICE</td>
+<td>515 HARRIS HILL ROAD</td>
+<td>BOWMANSVILLE</td>
+<td>NY</td>
+<td>14026</td>
+<td>7166851390</td>
+</tr>
+<tr>
+<td>BRENTWOOD POST OFFICE</td>
+<td>25 SECOND AVENUE</td>
+<td>BRENTWOOD</td>
+<td>NY</td>
+<td>11717</td>
+<td>6312730947</td>
+</tr>
+<tr>
+<td>BREWERTON POST OFFICE</td>
+<td>5560 BARTEL ROAD</td>
+<td>BREWETON</td>
+<td>NY</td>
+<td>13029</td>
+<td>3156767790</td>
+</tr>
+<tr>
+<td>BREWSTER POST OFFICE</td>
+<td>3 MOUNT EBO ROAD NORTH</td>
+<td>BREWSTER</td>
+<td>NY</td>
+<td>10509</td>
+<td>8452798022</td>
+</tr>
+<tr>
+<td>BRIARCLIFF MANOR POST OFFICE</td>
+<td>1077 PLEASANTVILLE RD</td>
+<td>BRIARCLIFF MANOR</td>
+<td>NY</td>
+<td>10510</td>
+<td>9149416177</td>
+</tr>
+<tr>
+<td>THE HAMPTON LIBRARY IN BRIDGEHAMPTON</td>
+<td>2478 MAIN STREET (MONTAUK HIGHWAY)</td>
+<td>BRIDGEHAMPTON</td>
+<td>NY</td>
+<td>11932</td>
+<td>6315370015</td>
+</tr>
+<tr>
+<td>BROCKPORT POST OFFICE</td>
+<td>14 SOUTH MAIN STREET</td>
+<td>BROCKPORT</td>
+<td>NY</td>
+<td>14420</td>
+<td>5856374400</td>
+</tr>
+<tr>
+<td>BRONX COUNTY CLERK</td>
+<td>851 GRAND CONCOURSE, ROOM 118</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10451</td>
+<td>7186183302</td>
+</tr>
+<tr>
+<td>BRONX GPO</td>
+<td>558 GRAND CONCOURSE</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10451</td>
+<td>7184022330</td>
+</tr>
+<tr>
+<td>CITY ISLAND STATION</td>
+<td>199 CITY ISLAND AVENUE</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10464</td>
+<td>7188853153</td>
+</tr>
+<tr>
+<td>CORNELL STATION</td>
+<td>1950 LAFAYETTE AVENUE</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10473</td>
+<td>7188927054</td>
+</tr>
+<tr>
+<td>FORDHAM POST OFFICE</td>
+<td>465 EAST 188TH STREET</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10458</td>
+<td>7185843577</td>
+</tr>
+<tr>
+<td>HUNTS POINT</td>
+<td>800 MANIDA STREET</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10474</td>
+<td>7189911586</td>
+</tr>
+<tr>
+<td>KINGSBRIDGE STATION</td>
+<td>5517 BROADWAY</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10463</td>
+<td>7185496962</td>
+</tr>
+<tr>
+<td>MOTT HAVEN STATION</td>
+<td>517 EAST 139TH STREET</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10454</td>
+<td>7185859611</td>
+</tr>
+<tr>
+<td>PARKCHESTER STATION</td>
+<td>1449 WEST AVENUE</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10462</td>
+<td>7188920557</td>
+</tr>
+<tr>
+<td>RIVERDALE STATION</td>
+<td>5951 RIVERDALE AVENUE</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10471</td>
+<td>7185497952</td>
+</tr>
+<tr>
+<td>THROGGS NECK POST OFFICE</td>
+<td>3630 EAST TREMONT AVENUE</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10465</td>
+<td>7188223851</td>
+</tr>
+<tr>
+<td>WEST FARMS STATION</td>
+<td>362 DEVOE AVENUE</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10460</td>
+<td>7188231245</td>
+</tr>
+<tr>
+<td>WESTCHESTER STATION</td>
+<td>2619 PONTON AVENUE</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10461</td>
+<td>7188234013</td>
+</tr>
+<tr>
+<td>WOODLAWN STATION</td>
+<td>4364 KATONAH AVENUE</td>
+<td>BRONX</td>
+<td>NY</td>
+<td>10470</td>
+<td>7183243838</td>
+</tr>
+<tr>
+<td>ADELPHI STATION</td>
+<td>950 FULTON ST</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11238</td>
+<td>7187832444</td>
+</tr>
+<tr>
+<td>BATH BEACH POST OFFICE</td>
+<td>1865 BENSON AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11214</td>
+<td>7182367197</td>
+</tr>
+<tr>
+<td>BAY RIDGE STATION POST OFFICE</td>
+<td>5501 7TH AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11220</td>
+<td>7184350642</td>
+</tr>
+<tr>
+<td>BAY STATION</td>
+<td>2628 EAST 18TH STREET</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11235</td>
+<td>7187438210</td>
+</tr>
+<tr>
+<td>BLYTHBOURNE STATION</td>
+<td>1200 51ST STREET</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11219</td>
+<td>7184361675</td>
+</tr>
+<tr>
+<td>BREVOORT STATION</td>
+<td>1205 ATLANTIC AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11216</td>
+<td>7188573714</td>
+</tr>
+<tr>
+<td>BROOKLYN PUBLIC LIBRARY</td>
+<td>10 GRAND ARMY PLAZA</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11238</td>
+<td>7182302292</td>
+</tr>
+<tr>
+<td>BROOKLYN PUBLIC LIBRARY - ARLINGTON</td>
+<td>203 ARLINGTON AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11207</td>
+<td>7182302293</td>
+</tr>
+<tr>
+<td>BROOKLYN PUBLIC LIBRARY - KINGS HIGHWAY</td>
+<td>2115 OCEAN AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11229</td>
+<td>7183753037</td>
+</tr>
+<tr>
+<td>BROWNSVILLE POST OFFICE</td>
+<td>167 BRISTOL STREET</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11212</td>
+<td>3477500646</td>
+</tr>
+<tr>
+<td>BUSH TERMINAL STATION</td>
+<td>900 3RD AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11232</td>
+<td>7187883452</td>
+</tr>
+<tr>
+<td>BUSHWICK STATION</td>
+<td>1369 BROADWAY</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11221</td>
+<td>7186023111</td>
+</tr>
+<tr>
+<td>CADMAN PLAZA/BROOKLYN GENERAL POST OFFICE</td>
+<td>271 CADMAN PLAZA EAST</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11201</td>
+<td>7188550292</td>
+</tr>
+<tr>
+<td>CANARSIE PASSPORT SECTION</td>
+<td>102-01 FLATLANDS AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11236</td>
+<td>7186494062</td>
+</tr>
+<tr>
+<td>CONEY ISLAND STATION</td>
+<td>2727 MERMAID AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11224</td>
+<td>7182269030</td>
+</tr>
+<tr>
+<td>DYKER HEIGHTS STATION</td>
+<td>8320 13TH AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11228</td>
+<td>7188331758</td>
+</tr>
+<tr>
+<td>EAST NEW YORK STATION</td>
+<td>2645 ATLANTIC AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11207</td>
+<td>7185343570</td>
+</tr>
+<tr>
+<td>FLATBUSH STATION POST OFFICE</td>
+<td>2273 CHURCH AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11226</td>
+<td>3472941069</td>
+</tr>
+<tr>
+<td>FORT HAMILTON STATION</td>
+<td>8801 5TH AVE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11209</td>
+<td>7188335073</td>
+</tr>
+<tr>
+<td>GRAVESEND STATION</td>
+<td>344 AVENUE U</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11223</td>
+<td>7184498738</td>
+</tr>
+<tr>
+<td>GREENPOINT STATION</td>
+<td>66 MESEROLE AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11222</td>
+<td>7183895679</td>
+</tr>
+<tr>
+<td>HOMECREST FINANCE STATION</td>
+<td>2302 AVENUE U</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11229</td>
+<td>7188917533</td>
+</tr>
+<tr>
+<td>JAMES E DAVIS STATION (LEFFERTS)</td>
+<td>315 EMPIRE BOULEVARD</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11225</td>
+<td>7187732438</td>
+</tr>
+<tr>
+<td>KINGS COUNTY CLERK</td>
+<td>360 ADAMS ST</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11201</td>
+<td>3474049760</td>
+</tr>
+<tr>
+<td>METROPOLITAN STATION POST OFFICE</td>
+<td>47 DEBEVOISE STREET</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11206</td>
+<td>3472721755</td>
+</tr>
+<tr>
+<td>MIDWOOD POST OFFICE</td>
+<td>1288 CONEY ISLAND AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11230</td>
+<td>3475788835</td>
+</tr>
+<tr>
+<td>NEW LOTS STATION</td>
+<td>1223 SUTTER AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11208</td>
+<td>7182270217</td>
+</tr>
+<tr>
+<td>PRATT STATION</td>
+<td>609 MYRTLE AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11205</td>
+<td>7183992395</td>
+</tr>
+<tr>
+<td>RED HOOK STATION POST OFFICE</td>
+<td>615 CLINTON STREET</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11231</td>
+<td>7186247247</td>
+</tr>
+<tr>
+<td>RUGBY POST OFFICE</td>
+<td>726 UTICA AVE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11203</td>
+<td>7182721735</td>
+</tr>
+<tr>
+<td>RYDER RETAIL STATION</td>
+<td>2222 FLATBUSH AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11234</td>
+<td>7183385982</td>
+</tr>
+<tr>
+<td>TIMES PLAZA POST OFFICE</td>
+<td>539 ATLANTIC AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11217</td>
+<td>7187971516</td>
+</tr>
+<tr>
+<td>VAN BRUNT STATION</td>
+<td>275 9TH STREET</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11215</td>
+<td>7187681284</td>
+</tr>
+<tr>
+<td>WILLIAMSBURG STATION</td>
+<td>263 SOUTH FOURTH STREET</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11211</td>
+<td>7183877605</td>
+</tr>
+<tr>
+<td>WYCKOFF POST OFFICE</td>
+<td>86 WYCKOFF AVENUE</td>
+<td>BROOKLYN</td>
+<td>NY</td>
+<td>11237</td>
+<td>7183863629</td>
+</tr>
+<tr>
+<td>BUFFALO CAYUGA BRANCH</td>
+<td>285 CAYUGA ROAD</td>
+<td>BUFFALO</td>
+<td>NY</td>
+<td>14241</td>
+<td>7166313531</td>
+</tr>
+<tr>
+<td>BUFFALO NIAGARA SQ STATION POST OFFICE</td>
+<td>229 W GENESEE STREET</td>
+<td>BUFFALO</td>
+<td>NY</td>
+<td>14202</td>
+<td>7168564601</td>
+</tr>
+<tr>
+<td>BUFFALO POST OFFICE MAIN OFFICE WINDOW</td>
+<td>1200 WILLIAM STREET</td>
+<td>BUFFALO</td>
+<td>NY</td>
+<td>14240</td>
+<td>7168462301</td>
+</tr>
+<tr>
+<td>BUFFALO WEST SIDE STATION POST OFFICE</td>
+<td>465 GRANT STREET</td>
+<td>BUFFALO</td>
+<td>NY</td>
+<td>14213</td>
+<td>7168838032</td>
+</tr>
+<tr>
+<td>CENTRAL PARK POST OFFICE</td>
+<td>170 MANHATTAN AVE</td>
+<td>BUFFALO</td>
+<td>NY</td>
+<td>14215</td>
+<td>7168343215</td>
+</tr>
+<tr>
+<td>ERIE COUNTY CLERK OF COURT - BUFFALO</td>
+<td>92 FRANKLIN ST.</td>
+<td>BUFFALO</td>
+<td>NY</td>
+<td>14202</td>
+<td>7168588785</td>
+</tr>
+<tr>
+<td>NORTHSIDE STATION</td>
+<td>725 HERTEL AVE</td>
+<td>BUFFALO</td>
+<td>NY</td>
+<td>14207</td>
+<td>7168747007</td>
+</tr>
+<tr>
+<td>UB LAW LIBRARY</td>
+<td>211 OBRIEN HALL</td>
+<td>BUFFALO</td>
+<td>NY</td>
+<td>14260</td>
+<td>7166452204</td>
+</tr>
+<tr>
+<td>CAIRO POST OFFICE</td>
+<td>540 MAIN STREET</td>
+<td>CAIRO</td>
+<td>NY</td>
+<td>12413</td>
+<td>5186229766</td>
+</tr>
+<tr>
+<td>CALLICOON POST OFFICE</td>
+<td>13 RIVER ROAD</td>
+<td>CALLICOON</td>
+<td>NY</td>
+<td>12723</td>
+<td>8458876810</td>
+</tr>
+<tr>
+<td>CALVERTON POST OFFICE</td>
+<td>3690 MIDDLE COUNTRY ROAD</td>
+<td>CALVERTON</td>
+<td>NY</td>
+<td>11933</td>
+<td>6317270067</td>
+</tr>
+<tr>
+<td>CAMBRIDGE POST OFFICE</td>
+<td>51 EAST MAIN ST</td>
+<td>CAMBRIDGE</td>
+<td>NY</td>
+<td>12816</td>
+<td>5186773585</td>
+</tr>
+<tr>
+<td>CAMDEN POST OFFICE</td>
+<td>100 MAIN STREET</td>
+<td>CAMDEN</td>
+<td>NY</td>
+<td>13316</td>
+<td>3152450430</td>
+</tr>
+<tr>
+<td>CAMILLUS POST OFFICE</td>
+<td>120 KASSON ROAD</td>
+<td>CAMILLUS</td>
+<td>NY</td>
+<td>13031</td>
+<td>3154879097</td>
+</tr>
+<tr>
+<td>CANANDAIGUA POST OFFICE</td>
+<td>405 EASTERN BLVD</td>
+<td>CANANDAIGUA</td>
+<td>NY</td>
+<td>14424</td>
+<td>5853941500</td>
+</tr>
+<tr>
+<td>ONTARIO COUNTY CLERK OF COURT</td>
+<td>20 ONTARIO STREET</td>
+<td>CANANDAIGUA</td>
+<td>NY</td>
+<td>14424</td>
+<td>5853964206</td>
+</tr>
+<tr>
+<td>CANASTOTA POST OFFICE</td>
+<td>118 S PETERBORO STREET</td>
+<td>CANASTOTA</td>
+<td>NY</td>
+<td>13032</td>
+<td>3156977717</td>
+</tr>
+<tr>
+<td>CANISTEO POST OFFICE</td>
+<td>6 DEPOT ST</td>
+<td>CANISTEO</td>
+<td>NY</td>
+<td>14823</td>
+<td>6076984081</td>
+</tr>
+<tr>
+<td>CANTON POST OFFICE</td>
+<td>100 MAIN ST</td>
+<td>CANTON</td>
+<td>NY</td>
+<td>13617</td>
+<td>3153864502</td>
+</tr>
+<tr>
+<td>ST LAWRENCE COUNTY CLERKS OFFICE</td>
+<td>48 COURT STREET</td>
+<td>CANTON</td>
+<td>NY</td>
+<td>13617</td>
+<td>3153792237</td>
+</tr>
+<tr>
+<td>CARLE PLACE POST OFFICE</td>
+<td>309 WESTBURY AVENUE</td>
+<td>CARLE PLACE</td>
+<td>NY</td>
+<td>11514</td>
+<td>5163333147</td>
+</tr>
+<tr>
+<td>PUTNAM COUNTY CLERK</td>
+<td>40 GLENEIDA AVENUE</td>
+<td>CARMEL</td>
+<td>NY</td>
+<td>10512</td>
+<td>8458081142</td>
+</tr>
+<tr>
+<td>CARTHAGE POST OFFICE</td>
+<td>521 STATE ST</td>
+<td>CARTHAGE</td>
+<td>NY</td>
+<td>13619</td>
+<td>3154933600</td>
+</tr>
+<tr>
+<td>SCHODACK TOWN CLERK</td>
+<td>265 SCHUURMAN ROAD</td>
+<td>CASTLETON</td>
+<td>NY</td>
+<td>12033</td>
+<td>5184777590</td>
+</tr>
+<tr>
+<td>GREENE COUNTY CLERK</td>
+<td>411 MAIN STREET</td>
+<td>CATSKILL</td>
+<td>NY</td>
+<td>12414</td>
+<td>5187193255</td>
+</tr>
+<tr>
+<td>CEDARHURST POST OFFICE</td>
+<td>124 GROVE AVENUE</td>
+<td>CEDARHURST</td>
+<td>NY</td>
+<td>11516</td>
+<td>5162951452</td>
+</tr>
+<tr>
+<td>CENTER MORICHES FREE PUBLIC LIBRARY</td>
+<td>235 MAIN STREET</td>
+<td>CENTER MORICHES</td>
+<td>NY</td>
+<td>11934</td>
+<td>6318780940</td>
+</tr>
+<tr>
+<td>CENTEREACH POST OFFICE</td>
+<td>245 CENTEREACH MALL</td>
+<td>CENTEREACH</td>
+<td>NY</td>
+<td>11720</td>
+<td>6315889176</td>
+</tr>
+<tr>
+<td>MIDDLE COUNTRY PUBLIC LIBRARY</td>
+<td>101 EASTWOOD BLVD</td>
+<td>CENTEREACH</td>
+<td>NY</td>
+<td>11720</td>
+<td>6315859393</td>
+</tr>
+<tr>
+<td>CENTRAL ISLIP POST OFFICE</td>
+<td>110 EAST SUFFOLK AVENUE</td>
+<td>CENTRAL ISLIP</td>
+<td>NY</td>
+<td>11722</td>
+<td>6312340547</td>
+</tr>
+<tr>
+<td>USPS FEDERAL COURT HOUSE</td>
+<td>101 FEDERAL PLAZA</td>
+<td>CENTRAL ISLIP</td>
+<td>NY</td>
+<td>11722</td>
+<td>6317876000</td>
+</tr>
+<tr>
+<td>CENTRAL VALLEY MPO</td>
+<td>28 SMITH CLOVE ROAD</td>
+<td>CENTRAL VALLEY</td>
+<td>NY</td>
+<td>10917</td>
+<td>8459286016</td>
+</tr>
+<tr>
+<td>CHAMPLAIN POST OFFICE</td>
+<td>880 STATE ROUTE 11</td>
+<td>CHAMPLAIN</td>
+<td>NY</td>
+<td>12919</td>
+<td>5182983341</td>
+</tr>
+<tr>
+<td>CHAPPAQUA POST OFFICE</td>
+<td>107 N. GREELEY AVE.</td>
+<td>CHAPPAQUA</td>
+<td>NY</td>
+<td>10514</td>
+<td>9142387592</td>
+</tr>
+<tr>
+<td>CHATEAUGAY POST OFFICE</td>
+<td>19 RIVER ST</td>
+<td>CHATEAUGAY</td>
+<td>NY</td>
+<td>12920</td>
+<td>5184976012</td>
+</tr>
+<tr>
+<td>CHATHAM POST OFFICE</td>
+<td>35 RAILROAD AVENUE</td>
+<td>CHATHAM</td>
+<td>NY</td>
+<td>12037</td>
+<td>5183923961</td>
+</tr>
+<tr>
+<td>CHAUTAUQUA POST OFFICE</td>
+<td>10-12 ROBERTS AVENUE</td>
+<td>CHAUTAUQUA</td>
+<td>NY</td>
+<td>14722</td>
+<td>7163573275</td>
+</tr>
+<tr>
+<td>CHEEKTOWAGA BRANCH POST OFFICE</td>
+<td>125 GALLERIA DRIVE</td>
+<td>CHEEKTOWAGA</td>
+<td>NY</td>
+<td>14225</td>
+<td>7166814523</td>
+</tr>
+<tr>
+<td>CHEEKTOWAGA TOWN CLERK</td>
+<td>3301 BROADWAY STREET</td>
+<td>CHEEKTOWAGA</td>
+<td>NY</td>
+<td>14227</td>
+<td>7166867431</td>
+</tr>
+<tr>
+<td>CHESTER POST OFFICE</td>
+<td>76 BROOKSIDE AVENUE</td>
+<td>CHESTER</td>
+<td>NY</td>
+<td>10918</td>
+<td>8454692106</td>
+</tr>
+<tr>
+<td>CHESTER PUBLIC LIBRARY</td>
+<td>1784 KINGS HWY</td>
+<td>CHESTER</td>
+<td>NY</td>
+<td>10918</td>
+<td>8454694252</td>
+</tr>
+<tr>
+<td>VILLAGE OF CHURCHVILLE</td>
+<td>23 EAST BUFFALO STREET</td>
+<td>CHURCHVILLE</td>
+<td>NY</td>
+<td>14428</td>
+<td>5852933720</td>
+</tr>
+<tr>
+<td>CLARENCE POST OFFICE</td>
+<td>9845 MAIN STREET</td>
+<td>CLARENCE</td>
+<td>NY</td>
+<td>14031</td>
+<td>7167591243</td>
+</tr>
+<tr>
+<td>CLARKSON TOWN CLERK</td>
+<td>3710 LAKE ROAD</td>
+<td>CLARKSON</td>
+<td>NY</td>
+<td>14420</td>
+<td>5856371130</td>
+</tr>
+<tr>
+<td>CICERO - CLAY POST OFFICE</td>
+<td>5601 STATE RT. 31</td>
+<td>CLAY</td>
+<td>NY</td>
+<td>13041</td>
+<td>3156995721</td>
+</tr>
+<tr>
+<td>CLAY TOWN CLERK</td>
+<td>4401 STATE ROUTE 31</td>
+<td>CLAY</td>
+<td>NY</td>
+<td>13041</td>
+<td>3156523800</td>
+</tr>
+<tr>
+<td>CLAYTON POST OFFICE</td>
+<td>236 JOHN ST</td>
+<td>CLAYTON</td>
+<td>NY</td>
+<td>13624</td>
+<td>3156863311</td>
+</tr>
+<tr>
+<td>HALFMOON POST OFFICE</td>
+<td>2 PROGRESS DR</td>
+<td>CLIFTON PARK</td>
+<td>NY</td>
+<td>12065</td>
+<td>5183715460</td>
+</tr>
+<tr>
+<td>CLINTON POST OFFICE</td>
+<td>40 COLLEGE STREET</td>
+<td>CLINTON</td>
+<td>NY</td>
+<td>13323</td>
+<td>3158532033</td>
+</tr>
+<tr>
+<td>CLYMER POST OFFICE</td>
+<td>8727 EAST MAIN STREET</td>
+<td>CLYMER</td>
+<td>NY</td>
+<td>14724</td>
+<td>7163554443</td>
+</tr>
+<tr>
+<td>BUTTERFIELD LIBRARY</td>
+<td>10 MORRIS AVENUE</td>
+<td>COLD SPRING</td>
+<td>NY</td>
+<td>10516</td>
+<td>8452653040</td>
+</tr>
+<tr>
+<td>COLD SPRING POST OFFICE</td>
+<td>51 CHESTNUT STREET</td>
+<td>COLD SPRING</td>
+<td>NY</td>
+<td>10516</td>
+<td>8452653486</td>
+</tr>
+<tr>
+<td>COLDEN TOWN CLERK</td>
+<td>8812 STATE ROAD</td>
+<td>COLDEN</td>
+<td>NY</td>
+<td>14033</td>
+<td>7169415012</td>
+</tr>
+<tr>
+<td>COMMACK POST OFFICE</td>
+<td>150 VETERANS MEMORIAL HIGHWAY</td>
+<td>COMMACK</td>
+<td>NY</td>
+<td>11725</td>
+<td>6315433647</td>
+</tr>
+<tr>
+<td>COOPERSTOWN POST OFFICE</td>
+<td>40 MAIN ST</td>
+<td>COOPERSTOWN</td>
+<td>NY</td>
+<td>13326</td>
+<td>6075472311</td>
+</tr>
+<tr>
+<td>COPIAGUE MEMORIAL PUBLIC LIBRARY</td>
+<td>50 DEAUVILL BLVD.</td>
+<td>COPIAGUE</td>
+<td>NY</td>
+<td>11726</td>
+<td>6316911111</td>
+</tr>
+<tr>
+<td>CORAM POST OFFICE</td>
+<td>117 PAULS PATH</td>
+<td>CORAM</td>
+<td>NY</td>
+<td>11727</td>
+<td>6317328691</td>
+</tr>
+<tr>
+<td>CORNING POST OFFICE</td>
+<td>198 BAKER STREET</td>
+<td>CORNING</td>
+<td>NY</td>
+<td>14830</td>
+<td>6079366132</td>
+</tr>
+<tr>
+<td>CORNWALL POST OFFICE</td>
+<td>33 QUAKER AVE</td>
+<td>CORNWALL</td>
+<td>NY</td>
+<td>12518</td>
+<td>8455349801</td>
+</tr>
+<tr>
+<td>CORTLAND COUNTY CLERK</td>
+<td>46 GREENBUSH STREET</td>
+<td>CORTLAND</td>
+<td>NY</td>
+<td>13045</td>
+<td>6077535021</td>
+</tr>
+<tr>
+<td>CORTLAND POST OFFICE</td>
+<td>88 MAIN STREET</td>
+<td>CORTLAND</td>
+<td>NY</td>
+<td>13045</td>
+<td>6077530266</td>
+</tr>
+<tr>
+<td>CROGHAN POST OFFICE</td>
+<td>6915 BANK STREET</td>
+<td>CROGHAN</td>
+<td>NY</td>
+<td>13327</td>
+<td>3153466012</td>
+</tr>
+<tr>
+<td>CROSS RIVER POST OFFICE</td>
+<td>20 SHOPPING PLAZA</td>
+<td>CROSS RIVER</td>
+<td>NY</td>
+<td>10518</td>
+<td>9147633798</td>
+</tr>
+<tr>
+<td>CROTON FALLS POST OFFICE</td>
+<td>8 FRONT ST</td>
+<td>CROTON FALLS</td>
+<td>NY</td>
+<td>10519</td>
+<td>9142771427</td>
+</tr>
+<tr>
+<td>CROTON - ON - HUDSON POST OFFICE</td>
+<td>50 MAPLE STREET</td>
+<td>CROTON-ON-HUDSON</td>
+<td>NY</td>
+<td>10520</td>
+<td>9142717589</td>
+</tr>
+<tr>
+<td>CUTCHOGUE NEW SUFFOLK FREE LIBRARY</td>
+<td>27550 MAIN ROAD</td>
+<td>CUTCHOGUE</td>
+<td>NY</td>
+<td>11935</td>
+<td>6317346360</td>
+</tr>
+<tr>
+<td>CUTCHOGUE POST OFFICE</td>
+<td>240 GRIFFING STREET</td>
+<td>CUTCHOGUE</td>
+<td>NY</td>
+<td>11935</td>
+<td>6317346032</td>
+</tr>
+<tr>
+<td>DANNEMORA POST OFFICE</td>
+<td>1079 COOK STREET</td>
+<td>DANNEMORA</td>
+<td>NY</td>
+<td>12929</td>
+<td>5184927115</td>
+</tr>
+<tr>
+<td>DANSVILLE POST OFFICE</td>
+<td>116 MAIN STREET</td>
+<td>DANSVILLE</td>
+<td>NY</td>
+<td>14437</td>
+<td>5853352720</td>
+</tr>
+<tr>
+<td>DEER PARK POST OFFICE</td>
+<td>375 CARLLS PATH</td>
+<td>DEER PARK</td>
+<td>NY</td>
+<td>11729</td>
+<td>6316676490</td>
+</tr>
+<tr>
+<td>DELAWARE COUNTY CLERK</td>
+<td>3 COURT STREET</td>
+<td>DELHI</td>
+<td>NY</td>
+<td>13753</td>
+<td>6078325700</td>
+</tr>
+<tr>
+<td>DELMAR POST OFFICE</td>
+<td>357 DELAWARE AVE</td>
+<td>DELMAR</td>
+<td>NY</td>
+<td>12054</td>
+<td>5184391933</td>
+</tr>
+<tr>
+<td>DEPEW POST OFFICE</td>
+<td>165 WARSAW ST</td>
+<td>DEPEW</td>
+<td>NY</td>
+<td>14043</td>
+<td>7166832656</td>
+</tr>
+<tr>
+<td>DERBY POST OFFICE</td>
+<td>7350 ERIE ROAD</td>
+<td>DERBY</td>
+<td>NY</td>
+<td>14047</td>
+<td>7169475550</td>
+</tr>
+<tr>
+<td>SYRACUSE POST OFFICE DEWITT STATION</td>
+<td>6581 KINNE ROAD</td>
+<td>DEWITT</td>
+<td>NY</td>
+<td>13214</td>
+<td>3154451645</td>
+</tr>
+<tr>
+<td>DOBBS FERRY POST OFFICE</td>
+<td>120 MAIN STREET</td>
+<td>DOBBS FERRY</td>
+<td>NY</td>
+<td>10522</td>
+<td>9146930451</td>
+</tr>
+<tr>
+<td>DOBBS FERRY PUBLIC LIBRARY</td>
+<td>55 MAIN STREET</td>
+<td>DOBBS FERRY</td>
+<td>NY</td>
+<td>10522</td>
+<td>9146936614</td>
+</tr>
+<tr>
+<td>DOVER PLAINS POST OFFICE</td>
+<td>3042 ROUTE 22</td>
+<td>DOVER PLAINS</td>
+<td>NY</td>
+<td>12522</td>
+<td>8458776953</td>
+</tr>
+<tr>
+<td>DRYDEN TOWN HALL</td>
+<td>93 EAST MAIN ST</td>
+<td>DRYDEN</td>
+<td>NY</td>
+<td>13053</td>
+<td>6078448888</td>
+</tr>
+<tr>
+<td>DUNKIRK POST OFFICE</td>
+<td>410 CENTRAL AVE</td>
+<td>DUNKIRK</td>
+<td>NY</td>
+<td>14048</td>
+<td>7163661780</td>
+</tr>
+<tr>
+<td>EAST AMHERST POST OFFICE</td>
+<td>9630 TRANSIT ROAD</td>
+<td>EAST AMHERST</td>
+<td>NY</td>
+<td>14051</td>
+<td>7166889595</td>
+</tr>
+<tr>
+<td>EAST AURORA POST OFFICE</td>
+<td>408 QUAKER RD</td>
+<td>EAST AURORA</td>
+<td>NY</td>
+<td>14052</td>
+<td>7166520172</td>
+</tr>
+<tr>
+<td>EAST GREENBUSH POST OFFICE</td>
+<td>10 GREENWOOD DR</td>
+<td>EAST GREENBUSH</td>
+<td>NY</td>
+<td>12061</td>
+<td>5184775212</td>
+</tr>
+<tr>
+<td>EAST HAMPTON POST OFFICE</td>
+<td>12 GAY ROAD</td>
+<td>EAST HAMPTON</td>
+<td>NY</td>
+<td>11937</td>
+<td>6313246320</td>
+</tr>
+<tr>
+<td>INCORPORATED VILLAGE OF EAST HILLS</td>
+<td>209 HARBOR HILL ROAD</td>
+<td>EAST HILLS</td>
+<td>NY</td>
+<td>11576</td>
+<td>5166215600</td>
+</tr>
+<tr>
+<td>EAST ISLIP POST OFFICE</td>
+<td>11 GREENWOOD AVENUE</td>
+<td>EAST ISLIP</td>
+<td>NY</td>
+<td>11730</td>
+<td>6315814801</td>
+</tr>
+<tr>
+<td>EAST MEADOW POST OFFICE</td>
+<td>446 EAST MEADOW AVENUE</td>
+<td>EAST MEADOW</td>
+<td>NY</td>
+<td>11554</td>
+<td>5167944509</td>
+</tr>
+<tr>
+<td>EAST NORTHPORT POST OFFICE</td>
+<td>297 LARKFIELD ROAD</td>
+<td>EAST NORTHPORT</td>
+<td>NY</td>
+<td>11731</td>
+<td>6313685632</td>
+</tr>
+<tr>
+<td>EAST QUOGUE POST OFFICE</td>
+<td>6 BAY AVENUE</td>
+<td>EAST QUOGUE</td>
+<td>NY</td>
+<td>11942</td>
+<td>6316535247</td>
+</tr>
+<tr>
+<td>EAST ROCHESTER POST OFFICE</td>
+<td>206 WEST COMMERCIAL ST</td>
+<td>EAST ROCHESTER</td>
+<td>NY</td>
+<td>14445</td>
+<td>5855862978</td>
+</tr>
+<tr>
+<td>EAST SETAUKET POST OFFICE</td>
+<td>450 ROUTE 25A</td>
+<td>EAST SETAUKET</td>
+<td>NY</td>
+<td>11733</td>
+<td>6319414005</td>
+</tr>
+<tr>
+<td>DEWITT TOWN CLERK</td>
+<td>5400 BUTTERNUT DRIVE</td>
+<td>EAST SYRACUSE</td>
+<td>NY</td>
+<td>13057</td>
+<td>3154463826</td>
+</tr>
+<tr>
+<td>EAST SYRACUSE POST OFFICE</td>
+<td>404 W MANLIUS STREET</td>
+<td>EAST SYRACUSE</td>
+<td>NY</td>
+<td>13057</td>
+<td>3154372113</td>
+</tr>
+<tr>
+<td>EDEN POST OFFICE</td>
+<td>8230 NORTH MAIN ST</td>
+<td>EDEN</td>
+<td>NY</td>
+<td>14057</td>
+<td>7169923875</td>
+</tr>
+<tr>
+<td>ESSEX COUNTY CLERK</td>
+<td>7559 COURT STREET</td>
+<td>ELIZABETHTOWN</td>
+<td>NY</td>
+<td>12932</td>
+<td>5188733600</td>
+</tr>
+<tr>
+<td>ELLENVILLE POST OFFICE</td>
+<td>1 LIBERTY SQUARE</td>
+<td>ELLENVILLE</td>
+<td>NY</td>
+<td>12428</td>
+<td>8456479584</td>
+</tr>
+<tr>
+<td>CHEMUNG COUNTY CLERK OF COURT</td>
+<td>210 LAKE STREET</td>
+<td>ELMIRA</td>
+<td>NY</td>
+<td>14901</td>
+<td>6077372920</td>
+</tr>
+<tr>
+<td>ELMIRA POST OFFICE</td>
+<td>255 CLEMENS CENTER PARKWAY</td>
+<td>ELMIRA</td>
+<td>NY</td>
+<td>14901</td>
+<td>6077347251</td>
+</tr>
+<tr>
+<td>ENDICOTT POST OFFICE</td>
+<td>200 WASHINGTON AVE.</td>
+<td>ENDICOTT</td>
+<td>NY</td>
+<td>13760</td>
+<td>6077488207</td>
+</tr>
+<tr>
+<td>FABIUS TOWN CLERK</td>
+<td>7786 MAIN STREET</td>
+<td>FABIUS</td>
+<td>NY</td>
+<td>13063</td>
+<td>3156835215</td>
+</tr>
+<tr>
+<td>FAIRPORT POST OFFICE</td>
+<td>770 AYRAULT RD.</td>
+<td>FAIRPORT</td>
+<td>NY</td>
+<td>14450</td>
+<td>5852239650</td>
+</tr>
+<tr>
+<td>PERINTON TOWN HALL</td>
+<td>1350 TURK HILL RD</td>
+<td>FAIRPORT</td>
+<td>NY</td>
+<td>14450</td>
+<td>5852230770</td>
+</tr>
+<tr>
+<td>FAR ROCKAWAY MPO</td>
+<td>1836 MOTT AVENUE</td>
+<td>FAR ROCKAWAY</td>
+<td>NY</td>
+<td>11691</td>
+<td>7183277701</td>
+</tr>
+<tr>
+<td>ROCKAWAY BEACH STATION</td>
+<td>90-14 ROCKAWAY BEACH BOULEVARD</td>
+<td>FAR ROCKAWAY</td>
+<td>NY</td>
+<td>11693</td>
+<td>7186344075</td>
+</tr>
+<tr>
+<td>FARMINGDALE POST OFFICE</td>
+<td>380 MAIN STREET</td>
+<td>FARMINGDALE</td>
+<td>NY</td>
+<td>11735</td>
+<td>5162491552</td>
+</tr>
+<tr>
+<td>FARMINGTON BRANCH CANANDAIGUA POST OFFICE</td>
+<td>1560 STATE ROUTE 332</td>
+<td>FARMINGTON</td>
+<td>NY</td>
+<td>14425</td>
+<td>5853983830</td>
+</tr>
+<tr>
+<td>FARMINGVILLE POST OFFICE</td>
+<td>500 HORSEBLOCK ROAD</td>
+<td>FARMINGVILLE</td>
+<td>NY</td>
+<td>11738</td>
+<td>6317328625</td>
+</tr>
+<tr>
+<td>FAYETTEVILLE POST OFFICE</td>
+<td>599 E GENESEE ST.</td>
+<td>FAYETTEVILLE</td>
+<td>NY</td>
+<td>13066</td>
+<td>3156376761</td>
+</tr>
+<tr>
+<td>MANLIUS TOWN CLERK</td>
+<td>301 BROOKLEA DRIVE</td>
+<td>FAYETTEVILLE</td>
+<td>NY</td>
+<td>13066</td>
+<td>3156373521</td>
+</tr>
+<tr>
+<td>FLORAL PARK POST OFFICE</td>
+<td>35 TULIP AVENUE</td>
+<td>FLORAL PARK</td>
+<td>NY</td>
+<td>11001</td>
+<td>5164376621</td>
+</tr>
+<tr>
+<td>FLORIDA POST OFFICE</td>
+<td>15 EDWARD J. LEMPKA DRIVE</td>
+<td>FLORIDA</td>
+<td>NY</td>
+<td>10921</td>
+<td>8456510044</td>
+</tr>
+<tr>
+<td>FLUSHING MAIN POST OFFICE</td>
+<td>41-65 MAIN STREET</td>
+<td>FLUSHING</td>
+<td>NY</td>
+<td>11355</td>
+<td>7183216898</td>
+</tr>
+<tr>
+<td>JACKSON HEIGHTS</td>
+<td>78-02 37TH AVENUE</td>
+<td>FLUSHING</td>
+<td>NY</td>
+<td>11372</td>
+<td>7188038461</td>
+</tr>
+<tr>
+<td>MONTGOMERY COUNTY CLERKS OFFICE</td>
+<td>64 BROADWAY</td>
+<td>FONDA</td>
+<td>NY</td>
+<td>12068</td>
+<td>5188538111</td>
+</tr>
+<tr>
+<td>FOREST HILLS POST OFFICE</td>
+<td>106-28 QUEENS BOULEVARD</td>
+<td>FOREST HILLS</td>
+<td>NY</td>
+<td>11375</td>
+<td>7182633165</td>
+</tr>
+<tr>
+<td>FORT DRUM POST OFFICE</td>
+<td>10720 MT. BELVEDERE BLVD</td>
+<td>FORT DRUM</td>
+<td>NY</td>
+<td>13602</td>
+<td>3157725220</td>
+</tr>
+<tr>
+<td>WASHINGTON COUNTY CLERK OF COURT</td>
+<td>383 BROADWAY</td>
+<td>FORT EDWARD</td>
+<td>NY</td>
+<td>12828</td>
+<td>5187462170</td>
+</tr>
+<tr>
+<td>FORT MONTGOMERY POST OFFICE</td>
+<td>130 FIREFIGHTERS MEMORIAL DRIVE</td>
+<td>FORT MONTGOMERY</td>
+<td>NY</td>
+<td>10922</td>
+<td>8454468459</td>
+</tr>
+<tr>
+<td>FRANKLIN SQUARE STATION</td>
+<td>867 HEMPSTEAD TURNPIKE</td>
+<td>FRANKLIN SQUARE</td>
+<td>NY</td>
+<td>11010</td>
+<td>5163526411</td>
+</tr>
+<tr>
+<td>FREDONIA POST OFFICE</td>
+<td>21 DAY STREET</td>
+<td>FREDONIA</td>
+<td>NY</td>
+<td>14063</td>
+<td>7166726756</td>
+</tr>
+<tr>
+<td>FREEPORT POST OFFICE</td>
+<td>132 WEST MERRICK ROAD</td>
+<td>FREEPORT</td>
+<td>NY</td>
+<td>11520</td>
+<td>5163786512</td>
+</tr>
+<tr>
+<td>FREEVILLE POST OFFICE</td>
+<td>46 MAIN ST</td>
+<td>FREEVILLE</td>
+<td>NY</td>
+<td>13068</td>
+<td>6078448410</td>
+</tr>
+<tr>
+<td>FULTON POST OFFICE</td>
+<td>214 SOUTH FIRST STREET</td>
+<td>FULTON</td>
+<td>NY</td>
+<td>13069</td>
+<td>3155927158</td>
+</tr>
+<tr>
+<td>GARDEN CITY POST OFFICE</td>
+<td>600 FRANKLIN AVENUE</td>
+<td>GARDEN CITY</td>
+<td>NY</td>
+<td>11530</td>
+<td>5167472201</td>
+</tr>
+<tr>
+<td>ROOSEVELT FIELD POST OFFICE (MALL)</td>
+<td>630 OLD COUNTRY ROAD, UNIT 507</td>
+<td>GARDEN CITY</td>
+<td>NY</td>
+<td>11530</td>
+<td>5167461394</td>
+</tr>
+<tr>
+<td>WESTERN NASSAU POST OFFICE</td>
+<td>830 STEWART AVENUE</td>
+<td>GARDEN CITY</td>
+<td>NY</td>
+<td>11599</td>
+<td>5162287592</td>
+</tr>
+<tr>
+<td>GENESEO POST OFFICE</td>
+<td>13 SOUTH STREET</td>
+<td>GENESEO</td>
+<td>NY</td>
+<td>14454</td>
+<td>5852432000</td>
+</tr>
+<tr>
+<td>LIVINGSTON COUNTY CLERK OF COURT</td>
+<td>6 COURT STREET, ROOM 201</td>
+<td>GENESEO</td>
+<td>NY</td>
+<td>14454</td>
+<td>5852437010</td>
+</tr>
+<tr>
+<td>GENEVA POST OFFICE</td>
+<td>67 CASTLE STREET</td>
+<td>GENEVA</td>
+<td>NY</td>
+<td>14456</td>
+<td>3157890922</td>
+</tr>
+<tr>
+<td>GETZVILLE POST OFFICE</td>
+<td>2655 MILLERSPORT HIGHWAY</td>
+<td>GETZVILLE</td>
+<td>NY</td>
+<td>14068</td>
+<td>7166898874</td>
+</tr>
+<tr>
+<td>GLEN COVE POST OFFICE</td>
+<td>2 GLEN COVE AVENUE</td>
+<td>GLEN COVE</td>
+<td>NY</td>
+<td>11542</td>
+<td>5166711713</td>
+</tr>
+<tr>
+<td>GLEN HEAD POST OFFICE</td>
+<td>240 GLEN HEAD ROAD - SUITE 1</td>
+<td>GLEN HEAD</td>
+<td>NY</td>
+<td>11545</td>
+<td>5166768465</td>
+</tr>
+<tr>
+<td>GLENS FALLS POST OFFICE</td>
+<td>16 HUDSON AVENUE</td>
+<td>GLENS FALLS</td>
+<td>NY</td>
+<td>12801</td>
+<td>5187454525</td>
+</tr>
+<tr>
+<td>GLOVERSVILLE POST OFFICE</td>
+<td>115 NORTH MAIN ST</td>
+<td>GLOVERSVILLE</td>
+<td>NY</td>
+<td>12078</td>
+<td>5187251214</td>
+</tr>
+<tr>
+<td>GOLDENS BRIDGE POST OFFICE</td>
+<td>104 NORTH COUNTY SHOPPING CENTER</td>
+<td>GOLDENS BRIDGE</td>
+<td>NY</td>
+<td>10526</td>
+<td>9142328036</td>
+</tr>
+<tr>
+<td>ORANGE COUNTY CLERK</td>
+<td>255 MAIN STREET</td>
+<td>GOSHEN</td>
+<td>NY</td>
+<td>10924</td>
+<td>8452912698</td>
+</tr>
+<tr>
+<td>GOUVERNEUR POST OFFICE</td>
+<td>35 GROVE ST</td>
+<td>GOUVERNEUR</td>
+<td>NY</td>
+<td>13642</td>
+<td>3152870520</td>
+</tr>
+<tr>
+<td>GOWANDA POST OFFICE</td>
+<td>63 W MAIN ST</td>
+<td>GOWANDA</td>
+<td>NY</td>
+<td>14070</td>
+<td>7165325163</td>
+</tr>
+<tr>
+<td>GRAHAMSVILLE POST OFFICE</td>
+<td>215 MAIN STREET</td>
+<td>GRAHAMSVILLE</td>
+<td>NY</td>
+<td>12740</td>
+<td>8459857735</td>
+</tr>
+<tr>
+<td>GRAND ISLAND POST OFFICE</td>
+<td>2391 BASELINE ROAD</td>
+<td>GRAND ISLAND</td>
+<td>NY</td>
+<td>14072</td>
+<td>7164046036</td>
+</tr>
+<tr>
+<td>GRAND ISLAND TOWN CLERK</td>
+<td>2255 BASELINE ROAD</td>
+<td>GRAND ISLAND</td>
+<td>NY</td>
+<td>14072</td>
+<td>7167739600</td>
+</tr>
+<tr>
+<td>GREAT NECK POST OFFICE</td>
+<td>1 WELWYN ROAD</td>
+<td>GREAT NECK</td>
+<td>NY</td>
+<td>11021</td>
+<td>5164825013</td>
+</tr>
+<tr>
+<td>INCORPORATED VILLAGE OF RUSSELL GARDENS</td>
+<td>6 TAIN DRIVE</td>
+<td>GREAT NECK</td>
+<td>NY</td>
+<td>11021</td>
+<td>5164828246</td>
+</tr>
+<tr>
+<td>GREENLAWN POST OFFICE</td>
+<td>55 BROADWAY</td>
+<td>GREENLAWN</td>
+<td>NY</td>
+<td>11740</td>
+<td>6312616437</td>
+</tr>
+<tr>
+<td>GREENPORT POST OFFICE</td>
+<td>131 FRONT STREET</td>
+<td>GREENPORT</td>
+<td>NY</td>
+<td>11944</td>
+<td>6314771493</td>
+</tr>
+<tr>
+<td>HAMBURG POST OFFICE</td>
+<td>5501 CAMP ROAD</td>
+<td>HAMBURG</td>
+<td>NY</td>
+<td>14075</td>
+<td>7166491631</td>
+</tr>
+<tr>
+<td>HAMBURG TOWN CLERK</td>
+<td>6100 SOUTH PARK AVENUE</td>
+<td>HAMBURG</td>
+<td>NY</td>
+<td>14075</td>
+<td>7166496111</td>
+</tr>
+<tr>
+<td>HAMILTON POST OFFICE</td>
+<td>32 BROAD STREET</td>
+<td>HAMILTON</td>
+<td>NY</td>
+<td>13346</td>
+<td>3158242350</td>
+</tr>
+<tr>
+<td>HAMLIN TOWN CLERK</td>
+<td>1658 LAKE ROAD</td>
+<td>HAMLIN</td>
+<td>NY</td>
+<td>14464</td>
+<td>5859642421</td>
+</tr>
+<tr>
+<td>HARRISON POST OFFICE</td>
+<td>258 HALSTEAD AVE</td>
+<td>HARRISON</td>
+<td>NY</td>
+<td>10528</td>
+<td>9148354937</td>
+</tr>
+<tr>
+<td>HEMPSTEAD POST OFFICE</td>
+<td>200 FULTON AVENUE</td>
+<td>HEMPSTEAD</td>
+<td>NY</td>
+<td>11550</td>
+<td>5165601120</td>
+</tr>
+<tr>
+<td>HEMPSTEAD TOWN CLERK</td>
+<td>ONE WASHINGTON STREET</td>
+<td>HEMPSTEAD</td>
+<td>NY</td>
+<td>11550</td>
+<td>5168123100</td>
+</tr>
+<tr>
+<td>HENRIETTA POST OFFICE</td>
+<td>25 GOODBURLET ROAD</td>
+<td>HENRIETTA</td>
+<td>NY</td>
+<td>14467</td>
+<td>5853343700</td>
+</tr>
+<tr>
+<td>HENRIETTA TOWN CLERK</td>
+<td>475 CALKINS ROAD</td>
+<td>HENRIETTA</td>
+<td>NY</td>
+<td>14467</td>
+<td>5853597035</td>
+</tr>
+<tr>
+<td>HERKIMER COUNTY CLERK OF COURT</td>
+<td>109 MARY STREET, SUITE 1111</td>
+<td>HERKIMER</td>
+<td>NY</td>
+<td>13350</td>
+<td>3158671129</td>
+</tr>
+<tr>
+<td>HICKSVILLE POST OFFICE</td>
+<td>185 WEST JOHN STREET</td>
+<td>HICKSVILLE</td>
+<td>NY</td>
+<td>11801</td>
+<td>5169332475</td>
+</tr>
+<tr>
+<td>HILTON POST OFFICE</td>
+<td>25 SOUTH AVENUE</td>
+<td>HILTON</td>
+<td>NY</td>
+<td>14468</td>
+<td>5853922910</td>
+</tr>
+<tr>
+<td>HOLBROOK POST OFFICE</td>
+<td>445 FURROWS ROAD</td>
+<td>HOLBROOK</td>
+<td>NY</td>
+<td>11741</td>
+<td>6315880226</td>
+</tr>
+<tr>
+<td>HOLLAND POST OFFICE</td>
+<td>11765 PARTRIDGE ROAD</td>
+<td>HOLLAND</td>
+<td>NY</td>
+<td>14080</td>
+<td>7165379400</td>
+</tr>
+<tr>
+<td>HOMER POST OFFICE</td>
+<td>2 SOUTH MAIN STREET</td>
+<td>HOMER</td>
+<td>NY</td>
+<td>13077</td>
+<td>6077493071</td>
+</tr>
+<tr>
+<td>HONEOYE POST OFFICE</td>
+<td>8627 MAIN ST</td>
+<td>HONEOYE</td>
+<td>NY</td>
+<td>14471</td>
+<td>5852295476</td>
+</tr>
+<tr>
+<td>HONEOYE FALLS POST OFFICE</td>
+<td>39 W MAIN ST</td>
+<td>HONEOYE FALLS</td>
+<td>NY</td>
+<td>14472</td>
+<td>5856243200</td>
+</tr>
+<tr>
+<td>HOPEWELL JUNCTION PO</td>
+<td>815 ROUTE 82</td>
+<td>HOPEWELL JUNCTION</td>
+<td>NY</td>
+<td>12533</td>
+<td>8452233048</td>
+</tr>
+<tr>
+<td>HORSEHEADS POST OFFICE</td>
+<td>624 TUTTLE AVE</td>
+<td>HORSEHEADS</td>
+<td>NY</td>
+<td>14845</td>
+<td>6077390371</td>
+</tr>
+<tr>
+<td>HOWARD BEACH POST OFFICE</td>
+<td>160-50 CROSSBAY BOULEVARD</td>
+<td>HOWARD BEACH</td>
+<td>NY</td>
+<td>11414</td>
+<td>7188485491</td>
+</tr>
+<tr>
+<td>HOWELLS POST OFFICE</td>
+<td>126 NEW VERNON RD.SUITE 1</td>
+<td>HOWELLS</td>
+<td>NY</td>
+<td>10932</td>
+<td>8453864222</td>
+</tr>
+<tr>
+<td>COLUMBIA COUNTY CLERKS OFFICE</td>
+<td>560 WARREN STREET</td>
+<td>HUDSON</td>
+<td>NY</td>
+<td>12534</td>
+<td>5188283339</td>
+</tr>
+<tr>
+<td>HUDSON POST OFFICE</td>
+<td>402 UNION ST</td>
+<td>HUDSON</td>
+<td>NY</td>
+<td>12534</td>
+<td>5188283672</td>
+</tr>
+<tr>
+<td>HUNTINGTON POST OFFICE</td>
+<td>55 GERARD STREET</td>
+<td>HUNTINGTON</td>
+<td>NY</td>
+<td>11743</td>
+<td>6314273825</td>
+</tr>
+<tr>
+<td>HUNTINGTON STATION</td>
+<td>888 EAST JERICHO TURNPIKE</td>
+<td>HUNTINGTON STATION</td>
+<td>NY</td>
+<td>11746</td>
+<td>6314270594</td>
+</tr>
+<tr>
+<td>SOUTH HUNTINGTON PUBLIC LIBRARY</td>
+<td>145 PIDGEON HILL ROAD</td>
+<td>HUNTINGTON STATION</td>
+<td>NY</td>
+<td>11746</td>
+<td>6315494411</td>
+</tr>
+<tr>
+<td>HURLEY POST OFFICE</td>
+<td>4 MAIN ST</td>
+<td>HURLEY</td>
+<td>NY</td>
+<td>12443</td>
+<td>8453386018</td>
+</tr>
+<tr>
+<td>HYDE PARK POST OFFICE</td>
+<td>1 EAST MARKET ST</td>
+<td>HYDE PARK</td>
+<td>NY</td>
+<td>12538</td>
+<td>8452290112</td>
+</tr>
+<tr>
+<td>ILION POST OFFICE</td>
+<td>48 FIRST ST</td>
+<td>ILION</td>
+<td>NY</td>
+<td>13357</td>
+<td>3158945007</td>
+</tr>
+<tr>
+<td>IRVINGTON POST OFFICE</td>
+<td>25 N. BUCKHOUT STREET</td>
+<td>IRVINGTON</td>
+<td>NY</td>
+<td>10533</td>
+<td>9145916487</td>
+</tr>
+<tr>
+<td>ISLIP POST OFFICE</td>
+<td>309 MAIN STREET, UNIT 3</td>
+<td>ISLIP</td>
+<td>NY</td>
+<td>11751</td>
+<td>6315817931</td>
+</tr>
+<tr>
+<td>ISLIP TOWN CLERKS OFFICE</td>
+<td>655 MAIN STREET</td>
+<td>ISLIP</td>
+<td>NY</td>
+<td>11751</td>
+<td>6312245490</td>
+</tr>
+<tr>
+<td>ITHACA POST OFFICE</td>
+<td>757 WARREN RD</td>
+<td>ITHACA</td>
+<td>NY</td>
+<td>14850</td>
+<td>6073756003</td>
+</tr>
+<tr>
+<td>TOMPKINS COUNTY CLERK</td>
+<td>320 NORTH TIOGA ST</td>
+<td>ITHACA</td>
+<td>NY</td>
+<td>14850</td>
+<td>6072745431</td>
+</tr>
+<tr>
+<td>HOLLIS STATION</td>
+<td>197-40 JAMAICA  AVENUE</td>
+<td>JAMAICA</td>
+<td>NY</td>
+<td>11423</td>
+<td>7184658313</td>
+</tr>
+<tr>
+<td>JAMAICA POST OFFICE</td>
+<td>88-40 164TH STREET</td>
+<td>JAMAICA</td>
+<td>NY</td>
+<td>11431</td>
+<td>7189901083</td>
+</tr>
+<tr>
+<td>JFK AIRPORT STATION</td>
+<td>BUILDING 250 NORTH BOUNDARY ROAD, SUITE 1</td>
+<td>JAMAICA</td>
+<td>NY</td>
+<td>11430</td>
+<td>7186566433</td>
+</tr>
+<tr>
+<td>QUEENS COUNTY CLERK</td>
+<td>88-11 SUTPHIN BOULEVARD, RM 106</td>
+<td>JAMAICA</td>
+<td>NY</td>
+<td>11435</td>
+<td>7182980605</td>
+</tr>
+<tr>
+<td>ROCHDALE VILLAGE POST OFFICE</td>
+<td>165-100 BAISLEY BOULEVARD</td>
+<td>JAMAICA</td>
+<td>NY</td>
+<td>11434</td>
+<td>7185233765</td>
+</tr>
+<tr>
+<td>CITY OF JAMESTOWN ASSESSORS OFFICE</td>
+<td>200 E. 3RD ST.</td>
+<td>JAMESTOWN</td>
+<td>NY</td>
+<td>14701</td>
+<td>7164837708</td>
+</tr>
+<tr>
+<td>JAMESTOWN MAIN POST OFFICE</td>
+<td>300 EAST 3RD STREET</td>
+<td>JAMESTOWN</td>
+<td>NY</td>
+<td>14701</td>
+<td>7166642133</td>
+</tr>
+<tr>
+<td>JEFFERSONVILLE POST OFFICE</td>
+<td>4915 STATE ROUTE 52</td>
+<td>JEFFERSONVILLE</td>
+<td>NY</td>
+<td>12748</td>
+<td>8454824265</td>
+</tr>
+<tr>
+<td>JERICHO POST OFFICE</td>
+<td>425 NORTH BROADWAY</td>
+<td>JERICHO</td>
+<td>NY</td>
+<td>11753</td>
+<td>5166816887</td>
+</tr>
+<tr>
+<td>FULTON COUNTY CLERK OF COURT</td>
+<td>223 WEST MAIN STREET</td>
+<td>JOHNSTOWN</td>
+<td>NY</td>
+<td>12095</td>
+<td>5187365555</td>
+</tr>
+<tr>
+<td>ELBRIDGE TOWN CLERK</td>
+<td>5 ROUTE 31</td>
+<td>JORDAN</td>
+<td>NY</td>
+<td>13080</td>
+<td>3156899031</td>
+</tr>
+<tr>
+<td>TOWN OF TONAWANDA</td>
+<td>2919 DELAWARE AVENUE, ROOM 14</td>
+<td>KENMORE</td>
+<td>NY</td>
+<td>14217</td>
+<td>7168778800</td>
+</tr>
+<tr>
+<td>KEUKA PARK POST OFFICE</td>
+<td>508 ASSEMBLY AVE</td>
+<td>KEUKA PARK</td>
+<td>NY</td>
+<td>14478</td>
+<td>3155363667</td>
+</tr>
+<tr>
+<td>KEW GARDENS POST OFFICE</td>
+<td>8330 AUSTIN STREET</td>
+<td>KEW GARDENS</td>
+<td>NY</td>
+<td>11415</td>
+<td>7188479895</td>
+</tr>
+<tr>
+<td>KINGS PARK POST OFFICE</td>
+<td>125 EAST MAIN STREET</td>
+<td>KINGS PARK</td>
+<td>NY</td>
+<td>11754</td>
+<td>63612699549</td>
+</tr>
+<tr>
+<td>KINGSTON POST OFFICE</td>
+<td>90 CORNELL STREET</td>
+<td>KINGSTON</td>
+<td>NY</td>
+<td>12401</td>
+<td>8453312286</td>
+</tr>
+<tr>
+<td>ULSTER COUNTY CLERK</td>
+<td>244  FAIR STREET</td>
+<td>KINGSTON</td>
+<td>NY</td>
+<td>12401</td>
+<td>8453403288</td>
+</tr>
+<tr>
+<td>LAFAYETTE TOWN CLERK</td>
+<td>2577 ROUTE 11</td>
+<td>LAFAYETTE</td>
+<td>NY</td>
+<td>13084</td>
+<td>3156773674</td>
+</tr>
+<tr>
+<td>LAGRANGEVILLE POST OFFICE</td>
+<td>1085 ROUTE 55</td>
+<td>LAGRANGEVILLE</td>
+<td>NY</td>
+<td>12540</td>
+<td>8454525270</td>
+</tr>
+<tr>
+<td>WARREN COUNTY CLERK -CLERK OF THE SUPREME AND COUNTY COURTS</td>
+<td>1340 STATE ROUTE #9</td>
+<td>LAKE GEORGE</td>
+<td>NY</td>
+<td>12845</td>
+<td>5187616429</td>
+</tr>
+<tr>
+<td>LAKE KATRINE POST OFFICE</td>
+<td>1840 ULSTER AVE</td>
+<td>LAKE KATRINE</td>
+<td>NY</td>
+<td>12449</td>
+<td>8453822086</td>
+</tr>
+<tr>
+<td>LAKE PLACID POST OFFICE</td>
+<td>2591 MAIN ST</td>
+<td>LAKE PLACID</td>
+<td>NY</td>
+<td>12946</td>
+<td>5185233071</td>
+</tr>
+<tr>
+<td>LARCHMONT POST OFFICE</td>
+<td>1 CHATSWORTH AVE</td>
+<td>LARCHMONT</td>
+<td>NY</td>
+<td>10538</td>
+<td>9148342674</td>
+</tr>
+<tr>
+<td>LAWRENCE POST OFFICE</td>
+<td>12 BAYVIEW AVENUE</td>
+<td>LAWRENCE</td>
+<td>NY</td>
+<td>11559</td>
+<td>5162390246</td>
+</tr>
+<tr>
+<td>LEROY POST OFFICE</td>
+<td>2 MAIN ST</td>
+<td>LEROY</td>
+<td>NY</td>
+<td>14482</td>
+<td>5857686500</td>
+</tr>
+<tr>
+<td>LEVITTOWN POST OFFICE</td>
+<td>180 GARDINERS AVENUE</td>
+<td>LEVITTOWN</td>
+<td>NY</td>
+<td>11756</td>
+<td>6317357343</td>
+</tr>
+<tr>
+<td>LEVITTOWN PUBLIC LIBRARY</td>
+<td>1 BLUEGRASS LANE</td>
+<td>LEVITTOWN</td>
+<td>NY</td>
+<td>11756</td>
+<td>5167315728</td>
+</tr>
+<tr>
+<td>LEWISTON POST OFFICE</td>
+<td>150 S 8TH ST</td>
+<td>LEWISTON</td>
+<td>NY</td>
+<td>14092</td>
+<td>7167548000</td>
+</tr>
+<tr>
+<td>LIBERTY MAIN POST OFFICE</td>
+<td>14 CHESTNUT ST</td>
+<td>LIBERTY</td>
+<td>NY</td>
+<td>12754</td>
+<td>8452925108</td>
+</tr>
+<tr>
+<td>LINCOLNDALE POST OFFICE</td>
+<td>152 ROUTE 202</td>
+<td>LINCOLNDALE</td>
+<td>NY</td>
+<td>10540</td>
+<td>9142487193</td>
+</tr>
+<tr>
+<td>LINDENHURST POST OFFICE</td>
+<td>65 EAST HOFFMAN AVENUE</td>
+<td>LINDENHURST</td>
+<td>NY</td>
+<td>11757</td>
+<td>6312260112</td>
+</tr>
+<tr>
+<td>CATTARAUGUS COUNTY CLERK OF COURT</td>
+<td>303 COURT ST</td>
+<td>LITTLE VALLEY</td>
+<td>NY</td>
+<td>14755</td>
+<td>7169382293</td>
+</tr>
+<tr>
+<td>LIVERPOOL POST OFFICE</td>
+<td>300 CYPRESS STREET</td>
+<td>LIVERPOOL</td>
+<td>NY</td>
+<td>13088</td>
+<td>3154513060</td>
+</tr>
+<tr>
+<td>LIVERPOOL PUBLIC LIBRARY</td>
+<td>310 TULIP ST.</td>
+<td>LIVERPOOL</td>
+<td>NY</td>
+<td>13088</td>
+<td>3154570310</td>
+</tr>
+<tr>
+<td>SALINA TOWN CLERK</td>
+<td>201 SCHOOL ROAD</td>
+<td>LIVERPOOL</td>
+<td>NY</td>
+<td>13088</td>
+<td>3154572710</td>
+</tr>
+<tr>
+<td>LIVONIA POST OFFICE</td>
+<td>34 MAIN STREET</td>
+<td>LIVONIA</td>
+<td>NY</td>
+<td>14487</td>
+<td>5853465858</td>
+</tr>
+<tr>
+<td>LOCKPORT POST OFFICE</td>
+<td>138 EAST AVENUE</td>
+<td>LOCKPORT</td>
+<td>NY</td>
+<td>14094</td>
+<td>7165145000</td>
+</tr>
+<tr>
+<td>NIAGARA COUNTY CLERK OF COURT</td>
+<td>175 HAWLEY STREET</td>
+<td>LOCKPORT</td>
+<td>NY</td>
+<td>14095</td>
+<td>7164397022</td>
+</tr>
+<tr>
+<td>LOCUST VALLEY POST OFFICE</td>
+<td>115 FOREST AVENUE</td>
+<td>LOCUST VALLEY</td>
+<td>NY</td>
+<td>11560</td>
+<td>5166717824</td>
+</tr>
+<tr>
+<td>LONG BEACH POST OFFICE</td>
+<td>101 EAST PARK AVENUE</td>
+<td>LONG BEACH</td>
+<td>NY</td>
+<td>11561</td>
+<td>5164325484</td>
+</tr>
+<tr>
+<td>LONG ISLAND CITY MPO</td>
+<td>46-02 21ST STREET</td>
+<td>LONG ISLAND CITY</td>
+<td>NY</td>
+<td>11101</td>
+<td>7183494600</td>
+</tr>
+<tr>
+<td>LEWIS COUNTY CLERK</td>
+<td>7660 NORTH STATE STREET</td>
+<td>LOWVILLE</td>
+<td>NY</td>
+<td>13367</td>
+<td>3153765333</td>
+</tr>
+<tr>
+<td>LYNBROOK POST OFFICE</td>
+<td>100 BROADWAY</td>
+<td>LYNBROOK</td>
+<td>NY</td>
+<td>11563</td>
+<td>5165990392</td>
+</tr>
+<tr>
+<td>WAYNE COUNTY CLERK</td>
+<td>9 PEARL STREET</td>
+<td>LYONS</td>
+<td>NY</td>
+<td>14489</td>
+<td>3159467470</td>
+</tr>
+<tr>
+<td>MACEDON POST OFFICE</td>
+<td>1475 CANANDAIGUA RD</td>
+<td>MACEDON</td>
+<td>NY</td>
+<td>14502</td>
+<td>3159864904</td>
+</tr>
+<tr>
+<td>MAHOPAC POST OFFICE</td>
+<td>346 ROUTE 6</td>
+<td>MAHOPAC</td>
+<td>NY</td>
+<td>10541</td>
+<td>8456281061</td>
+</tr>
+<tr>
+<td>FRANKLIN COUNTY CLERK</td>
+<td>355 WEST MAIN STREET</td>
+<td>MALONE</td>
+<td>NY</td>
+<td>12953</td>
+<td>5184811681</td>
+</tr>
+<tr>
+<td>MALONE POST OFFICE</td>
+<td>482 E MAIN ST</td>
+<td>MALONE</td>
+<td>NY</td>
+<td>12953</td>
+<td>5184834220</td>
+</tr>
+<tr>
+<td>BALLSTON SPA - MALTA BRANCH POST OFFICE</td>
+<td>12 HEMPHILL PLACE</td>
+<td>MALTA</td>
+<td>NY</td>
+<td>12020</td>
+<td>5188996254</td>
+</tr>
+<tr>
+<td>MAMARONECK POST OFFICE</td>
+<td>309 MOUNT PLEASANT AVE.</td>
+<td>MAMARONECK</td>
+<td>NY</td>
+<td>10543</td>
+<td>9146983229</td>
+</tr>
+<tr>
+<td>MANHASSET POST OFFICE</td>
+<td>28 MAPLE PLACE</td>
+<td>MANHASSET</td>
+<td>NY</td>
+<td>11030</td>
+<td>5166270536</td>
+</tr>
+<tr>
+<td>TOWN CLERK-TOWN OF NORTH HEMPSTEAD</td>
+<td>200 PLANDOME ROAD</td>
+<td>MANHASSET</td>
+<td>NY</td>
+<td>11030</td>
+<td>5168697977</td>
+</tr>
+<tr>
+<td>MANLIUS POST OFFICE</td>
+<td>110 WESLEY STREET</td>
+<td>MANLIUS</td>
+<td>NY</td>
+<td>13104</td>
+<td>3156826770</td>
+</tr>
+<tr>
+<td>POMPEY TOWN CLERK</td>
+<td>8354 US ROUTE 20</td>
+<td>MANLIUS</td>
+<td>NY</td>
+<td>13104</td>
+<td>3156829877</td>
+</tr>
+<tr>
+<td>MANORVILLE POST OFFICE</td>
+<td>525 EASTPORT MANOR ROAD</td>
+<td>MANORVILLE</td>
+<td>NY</td>
+<td>11949</td>
+<td>6317270064</td>
+</tr>
+<tr>
+<td>MARATHON POST OFFICE</td>
+<td>12 MAIN STREET</td>
+<td>MARATHON</td>
+<td>NY</td>
+<td>13803</td>
+<td>6078493817</td>
+</tr>
+<tr>
+<td>MARCELLUS TOWN CLERK</td>
+<td>24 EAST MAIN STREET</td>
+<td>MARCELLUS</td>
+<td>NY</td>
+<td>13108</td>
+<td>3156733269</td>
+</tr>
+<tr>
+<td>MARCY POST OFFICE</td>
+<td>5735 CAVANAUGH RD.</td>
+<td>MARCY</td>
+<td>NY</td>
+<td>13403</td>
+<td>3157367072</td>
+</tr>
+<tr>
+<td>MARGARETVILLE POST OFFICE</td>
+<td>315 MAIN STREET</td>
+<td>MARGARETVILLE</td>
+<td>NY</td>
+<td>12455</td>
+<td>8455862967</td>
+</tr>
+<tr>
+<td>MARLBORO FREE LIBRARY</td>
+<td>1251 ROUTE 9W</td>
+<td>MARLBORO</td>
+<td>NY</td>
+<td>12542</td>
+<td>8452367272</td>
+</tr>
+<tr>
+<td>MASSAPEQUA POST OFFICE</td>
+<td>80 KILLIANS ROAD</td>
+<td>MASSAPEQUA</td>
+<td>NY</td>
+<td>11758</td>
+<td>5167984112</td>
+</tr>
+<tr>
+<td>TOWN OF OYSTER BAY - SOUTH</td>
+<td>977 HICKSVILLE ROAD</td>
+<td>MASSAPEQUA</td>
+<td>NY</td>
+<td>11758</td>
+<td>5167977960</td>
+</tr>
+<tr>
+<td>INCORPORATED VILLAGE OF MASSAPEQUA PARK</td>
+<td>151 FRONT STREET</td>
+<td>MASSAPEQUA PARK</td>
+<td>NY</td>
+<td>11762</td>
+<td>5167980244</td>
+</tr>
+<tr>
+<td>MASSENA POST OFFICE</td>
+<td>100 MAIN ST</td>
+<td>MASSENA</td>
+<td>NY</td>
+<td>13662</td>
+<td>3157695935</td>
+</tr>
+<tr>
+<td>MATTITUCK POST OFFICE</td>
+<td>140 LOVE LANE</td>
+<td>MATTITUCK</td>
+<td>NY</td>
+<td>11952</td>
+<td>6312981364</td>
+</tr>
+<tr>
+<td>GEORGE C BULLIS MEMORIAL COMMUNITY CENTER</td>
+<td>101 MAIN STREET</td>
+<td>MAYBROOK</td>
+<td>NY</td>
+<td>12543</td>
+<td>8454272914</td>
+</tr>
+<tr>
+<td>CHAUTAUQUA COUNTY CLERK</td>
+<td>1 NORTH ERIE STREET</td>
+<td>MAYVILLE</td>
+<td>NY</td>
+<td>14757</td>
+<td>7167534331</td>
+</tr>
+<tr>
+<td>MECHANICVILLE POST OFFICE</td>
+<td>18 SOUTH MAIN STREET</td>
+<td>MECHANICVILLE</td>
+<td>NY</td>
+<td>12118</td>
+<td>5186644731</td>
+</tr>
+<tr>
+<td>MEDFORD POST OFFICE</td>
+<td>1905 ROUTE 112</td>
+<td>MEDFORD</td>
+<td>NY</td>
+<td>11763</td>
+<td>6314754244</td>
+</tr>
+<tr>
+<td>MEDINA POST OFFICE</td>
+<td>128 WEST CENTER STREET</td>
+<td>MEDINA</td>
+<td>NY</td>
+<td>14103</td>
+<td>5857982440</td>
+</tr>
+<tr>
+<td>MEXICO POST OFFICE</td>
+<td>5640 NORMAN AVENUE</td>
+<td>MEXICO</td>
+<td>NY</td>
+<td>13114</td>
+<td>3159633611</td>
+</tr>
+<tr>
+<td>MIDDLE ISLAND POST OFFICE</td>
+<td>780 MIDDLE COUNTRY ROAD</td>
+<td>MIDDLE ISLAND</td>
+<td>NY</td>
+<td>11953</td>
+<td>6312051089</td>
+</tr>
+<tr>
+<td>MIDDLEPORT POST OFFICE</td>
+<td>42 MAIN ST</td>
+<td>MIDDLEPORT</td>
+<td>NY</td>
+<td>14105</td>
+<td>7167353300</td>
+</tr>
+<tr>
+<td>MIDDLETOWN POST OFFICE</td>
+<td>40 FULTON STREET</td>
+<td>MIDDLETOWN</td>
+<td>NY</td>
+<td>10940</td>
+<td>8453411568</td>
+</tr>
+<tr>
+<td>MILLERTON POST OFFICE</td>
+<td>33 CENTURY BLVD</td>
+<td>MILLERTON</td>
+<td>NY</td>
+<td>12546</td>
+<td>5187899093</td>
+</tr>
+<tr>
+<td>MINEOLA POST OFFICE</td>
+<td>160 FIRST STREET</td>
+<td>MINEOLA</td>
+<td>NY</td>
+<td>11501</td>
+<td>5167461372</td>
+</tr>
+<tr>
+<td>NASSAU COUNTY CLERK</td>
+<td>240 OLD COUNTRY ROAD</td>
+<td>MINEOLA</td>
+<td>NY</td>
+<td>11501</td>
+<td>5165712664</td>
+</tr>
+<tr>
+<td>MOHEGAN LAKE POST OFFICE</td>
+<td>3147 EAST MAIN ST</td>
+<td>MOHEGAN LAKE</td>
+<td>NY</td>
+<td>10547</td>
+<td>9145289067</td>
+</tr>
+<tr>
+<td>KIRYAS JOEL COMMUNITY SERVICES DEPARTMENT</td>
+<td>51 FOREST ROAD</td>
+<td>MONROE</td>
+<td>NY</td>
+<td>10950</td>
+<td>8457838300</td>
+</tr>
+<tr>
+<td>MONROE POST OFFICE</td>
+<td>787 STATE ROUTE 17M</td>
+<td>MONROE</td>
+<td>NY</td>
+<td>10950</td>
+<td>8457837827</td>
+</tr>
+<tr>
+<td>MONSEY POST OFFICE</td>
+<td>15 MELNICK DRIVE</td>
+<td>MONSEY</td>
+<td>NY</td>
+<td>10952</td>
+<td>8457323170</td>
+</tr>
+<tr>
+<td>MONTAUK LIBRARY</td>
+<td>871 MONTAUK HIGHWAY</td>
+<td>MONTAUK</td>
+<td>NY</td>
+<td>11954</td>
+<td>6316683377</td>
+</tr>
+<tr>
+<td>MONTICELLO POST OFFICE</td>
+<td>486 BROADWAY</td>
+<td>MONTICELLO</td>
+<td>NY</td>
+<td>12701</td>
+<td>8457947498</td>
+</tr>
+<tr>
+<td>SULLIVAN COUNTY CLERK</td>
+<td>100 NORTH STREET GOVERNMENT CENTER</td>
+<td>MONTICELLO</td>
+<td>NY</td>
+<td>12701</td>
+<td>8458070411</td>
+</tr>
+<tr>
+<td>HENDRICK HUDSON FREE LIBRARY</td>
+<td>185 KINGS FERRY ROAD</td>
+<td>MONTROSE</td>
+<td>NY</td>
+<td>10548</td>
+<td>9147395654</td>
+</tr>
+<tr>
+<td>MONTROSE POST OFFICE</td>
+<td>13 KINGS FERRY ST</td>
+<td>MONTROSE</td>
+<td>NY</td>
+<td>10548</td>
+<td>9147377539</td>
+</tr>
+<tr>
+<td>MORRISONVILLE POST OFFICE</td>
+<td>1934 STATE. RTE. 22B</td>
+<td>MORRISONVILLE</td>
+<td>NY</td>
+<td>12962</td>
+<td>5185617496</td>
+</tr>
+<tr>
+<td>MORRISVILLE POST OFFICE</td>
+<td>18 EATON STREET</td>
+<td>MORRISVILLE</td>
+<td>NY</td>
+<td>13408</td>
+<td>3156849188</td>
+</tr>
+<tr>
+<td>MOUNT KISCO POST OFFICE</td>
+<td>3 MORGAN DRIVE</td>
+<td>MOUNT KISCO</td>
+<td>NY</td>
+<td>10549</td>
+<td>9146663842</td>
+</tr>
+<tr>
+<td>MOUNT VERNON POST OFFICE</td>
+<td>15 SOUTH FIRST AVENUE</td>
+<td>MOUNT VERNON</td>
+<td>NY</td>
+<td>10550</td>
+<td>9146687672</td>
+</tr>
+<tr>
+<td>MT MORRIS POST OFFICE</td>
+<td>31 CHAPEL STREET</td>
+<td>MT. MORRIS</td>
+<td>NY</td>
+<td>14510</td>
+<td>15856583200</td>
+</tr>
+<tr>
+<td>ROCKLAND COUNTY CLERK</td>
+<td>1 SOUTH MAIN STREETSUITE 100</td>
+<td>NEW CITY</td>
+<td>NY</td>
+<td>10956</td>
+<td>8456385732</td>
+</tr>
+<tr>
+<td>NEW HAMPTON POST OFFICE</td>
+<td>5070 ROUTE 17M</td>
+<td>NEW HAMPTON</td>
+<td>NY</td>
+<td>10958</td>
+<td>8453743234</td>
+</tr>
+<tr>
+<td>NEW HARTFORD POST OFFICE</td>
+<td>40 CAMPION ROAD</td>
+<td>NEW HARTFORD</td>
+<td>NY</td>
+<td>13413</td>
+<td>3157330453</td>
+</tr>
+<tr>
+<td>NEW HYDE PARK POST OFFICE</td>
+<td>1001 SECOND AVENUE</td>
+<td>NEW HYDE PARK</td>
+<td>NY</td>
+<td>11040</td>
+<td>5163546024</td>
+</tr>
+<tr>
+<td>NEW ROCHELLE POST OFFICE</td>
+<td>255 NORTH AVE</td>
+<td>NEW ROCHELLE</td>
+<td>NY</td>
+<td>10801</td>
+<td>9146326669</td>
+</tr>
+<tr>
+<td>ANSONIA STATION</td>
+<td>178 COLUMBUS AVENUE</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10023</td>
+<td>2123621697</td>
+</tr>
+<tr>
+<td>AUDUBON STATION</td>
+<td>511 WEST 165TH STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10032</td>
+<td>2125682387</td>
+</tr>
+<tr>
+<td>CATHEDRAL STATION</td>
+<td>215 WEST 104TH STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10025</td>
+<td>2126620355</td>
+</tr>
+<tr>
+<td>CHEROKEE FINANCE STATION</td>
+<td>1483 YORK AVENUE</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10075</td>
+<td>2125178361</td>
+</tr>
+<tr>
+<td>CHURCH STREET STATION</td>
+<td>90 CHURCH STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10007</td>
+<td>2123305019</td>
+</tr>
+<tr>
+<td>COLONIAL PARK STATION</td>
+<td>99 MACOMBS PLACE</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10039</td>
+<td>2123684863</td>
+</tr>
+<tr>
+<td>FORT GEORGE STATION</td>
+<td>4558 BROADWAY</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10040</td>
+<td>2129425266</td>
+</tr>
+<tr>
+<td>FRANKLIN D ROOSEVELT STATION</td>
+<td>909 THIRD AVENUE</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10022</td>
+<td>2123305508</td>
+</tr>
+<tr>
+<td>GRACIE STATION</td>
+<td>229 EAST 85TH STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10028</td>
+<td>2129886680</td>
+</tr>
+<tr>
+<td>GRAND CENTRAL STATION</td>
+<td>450 LEXINGTON AVENUE</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10017</td>
+<td>2123305700</td>
+</tr>
+<tr>
+<td>GREELEY SQUARE STATION</td>
+<td>4 EAST 27TH STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10001</td>
+<td>2126832510</td>
+</tr>
+<tr>
+<td>INWOOD STATION</td>
+<td>90 VERMILYEA AVENUE</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10034</td>
+<td>2125677821</td>
+</tr>
+<tr>
+<td>JAMES A FARLEY POST OFFICE</td>
+<td>421 8TH AVENUE</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10001</td>
+<td>2123303296</td>
+</tr>
+<tr>
+<td>LENOX HILL STATION</td>
+<td>217 EAST 70TH STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10021</td>
+<td>2128794401</td>
+</tr>
+<tr>
+<td>LINCOLNTON STATION</td>
+<td>2266 5TH AVENUE</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10037</td>
+<td>2122813281</td>
+</tr>
+<tr>
+<td>MADISON SQUARE STATION</td>
+<td>149 EAST 23RD STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10010</td>
+<td>2126733771</td>
+</tr>
+<tr>
+<td>MANHATTANVILLE STATION</td>
+<td>365 WEST 125TH STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10027</td>
+<td>2126621540</td>
+</tr>
+<tr>
+<td>MIDTOWN STATION</td>
+<td>223 WEST 38TH STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10018</td>
+<td>2129446598</td>
+</tr>
+<tr>
+<td>NEW YORK COUNTY CLERK</td>
+<td>60 CENTRE ST</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10007</td>
+<td>6463865946</td>
+</tr>
+<tr>
+<td>OLD CHELSEA STATION</td>
+<td>217 WEST 18TH STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10011</td>
+<td>2126752414</td>
+</tr>
+<tr>
+<td>PLANETARIUM STATION</td>
+<td>127 WEST 83RD STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10024</td>
+<td>2128735698</td>
+</tr>
+<tr>
+<td>RADIO CITY STATION</td>
+<td>322 WEST 52ND STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10019</td>
+<td>2122653672</td>
+</tr>
+<tr>
+<td>ROCKEFELLER CENTER STATION</td>
+<td>610 FIFTH AVENUE, CONCOURSE LEVEL 1</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10020</td>
+<td>2122653855</td>
+</tr>
+<tr>
+<td>ROOSEVELT ISLAND STATION</td>
+<td>694 MAIN STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10044</td>
+<td>2127514348</td>
+</tr>
+<tr>
+<td>TIMES SQUARE STATION</td>
+<td>340 WEST 42ND STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10036</td>
+<td>2125020432</td>
+</tr>
+<tr>
+<td>VILLAGE STATION POST OFFICE</td>
+<td>201 VARICK STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10014</td>
+<td>2129899806</td>
+</tr>
+<tr>
+<td>WASHINGTON BRIGDE STATION</td>
+<td>518 WEST 181ST STREET</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10033</td>
+<td>2125432713</td>
+</tr>
+<tr>
+<td>YORKVILLE STATION</td>
+<td>1617 THIRD AVENUE</td>
+<td>NEW YORK</td>
+<td>NY</td>
+<td>10128</td>
+<td>2123692230</td>
+</tr>
+<tr>
+<td>NEWARK POST OFFICE</td>
+<td>300 S MAIN ST.</td>
+<td>NEWARK</td>
+<td>NY</td>
+<td>14513</td>
+<td>3153314790</td>
+</tr>
+<tr>
+<td>NEWBURGH POST OFFICE</td>
+<td>217 LIBERTY STREET</td>
+<td>NEWBURGH</td>
+<td>NY</td>
+<td>12550</td>
+<td>8455615982</td>
+</tr>
+<tr>
+<td>LA SALLE STATION</td>
+<td>9860 NIAGARA FALLS BLVD</td>
+<td>NIAGARA FALLS</td>
+<td>NY</td>
+<td>14304</td>
+<td>7165131014</td>
+</tr>
+<tr>
+<td>NIAGARA FALLS POST OFFICE</td>
+<td>615 MAIN ST</td>
+<td>NIAGARA FALLS</td>
+<td>NY</td>
+<td>14302</td>
+<td>7165131063</td>
+</tr>
+<tr>
+<td>NIAGARA FALLS PUBLIC LIBRARY</td>
+<td>1425 MAIN ST.</td>
+<td>NIAGARA FALLS</td>
+<td>NY</td>
+<td>14305</td>
+<td>7162864894</td>
+</tr>
+<tr>
+<td>TOWN OF NIAGARA</td>
+<td>7105 LOCKPORT ROAD</td>
+<td>NIAGARA FALLS</td>
+<td>NY</td>
+<td>14305</td>
+<td>7162972150</td>
+</tr>
+<tr>
+<td>NORTH CHILI POST OFFICE</td>
+<td>3235 UNION ST</td>
+<td>NORTH CHILI</td>
+<td>NY</td>
+<td>14514</td>
+<td>5855942933</td>
+</tr>
+<tr>
+<td>NORTH TONAWANDA POST OFFICE</td>
+<td>141 GOUNDRY ST</td>
+<td>NORTH TONAWANDA</td>
+<td>NY</td>
+<td>14120</td>
+<td>7167996801</td>
+</tr>
+<tr>
+<td>NORTHPORT POST OFFICE</td>
+<td>240 MAIN STREET</td>
+<td>NORTHPORT</td>
+<td>NY</td>
+<td>11768</td>
+<td>6312616941</td>
+</tr>
+<tr>
+<td>NORTHVILLE POST OFFICE</td>
+<td>151 N MAIN ST</td>
+<td>NORTHVILLE</td>
+<td>NY</td>
+<td>12134</td>
+<td>5188634944</td>
+</tr>
+<tr>
+<td>CHENANGO COUNTY CLERK OF COURT</td>
+<td>5 COURT STREET</td>
+<td>NORWICH</td>
+<td>NY</td>
+<td>13815</td>
+<td>6073371450</td>
+</tr>
+<tr>
+<td>NORWICH POST OFFICE</td>
+<td>20-22 EAST MAIN STREET</td>
+<td>NORWICH</td>
+<td>NY</td>
+<td>13815</td>
+<td>6073344134</td>
+</tr>
+<tr>
+<td>OCEANSIDE POST OFFICE</td>
+<td>80 ATLANTIC AVENUE</td>
+<td>OCEANSIDE</td>
+<td>NY</td>
+<td>11572</td>
+<td>5167665829</td>
+</tr>
+<tr>
+<td>OGDENSBURG POST OFFICE</td>
+<td>431 STATE STREET</td>
+<td>OGDENSBURG</td>
+<td>NY</td>
+<td>13669</td>
+<td>3153935330</td>
+</tr>
+<tr>
+<td>OLD BETHPAGE POST OFFICE</td>
+<td>696 OLD BETHPAGE ROAD</td>
+<td>OLD BETHPAGE</td>
+<td>NY</td>
+<td>11804</td>
+<td>5162490012</td>
+</tr>
+<tr>
+<td>OLD FORGE MPO</td>
+<td>2992 STATE ROUTE 28</td>
+<td>OLD FORGE</td>
+<td>NY</td>
+<td>13420</td>
+<td>3153693414</td>
+</tr>
+<tr>
+<td>OLEAN POST OFFICE</td>
+<td>102 S UNION ST</td>
+<td>OLEAN</td>
+<td>NY</td>
+<td>14760</td>
+<td>7163725212</td>
+</tr>
+<tr>
+<td>ONEIDA POST OFFICE</td>
+<td>133 FARRIER AVENUE</td>
+<td>ONEIDA</td>
+<td>NY</td>
+<td>13421</td>
+<td>3153634210</td>
+</tr>
+<tr>
+<td>ONEONTA POST OFFICE</td>
+<td>352 MAIN STREET</td>
+<td>ONEONTA</td>
+<td>NY</td>
+<td>13820</td>
+<td>6074326100</td>
+</tr>
+<tr>
+<td>ONTARIO POST OFFICE</td>
+<td>2001 FERGUSON DRIVE</td>
+<td>ONTARIO</td>
+<td>NY</td>
+<td>14519</td>
+<td>3155248112</td>
+</tr>
+<tr>
+<td>ORANGEBURG POST OFFICE</td>
+<td>26 ORANGETOWN CENTER</td>
+<td>ORANGEBURG</td>
+<td>NY</td>
+<td>10962</td>
+<td>8453593547</td>
+</tr>
+<tr>
+<td>ORCHARD PARK POST OFFICE</td>
+<td>60 SCHOOL ST</td>
+<td>ORCHARD PARK</td>
+<td>NY</td>
+<td>14127</td>
+<td>7166624110</td>
+</tr>
+<tr>
+<td>OSSINING MAIN POST OFFICE</td>
+<td>100 MAIN STREET</td>
+<td>OSSINING</td>
+<td>NY</td>
+<td>10562</td>
+<td>9149417348</td>
+</tr>
+<tr>
+<td>OSWEGO COUNTY CLERK OF COURT</td>
+<td>46 E BRIDGE ST</td>
+<td>OSWEGO</td>
+<td>NY</td>
+<td>13126</td>
+<td>3153498621</td>
+</tr>
+<tr>
+<td>OSWEGO POST OFFICE</td>
+<td>391 W FIRST ST.</td>
+<td>OSWEGO</td>
+<td>NY</td>
+<td>13126</td>
+<td>3153433881</td>
+</tr>
+<tr>
+<td>TIOGA COUNTY CLERK</td>
+<td>16 COURT STREET</td>
+<td>OWEGO</td>
+<td>NY</td>
+<td>13827</td>
+<td>6076878660</td>
+</tr>
+<tr>
+<td>OYSTER BAY POST OFFICE</td>
+<td>1 SHORE AVENUE</td>
+<td>OYSTER BAY</td>
+<td>NY</td>
+<td>11771</td>
+<td>5169228249</td>
+</tr>
+<tr>
+<td>TOWN OF OYSTER BAY - NORTH</td>
+<td>54 AUDREY AVENUE</td>
+<td>OYSTER BAY</td>
+<td>NY</td>
+<td>11771</td>
+<td>5166246333</td>
+</tr>
+<tr>
+<td>OZONE PARK FINANCE STATION</td>
+<td>91-11 LIBERTY AVENUE</td>
+<td>OZONE PARK</td>
+<td>NY</td>
+<td>11417</td>
+<td>7188436518</td>
+</tr>
+<tr>
+<td>PAINTED POST POST OFFICE</td>
+<td>135 NORTH HAMILTON STREET</td>
+<td>PAINTED POST</td>
+<td>NY</td>
+<td>14870</td>
+<td>6079366521</td>
+</tr>
+<tr>
+<td>PALISADES POST OFFICE</td>
+<td>705 OAK TREE ROAD</td>
+<td>PALISADES</td>
+<td>NY</td>
+<td>10964</td>
+<td>8453597841</td>
+</tr>
+<tr>
+<td>PALMYRA POST OFFICE</td>
+<td>522 E MAIN ST</td>
+<td>PALMYRA</td>
+<td>NY</td>
+<td>14522</td>
+<td>3155974151</td>
+</tr>
+<tr>
+<td>PARKSVILLE POST OFFICE</td>
+<td>12 COOLEY RD</td>
+<td>PARKSVILLE</td>
+<td>NY</td>
+<td>12768</td>
+<td>8452925451</td>
+</tr>
+<tr>
+<td>PATCHOGUE POST OFFICE</td>
+<td>170 EAST MAIN STREET</td>
+<td>PATCHOGUE</td>
+<td>NY</td>
+<td>11772</td>
+<td>6314750560</td>
+</tr>
+<tr>
+<td>PATCHOGUE-MEDFORD LIBRARY</td>
+<td>54-60 EAST MAIN STREET</td>
+<td>PATCHOGUE</td>
+<td>NY</td>
+<td>11772</td>
+<td>6316544700</td>
+</tr>
+<tr>
+<td>PEARL RIVER POST OFFICE</td>
+<td>35 S. MAIN STREET</td>
+<td>PEARL RIVER</td>
+<td>NY</td>
+<td>10965</td>
+<td>8457359578</td>
+</tr>
+<tr>
+<td>PECONIC POST OFFICE</td>
+<td>2575 PECONIC LANE</td>
+<td>PECONIC</td>
+<td>NY</td>
+<td>11958</td>
+<td>6317659348</td>
+</tr>
+<tr>
+<td>PEEKSKILL POST OFFICE</td>
+<td>738 SOUTH ST</td>
+<td>PEEKSKILL</td>
+<td>NY</td>
+<td>10566</td>
+<td>9147376437</td>
+</tr>
+<tr>
+<td>PENFIELD POST OFFICE</td>
+<td>2080 FAIRPORT NINE MILE POINT RD</td>
+<td>PENFIELD</td>
+<td>NY</td>
+<td>14526</td>
+<td>5853881920</td>
+</tr>
+<tr>
+<td>YATES COUNTY CLERKS OFFICE</td>
+<td>417 LIBERTY STREET,</td>
+<td>PENN YANN</td>
+<td>NY</td>
+<td>14527</td>
+<td>3155365120</td>
+</tr>
+<tr>
+<td>PERRY POST OFFICE</td>
+<td>24 N MAIN STREET</td>
+<td>PERRY</td>
+<td>NY</td>
+<td>14530</td>
+<td>5852372880</td>
+</tr>
+<tr>
+<td>PHELPS POST OFFICE</td>
+<td>6 CHURCH STREET</td>
+<td>PHELPS</td>
+<td>NY</td>
+<td>14532</td>
+<td>3155485021</td>
+</tr>
+<tr>
+<td>PINE BUSH POST OFFICE</td>
+<td>27 MAIN ST</td>
+<td>PINE BUSH</td>
+<td>NY</td>
+<td>12566</td>
+<td>8457443013</td>
+</tr>
+<tr>
+<td>PINE CITY POST OFFICE</td>
+<td>1565 PENNSYLVANIA AVE</td>
+<td>PINE CITY</td>
+<td>NY</td>
+<td>14871</td>
+<td>6077342558</td>
+</tr>
+<tr>
+<td>PITTSFORD POST OFFICE</td>
+<td>5607 PALMYRA ROAD</td>
+<td>PITTSFORD</td>
+<td>NY</td>
+<td>14534</td>
+<td>5855861230</td>
+</tr>
+<tr>
+<td>PLAINVIEW POST OFFICE</td>
+<td>1662 OLD COUNTRY ROAD</td>
+<td>PLAINVIEW</td>
+<td>NY</td>
+<td>11803</td>
+<td>5168457162</td>
+</tr>
+<tr>
+<td>CLINTON COUNTY CLERKS OFFICE</td>
+<td>137 MARGARET ST</td>
+<td>PLATTSBURGH</td>
+<td>NY</td>
+<td>12901</td>
+<td>5185654701</td>
+</tr>
+<tr>
+<td>PLATTSBURGH POST OFFICE</td>
+<td>10 MILLER ST</td>
+<td>PLATTSBURGH</td>
+<td>NY</td>
+<td>12901</td>
+<td>5185631450</td>
+</tr>
+<tr>
+<td>PLEASANT VALLEY POST OFFICE</td>
+<td>1612 MAIN STREET (ROUTE 44)</td>
+<td>PLEASANT VALLEY</td>
+<td>NY</td>
+<td>12569</td>
+<td>8456358932</td>
+</tr>
+<tr>
+<td>PLEASANTVILLE MAIN POST OFFICE</td>
+<td>50 MEMORIAL PLAZA</td>
+<td>PLEASANTVILLE</td>
+<td>NY</td>
+<td>10570</td>
+<td>9147697351</td>
+</tr>
+<tr>
+<td>POMONA POST OFFICE</td>
+<td>1515 ROUTE 202</td>
+<td>POMONA</td>
+<td>NY</td>
+<td>10970</td>
+<td>8453645003</td>
+</tr>
+<tr>
+<td>PORT CHESTER POST OFFICE</td>
+<td>245 WESTCHESTER AVE</td>
+<td>PORT CHESTER</td>
+<td>NY</td>
+<td>10573</td>
+<td>9149396783</td>
+</tr>
+<tr>
+<td>PORT JEFFERSON FREE LIBRARY</td>
+<td>100 THOMPSON STREET</td>
+<td>PORT JEFFERSON</td>
+<td>NY</td>
+<td>11777</td>
+<td>6314730022</td>
+</tr>
+<tr>
+<td>PORT JEFFERSON STATION POST OFFICE</td>
+<td>544 JEFFERSON PLAZA</td>
+<td>PORT JEFFERSON</td>
+<td>NY</td>
+<td>11776</td>
+<td>6314732751</td>
+</tr>
+<tr>
+<td>PORT JERVIS POST OFFICE</td>
+<td>20 SUSSEX ST</td>
+<td>PORT JERVIS</td>
+<td>NY</td>
+<td>12771</td>
+<td>8458588173</td>
+</tr>
+<tr>
+<td>PORT WASHINGTON POST OFFICE</td>
+<td>1051 PORT WASHINGTON BOULEVARD</td>
+<td>PORT WASHINGTON</td>
+<td>NY</td>
+<td>11050</td>
+<td>5168830754</td>
+</tr>
+<tr>
+<td>POTSDAM POST OFFICE</td>
+<td>21 ELM ST</td>
+<td>POTSDAM</td>
+<td>NY</td>
+<td>13676</td>
+<td>3152658614</td>
+</tr>
+<tr>
+<td>DUTCHESS COUNTY CLERK</td>
+<td>22 MARKET STREET</td>
+<td>POUGHKEEPSIE</td>
+<td>NY</td>
+<td>12601</td>
+<td>8454862120</td>
+</tr>
+<tr>
+<td>LAGRANGE LIBRARY</td>
+<td>488 FREEDON PLAINS ROAD</td>
+<td>POUGHKEEPSIE</td>
+<td>NY</td>
+<td>12603</td>
+<td>8454523141</td>
+</tr>
+<tr>
+<td>POUGHKEEPSIE POST OFFICE</td>
+<td>55 MANSION ST</td>
+<td>POUGHKEEPSIE</td>
+<td>NY</td>
+<td>12601</td>
+<td>8454525297</td>
+</tr>
+<tr>
+<td>PULASKI POST OFFICE</td>
+<td>4909 N JEFFERSON ST</td>
+<td>PULASKI</td>
+<td>NY</td>
+<td>13142</td>
+<td>3152982951</td>
+</tr>
+<tr>
+<td>PUTNAM VALLEY LIBRARY</td>
+<td>30 OSCAWANA</td>
+<td>PUTNAM VALLEY</td>
+<td>NY</td>
+<td>10579</td>
+<td>8455283242</td>
+</tr>
+<tr>
+<td>PUTNAM VALLEY POST OFFICE</td>
+<td>12 PEEKSKILL HOLLOW ROAD</td>
+<td>PUTNAM VALLEY</td>
+<td>NY</td>
+<td>10579</td>
+<td>8455280341</td>
+</tr>
+<tr>
+<td>QUEENS VILLAGE POST OFFICE</td>
+<td>209-20 JAMAICA AVENUE</td>
+<td>QUEENS VILLAGE</td>
+<td>NY</td>
+<td>11428</td>
+<td>7184658322</td>
+</tr>
+<tr>
+<td>RED HOOK POST OFFICE</td>
+<td>P. O. BOX 9998</td>
+<td>RED HOOK</td>
+<td>NY</td>
+<td>12571</td>
+<td>8457585361</td>
+</tr>
+<tr>
+<td>REMSENBURG POST OFFICE</td>
+<td>137 SOUTH COUNTRY ROAD</td>
+<td>REMSENBURG</td>
+<td>NY</td>
+<td>11960</td>
+<td>6313255937</td>
+</tr>
+<tr>
+<td>RHINEBECK POST OFFICE</td>
+<td>6383 MILL ST</td>
+<td>RHINEBECK</td>
+<td>NY</td>
+<td>12572</td>
+<td>8458769652</td>
+</tr>
+<tr>
+<td>RIDGE POST OFFICE</td>
+<td>1700 MIDDLE COUNTRY ROAD</td>
+<td>RIDGE</td>
+<td>NY</td>
+<td>11961</td>
+<td>6313456842</td>
+</tr>
+<tr>
+<td>RIVERHEAD POST OFFICE</td>
+<td>1210 WEST MAIN STREET</td>
+<td>RIVERHEAD</td>
+<td>NY</td>
+<td>11901</td>
+<td>6317271019</td>
+</tr>
+<tr>
+<td>BEECHWOOD POST OFFICE</td>
+<td>300 WARING RD</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14609</td>
+<td>5856133210</td>
+</tr>
+<tr>
+<td>BRIGHTON TOWN CLERK</td>
+<td>2300 ELMWOOD AVENUE</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14618</td>
+<td>5857845240</td>
+</tr>
+<tr>
+<td>CHARLOTTE POST OFFICE</td>
+<td>4455 LAKE AVE</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14612</td>
+<td>5856631673</td>
+</tr>
+<tr>
+<td>GREECE BRANCH POST OFFICE</td>
+<td>3245 LATTA ROAD</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14612</td>
+<td>5856133232</td>
+</tr>
+<tr>
+<td>IRONDEQUOIT STATION USPS</td>
+<td>425 EAST RIDGE ROAD</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14621</td>
+<td>5856133010</td>
+</tr>
+<tr>
+<td>LEXINGTON STATION USPS</td>
+<td>1280 LEXINGTON AVENUE</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14606</td>
+<td>5856133220</td>
+</tr>
+<tr>
+<td>MONROE COUNTY CLERKS OFFICE</td>
+<td>39 W MAIN ST</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14614</td>
+<td>5857531600</td>
+</tr>
+<tr>
+<td>PANORAMA BRANCH USPS</td>
+<td>1614 PENFIELD ROAD</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14625</td>
+<td>5855869351</td>
+</tr>
+<tr>
+<td>RIDGEMONT PLAZA BRANCH</td>
+<td>2833 RIDGE ROAD WEST</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14626</td>
+<td>5852258774</td>
+</tr>
+<tr>
+<td>ROCHESTER CITY CLERK</td>
+<td>30 CHURCH STREET</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14614</td>
+<td>5854286617</td>
+</tr>
+<tr>
+<td>ROCHESTER MAIN OFFICE WINDOW</td>
+<td>1335 JEFFERSON ROAD</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14692</td>
+<td>5852725953</td>
+</tr>
+<tr>
+<td>ROCHESTER POST OFFICE LOEHMANNS PLAZA</td>
+<td>1900 CLINTON AVENUE SOUTH</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14618</td>
+<td>5854736186</td>
+</tr>
+<tr>
+<td>TOWN OF IRONDEQUOIT</td>
+<td>1280 TITUS AVE</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14617</td>
+<td>5854678840</td>
+</tr>
+<tr>
+<td>WESTGATE BRANCH USPS</td>
+<td>1485 HOWARD ROAD</td>
+<td>ROCHESTER</td>
+<td>NY</td>
+<td>14624</td>
+<td>5856133216</td>
+</tr>
+<tr>
+<td>ROCK HILL POST OFFICE</td>
+<td>240 ROCK HILL DR</td>
+<td>ROCK HILL</td>
+<td>NY</td>
+<td>12775</td>
+<td>8457964535</td>
+</tr>
+<tr>
+<td>ROCKAWAY PARK STATION</td>
+<td>113-25 BEACH CHANNEL DRIVE</td>
+<td>ROCKAWAY PARK</td>
+<td>NY</td>
+<td>11694</td>
+<td>7186343897</td>
+</tr>
+<tr>
+<td>ROCKVILLE CENTRE POST OFFICE</td>
+<td>250 MERRICK ROAD</td>
+<td>ROCKVILLE CENTRE</td>
+<td>NY</td>
+<td>11570</td>
+<td>5167664290</td>
+</tr>
+<tr>
+<td>ROME MAIN POST OFFICE</td>
+<td>110 E GARDEN ST</td>
+<td>ROME</td>
+<td>NY</td>
+<td>13440</td>
+<td>3153361500</td>
+</tr>
+<tr>
+<td>RONKONKOMA POST OFFICE</td>
+<td>200 HAWKINS AVENUE</td>
+<td>RONKONKOMA</td>
+<td>NY</td>
+<td>11779</td>
+<td>6315880301</td>
+</tr>
+<tr>
+<td>ROOSEVELT POST OFFICE</td>
+<td>1 BABYLON TURNPIKE</td>
+<td>ROOSEVELT</td>
+<td>NY</td>
+<td>11575</td>
+<td>5163786973</td>
+</tr>
+<tr>
+<td>ROSENDALE POST OFFICE</td>
+<td>354  MAIN ST</td>
+<td>ROSENDALE</td>
+<td>NY</td>
+<td>12472</td>
+<td>8456588084</td>
+</tr>
+<tr>
+<td>ROSLYN POST OFFICE</td>
+<td>1391 OLD NORTHERN BOULEVARD</td>
+<td>ROSLYN</td>
+<td>NY</td>
+<td>11576</td>
+<td>5166217397</td>
+</tr>
+<tr>
+<td>ROSLYN HEIGHTS POST OFFICE</td>
+<td>66 MINEOLA AVENUE</td>
+<td>ROSLYN HEIGHTS</td>
+<td>NY</td>
+<td>11577</td>
+<td>5166218050</td>
+</tr>
+<tr>
+<td>RYE POST OFFICE</td>
+<td>41 PURDY AVE</td>
+<td>RYE</td>
+<td>NY</td>
+<td>10580</td>
+<td>9149676258</td>
+</tr>
+<tr>
+<td>SAG HARBOR POST OFFICE</td>
+<td>21 LONG ISLAND AVENUE</td>
+<td>SAG HARBOR</td>
+<td>NY</td>
+<td>11963</td>
+<td>6317258968</td>
+</tr>
+<tr>
+<td>ST. ALBANS STATION</td>
+<td>195-04 LINDEN BOULEVARD</td>
+<td>SAINT ALBANS</td>
+<td>NY</td>
+<td>11412</td>
+<td>7185255620</td>
+</tr>
+<tr>
+<td>SAINT BONAVENTURE POST OFFICE</td>
+<td>3261 WEST STATE RD</td>
+<td>SAINT BONAVENTURE</td>
+<td>NY</td>
+<td>14778</td>
+<td>7163724110</td>
+</tr>
+<tr>
+<td>SALAMANCA POST OFFICE</td>
+<td>35 CHESTNUT STREET</td>
+<td>SALAMANCA</td>
+<td>NY</td>
+<td>14779</td>
+<td>7169453390</td>
+</tr>
+<tr>
+<td>SANBORN POST OFFICE</td>
+<td>2901 NIAGARA ST</td>
+<td>SANBORN</td>
+<td>NY</td>
+<td>14132</td>
+<td>7167313414</td>
+</tr>
+<tr>
+<td>TOWN OF SAND LAKE</td>
+<td>8428 MILLER HILL ROAD</td>
+<td>SAND LAKE</td>
+<td>NY</td>
+<td>12153</td>
+<td>5186742026</td>
+</tr>
+<tr>
+<td>SANDY CREEK POST OFFICE</td>
+<td>6067 S MAIN ST</td>
+<td>SANDY CREEK</td>
+<td>NY</td>
+<td>13145</td>
+<td>3153873198</td>
+</tr>
+<tr>
+<td>SARATOGA SPRINGS POST OFFICE</td>
+<td>245 WASHINGTON STREET</td>
+<td>SARATOGA SPRINGS</td>
+<td>NY</td>
+<td>12866</td>
+<td>5182451043</td>
+</tr>
+<tr>
+<td>SAUGERTIES POST OFFICE</td>
+<td>111 MARKET ST</td>
+<td>SAUGERTIES</td>
+<td>NY</td>
+<td>12477</td>
+<td>8452461998</td>
+</tr>
+<tr>
+<td>SAUQUOIT POST OFFICE</td>
+<td>2944 ONEIDA ST</td>
+<td>SAUQUOIT</td>
+<td>NY</td>
+<td>13456</td>
+<td>3157378832</td>
+</tr>
+<tr>
+<td>SAYVILLE POST OFFICE</td>
+<td>130 GREENE AVENUE</td>
+<td>SAYVILLE</td>
+<td>NY</td>
+<td>11782</td>
+<td>6315896963</td>
+</tr>
+<tr>
+<td>HARTSDALE POST OFFICE</td>
+<td>441 CENTRAL AVENUE</td>
+<td>SCARSDALE</td>
+<td>NY</td>
+<td>10583</td>
+<td>9144727164</td>
+</tr>
+<tr>
+<td>SCARSDALE POST OFFICE</td>
+<td>29 CHASE RD</td>
+<td>SCARSDALE</td>
+<td>NY</td>
+<td>10583</td>
+<td>9147234626</td>
+</tr>
+<tr>
+<td>NISKAYUNA STATION POST OFFICE</td>
+<td>2320 NOTT STREET EAST</td>
+<td>SCHENECTADY</td>
+<td>NY</td>
+<td>12309</td>
+<td>5183820344</td>
+</tr>
+<tr>
+<td>SCHENECTADY COUNTY CLERK</td>
+<td>620 STATE STREET</td>
+<td>SCHENECTADY</td>
+<td>NY</td>
+<td>12305</td>
+<td>5183884220</td>
+</tr>
+<tr>
+<td>SCHENECTADY POST OFFICE</td>
+<td>29 JAY ST</td>
+<td>SCHENECTADY</td>
+<td>NY</td>
+<td>12305</td>
+<td>5186126021</td>
+</tr>
+<tr>
+<td>SCHOHARIE COUNTY CLERK OFFICE</td>
+<td>284 MAIN ST</td>
+<td>SCHOHARIE</td>
+<td>NY</td>
+<td>12157</td>
+<td>5182958316</td>
+</tr>
+<tr>
+<td>SCHUYLERVILLE POST OFFICE</td>
+<td>25 FERRY ST</td>
+<td>SCHUYLERVILLE</td>
+<td>NY</td>
+<td>12871</td>
+<td>5186959221</td>
+</tr>
+<tr>
+<td>SCOTTSVILLE POST OFFICE</td>
+<td>3 ROCHESTER ST</td>
+<td>SCOTTSVILLE</td>
+<td>NY</td>
+<td>14546</td>
+<td>5858892040</td>
+</tr>
+<tr>
+<td>SELDEN POST OFFICE</td>
+<td>109 COLLEGE PLAZA</td>
+<td>SELDEN</td>
+<td>NY</td>
+<td>11784</td>
+<td>6317326797</td>
+</tr>
+<tr>
+<td>SENECA FALLS POST OFFICE</td>
+<td>38 STATE ST</td>
+<td>SENECA FALLS</td>
+<td>NY</td>
+<td>13148</td>
+<td>3155682908</td>
+</tr>
+<tr>
+<td>SHELTER ISLAND PUBLIC LIBRARY</td>
+<td>37 NORTH FERRY ROAD</td>
+<td>SHELTER ISLAND</td>
+<td>NY</td>
+<td>11964</td>
+<td>6317490042</td>
+</tr>
+<tr>
+<td>SHIRLEY POST OFFICE</td>
+<td>800 MONTAUK HIGHWAY, SUITE 1</td>
+<td>SHIRLEY</td>
+<td>NY</td>
+<td>11967</td>
+<td>6312817505</td>
+</tr>
+<tr>
+<td>SHOKAN POST OFFICE</td>
+<td>3110 STATE ROUTE 28</td>
+<td>SHOKAN</td>
+<td>NY</td>
+<td>12481</td>
+<td>8456577326</td>
+</tr>
+<tr>
+<td>SHRUB OAK POST OFFICE</td>
+<td>1350 E. MAIN STREET</td>
+<td>SHRUB OAK</td>
+<td>NY</td>
+<td>10588</td>
+<td>9145289274</td>
+</tr>
+<tr>
+<td>SKANEATELES POST OFFICE</td>
+<td>20 FENNELL STREET</td>
+<td>SKANEATELES</td>
+<td>NY</td>
+<td>13152</td>
+<td>3156856189</td>
+</tr>
+<tr>
+<td>SKANEATELES TOWN CLERK</td>
+<td>24 JORDAN STREET</td>
+<td>SKANEATELES</td>
+<td>NY</td>
+<td>13152</td>
+<td>3156853473</td>
+</tr>
+<tr>
+<td>SPAFFORD TOWN CLERK</td>
+<td>1984 ROUTE 174</td>
+<td>SKANEATELES</td>
+<td>NY</td>
+<td>13152</td>
+<td>3156734144</td>
+</tr>
+<tr>
+<td>SLATE HILL POST OFFICE</td>
+<td>1990 ROUTE 284</td>
+<td>SLATE HILL</td>
+<td>NY</td>
+<td>10973</td>
+<td>8453554741</td>
+</tr>
+<tr>
+<td>SMITHTOWN POST OFFICE</td>
+<td>25 ROUTE 111</td>
+<td>SMITHTOWN</td>
+<td>NY</td>
+<td>11787</td>
+<td>6313606709</td>
+</tr>
+<tr>
+<td>THE SMITHTOWN LIBRARY</td>
+<td>1 NORTH COUNTRY ROAD</td>
+<td>SMITHTOWN</td>
+<td>NY</td>
+<td>11787</td>
+<td>6313602480</td>
+</tr>
+<tr>
+<td>SODUS POST OFFICE</td>
+<td>44 WEST MAIN ST</td>
+<td>SODUS</td>
+<td>NY</td>
+<td>14551</td>
+<td>3154839180</td>
+</tr>
+<tr>
+<td>SOUTH OZONE PARK</td>
+<td>125-15 FOCH BOULEVARD</td>
+<td>SOUTH OZONE PARK</td>
+<td>NY</td>
+<td>11420</td>
+<td>7188359562</td>
+</tr>
+<tr>
+<td>ROGERS MEMORIAL LIBRARY</td>
+<td>91 COOPERS FARM ROAD</td>
+<td>SOUTHAMPTON</td>
+<td>NY</td>
+<td>11968</td>
+<td>6312830774</td>
+</tr>
+<tr>
+<td>SOUTHAMPTON POST OFFICE</td>
+<td>123 NORTH SEA ROAD</td>
+<td>SOUTHAMPTON</td>
+<td>NY</td>
+<td>11968</td>
+<td>6312049822</td>
+</tr>
+<tr>
+<td>SPARROWBUSH POST OFFICE</td>
+<td>505 STATE ROUTE 42</td>
+<td>SPARROWBUSH</td>
+<td>NY</td>
+<td>12780</td>
+<td>8458584232</td>
+</tr>
+<tr>
+<td>SPENCER POST OFFICE</td>
+<td>196 N MAIN ST</td>
+<td>SPENCER</td>
+<td>NY</td>
+<td>14883</td>
+<td>6075896144</td>
+</tr>
+<tr>
+<td>OGDEN TOWN CLERKS OFFICE</td>
+<td>269 OGDEN CENTER ROAD</td>
+<td>SPENCERPORT</td>
+<td>NY</td>
+<td>14559</td>
+<td>5856176111</td>
+</tr>
+<tr>
+<td>SPRING VALLEY POST OFFICE</td>
+<td>7 NORTH MADISON AVENUE</td>
+<td>SPRING VALLEY</td>
+<td>NY</td>
+<td>10977</td>
+<td>8454256741</td>
+</tr>
+<tr>
+<td>SPRINGFIELD GARDENS POST OFFICE</td>
+<td>218-10 MERRICK BOULEVARD</td>
+<td>SPRINGFIELD GARDENS</td>
+<td>NY</td>
+<td>11413</td>
+<td>7185289406</td>
+</tr>
+<tr>
+<td>SPRINGVILLE POST OFFICE</td>
+<td>75 FRANKLIN STREET</td>
+<td>SPRINGVILLE</td>
+<td>NY</td>
+<td>14141</td>
+<td>7165922927</td>
+</tr>
+<tr>
+<td>STANLEY POST OFFICE</td>
+<td>2102 STATE ROUTE 245</td>
+<td>STANLEY</td>
+<td>NY</td>
+<td>14561</td>
+<td>5855266695</td>
+</tr>
+<tr>
+<td>NEW DORP STATION</td>
+<td>2562 HYLAN BOULEVARD</td>
+<td>STATEN ISLAND</td>
+<td>NY</td>
+<td>10306</td>
+<td>7188739267</td>
+</tr>
+<tr>
+<td>PORT RICHMOND STATION</td>
+<td>364 PORT RICHMOND AVENUE</td>
+<td>STATEN ISLAND</td>
+<td>NY</td>
+<td>10302</td>
+<td>7184425102</td>
+</tr>
+<tr>
+<td>RICHMOND COUNTY CLERK</td>
+<td>130 STUYVESANT PLACE</td>
+<td>STATEN ISLAND</td>
+<td>NY</td>
+<td>10301</td>
+<td>7186758910</td>
+</tr>
+<tr>
+<td>ROSEBANK STATION</td>
+<td>567 TOMPKINS AVENUE</td>
+<td>STATEN ISLAND</td>
+<td>NY</td>
+<td>10305</td>
+<td>7184470386</td>
+</tr>
+<tr>
+<td>ST GEORGE POST OFFICE</td>
+<td>45 BAY STREET</td>
+<td>STATEN ISLAND</td>
+<td>NY</td>
+<td>10301</td>
+<td>7189812480</td>
+</tr>
+<tr>
+<td>STAPLETON STATION</td>
+<td>160 TOMPKINS AVENUE</td>
+<td>STATEN ISLAND</td>
+<td>NY</td>
+<td>10304</td>
+<td>7187277279</td>
+</tr>
+<tr>
+<td>STATEN ISLAND MAIN</td>
+<td>550 MANOR ROAD</td>
+<td>STATEN ISLAND</td>
+<td>NY</td>
+<td>10314</td>
+<td>7188162710</td>
+</tr>
+<tr>
+<td>TOTTENVILLE STATION POST OFFICE</td>
+<td>228 MAIN STREET</td>
+<td>STATEN ISLAND</td>
+<td>NY</td>
+<td>10307</td>
+<td>7189841215</td>
+</tr>
+<tr>
+<td>WEST NEW BRIGHTON POST OFFICE</td>
+<td>1015 CASTLETON AVENUE</td>
+<td>STATEN ISLAND</td>
+<td>NY</td>
+<td>10310</td>
+<td>7184422163</td>
+</tr>
+<tr>
+<td>STONY BROOK POST OFFICE</td>
+<td>129 MAIN STREET</td>
+<td>STONY BROOK</td>
+<td>NY</td>
+<td>11790</td>
+<td>6317516245</td>
+</tr>
+<tr>
+<td>STONY POINT POST OFFICE</td>
+<td>81 CENTRAL HIGHWAY</td>
+<td>STONY POINT</td>
+<td>NY</td>
+<td>10980</td>
+<td>8457860429</td>
+</tr>
+<tr>
+<td>SUNNYSIDE STATION</td>
+<td>4515 44TH STREET</td>
+<td>SUNNY SIDE</td>
+<td>NY</td>
+<td>11104</td>
+<td>7187297806</td>
+</tr>
+<tr>
+<td>SYOSSET POST OFFICE</td>
+<td>40 QUEENS STREET</td>
+<td>SYOSSET</td>
+<td>NY</td>
+<td>11791</td>
+<td>5169211921</td>
+</tr>
+<tr>
+<td>CAMILLUS TOWN CLERK</td>
+<td>4600 WEST GENESEE STREET</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13219</td>
+<td>3154881234</td>
+</tr>
+<tr>
+<td>COLVIN STATION</td>
+<td>2200 SOUTH SALINA STREET</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13205</td>
+<td>3154780027</td>
+</tr>
+<tr>
+<td>F. FRANKLIN MOON LIBRARY</td>
+<td>1 FORESTRY DRIVE</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13210</td>
+<td>3154706726</td>
+</tr>
+<tr>
+<td>FRANKLIN SQUARE STATION</td>
+<td>401 WEST DIVISION STREET</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13218</td>
+<td>3154788849</td>
+</tr>
+<tr>
+<td>ONONDAGA COUNTY CLERK OF COURT</td>
+<td>401 MONTGOMERY ST</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13202</td>
+<td>3154352229</td>
+</tr>
+<tr>
+<td>ONONDAGA POST OFFICE</td>
+<td>4912 WEST SENECA TURNPIKE</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13215</td>
+<td>3154921107</td>
+</tr>
+<tr>
+<td>ONONDAGA TOWN CLERK</td>
+<td>5020 BALL ROAD</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13215</td>
+<td>3154691583</td>
+</tr>
+<tr>
+<td>SOLVAY STATION</td>
+<td>1801 MILTON AVENUE</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13209</td>
+<td>3154684795</td>
+</tr>
+<tr>
+<td>SYRACUSE POST OFFICE</td>
+<td>5640 EAST TAFT ROAD</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13220</td>
+<td>3154523591</td>
+</tr>
+<tr>
+<td>SYRACUSE POST OFFICE EASTWOOD FINANCE STATION</td>
+<td>2509 JAMES STREET</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13206</td>
+<td>3154638822</td>
+</tr>
+<tr>
+<td>SYRACUSE POST OFFICE TEALL STATION</td>
+<td>226 TEALL AVENUE</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13217</td>
+<td>3154722002</td>
+</tr>
+<tr>
+<td>SYRACUSE POST OFFICE UNIVERSITY FINANCE STATION</td>
+<td>720 UNIVERSITY AVE.</td>
+<td>SYRACUSE</td>
+<td>NY</td>
+<td>13235</td>
+<td>3154720278</td>
+</tr>
+<tr>
+<td>TANNERSVILLE POST OFFICE</td>
+<td>6070 MAIN STREET</td>
+<td>TANNERSVILLE</td>
+<td>NY</td>
+<td>12485</td>
+<td>5185897417</td>
+</tr>
+<tr>
+<td>TAPPAN POST OFFICE</td>
+<td>57 OLD TAPPAN ROAD</td>
+<td>TAPPAN</td>
+<td>NY</td>
+<td>10983</td>
+<td>8453593495</td>
+</tr>
+<tr>
+<td>WARNER LIBRARY</td>
+<td>121 NORTH BROADWAY</td>
+<td>TARRYTOWN</td>
+<td>NY</td>
+<td>10591</td>
+<td>9146317734</td>
+</tr>
+<tr>
+<td>THORNWOOD POST OFFICE</td>
+<td>822 COMMERCE ST</td>
+<td>THORNWOOD</td>
+<td>NY</td>
+<td>10594</td>
+<td>9147697397</td>
+</tr>
+<tr>
+<td>TONAWANDA POST OFFICE</td>
+<td>96 SEYMOUR ST</td>
+<td>TONAWANDA</td>
+<td>NY</td>
+<td>14150</td>
+<td>7167796806</td>
+</tr>
+<tr>
+<td>BRUNSWICK COMMUNITY LIBRARY</td>
+<td>4118 STATE HIGHWAY 2</td>
+<td>TROY</td>
+<td>NY</td>
+<td>12180</td>
+<td>5182794023</td>
+</tr>
+<tr>
+<td>RENSSELAER COUNTY CLERKS OFFICE</td>
+<td>105 THIRD ST</td>
+<td>TROY</td>
+<td>NY</td>
+<td>12180</td>
+<td>5182704080</td>
+</tr>
+<tr>
+<td>TROY POST OFFICE</td>
+<td>400 BROADWAY</td>
+<td>TROY</td>
+<td>NY</td>
+<td>12180</td>
+<td>5182444101</td>
+</tr>
+<tr>
+<td>TRUMANSBURG POST OFFICE</td>
+<td>67 WEST MAIN STREET</td>
+<td>TRUMANSBURG</td>
+<td>NY</td>
+<td>14886</td>
+<td>6073878612</td>
+</tr>
+<tr>
+<td>TUXEDO PARK POST OFFICE</td>
+<td>228 ROUTE 17</td>
+<td>TUXEDO PARK</td>
+<td>NY</td>
+<td>10987</td>
+<td>8453515426</td>
+</tr>
+<tr>
+<td>UNADILLA POST OFFICE</td>
+<td>4 BRIDGE ST</td>
+<td>UNADILLA</td>
+<td>NY</td>
+<td>13849</td>
+<td>6073699361</td>
+</tr>
+<tr>
+<td>UNION HILL POST OFFICE</td>
+<td>82 RIDGE ROAD</td>
+<td>UNION HILL</td>
+<td>NY</td>
+<td>14563</td>
+<td>5852650705</td>
+</tr>
+<tr>
+<td>UNIONDALE POST OFFICE</td>
+<td>1000 FRONT STREET</td>
+<td>UNIONDALE</td>
+<td>NY</td>
+<td>11553</td>
+<td>5164818245</td>
+</tr>
+<tr>
+<td>UPTON POST OFFICE</td>
+<td>2 CENTER STREET</td>
+<td>UPTON</td>
+<td>NY</td>
+<td>11973</td>
+<td>6313442539</td>
+</tr>
+<tr>
+<td>ONEIDA COUNTY CLERK</td>
+<td>800 PARK AVENUE 6TH FLOOR</td>
+<td>UTICA</td>
+<td>NY</td>
+<td>13501</td>
+<td>3157985778</td>
+</tr>
+<tr>
+<td>UTICA POST OFFICE</td>
+<td>100 PITCHER ST</td>
+<td>UTICA</td>
+<td>NY</td>
+<td>13504</td>
+<td>3157385355</td>
+</tr>
+<tr>
+<td>VALATIE POST OFFICE</td>
+<td>1050 KINDERHOOK ST</td>
+<td>VALATIE</td>
+<td>NY</td>
+<td>12184</td>
+<td>5187587133</td>
+</tr>
+<tr>
+<td>VALHALLA POST OFFICE</td>
+<td>10 CLEVELAND ST</td>
+<td>VALHALLA</td>
+<td>NY</td>
+<td>10595</td>
+<td>9149487492</td>
+</tr>
+<tr>
+<td>VALLEY COTTAGE POST OFFICE</td>
+<td>137 ROUTE 303</td>
+<td>VALLEY COTTAGE</td>
+<td>NY</td>
+<td>10989</td>
+<td>8452688675</td>
+</tr>
+<tr>
+<td>VALLEY STREAM POST OFFICE</td>
+<td>111 SOUTH FRANKLIN AVENUE</td>
+<td>VALLEY STREAM</td>
+<td>NY</td>
+<td>11580</td>
+<td>5168258739</td>
+</tr>
+<tr>
+<td>VESTAL POST OFFICE</td>
+<td>117 RANO BLVD</td>
+<td>VESTAL</td>
+<td>NY</td>
+<td>13850</td>
+<td>6077981772</td>
+</tr>
+<tr>
+<td>VICTOR POST OFFICE</td>
+<td>21 FRAMARK DRIVE</td>
+<td>VICTOR</td>
+<td>NY</td>
+<td>14564</td>
+<td>5859243430</td>
+</tr>
+<tr>
+<td>WACCABUC POST OFFICE</td>
+<td>2 POST OFFICE ROAD</td>
+<td>WACCABUC</td>
+<td>NY</td>
+<td>10597</td>
+<td>9147633606</td>
+</tr>
+<tr>
+<td>WADING RIVER POST OFFICE</td>
+<td>1816 WADING RIVER MANOR ROAD</td>
+<td>WADING RIVER</td>
+<td>NY</td>
+<td>11792</td>
+<td>6319290219</td>
+</tr>
+<tr>
+<td>WALLKILL POST OFFICE</td>
+<td>45 WALLKILL AVE</td>
+<td>WALLKILL</td>
+<td>NY</td>
+<td>12589</td>
+<td>8458951064</td>
+</tr>
+<tr>
+<td>WALWORTH POST OFFICE</td>
+<td>2263 WALWORTH-MARION ROAD</td>
+<td>WALWORTH</td>
+<td>NY</td>
+<td>14568</td>
+<td>3159861556</td>
+</tr>
+<tr>
+<td>MADISON COUNTY CLERK</td>
+<td>138 NORTH COURT STREET,</td>
+<td>WAMPSVILLE</td>
+<td>NY</td>
+<td>13163</td>
+<td>3153662261</td>
+</tr>
+<tr>
+<td>WANTAGH POST OFFICE</td>
+<td>1250 WANTAGH AVENUE</td>
+<td>WANTAGH</td>
+<td>NY</td>
+<td>11793</td>
+<td>5162212647</td>
+</tr>
+<tr>
+<td>WAPPINGERS FALLS POST OFFICE</td>
+<td>71 EAST MAIN ST</td>
+<td>WAPPINGERS FALLS</td>
+<td>NY</td>
+<td>12590</td>
+<td>8452971839</td>
+</tr>
+<tr>
+<td>WARRENSBURG POST OFFICE</td>
+<td>3930 MAIN STREET</td>
+<td>WARRENSBURG</td>
+<td>NY</td>
+<td>12885</td>
+<td>5186234641</td>
+</tr>
+<tr>
+<td>WYOMING COUNTY CLERKS OFFICE</td>
+<td>143 N MAIN ST</td>
+<td>WARSAW</td>
+<td>NY</td>
+<td>14569</td>
+<td>5857868810</td>
+</tr>
+<tr>
+<td>WARWICK POST OFFICE</td>
+<td>108 MAIN STREET</td>
+<td>WARWICK</td>
+<td>NY</td>
+<td>10990</td>
+<td>8459864085</td>
+</tr>
+<tr>
+<td>SENECA COUNTY CLERK</td>
+<td>1 DIPRONIO DRIVE</td>
+<td>WATERLOO</td>
+<td>NY</td>
+<td>13165</td>
+<td>3155391770</td>
+</tr>
+<tr>
+<td>WATERLOO POST OFFICE</td>
+<td>2 EAST MAIN STREET</td>
+<td>WATERLOO</td>
+<td>NY</td>
+<td>13165</td>
+<td>3155395058</td>
+</tr>
+<tr>
+<td>JEFFERSON COUNTY CLERKS OFFICE</td>
+<td>175 ARSENAL STREET</td>
+<td>WATERTOWN</td>
+<td>NY</td>
+<td>13601</td>
+<td>3157853200</td>
+</tr>
+<tr>
+<td>WATERTOWN POST OFFICE</td>
+<td>232 COMMERCE PARK DRIVE</td>
+<td>WATERTOWN</td>
+<td>NY</td>
+<td>13601</td>
+<td>3157865982</td>
+</tr>
+<tr>
+<td>WATERVILLE POST OFFICE</td>
+<td>101 WEST MAIN STREET</td>
+<td>WATERVILLE</td>
+<td>NY</td>
+<td>13480</td>
+<td>3158418721</td>
+</tr>
+<tr>
+<td>SCHUYLER COUNTY CLERK</td>
+<td>105 9TH STREET, UNIT 8</td>
+<td>WATKINS GLEN</td>
+<td>NY</td>
+<td>14891</td>
+<td>6075358133</td>
+</tr>
+<tr>
+<td>WATKINS GLEN POST OFFICE</td>
+<td>600 NORTH FRANKLIN STREET</td>
+<td>WATKINS GLEN</td>
+<td>NY</td>
+<td>14891</td>
+<td>6075354452</td>
+</tr>
+<tr>
+<td>WAVERLY POST OFFICE</td>
+<td>434 WAVERLY ST</td>
+<td>WAVERLY</td>
+<td>NY</td>
+<td>14892</td>
+<td>6075652021</td>
+</tr>
+<tr>
+<td>WAYLAND POST OFFICE</td>
+<td>23 E NAPLES ST</td>
+<td>WAYLAND</td>
+<td>NY</td>
+<td>14572</td>
+<td>5857282145</td>
+</tr>
+<tr>
+<td>VILLAGE OF WEBSTER</td>
+<td>28 WEST MAIN STREET</td>
+<td>WEBSTER</td>
+<td>NY</td>
+<td>14580</td>
+<td>5852653770</td>
+</tr>
+<tr>
+<td>WEBSTER POST OFFICE</td>
+<td>75 BARRETT DRIVE</td>
+<td>WEBSTER</td>
+<td>NY</td>
+<td>14580</td>
+<td>5858724873</td>
+</tr>
+<tr>
+<td>WELLSVILLE POST OFFICE</td>
+<td>40 E PEARL ST</td>
+<td>WELLSVILLE</td>
+<td>NY</td>
+<td>14895</td>
+<td>5855933940</td>
+</tr>
+<tr>
+<td>WEST BABYLON POST OFFICE</td>
+<td>385 ROUTE 109</td>
+<td>WEST BABYLON</td>
+<td>NY</td>
+<td>11704</td>
+<td>6318930560</td>
+</tr>
+<tr>
+<td>WEST CHAZY POST OFFICE</td>
+<td>7634 STATE ROUTE #22</td>
+<td>WEST CHAZY</td>
+<td>NY</td>
+<td>12992</td>
+<td>5184936381</td>
+</tr>
+<tr>
+<td>WEST HEMPSTEAD POST OFFICE</td>
+<td>245 HEMPSTEAD AVENUE</td>
+<td>WEST HEMPSTEAD</td>
+<td>NY</td>
+<td>11552</td>
+<td>5164815430</td>
+</tr>
+<tr>
+<td>WEST ISLIP POST OFFICE</td>
+<td>480 UNION BOULEVARD</td>
+<td>WEST ISLIP</td>
+<td>NY</td>
+<td>11795</td>
+<td>6316695157</td>
+</tr>
+<tr>
+<td>PALISADES POSTAL STORE</td>
+<td>3302 PALISADES CENTER DRIVE</td>
+<td>WEST NYACK</td>
+<td>NY</td>
+<td>10994</td>
+<td>8457274081</td>
+</tr>
+<tr>
+<td>WEST POINT POST OFFICE</td>
+<td>634 SWIFT ROAD</td>
+<td>WEST POINT</td>
+<td>NY</td>
+<td>10996</td>
+<td>8454468749</td>
+</tr>
+<tr>
+<td>WEST SENECA POST OFFICE</td>
+<td>4300 SENECA STREET</td>
+<td>WEST SENECA</td>
+<td>NY</td>
+<td>14224</td>
+<td>7166753672</td>
+</tr>
+<tr>
+<td>OLIVE FREE LIBRARY</td>
+<td>4033 ROUTE 28A</td>
+<td>WEST SHOKAN</td>
+<td>NY</td>
+<td>12494</td>
+<td>8456572482</td>
+</tr>
+<tr>
+<td>WESTBURY POST OFFICE</td>
+<td>360 MAPLE AVENUE</td>
+<td>WESTBURY</td>
+<td>NY</td>
+<td>11590</td>
+<td>5163333598</td>
+</tr>
+<tr>
+<td>PATTERSON LIBRARY</td>
+<td>40 S. PORTAGE ST.</td>
+<td>WESTFIELD</td>
+<td>NY</td>
+<td>14787</td>
+<td>7163262154</td>
+</tr>
+<tr>
+<td>WESTFIELD POST OFFICE</td>
+<td>7 ACADEMY STREET</td>
+<td>WESTFIELD</td>
+<td>NY</td>
+<td>14787</td>
+<td>7163262841</td>
+</tr>
+<tr>
+<td>WESTHAMPTON BEACH POST OFFICE</td>
+<td>170 MAIN STREET</td>
+<td>WESTHAMPTON BEACH</td>
+<td>NY</td>
+<td>11978</td>
+<td>6312884093</td>
+</tr>
+<tr>
+<td>WESTHAMPTON FREE LIBRARY</td>
+<td>7 LIBRARY AVENUE</td>
+<td>WESTHAMPTON BEACH</td>
+<td>NY</td>
+<td>11978</td>
+<td>6312883335</td>
+</tr>
+<tr>
+<td>WESTTOWN POST OFFICE</td>
+<td>2097 COUNTY ROUTE 1</td>
+<td>WESTTOWN</td>
+<td>NY</td>
+<td>10998</td>
+<td>8457265026</td>
+</tr>
+<tr>
+<td>WESTCHESTER COUNTY CLERKS OFFICE</td>
+<td>110 DR MARTIN LUTHER KING JR BLVD ROOM 340</td>
+<td>WHITE PLAINS</td>
+<td>NY</td>
+<td>10601</td>
+<td>9149953088</td>
+</tr>
+<tr>
+<td>WHITE PLAINS POST OFFICE</td>
+<td>100 FISCHER AVENUE</td>
+<td>WHITE PLAINS</td>
+<td>NY</td>
+<td>10602</td>
+<td>9142872525</td>
+</tr>
+<tr>
+<td>WHITESBORO POST OFFICE</td>
+<td>30 ROOSEVELT DRIVE</td>
+<td>WHITESBORO</td>
+<td>NY</td>
+<td>13492</td>
+<td>3157687862</td>
+</tr>
+<tr>
+<td>WHITNEY POINT POST OFFICE</td>
+<td>2641 MAIN ST</td>
+<td>WHITNEY POINT</td>
+<td>NY</td>
+<td>13862</td>
+<td>6076923131</td>
+</tr>
+<tr>
+<td>WILLIAMSVILLE POST OFFICE</td>
+<td>5325 SHERIDAN DRIVE</td>
+<td>WILLIAMSVILLE</td>
+<td>NY</td>
+<td>14221</td>
+<td>7166320421</td>
+</tr>
+<tr>
+<td>WINDHAM POST OFFICE</td>
+<td>5365 STATE ROUTE 23</td>
+<td>WINDHAM</td>
+<td>NY</td>
+<td>12496</td>
+<td>5187346956</td>
+</tr>
+<tr>
+<td>WINGDALE POST OFFICE</td>
+<td>1809 ROUTE 22</td>
+<td>WINGDALE</td>
+<td>NY</td>
+<td>12594</td>
+<td>8458326147</td>
+</tr>
+<tr>
+<td>WOLCOTT POST OFFICE</td>
+<td>6048 LAKE AVE</td>
+<td>WOLCOTT</td>
+<td>NY</td>
+<td>14590</td>
+<td>3155942106</td>
+</tr>
+<tr>
+<td>WOODHAVEN POST OFFICE</td>
+<td>86-42 FOREST PARKWAY</td>
+<td>WOODHAVEN</td>
+<td>NY</td>
+<td>11421</td>
+<td>7182969232</td>
+</tr>
+<tr>
+<td>WOODMERE POST OFFICE</td>
+<td>132 FRANKLIN PLACE</td>
+<td>WOODMERE</td>
+<td>NY</td>
+<td>11598</td>
+<td>5163743776</td>
+</tr>
+<tr>
+<td>WOODSIDE STATION</td>
+<td>39-25 61ST STREET</td>
+<td>WOODSIDE</td>
+<td>NY</td>
+<td>11377</td>
+<td>7188999497</td>
+</tr>
+<tr>
+<td>YAPHANK POST OFFICE</td>
+<td>5 EAST MAIN STREET</td>
+<td>YAPHANK</td>
+<td>NY</td>
+<td>11980</td>
+<td>6313456829</td>
+</tr>
+<tr>
+<td>YONKERS MAIN POST OFFICE</td>
+<td>79-81 MAIN STREET</td>
+<td>YONKERS</td>
+<td>NY</td>
+<td>10701</td>
+<td>9143783610</td>
+</tr>
+<tr>
+<td>YORKTOWN HEIGHTS POST OFFICE</td>
+<td>2020 MAPLE HILL STREET</td>
+<td>YORKTOWN HEIGHTS</td>
+<td>NY</td>
+<td>10598</td>
+<td>9144552693</td>
+</tr>
+</tbody>
+</table>

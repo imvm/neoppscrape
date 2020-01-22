@@ -1,0 +1,454 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ALAMOGORDO POST OFFICE</td>
+<td>930  12TH ST.</td>
+<td>ALAMOGORDO</td>
+<td>NM</td>
+<td>88310</td>
+<td>5754379390</td>
+</tr>
+<tr>
+<td>ALBUQUERQUE MAIN OFFICE</td>
+<td>1135 BROADWAY BOULEVARD NORTH EAST</td>
+<td>ALBUQUERQUE</td>
+<td>NM</td>
+<td>87101</td>
+<td>5053468484</td>
+</tr>
+<tr>
+<td>BERNALILLO COUNTY CLERKS OFFICE</td>
+<td>ONE CIVIC PLAZA NW</td>
+<td>ALBUQUERQUE</td>
+<td>NM</td>
+<td>87102</td>
+<td>5054681290</td>
+</tr>
+<tr>
+<td>MANZANO STATION</td>
+<td>11600 HAINES AVE. NE</td>
+<td>ALBUQUERQUE</td>
+<td>NM</td>
+<td>87112</td>
+<td>5053460947</td>
+</tr>
+<tr>
+<td>UNM PASSPORT ACCEPTANCE CENTER @ THE UNM BOOKSTORE</td>
+<td>2301 CENTRAL AVENUE NORTH EAST</td>
+<td>ALBUQUERQUE</td>
+<td>NM</td>
+<td>87106</td>
+<td>5056970110</td>
+</tr>
+<tr>
+<td>ALTO POST OFFICE</td>
+<td>100 SUN VALLEY ROAD</td>
+<td>ALTO</td>
+<td>NM</td>
+<td>88312</td>
+<td>5753364341</td>
+</tr>
+<tr>
+<td>ANTHONY MAIN POST OFFICE</td>
+<td>1190 ANTHONY DRIVE</td>
+<td>ANTHONY</td>
+<td>NM</td>
+<td>88021</td>
+<td>5758825259</td>
+</tr>
+<tr>
+<td>AZTEC POST OFFICE</td>
+<td>601 SOUTH RIO GRANDE AVE</td>
+<td>AZTEC</td>
+<td>NM</td>
+<td>87410</td>
+<td>5053346181</td>
+</tr>
+<tr>
+<td>BELEN POST OFFICE</td>
+<td>400 NORTH MAIN STREET</td>
+<td>BELEN</td>
+<td>NM</td>
+<td>87002</td>
+<td>5058648571</td>
+</tr>
+<tr>
+<td>BERNALILLO POST OFFICE</td>
+<td>145 CALLE PRESIDENTE</td>
+<td>BERNALILLO</td>
+<td>NM</td>
+<td>87004</td>
+<td>5057718822</td>
+</tr>
+<tr>
+<td>CARLSBAD MAIN POST OFFICE</td>
+<td>301 NORTH CANYON STREET</td>
+<td>CARLSBAD</td>
+<td>NM</td>
+<td>88220</td>
+<td>5758855717</td>
+</tr>
+<tr>
+<td>CEDAR CREST POST OFFICE</td>
+<td>12218 STATE HIGHWAY 14 NORTH</td>
+<td>CEDAR CREST</td>
+<td>NM</td>
+<td>87008</td>
+<td>5052815668</td>
+</tr>
+<tr>
+<td>CHAMA POST OFFICE</td>
+<td>199 5TH STREET W</td>
+<td>CHAMA</td>
+<td>NM</td>
+<td>87520</td>
+<td>5757562240</td>
+</tr>
+<tr>
+<td>CLAYTON POST OFFICE</td>
+<td>1 WALNUT STREET</td>
+<td>CLAYTON</td>
+<td>NM</td>
+<td>88415</td>
+<td>5753749541</td>
+</tr>
+<tr>
+<td>CLOUDCROFT POST OFFICE</td>
+<td>20 CURLEW PLACE</td>
+<td>CLOUDCROFT</td>
+<td>NM</td>
+<td>88317</td>
+<td>5756822431</td>
+</tr>
+<tr>
+<td>NINTH JUDICIAL DISTRICT COURT</td>
+<td>700 NORTH MAIN STREET</td>
+<td>CLOVIS</td>
+<td>NM</td>
+<td>88101</td>
+<td>5757427500</td>
+</tr>
+<tr>
+<td>NORTH WEST STATION POST OFFICE</td>
+<td>1224 WEST 21ST STREET</td>
+<td>CLOVIS</td>
+<td>NM</td>
+<td>88101</td>
+<td>5757635556</td>
+</tr>
+<tr>
+<td>CUBA POST OFFICE</td>
+<td>6358 US HWY 550</td>
+<td>CUBA</td>
+<td>NM</td>
+<td>87013</td>
+<td>5752893426</td>
+</tr>
+<tr>
+<td>DEXTER POST OFFICE</td>
+<td>302 S. LINCOLN AVENUE</td>
+<td>DEXTER</td>
+<td>NM</td>
+<td>88230</td>
+<td>5757345823</td>
+</tr>
+<tr>
+<td>EDGEWOOD POST OFFICE</td>
+<td>13 PLAZA LOOP</td>
+<td>EDGEWOOD</td>
+<td>NM</td>
+<td>87015</td>
+<td>5052813535</td>
+</tr>
+<tr>
+<td>ESPANOLA MAIN POST OFFICE</td>
+<td>1010 INDUSTRIAL PARK ROAD</td>
+<td>ESPANOLA</td>
+<td>NM</td>
+<td>87532</td>
+<td>5057533335</td>
+</tr>
+<tr>
+<td>FARMINGTON MAIN POST OFFICE</td>
+<td>2301 E 20TH ST</td>
+<td>FARMINGTON</td>
+<td>NM</td>
+<td>87401</td>
+<td>5053243055</td>
+</tr>
+<tr>
+<td>GLORIETA POST OFFICE</td>
+<td>16 CALLE LOMITA</td>
+<td>GLORIETA</td>
+<td>NM</td>
+<td>87535</td>
+<td>5057576140</td>
+</tr>
+<tr>
+<td>GRANTS MAIN POST OFFICE</td>
+<td>816 W SANTA FE AVENUE</td>
+<td>GRANTS</td>
+<td>NM</td>
+<td>87020</td>
+<td>5052873143</td>
+</tr>
+<tr>
+<td>HAGERMAN POST OFFICE</td>
+<td>108 E ARGYLE ST</td>
+<td>HAGERMAN</td>
+<td>NM</td>
+<td>88232</td>
+<td>5757523730</td>
+</tr>
+<tr>
+<td>HATCH POST OFFICE</td>
+<td>107 E DAVIS ST.</td>
+<td>HATCH</td>
+<td>NM</td>
+<td>87937</td>
+<td>5752674811</td>
+</tr>
+<tr>
+<td>HOLLOMAN AFB</td>
+<td>721 NEW MEXICO AVE BLDG 785</td>
+<td>HOLLOMAN AFB</td>
+<td>NM</td>
+<td>88330</td>
+<td>5755723842</td>
+</tr>
+<tr>
+<td>ISLETA POST OFFICE</td>
+<td>119 TRIBAL ROAD 40</td>
+<td>ISLETA</td>
+<td>NM</td>
+<td>87022</td>
+<td>5058693907</td>
+</tr>
+<tr>
+<td>JEMEZ SPRINGS POST OFFICE</td>
+<td>16957 HIGHWAY 4</td>
+<td>JEMEZ SPRINGS</td>
+<td>NM</td>
+<td>87025</td>
+<td>5758293917</td>
+</tr>
+<tr>
+<td>LAS CRUCES MAIN POST OFFICE</td>
+<td>201 E LAS CRUCES AVE.</td>
+<td>LAS CRUCES</td>
+<td>NM</td>
+<td>88001</td>
+<td>5755242903</td>
+</tr>
+<tr>
+<td>PASSPORT ACCEPTANCE @ NMSU</td>
+<td>EDUCATIONAL SERVICES BUILDING</td>
+<td>LAS CRUCES</td>
+<td>NM</td>
+<td>88003</td>
+<td>5756464528</td>
+</tr>
+<tr>
+<td>LAS VEGAS POST OFFICE</td>
+<td>1001 DOUGLAS AVE</td>
+<td>LAS VEGAS</td>
+<td>NM</td>
+<td>87701</td>
+<td>5054259387</td>
+</tr>
+<tr>
+<td>LORDSBURG POST OFFICE</td>
+<td>401 SHAKESPEARE STREET</td>
+<td>LORDSBURG</td>
+<td>NM</td>
+<td>88045</td>
+<td>5755429601</td>
+</tr>
+<tr>
+<td>LOS ALAMOS POST OFFICE</td>
+<td>199 CENTRAL PARK SQUARE</td>
+<td>LOS ALAMOS</td>
+<td>NM</td>
+<td>87544</td>
+<td>5056622153</td>
+</tr>
+<tr>
+<td>LOVINGTON POST OFFICE</td>
+<td>203 E AVENUE D</td>
+<td>LOVINGTON</td>
+<td>NM</td>
+<td>88260</td>
+<td>5753962300</td>
+</tr>
+<tr>
+<td>MAGDALENA POST OFFICE</td>
+<td>100 E. FIRST STREET</td>
+<td>MAGDALENA</td>
+<td>NM</td>
+<td>87825</td>
+<td>5758542231</td>
+</tr>
+<tr>
+<td>MESCALERO POST OFFICE</td>
+<td>124 CHIRICAHUA PLAZA</td>
+<td>MESCALERO</td>
+<td>NM</td>
+<td>88340</td>
+<td>5754644550</td>
+</tr>
+<tr>
+<td>MORIARTY MAIN POST OFFICE</td>
+<td>514 ROUTE 66</td>
+<td>MORIARTY</td>
+<td>NM</td>
+<td>87035</td>
+<td>5058324914</td>
+</tr>
+<tr>
+<td>PERALTA POST OFFICE</td>
+<td>2470 BOSQUE FARMS BOULEVARD</td>
+<td>PERALTA</td>
+<td>NM</td>
+<td>87042</td>
+<td>5058699180</td>
+</tr>
+<tr>
+<td>PLACITAS POST OFFICE</td>
+<td>652 STATE HIGHWAY 165</td>
+<td>PLACITAS</td>
+<td>NM</td>
+<td>87043</td>
+<td>5058673460</td>
+</tr>
+<tr>
+<td>NINTH JUDICIAL DISTRICT COURT CLERK</td>
+<td>109 WEST 1ST STREET</td>
+<td>PORTALES</td>
+<td>NM</td>
+<td>88130</td>
+<td>5753596920</td>
+</tr>
+<tr>
+<td>RATON POST OFFICE</td>
+<td>245 PARK AVENUE</td>
+<td>RATON</td>
+<td>NM</td>
+<td>87740</td>
+<td>5754452681</td>
+</tr>
+<tr>
+<td>RIO RANCHO BRANCH STATION</td>
+<td>900 PINETREE ROAD SE</td>
+<td>RIO RANCHO</td>
+<td>NM</td>
+<td>87124</td>
+<td>5059943756</td>
+</tr>
+<tr>
+<td>ROSWELL MAIN POST OFFICE</td>
+<td>415 N PENNSYLVANIA AVE</td>
+<td>ROSWELL</td>
+<td>NM</td>
+<td>88201</td>
+<td>5756239868</td>
+</tr>
+<tr>
+<td>RUIDOSO POST OFFICE</td>
+<td>1090 MECHEM DRIVE</td>
+<td>RUIDOSO</td>
+<td>NM</td>
+<td>88345</td>
+<td>5752581882</td>
+</tr>
+<tr>
+<td>RUIDOSO DOWNS POST OFFICE</td>
+<td>26336 US HIGHWAY 70 E.</td>
+<td>RUIDOSO DOWNS</td>
+<td>NM</td>
+<td>88346</td>
+<td>5753784595</td>
+</tr>
+<tr>
+<td>DEVARGAS MALL POST OFFICE</td>
+<td>534 NORTH GUADALUPE ST</td>
+<td>SANTA FE</td>
+<td>NM</td>
+<td>87501</td>
+<td>5059838935</td>
+</tr>
+<tr>
+<td>SILVER CITY POST OFFICE</td>
+<td>500 N HUDSON ST</td>
+<td>SILVER CITY</td>
+<td>NM</td>
+<td>88061</td>
+<td>5755382831</td>
+</tr>
+<tr>
+<td>SOCORRO MAIN POST OFFICE</td>
+<td>124 PLAZA STREET</td>
+<td>SOCORRO</td>
+<td>NM</td>
+<td>87801</td>
+<td>5758350542</td>
+</tr>
+<tr>
+<td>SUNLAND PARK POST OFFICE</td>
+<td>3500 MCNUTT ROAD</td>
+<td>SUNLAND PARK</td>
+<td>NM</td>
+<td>88063</td>
+<td>5755897548</td>
+</tr>
+<tr>
+<td>TAOS POST OFFICE</td>
+<td>318 PASEO DEL PUEBLO NORTE</td>
+<td>TAOS</td>
+<td>NM</td>
+<td>87571</td>
+<td>5757582081</td>
+</tr>
+<tr>
+<td>TATUM POST OFFICE</td>
+<td>114 SOUTH AVE A.</td>
+<td>TATUM</td>
+<td>NM</td>
+<td>88267</td>
+<td>5753988181</td>
+</tr>
+<tr>
+<td>SIERRA STATION - TOR C POST OFFICE</td>
+<td>1507 N DATE ST</td>
+<td>TRUTH OR CONSEQUENCE</td>
+<td>NM</td>
+<td>87901</td>
+<td>5758943137</td>
+</tr>
+<tr>
+<td>TUCUMCARI POST OFFICE</td>
+<td>220 S 1ST STREET</td>
+<td>TUCUMCARI</td>
+<td>NM</td>
+<td>88401</td>
+<td>5754610370</td>
+</tr>
+<tr>
+<td>ZUNI POST OFFICE</td>
+<td>1207 HIGHWAY 53</td>
+<td>ZUNI</td>
+<td>NM</td>
+<td>87327</td>
+<td>5057824525</td>
+</tr>
+</tbody>
+</table>

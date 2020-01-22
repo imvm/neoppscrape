@@ -1,0 +1,646 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>USPO - ALBANY</td>
+<td>525 SECOND AVE. SW</td>
+<td>ALBANY</td>
+<td>OR</td>
+<td>97321</td>
+<td>5419249691</td>
+</tr>
+<tr>
+<td>SOUTHERN OREGON UNIVERSITY</td>
+<td>STEVENSON UNION, RM 322</td>
+<td>ASHLAND</td>
+<td>OR</td>
+<td>97520</td>
+<td>5415526336</td>
+</tr>
+<tr>
+<td>CLATSOP COUNTY CLERK AND ELECTIONS</td>
+<td>820 EXCHANGE STREET, STE 220</td>
+<td>ASTORIA</td>
+<td>OR</td>
+<td>97103</td>
+<td>5033258511</td>
+</tr>
+<tr>
+<td>BAKER COUNTY CLERK</td>
+<td>1995 THIRD ST. STE 150</td>
+<td>BAKER CITY</td>
+<td>OR</td>
+<td>97814</td>
+<td>5415238207</td>
+</tr>
+<tr>
+<td>CITY OF BEAVERTON-FINANCE DEPARTMENT</td>
+<td>12725 SW MILLIKAN WAY</td>
+<td>BEAVERTON</td>
+<td>OR</td>
+<td>97076</td>
+<td>5035262509</td>
+</tr>
+<tr>
+<td>USPO - BEAVERTON</td>
+<td>4550 SW BETTS AVE</td>
+<td>BEAVERTON</td>
+<td>OR</td>
+<td>97005</td>
+<td>5036435263</td>
+</tr>
+<tr>
+<td>DESCHUTES COUNTY CLERK</td>
+<td>1300 NW WALL ST, STE 202</td>
+<td>BEND</td>
+<td>OR</td>
+<td>97703</td>
+<td>5413886549</td>
+</tr>
+<tr>
+<td>USPO - BEND</td>
+<td>2300 NE 4TH ST.</td>
+<td>BEND</td>
+<td>OR</td>
+<td>97701</td>
+<td>5413185068</td>
+</tr>
+<tr>
+<td>USPO - BORING</td>
+<td>28515 SE HWY. 212</td>
+<td>BORING</td>
+<td>OR</td>
+<td>97009</td>
+<td>5036630289</td>
+</tr>
+<tr>
+<td>HARNEY COUNTY CLERK</td>
+<td>450 N. BUENA VISTA, #14</td>
+<td>BURNS</td>
+<td>OR</td>
+<td>97720</td>
+<td>5415736641</td>
+</tr>
+<tr>
+<td>GRANT COUNTY CLERK</td>
+<td>201 S. HUMBOLT, SUITE 290</td>
+<td>CANYON CITY</td>
+<td>OR</td>
+<td>97820</td>
+<td>5415751675</td>
+</tr>
+<tr>
+<td>USPO - COOS BAY</td>
+<td>470 GOLDEN AVE</td>
+<td>COOS BAY</td>
+<td>OR</td>
+<td>97420</td>
+<td>5412670379</td>
+</tr>
+<tr>
+<td>USPO - COQUILLE</td>
+<td>75 N BIRCH STREET</td>
+<td>COQUILLE</td>
+<td>OR</td>
+<td>97423</td>
+<td>5413963549</td>
+</tr>
+<tr>
+<td>BENTON COUNTY COURTHOUSE</td>
+<td>120 NW 4TH ST. RM 13</td>
+<td>CORVALLIS</td>
+<td>OR</td>
+<td>97330</td>
+<td>5417666756</td>
+</tr>
+<tr>
+<td>USPO - CORVALLIS</td>
+<td>311 SW 2ND ST.</td>
+<td>CORVALLIS</td>
+<td>OR</td>
+<td>97333</td>
+<td>5417524358</td>
+</tr>
+<tr>
+<td>USPO - DALLAS</td>
+<td>768 SW CHURCH ST.</td>
+<td>DALLAS</td>
+<td>OR</td>
+<td>97338</td>
+<td>5036233835</td>
+</tr>
+<tr>
+<td>USPO - DUNDEE</td>
+<td>279 SW 5TH ST.</td>
+<td>DUNDEE</td>
+<td>OR</td>
+<td>97115</td>
+<td>5035388250</td>
+</tr>
+<tr>
+<td>WALLOWA COUNTY CLERK</td>
+<td>101 S. RIVER, RM 100</td>
+<td>ENTERPRISE</td>
+<td>OR</td>
+<td>97828</td>
+<td>5414264543</td>
+</tr>
+<tr>
+<td>USPO - ESTACADA</td>
+<td>205 SW 2ND AVE.</td>
+<td>ESTACADA</td>
+<td>OR</td>
+<td>97023</td>
+<td>5036304874</td>
+</tr>
+<tr>
+<td>UNIVERSITY OF OREGON-UO TICKET OFFICE</td>
+<td>1395 UNIVERSITY STREET</td>
+<td>EUGENE</td>
+<td>OR</td>
+<td>97403</td>
+<td>5413464363</td>
+</tr>
+<tr>
+<td>USPO - EUGENE</td>
+<td>520 WILLAMETTE STREET</td>
+<td>EUGENE</td>
+<td>OR</td>
+<td>97401</td>
+<td>5413413601</td>
+</tr>
+<tr>
+<td>CITY OF FOREST GROVE</td>
+<td>1924 COUNCIL STREET</td>
+<td>FOREST GROVE</td>
+<td>OR</td>
+<td>97116</td>
+<td>5039923221</td>
+</tr>
+<tr>
+<td>WHEELER COUNTY</td>
+<td>401 FOURTH ST</td>
+<td>FOSSIL</td>
+<td>OR</td>
+<td>97830</td>
+<td>5417632912</td>
+</tr>
+<tr>
+<td>CURRY COUNTY CLERK</td>
+<td>29821 ELLENSBURG AVE</td>
+<td>GOLD BEACH</td>
+<td>OR</td>
+<td>97444</td>
+<td>5412473295</td>
+</tr>
+<tr>
+<td>JOSEPHINE COUNTY CLERKS OFFICE</td>
+<td>500 NW. 6TH ST. STE 170</td>
+<td>GRANTS PASS</td>
+<td>OR</td>
+<td>97526</td>
+<td>5414745240</td>
+</tr>
+<tr>
+<td>CITY OF GRESHAM</td>
+<td>1333 NW EASTMAN PARKWAY</td>
+<td>GRESHAM</td>
+<td>OR</td>
+<td>97030</td>
+<td>5036182619</td>
+</tr>
+<tr>
+<td>CITY OF HAPPY VALLEY</td>
+<td>16000 SE MISTY DR</td>
+<td>HAPPY VALLEY</td>
+<td>OR</td>
+<td>97086</td>
+<td>5037833800</td>
+</tr>
+<tr>
+<td>USPO - HARRISBURG</td>
+<td>204 SMITH ST.</td>
+<td>HARRISBURG</td>
+<td>OR</td>
+<td>97446</td>
+<td>5419951003</td>
+</tr>
+<tr>
+<td>MORROW COUNTY CLERK</td>
+<td>100  S. COURT ST. RM 102</td>
+<td>HEPPNER</td>
+<td>OR</td>
+<td>97836</td>
+<td>5416765604</td>
+</tr>
+<tr>
+<td>USPO - HERMISTON</td>
+<td>375 W. ORCHARD AVE</td>
+<td>HERMISTON</td>
+<td>OR</td>
+<td>97838</td>
+<td>5415647921</td>
+</tr>
+<tr>
+<td>USPO - HILLSBORO</td>
+<td>125 S. 1ST AVE</td>
+<td>HILLSBORO</td>
+<td>OR</td>
+<td>97123</td>
+<td>5036152825</td>
+</tr>
+<tr>
+<td>WASHINGTON COUNTY ASSESSMENT AND TAXATION</td>
+<td>155 N 1ST AVE</td>
+<td>HILLSBORO</td>
+<td>OR</td>
+<td>97124</td>
+<td>5038468741</td>
+</tr>
+<tr>
+<td>HOOD RIVER COUNTY</td>
+<td>601 STATE ST.</td>
+<td>HOOD RIVER</td>
+<td>OR</td>
+<td>97031</td>
+<td>5413861442</td>
+</tr>
+<tr>
+<td>USPO - INDEPENDENCE</td>
+<td>216 S. 2ND ST.</td>
+<td>INDEPENDENCE</td>
+<td>OR</td>
+<td>97351</td>
+<td>5038385207</td>
+</tr>
+<tr>
+<td>CITY OF KING CITY</td>
+<td>15300 SW 116TH AVE</td>
+<td>KING CITY</td>
+<td>OR</td>
+<td>97224</td>
+<td>5036394082</td>
+</tr>
+<tr>
+<td>KLAMATH COUNTY CLERK</td>
+<td>305 MAIN ST.</td>
+<td>KLAMATH FALLS</td>
+<td>OR</td>
+<td>97601</td>
+<td>5418835134</td>
+</tr>
+<tr>
+<td>USPO - KLAMATH FALLS</td>
+<td>317 S. 7TH ST</td>
+<td>KLAMATH FALLS</td>
+<td>OR</td>
+<td>97601</td>
+<td>5418849846</td>
+</tr>
+<tr>
+<td>UNION COUNTY CLERK AND RECORDER</td>
+<td>1001 - 4TH ST, STE D</td>
+<td>LA GRANDE</td>
+<td>OR</td>
+<td>97850</td>
+<td>5419631006</td>
+</tr>
+<tr>
+<td>CITY OF LAKE OSWEGO</td>
+<td>380 A AVE.</td>
+<td>LAKE OSWEGO</td>
+<td>OR</td>
+<td>97034</td>
+<td>5036350260</td>
+</tr>
+<tr>
+<td>LAKE COUNTY CLERK</td>
+<td>513 CENTER ST</td>
+<td>LAKEVIEW</td>
+<td>OR</td>
+<td>97630</td>
+<td>5419476006</td>
+</tr>
+<tr>
+<td>JEFFERSON COUNTY CLERKS OFFICE</td>
+<td>66 SE D ST., SUITE C</td>
+<td>MADRAS</td>
+<td>OR</td>
+<td>97741</td>
+<td>5414754451</td>
+</tr>
+<tr>
+<td>USPO MARCOLA</td>
+<td>92162 MARCOLA RD</td>
+<td>MARCOLA</td>
+<td>OR</td>
+<td>97454</td>
+<td>5419332821</td>
+</tr>
+<tr>
+<td>YAMHILL COUNTY CLERK</td>
+<td>414 NE EVANS ST.</td>
+<td>MCMINNVILLE</td>
+<td>OR</td>
+<td>97128</td>
+<td>5034347518</td>
+</tr>
+<tr>
+<td>USPO - MEDFORD</td>
+<td>325 S. RIVERSIDE AVE</td>
+<td>MEDFORD</td>
+<td>OR</td>
+<td>97501</td>
+<td>5412458540</td>
+</tr>
+<tr>
+<td>USPO - MILTON - FREEWATER</td>
+<td>109 W. BROADWAY AVE</td>
+<td>MILTON-FREEWATER</td>
+<td>OR</td>
+<td>97862</td>
+<td>5419382744</td>
+</tr>
+<tr>
+<td>SHERMAN COUNTY CLERKS OFFICE</td>
+<td>500 COURT STREET</td>
+<td>MORO</td>
+<td>OR</td>
+<td>97039</td>
+<td>5415653606</td>
+</tr>
+<tr>
+<td>LINCOLN COUNTY CLERK</td>
+<td>225 W. OLIVE ST, ROOM 201</td>
+<td>NEWPORT</td>
+<td>OR</td>
+<td>97365</td>
+<td>5412654131</td>
+</tr>
+<tr>
+<td>USPO - ONTARIO</td>
+<td>88 SW 2ND AVE</td>
+<td>ONTARIO</td>
+<td>OR</td>
+<td>97914</td>
+<td>5418896692</td>
+</tr>
+<tr>
+<td>CLACKAMAS COUNTY RECORDS MANAGEMENT</td>
+<td>1810 RED SOILS CT, STE 120</td>
+<td>OREGON CITY</td>
+<td>OR</td>
+<td>97045</td>
+<td>5036558323</td>
+</tr>
+<tr>
+<td>USPO - OREGON CITY</td>
+<td>19300 MOLALLA AVE.</td>
+<td>OREGON CITY</td>
+<td>OR</td>
+<td>97045</td>
+<td>5037222086</td>
+</tr>
+<tr>
+<td>UMATILLA COUNTY RECORDS</td>
+<td>216 SE 4TH STREET, ROOM 106</td>
+<td>PENDLETON</td>
+<td>OR</td>
+<td>97801</td>
+<td>5412786236</td>
+</tr>
+<tr>
+<td>USPO PENDLETON</td>
+<td>104 SW DORION AVE</td>
+<td>PENDLETON</td>
+<td>OR</td>
+<td>97801</td>
+<td>5412784053</td>
+</tr>
+<tr>
+<td>MULTNOMAH COUNTY (D.A.R.T.)</td>
+<td>501 SE HAWTHORNE BLVD, #175</td>
+<td>PORTLAND</td>
+<td>OR</td>
+<td>97214</td>
+<td>5039883326</td>
+</tr>
+<tr>
+<td>USPO - EAST PORTLAND STATION</td>
+<td>1020 SE 7TH AVE.</td>
+<td>PORTLAND</td>
+<td>OR</td>
+<td>97214</td>
+<td>5032346182</td>
+</tr>
+<tr>
+<td>USPO - MIDWAY</td>
+<td>400 SE 103RD DR</td>
+<td>PORTLAND</td>
+<td>OR</td>
+<td>97216</td>
+<td>5032512609</td>
+</tr>
+<tr>
+<td>USPO - MULTNOMAH STATION</td>
+<td>7805 SW 40TH AVE</td>
+<td>PORTLAND</td>
+<td>OR</td>
+<td>97219</td>
+<td>5034523112</td>
+</tr>
+<tr>
+<td>USPO - PORTLAND</td>
+<td>715 NW HOYT ST.</td>
+<td>PORTLAND</td>
+<td>OR</td>
+<td>97208</td>
+<td>5032942399</td>
+</tr>
+<tr>
+<td>USPO - WATERFRONT</td>
+<td>101 SW MADISON</td>
+<td>PORTLAND</td>
+<td>OR</td>
+<td>97204</td>
+<td>5032275697</td>
+</tr>
+<tr>
+<td>CROOK COUNTY CLERK</td>
+<td>300 NE THIRD ST. RM # 23</td>
+<td>PRINEVILLE</td>
+<td>OR</td>
+<td>97754</td>
+<td>5414476553</td>
+</tr>
+<tr>
+<td>USPO - REDMOND</td>
+<td>618 NW HEMLOCK AVE</td>
+<td>REDMOND</td>
+<td>OR</td>
+<td>97756</td>
+<td>5419230829</td>
+</tr>
+<tr>
+<td>USPO - ROGUE RIVER</td>
+<td>522 E. MAIN ST.</td>
+<td>ROGUE RIVER</td>
+<td>OR</td>
+<td>97537</td>
+<td>5415829747</td>
+</tr>
+<tr>
+<td>USPO - ROSEBURG</td>
+<td>519 SE KANE</td>
+<td>ROSEBURG</td>
+<td>OR</td>
+<td>97470</td>
+<td>5416733620</td>
+</tr>
+<tr>
+<td>MARION COUNTY CLERK</td>
+<td>555 COURT ST NE, RM 2130</td>
+<td>SALEM</td>
+<td>OR</td>
+<td>97301</td>
+<td>5035885226</td>
+</tr>
+<tr>
+<td>USPO - SALEM</td>
+<td>1050 25TH ST SE</td>
+<td>SALEM</td>
+<td>OR</td>
+<td>97301</td>
+<td>5033704750</td>
+</tr>
+<tr>
+<td>USPO - SISTERS</td>
+<td>694 N. LARCH ST.</td>
+<td>SISTERS</td>
+<td>OR</td>
+<td>97759</td>
+<td>5415490412</td>
+</tr>
+<tr>
+<td>USPO - GATEWAY</td>
+<td>3148 GATEWAY STREET</td>
+<td>SPRINGFIELD</td>
+<td>OR</td>
+<td>97477</td>
+<td>5413413696</td>
+</tr>
+<tr>
+<td>COLUMBIA COUNTY CLERKS OFFICE</td>
+<td>230 STRAND STREET</td>
+<td>ST. HELENS</td>
+<td>OR</td>
+<td>97051</td>
+<td>5033973796</td>
+</tr>
+<tr>
+<td>USPO - SUBLIMITY</td>
+<td>211 NW STARR ST.</td>
+<td>SUBLIMITY</td>
+<td>OR</td>
+<td>97385</td>
+<td>5037695526</td>
+</tr>
+<tr>
+<td>CITY OF SWEET HOME</td>
+<td>3225 MAIN STREET</td>
+<td>SWEET HOME</td>
+<td>OR</td>
+<td>97386</td>
+<td>5413675128</td>
+</tr>
+<tr>
+<td>USPO - TERREBONNE</td>
+<td>8080 11TH ST.</td>
+<td>TERREBONNE</td>
+<td>OR</td>
+<td>97760</td>
+<td>5415049422</td>
+</tr>
+<tr>
+<td>USPO - THE DALLES</td>
+<td>101 W. 2ND ST</td>
+<td>THE DALLES</td>
+<td>OR</td>
+<td>97058</td>
+<td>5412961065</td>
+</tr>
+<tr>
+<td>TILLAMOOK COUNTY CLERK</td>
+<td>201 LAUREL AVE.</td>
+<td>TILLAMOOK</td>
+<td>OR</td>
+<td>97141</td>
+<td>5038423402</td>
+</tr>
+<tr>
+<td>CITY OF TUALATIN</td>
+<td>18880 SW MARTINAZZI AVE</td>
+<td>TUALATIN</td>
+<td>OR</td>
+<td>97062</td>
+<td>5036922000</td>
+</tr>
+<tr>
+<td>MALHEUR COUNTY CLERK</td>
+<td>251 B ST. W. STE 4</td>
+<td>VALE</td>
+<td>OR</td>
+<td>97918</td>
+<td>5414735151</td>
+</tr>
+<tr>
+<td>USPO - VENETA</td>
+<td>25042 DUNHAM AVE.</td>
+<td>VENETA</td>
+<td>OR</td>
+<td>97487</td>
+<td>5419359533</td>
+</tr>
+<tr>
+<td>USPO - WALDPORT</td>
+<td>165 NW JOHN ST</td>
+<td>WALDPORT</td>
+<td>OR</td>
+<td>97394</td>
+<td>5415637396</td>
+</tr>
+<tr>
+<td>USPO - WARRENTON</td>
+<td>99 N. MAIN AVE.</td>
+<td>WARRENTON</td>
+<td>OR</td>
+<td>97146</td>
+<td>5038617035</td>
+</tr>
+<tr>
+<td>USPO WESTLAKE</td>
+<td>82853 LAKE BLVD</td>
+<td>WESTLAKE</td>
+<td>OR</td>
+<td>97493</td>
+<td>5419978678</td>
+</tr>
+<tr>
+<td>USPO - WILSONVILLE</td>
+<td>29333 SW TOWN CENTER LOOP EAST</td>
+<td>WILSONVILLE</td>
+<td>OR</td>
+<td>97070</td>
+<td>5035707703</td>
+</tr>
+</tbody>
+</table>

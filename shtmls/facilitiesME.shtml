@@ -1,0 +1,614 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>YORK COUNTY PROBATE COURT</td>
+<td>45 KENNEBUNK ROAD</td>
+<td>ALFRED</td>
+<td>ME</td>
+<td>04002</td>
+<td>2073241577</td>
+</tr>
+<tr>
+<td>ANDROSCOGGIN COUNTY PROBATE COURT</td>
+<td>2 TURNER STREET</td>
+<td>AUBURN</td>
+<td>ME</td>
+<td>04210</td>
+<td>2077532500</td>
+</tr>
+<tr>
+<td>CENTRAL MAINE COMMUNITY COLLEGE</td>
+<td>1250 TURNER ST</td>
+<td>AUBURN</td>
+<td>ME</td>
+<td>04210</td>
+<td>2077555294</td>
+</tr>
+<tr>
+<td>AUGUSTA POST OFFICE</td>
+<td>40 WESTERN AVE</td>
+<td>AUGUSTA</td>
+<td>ME</td>
+<td>04330</td>
+<td>2076226114</td>
+</tr>
+<tr>
+<td>BANGOR POST OFFICE</td>
+<td>73 HAMMOND  STREET</td>
+<td>BANGOR</td>
+<td>ME</td>
+<td>04401</td>
+<td>2079900520</td>
+</tr>
+<tr>
+<td>SAGADAHOC COUNTY PROBATE COURT</td>
+<td>752 HIGH STREET</td>
+<td>BATH</td>
+<td>ME</td>
+<td>04530</td>
+<td>2074438218</td>
+</tr>
+<tr>
+<td>WALDO COUNTY PROBATE COURT</td>
+<td>103 CHURCH STREET</td>
+<td>BELFAST</td>
+<td>ME</td>
+<td>04915</td>
+<td>2073382780</td>
+</tr>
+<tr>
+<td>BETHEL POST OFFICE</td>
+<td>82 MAIN ST</td>
+<td>BETHEL</td>
+<td>ME</td>
+<td>04217</td>
+<td>2078242668</td>
+</tr>
+<tr>
+<td>BIDDEFORD POST OFFICE</td>
+<td>100 ALFRED STREET</td>
+<td>BIDDEFORD</td>
+<td>ME</td>
+<td>04005</td>
+<td>2072838565</td>
+</tr>
+<tr>
+<td>BOOTHBAY POST OFFICE</td>
+<td>13 COREY LANE</td>
+<td>BOOTHBAY</td>
+<td>ME</td>
+<td>04537</td>
+<td>2076337536</td>
+</tr>
+<tr>
+<td>BOOTHBAY HARBOR POST OFFICE</td>
+<td>15 OAK ST</td>
+<td>BOOTHBAY HARBOR</td>
+<td>ME</td>
+<td>04538</td>
+<td>2076333090</td>
+</tr>
+<tr>
+<td>BOWDOINHAM POST OFFICE</td>
+<td>49 POND ROAD</td>
+<td>BOWDOINHAM</td>
+<td>ME</td>
+<td>04008</td>
+<td>2076663465</td>
+</tr>
+<tr>
+<td>BREWER POST OFFICE</td>
+<td>22 PARKWAY SOUTH</td>
+<td>BREWER</td>
+<td>ME</td>
+<td>04412</td>
+<td>2079893855</td>
+</tr>
+<tr>
+<td>BREWER PUBLIC LIBRARY</td>
+<td>100 SOUTH MAIN STREET</td>
+<td>BREWER</td>
+<td>ME</td>
+<td>04412</td>
+<td>2079897943</td>
+</tr>
+<tr>
+<td>BRIDGTON POST OFFICE</td>
+<td>6 ELM ST</td>
+<td>BRIDGTON</td>
+<td>ME</td>
+<td>04009</td>
+<td>2076472081</td>
+</tr>
+<tr>
+<td>BRUNSWICK POST OFFICE</td>
+<td>30 PLEASANT ST</td>
+<td>BRUNSWICK</td>
+<td>ME</td>
+<td>04011</td>
+<td>2077252542</td>
+</tr>
+<tr>
+<td>TOWN OF BRUNSWICK - TAX OFFICE</td>
+<td>85 UNION ST.</td>
+<td>BRUNSWICK</td>
+<td>ME</td>
+<td>04011</td>
+<td>2077256657</td>
+</tr>
+<tr>
+<td>CALAIS POST OFFICE</td>
+<td>76 NORTH STREET</td>
+<td>CALAIS</td>
+<td>ME</td>
+<td>04619</td>
+<td>2074541140</td>
+</tr>
+<tr>
+<td>CANAAN POST OFFICE</td>
+<td>273 MAIN STREET</td>
+<td>CANAAN</td>
+<td>ME</td>
+<td>04924</td>
+<td>2074743349</td>
+</tr>
+<tr>
+<td>CARIBOU POST OFFICE</td>
+<td>41 SWEDEN STREET</td>
+<td>CARIBOU</td>
+<td>ME</td>
+<td>04736</td>
+<td>2074920080</td>
+</tr>
+<tr>
+<td>CASTINE POST OFFICE</td>
+<td>43 MAIN ST</td>
+<td>CASTINE</td>
+<td>ME</td>
+<td>04421</td>
+<td>2073268551</td>
+</tr>
+<tr>
+<td>PRINCE MEMORIAL LIBRARY</td>
+<td>266 MAIN ST.</td>
+<td>CUMBERLAND</td>
+<td>ME</td>
+<td>04021</td>
+<td>2074644493</td>
+</tr>
+<tr>
+<td>DANFORTH POST OFFICE</td>
+<td>33 SPRINGFIELD ROAD</td>
+<td>DANFORTH</td>
+<td>ME</td>
+<td>04424</td>
+<td>2074482958</td>
+</tr>
+<tr>
+<td>DOVER - FOXCROFT POST OFFICE</td>
+<td>41 NORTH ST</td>
+<td>DOVER-FOXCROFT</td>
+<td>ME</td>
+<td>04426</td>
+<td>2075642511</td>
+</tr>
+<tr>
+<td>ELLSWORTH POST OFFICE</td>
+<td>199 MAIN STREET</td>
+<td>ELLSWORTH</td>
+<td>ME</td>
+<td>04605</td>
+<td>2076675340</td>
+</tr>
+<tr>
+<td>HANCOCK COUNTY REGISTRY OF DEEDS</td>
+<td>50 STATE STREET</td>
+<td>ELLSWORTH</td>
+<td>ME</td>
+<td>04605</td>
+<td>2076678353</td>
+</tr>
+<tr>
+<td>FRANKLIN COUNTY PROBATE COURT</td>
+<td>140 MAIN STREET</td>
+<td>FARMINGTON</td>
+<td>ME</td>
+<td>04938</td>
+<td>2077785888</td>
+</tr>
+<tr>
+<td>FORT KENT POST OFFICE</td>
+<td>152 WEST MAIN ST</td>
+<td>FORT KENT</td>
+<td>ME</td>
+<td>04743</td>
+<td>2078343313</td>
+</tr>
+<tr>
+<td>FRENCHVILLE POST OFFICE</td>
+<td>386 U.S. ROUTE 1</td>
+<td>FRENCHVILLE</td>
+<td>ME</td>
+<td>04745</td>
+<td>2075437444</td>
+</tr>
+<tr>
+<td>GORHAM POST OFFICE</td>
+<td>1 POST OFFICE SQ</td>
+<td>GORHAM</td>
+<td>ME</td>
+<td>04038</td>
+<td>2078393591</td>
+</tr>
+<tr>
+<td>GREENVILLE JUNCTION POST OFFICE</td>
+<td>383 PRITHAM AVE</td>
+<td>GREENVILLE JCT</td>
+<td>ME</td>
+<td>04442</td>
+<td>2076953353</td>
+</tr>
+<tr>
+<td>GUILFORD POST OFFICE</td>
+<td>10 HUDSON AVENUE</td>
+<td>GUILFORD</td>
+<td>ME</td>
+<td>04443</td>
+<td>2078764515</td>
+</tr>
+<tr>
+<td>HALLOWELL POST OFFICE</td>
+<td>95 SECOND STREET</td>
+<td>HALLOWELL</td>
+<td>ME</td>
+<td>04347</td>
+<td>2076221121</td>
+</tr>
+<tr>
+<td>TOWN OF HARPSWELL - TAX COLLECTOR OFFICE</td>
+<td>263 MOUNTAIN ROAD</td>
+<td>HARPSWELL</td>
+<td>ME</td>
+<td>04079</td>
+<td>2078335771</td>
+</tr>
+<tr>
+<td>HOULTON POST OFFICE</td>
+<td>39 COURT STREET</td>
+<td>HOULTON</td>
+<td>ME</td>
+<td>04730</td>
+<td>2075323506</td>
+</tr>
+<tr>
+<td>REGISTRY OF DEEDS - SOUTH</td>
+<td>26 COURT STREET.</td>
+<td>HOULTON</td>
+<td>ME</td>
+<td>04730</td>
+<td>2075321500</td>
+</tr>
+<tr>
+<td>JACKMAN POST OFFICE</td>
+<td>552 MAIN ST</td>
+<td>JACKMAN</td>
+<td>ME</td>
+<td>04945</td>
+<td>2076687771</td>
+</tr>
+<tr>
+<td>KITTERY POST OFFICE</td>
+<td>10 SHAPLEIGH RD</td>
+<td>KITTERY</td>
+<td>ME</td>
+<td>03904</td>
+<td>2074392018</td>
+</tr>
+<tr>
+<td>LEWISTON POST OFFICE</td>
+<td>49 ASH STREET</td>
+<td>LEWISTON</td>
+<td>ME</td>
+<td>04240</td>
+<td>2077887449</td>
+</tr>
+<tr>
+<td>TOWN OF LINCOLN ASSESSING DEPT</td>
+<td>29 MAIN STREET</td>
+<td>LINCOLN</td>
+<td>ME</td>
+<td>04457</td>
+<td>2077943372</td>
+</tr>
+<tr>
+<td>LITCHFIELD POST OFFICE</td>
+<td>1882 HALLOWELL ROAD</td>
+<td>LITCHFIELD</td>
+<td>ME</td>
+<td>04350</td>
+<td>2072684088</td>
+</tr>
+<tr>
+<td>LIVERMORE FALLS POST OFFICE</td>
+<td>60 MAIN ST</td>
+<td>LIVERMORE FALLS</td>
+<td>ME</td>
+<td>04254</td>
+<td>2078973614</td>
+</tr>
+<tr>
+<td>MACHIAS POST OFFICE</td>
+<td>89 COURT STREET</td>
+<td>MACHIAS</td>
+<td>ME</td>
+<td>04654</td>
+<td>2072553725</td>
+</tr>
+<tr>
+<td>MADAWASKA POST OFFICE</td>
+<td>370 MAIN STREET</td>
+<td>MADAWASKA</td>
+<td>ME</td>
+<td>04756</td>
+<td>2077284302</td>
+</tr>
+<tr>
+<td>MANCHESTER POST OFFICE</td>
+<td>31 READFIELD ROAD</td>
+<td>MANCHESTER</td>
+<td>ME</td>
+<td>04351</td>
+<td>2076229559</td>
+</tr>
+<tr>
+<td>MARS HILL POST OFFICE</td>
+<td>7 LINCOLN ST</td>
+<td>MARS HILL</td>
+<td>ME</td>
+<td>04758</td>
+<td>2074299177</td>
+</tr>
+<tr>
+<td>MILO POST OFFICE</td>
+<td>10 PLEASANT ST.</td>
+<td>MILO</td>
+<td>ME</td>
+<td>04463</td>
+<td>2079432272</td>
+</tr>
+<tr>
+<td>TOWN OF OLD ORCHARD BEACH</td>
+<td>1 PORTLAND AVENUE</td>
+<td>OLD ORCHARD BEACH</td>
+<td>ME</td>
+<td>04064</td>
+<td>2079375645</td>
+</tr>
+<tr>
+<td>ORONO POST OFFICE</td>
+<td>1 BENNOCH RD</td>
+<td>ORONO</td>
+<td>ME</td>
+<td>04473</td>
+<td>2078662566</td>
+</tr>
+<tr>
+<td>PATTEN POST OFFICE</td>
+<td>24 MAIN ST</td>
+<td>PATTEN</td>
+<td>ME</td>
+<td>04765</td>
+<td>2075282210</td>
+</tr>
+<tr>
+<td>CUMBERLAND COUNTY PROBATE OFFICE</td>
+<td>142 FEDERAL STREET</td>
+<td>PORTLAND</td>
+<td>ME</td>
+<td>04101</td>
+<td>2078718382</td>
+</tr>
+<tr>
+<td>PORTLAND CITY HALL CITY MANAGERS OFFICE</td>
+<td>389 CONGRESS STREET</td>
+<td>PORTLAND</td>
+<td>ME</td>
+<td>04101</td>
+<td>2078748685</td>
+</tr>
+<tr>
+<td>PORTLAND POST OFFICE</td>
+<td>125 FOREST AVENUE</td>
+<td>PORTLAND</td>
+<td>ME</td>
+<td>04101</td>
+<td>2078718437</td>
+</tr>
+<tr>
+<td>MARK AND EMILY TURNER MEMORIAL LIBRARY</td>
+<td>39 SECOND STREET</td>
+<td>PRESQUE ISLE</td>
+<td>ME</td>
+<td>04769</td>
+<td>2077642571</td>
+</tr>
+<tr>
+<td>PRESQUE ISLE POST OFFICE</td>
+<td>23 SECOND ST</td>
+<td>PRESQUE ISLE</td>
+<td>ME</td>
+<td>04769</td>
+<td>2077683911</td>
+</tr>
+<tr>
+<td>RANGELEY POST OFFICE</td>
+<td>2517 MAIN ST</td>
+<td>RANGELEY</td>
+<td>ME</td>
+<td>04970</td>
+<td>2078642233</td>
+</tr>
+<tr>
+<td>KNOX COUNTY PROBATE COURT</td>
+<td>62 UNION STREET</td>
+<td>ROCKLAND</td>
+<td>ME</td>
+<td>04841</td>
+<td>2075940427</td>
+</tr>
+<tr>
+<td>ROCKLAND POST OFFICE</td>
+<td>21 LIMEROCK STREET</td>
+<td>ROCKLAND</td>
+<td>ME</td>
+<td>04841</td>
+<td>2075966461</td>
+</tr>
+<tr>
+<td>RUMFORD POST OFFICE</td>
+<td>137 CONGRESS ST</td>
+<td>RUMFORD</td>
+<td>ME</td>
+<td>04276</td>
+<td>2073648681</td>
+</tr>
+<tr>
+<td>SABATTUS POST OFFICE</td>
+<td>4 MIDDLE ROAD</td>
+<td>SABATTUS</td>
+<td>ME</td>
+<td>04280</td>
+<td>2073754251</td>
+</tr>
+<tr>
+<td>SANFORD POST OFFICE</td>
+<td>30 SCHOOL STREET</td>
+<td>SANFORD</td>
+<td>ME</td>
+<td>04073</td>
+<td>2073243664</td>
+</tr>
+<tr>
+<td>SCARBOROUGH COMMUNITY SERVICES</td>
+<td>259 U S ROUTE ONE</td>
+<td>SCARBOROUGH</td>
+<td>ME</td>
+<td>04074</td>
+<td>2077304150</td>
+</tr>
+<tr>
+<td>TOWN OF SKOWHEGAN TOWN MANAGERS OFFICE</td>
+<td>225 WATER ST</td>
+<td>SKOWHEGAN</td>
+<td>ME</td>
+<td>04976</td>
+<td>2074746907</td>
+</tr>
+<tr>
+<td>OXFORD COUNTY PROBATE COURT</td>
+<td>26 WESTERN AVE</td>
+<td>SOUTH PARIS</td>
+<td>ME</td>
+<td>04281</td>
+<td>2077436671</td>
+</tr>
+<tr>
+<td>CITY OF SOUTH PORTLAND</td>
+<td>25 COTTAGE ROAD</td>
+<td>SOUTH PORTLAND</td>
+<td>ME</td>
+<td>04106</td>
+<td>2077673201</td>
+</tr>
+<tr>
+<td>SPRINGVALE POST OFFICE</td>
+<td>492 MAIN ST</td>
+<td>SPRINGVALE</td>
+<td>ME</td>
+<td>04083</td>
+<td>2073246360</td>
+</tr>
+<tr>
+<td>TOWN OF STANDISH</td>
+<td>175 NORTHEAST ROAD</td>
+<td>STANDISH</td>
+<td>ME</td>
+<td>04084</td>
+<td>2076423461</td>
+</tr>
+<tr>
+<td>STRATTON POST OFFICE</td>
+<td>95 MAIN ST</td>
+<td>STRATTON</td>
+<td>ME</td>
+<td>04982</td>
+<td>2072466461</td>
+</tr>
+<tr>
+<td>TOPSHAM TOWN HALL-PLANNING</td>
+<td>100 MAIN STREET</td>
+<td>TOPSHAM</td>
+<td>ME</td>
+<td>04086</td>
+<td>2077251724</td>
+</tr>
+<tr>
+<td>VAN BUREN POST OFFICE</td>
+<td>42 MAIN ST</td>
+<td>VAN BUREN</td>
+<td>ME</td>
+<td>04785</td>
+<td>2078682874</td>
+</tr>
+<tr>
+<td>WATERVILLE POST OFFICE</td>
+<td>33 COLLEGE AVE</td>
+<td>WATERVILLE</td>
+<td>ME</td>
+<td>04901</td>
+<td>2078730714</td>
+</tr>
+<tr>
+<td>TOWN OF WINDHAM - TAX COLLECTION</td>
+<td>8 SCHOOL ROAD</td>
+<td>WINDHAM</td>
+<td>ME</td>
+<td>04062</td>
+<td>2078922511</td>
+</tr>
+<tr>
+<td>WINDHAM POST OFFICE</td>
+<td>765 ROOSEVELT TRAIL STE 7</td>
+<td>WINDHAM</td>
+<td>ME</td>
+<td>04062</td>
+<td>2078924742</td>
+</tr>
+<tr>
+<td>REGISTRY OF PROBATE - LINCOLN COUNTY</td>
+<td>32 HIGH STREET</td>
+<td>WISCASSET</td>
+<td>ME</td>
+<td>04578</td>
+<td>2078827392</td>
+</tr>
+<tr>
+<td>YORK POST OFFICE</td>
+<td>10 WOODBRIDGE ROAD</td>
+<td>YORK</td>
+<td>ME</td>
+<td>03909</td>
+<td>2073632441</td>
+</tr>
+</tbody>
+</table>

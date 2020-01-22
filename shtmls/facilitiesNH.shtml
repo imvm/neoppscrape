@@ -1,0 +1,462 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ANDOVER POST OFFICE</td>
+<td>164 MAIN ST. REAR</td>
+<td>ANDOVER</td>
+<td>NH</td>
+<td>03216</td>
+<td>6037355483</td>
+</tr>
+<tr>
+<td>ANTRIM POST OFFICE</td>
+<td>1 POST RD</td>
+<td>ANTRIM</td>
+<td>NH</td>
+<td>03440</td>
+<td>6035882614</td>
+</tr>
+<tr>
+<td>KIMBALL LIBRARY</td>
+<td>5 ACADEMY AVE</td>
+<td>ATKINSON</td>
+<td>NH</td>
+<td>03811</td>
+<td>6033625234</td>
+</tr>
+<tr>
+<td>BERLIN POST OFFICE</td>
+<td>15 MT FORIST ST</td>
+<td>BERLIN</td>
+<td>NH</td>
+<td>03570</td>
+<td>6037521700</td>
+</tr>
+<tr>
+<td>BAKER FREE LIBRARY</td>
+<td>509 SOUTH STREET</td>
+<td>BOW</td>
+<td>NH</td>
+<td>03304</td>
+<td>6032247113</td>
+</tr>
+<tr>
+<td>BRISTOL POST OFFICE</td>
+<td>85 PLEASANT STREET</td>
+<td>BRISTOL</td>
+<td>NH</td>
+<td>03222</td>
+<td>6037443383</td>
+</tr>
+<tr>
+<td>CENTER OSSIPEE POST OFFICE</td>
+<td>71 MAIN STREET</td>
+<td>CENTER OSSIPEE</td>
+<td>NH</td>
+<td>03814</td>
+<td>6035394342</td>
+</tr>
+<tr>
+<td>CLAREMONT POST OFFICE</td>
+<td>140 BROAD STREET</td>
+<td>CLAREMONT</td>
+<td>NH</td>
+<td>03743</td>
+<td>6035433051</td>
+</tr>
+<tr>
+<td>CONCORD POST OFFICE</td>
+<td>18 LOUDON ROAD</td>
+<td>CONCORD</td>
+<td>NH</td>
+<td>03301</td>
+<td>6032250004</td>
+</tr>
+<tr>
+<td>CONTOOCOOK POST OFFICE</td>
+<td>129 PARK AVE</td>
+<td>CONTOOCOOK</td>
+<td>NH</td>
+<td>03229</td>
+<td>6037463980</td>
+</tr>
+<tr>
+<td>CONWAY POST OFFICE</td>
+<td>175 MAIN STREET</td>
+<td>CONWAY</td>
+<td>NH</td>
+<td>03818</td>
+<td>6034475160</td>
+</tr>
+<tr>
+<td>DERRY POST OFFICE</td>
+<td>24 TSIENNETO ROAD</td>
+<td>DERRY</td>
+<td>NH</td>
+<td>03038</td>
+<td>6034327835</td>
+</tr>
+<tr>
+<td>DOVER POST OFFICE</td>
+<td>133 WASHINGTON ST</td>
+<td>DOVER</td>
+<td>NH</td>
+<td>03820</td>
+<td>6037424041</td>
+</tr>
+<tr>
+<td>DOVER PUBLIC LIBRARY</td>
+<td>73 LOCUST STREET</td>
+<td>DOVER</td>
+<td>NH</td>
+<td>03820</td>
+<td>6035166050</td>
+</tr>
+<tr>
+<td>DURHAM POST OFFICE</td>
+<td>2 MADBURY ROAD</td>
+<td>DURHAM</td>
+<td>NH</td>
+<td>03824</td>
+<td>6038682151</td>
+</tr>
+<tr>
+<td>EAST HAMPSTEAD POST OFFICE</td>
+<td>59 COLBY CORNER</td>
+<td>EAST HAMPSTEAD</td>
+<td>NH</td>
+<td>03826</td>
+<td>6033826519</td>
+</tr>
+<tr>
+<td>EXETER POST OFFICE</td>
+<td>34 FRONT ST</td>
+<td>EXETER</td>
+<td>NH</td>
+<td>03833</td>
+<td>6037722307</td>
+</tr>
+<tr>
+<td>GILFORD PUBLIC LIBRARY</td>
+<td>31 POTTER HILL ROAD</td>
+<td>GILFORD</td>
+<td>NH</td>
+<td>03249</td>
+<td>6035246042</td>
+</tr>
+<tr>
+<td>GOFFSTOWN POST OFFICE</td>
+<td>11 CHURCH STREET, SUITE 1</td>
+<td>GOFFSTOWN</td>
+<td>NH</td>
+<td>03045</td>
+<td>6034979907</td>
+</tr>
+<tr>
+<td>GORHAM POST OFFICE</td>
+<td>165 MAIN ST</td>
+<td>GORHAM</td>
+<td>NH</td>
+<td>03581</td>
+<td>6034662182</td>
+</tr>
+<tr>
+<td>GRANTHAM POST OFFICE</td>
+<td>10 WILLIS AVENUE</td>
+<td>GRANTHAM</td>
+<td>NH</td>
+<td>03753</td>
+<td>6038632280</td>
+</tr>
+<tr>
+<td>GREENLAND POST OFFICE</td>
+<td>609 PORTSMOUTH AVE</td>
+<td>GREENLAND</td>
+<td>NH</td>
+<td>03840</td>
+<td>6034367098</td>
+</tr>
+<tr>
+<td>GROVETON POST OFFICE</td>
+<td>59 CHURCH STREET</td>
+<td>GROVETON</td>
+<td>NH</td>
+<td>03582</td>
+<td>6036361610</td>
+</tr>
+<tr>
+<td>HAMPTON POST OFFICE</td>
+<td>25 STICKNEY TERRACE</td>
+<td>HAMPTON</td>
+<td>NH</td>
+<td>03842</td>
+<td>6039266413</td>
+</tr>
+<tr>
+<td>HANOVER POST OFFICE</td>
+<td>50 SOUTH MAIN ST</td>
+<td>HANOVER</td>
+<td>NH</td>
+<td>03755</td>
+<td>6036435201</td>
+</tr>
+<tr>
+<td>KEENE POST OFFICE</td>
+<td>196 MAIN ST</td>
+<td>KEENE</td>
+<td>NH</td>
+<td>03431</td>
+<td>6033521751</td>
+</tr>
+<tr>
+<td>LACONIA POST OFFICE</td>
+<td>33 CHURCH ST</td>
+<td>LACONIA</td>
+<td>NH</td>
+<td>03246</td>
+<td>6035246271</td>
+</tr>
+<tr>
+<td>LANCASTER POST OFFICE</td>
+<td>120 MAIN ST</td>
+<td>LANCASTER</td>
+<td>NH</td>
+<td>03584</td>
+<td>6037884612</td>
+</tr>
+<tr>
+<td>LEBANON POST OFFICE</td>
+<td>11 E PARK STREET</td>
+<td>LEBANON</td>
+<td>NH</td>
+<td>03766</td>
+<td>6036679107</td>
+</tr>
+<tr>
+<td>LINCOLN POST OFFICE</td>
+<td>10 LUMBERYARD DRIVE</td>
+<td>LINCOLN</td>
+<td>NH</td>
+<td>03251</td>
+<td>6037458133</td>
+</tr>
+<tr>
+<td>LITTLETON POST OFFICE</td>
+<td>134 MAIN ST</td>
+<td>LITTLETON</td>
+<td>NH</td>
+<td>03561</td>
+<td>6034447787</td>
+</tr>
+<tr>
+<td>LOCHMERE POST OFFICE</td>
+<td>60 SILVER LAKE RD</td>
+<td>LOCHMERE</td>
+<td>NH</td>
+<td>03252</td>
+<td>6035244723</td>
+</tr>
+<tr>
+<td>MADISON POST OFFICE</td>
+<td>1904 VILLAGE ROAD</td>
+<td>MADISON</td>
+<td>NH</td>
+<td>03849</td>
+<td>6033678880</td>
+</tr>
+<tr>
+<td>MANCHESTER DOWNTOWN STATION POST OFFICE</td>
+<td>1000 ELM ST</td>
+<td>MANCHESTER</td>
+<td>NH</td>
+<td>03101</td>
+<td>6036233534</td>
+</tr>
+<tr>
+<td>MANCHESTER MAIN POST OFFICE</td>
+<td>955 GOFFS FALLS RD</td>
+<td>MANCHESTER</td>
+<td>NH</td>
+<td>03103</td>
+<td>6036266887</td>
+</tr>
+<tr>
+<td>MELVIN VILLAGE POST OFFICE</td>
+<td>448 GOVERNOR WENTWORTH HIGHWAY</td>
+<td>MELVIN VILLAGE</td>
+<td>NH</td>
+<td>03850</td>
+<td>6035443393</td>
+</tr>
+<tr>
+<td>MERRIMACK PUBLIC LIBRARY</td>
+<td>470 DANIEL WEBSTER HIGHWAY</td>
+<td>MERRIMACK</td>
+<td>NH</td>
+<td>03054</td>
+<td>6034245021</td>
+</tr>
+<tr>
+<td>WADLEIGH MEMORIAL LIBRARY</td>
+<td>49 NASHUA STREET</td>
+<td>MILFORD</td>
+<td>NH</td>
+<td>03055</td>
+<td>6032490645</td>
+</tr>
+<tr>
+<td>NASHUA MAIN POST OFFICE</td>
+<td>38 SPRING STREET</td>
+<td>NASHUA</td>
+<td>NH</td>
+<td>03060</td>
+<td>6038827515</td>
+</tr>
+<tr>
+<td>NEW LONDON POST OFFICE</td>
+<td>319 NEWPORT RD</td>
+<td>NEW LONDON</td>
+<td>NH</td>
+<td>03257</td>
+<td>6035264641</td>
+</tr>
+<tr>
+<td>NEWMARKET POST OFFICE</td>
+<td>126 MAIN STREET</td>
+<td>NEWMARKET</td>
+<td>NH</td>
+<td>03857</td>
+<td>6036598549</td>
+</tr>
+<tr>
+<td>NEWPORT POST OFFICE</td>
+<td>15 PARK ST</td>
+<td>NEWPORT</td>
+<td>NH</td>
+<td>03773</td>
+<td>6038639947</td>
+</tr>
+<tr>
+<td>NOTTINGHAM POST OFFICE</td>
+<td>106 STAGE RD</td>
+<td>NOTTINGHAM</td>
+<td>NH</td>
+<td>03290</td>
+<td>6036798340</td>
+</tr>
+<tr>
+<td>OSSIPEE POST OFFICE</td>
+<td>10 OLD ROUTE 28</td>
+<td>OSSIPEE</td>
+<td>NH</td>
+<td>03864</td>
+<td>6035396455</td>
+</tr>
+<tr>
+<td>PETERBOROUGH POST OFFICE</td>
+<td>23 GROVE ST</td>
+<td>PETERBOROUGH</td>
+<td>NH</td>
+<td>03458</td>
+<td>6039243251</td>
+</tr>
+<tr>
+<td>PITTSFIELD POST OFFICE</td>
+<td>2 ELM ST</td>
+<td>PITTSFIELD</td>
+<td>NH</td>
+<td>03263</td>
+<td>6034356281</td>
+</tr>
+<tr>
+<td>PLAISTOW PUBLIC LIBRARY</td>
+<td>85 MAIN STREET</td>
+<td>PLAISTOW</td>
+<td>NH</td>
+<td>03865</td>
+<td>6033826011</td>
+</tr>
+<tr>
+<td>PORTSMOUTH POST OFFICE</td>
+<td>345 HERITAGE AVENUE</td>
+<td>PORTSMOUTH</td>
+<td>NH</td>
+<td>03801</td>
+<td>6034312871</td>
+</tr>
+<tr>
+<td>ROCHESTER POST OFFICE</td>
+<td>20 ALLEN STREET</td>
+<td>ROCHESTER</td>
+<td>NH</td>
+<td>03867</td>
+<td>6033321429</td>
+</tr>
+<tr>
+<td>SALEM POST OFFICE</td>
+<td>51 SOUTH BROADWAY</td>
+<td>SALEM</td>
+<td>NH</td>
+<td>03079</td>
+<td>6036852005</td>
+</tr>
+<tr>
+<td>SANBORNVILLE POST OFFICE</td>
+<td>378 MEADOW STREET</td>
+<td>SANBORNVILLE</td>
+<td>NH</td>
+<td>03872</td>
+<td>6035228811</td>
+</tr>
+<tr>
+<td>SPOFFORD POST OFFICE</td>
+<td>562 NORTH SHORE RD</td>
+<td>SPOFFORD</td>
+<td>NH</td>
+<td>03462</td>
+<td>6033634711</td>
+</tr>
+<tr>
+<td>HILL LIBRARY</td>
+<td>1151 PARKER MOUNTAIN ROAD</td>
+<td>STRAFFORD</td>
+<td>NH</td>
+<td>03884</td>
+<td>6036642800</td>
+</tr>
+<tr>
+<td>WALPOLE POST OFFICE</td>
+<td>47 MAIN STREET, UNIT 1</td>
+<td>WALPOLE</td>
+<td>NH</td>
+<td>03608</td>
+<td>6037563363</td>
+</tr>
+<tr>
+<td>WEARE POST OFFICE</td>
+<td>8 DUCK POND ROAD</td>
+<td>WEARE</td>
+<td>NH</td>
+<td>03281</td>
+<td>6035292636</td>
+</tr>
+<tr>
+<td>WEST CHESTERFIELD POST OFFICE</td>
+<td>913 GULF RD UNIT C</td>
+<td>WEST CHESTERFIELD</td>
+<td>NH</td>
+<td>03466</td>
+<td>6032568854</td>
+</tr>
+</tbody>
+</table>

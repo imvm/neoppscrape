@@ -1,0 +1,1046 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>USPO - AKRON</td>
+<td>182 ADAMS AVE</td>
+<td>AKRON</td>
+<td>CO</td>
+<td>80720</td>
+<td>9703456691</td>
+</tr>
+<tr>
+<td>USPO - ALAMOSA</td>
+<td>505 THIRD STREET</td>
+<td>ALAMOSA</td>
+<td>CO</td>
+<td>81101</td>
+<td>7195894909</td>
+</tr>
+<tr>
+<td>CITY OF ARVADA</td>
+<td>8101 RALSTON ROAD</td>
+<td>ARVADA</td>
+<td>CO</td>
+<td>80002</td>
+<td>7208987552</td>
+</tr>
+<tr>
+<td>USPO - ARVADA</td>
+<td>5885 ALLISON STREET</td>
+<td>ARVADA</td>
+<td>CO</td>
+<td>80001</td>
+<td>3034322092</td>
+</tr>
+<tr>
+<td>USPO - ASPEN</td>
+<td>235 PUPPY SMITH RD</td>
+<td>ASPEN</td>
+<td>CO</td>
+<td>81611</td>
+<td>9709257523</td>
+</tr>
+<tr>
+<td>USPO - ATWOOD</td>
+<td>16255 FRONT AVENUE</td>
+<td>ATWOOD</td>
+<td>CO</td>
+<td>80722</td>
+<td>9705229788</td>
+</tr>
+<tr>
+<td>USPO - AULT</td>
+<td>122 1ST AVENUE</td>
+<td>AULT</td>
+<td>CO</td>
+<td>80610</td>
+<td>9708342840</td>
+</tr>
+<tr>
+<td>USPO - ALTURA MEGACENTER</td>
+<td>15355 E. COLFAX AVE.</td>
+<td>AURORA</td>
+<td>CO</td>
+<td>80042</td>
+<td>3033643018</td>
+</tr>
+<tr>
+<td>USPO - BAILEY</td>
+<td>24 RIVER DRIVE</td>
+<td>BAILEY</td>
+<td>CO</td>
+<td>80421</td>
+<td>3038382084</td>
+</tr>
+<tr>
+<td>PINE RIVER LIBRARY</td>
+<td>395 BAYFIELD CENTER DR.</td>
+<td>BAYFIELD</td>
+<td>CO</td>
+<td>81122</td>
+<td>9708842222</td>
+</tr>
+<tr>
+<td>USPO - BAYFIELD</td>
+<td>145 W. PARK ST.</td>
+<td>BAYFIELD</td>
+<td>CO</td>
+<td>81122</td>
+<td>9708849618</td>
+</tr>
+<tr>
+<td>TOWN OF BERTHOUD</td>
+<td>807 MOUNTAIN AVENUE</td>
+<td>BERTHOUD</td>
+<td>CO</td>
+<td>80513</td>
+<td>9705322643</td>
+</tr>
+<tr>
+<td>USPO - BOULDER</td>
+<td>1905 15TH ST.</td>
+<td>BOULDER</td>
+<td>CO</td>
+<td>80302</td>
+<td>3039383704</td>
+</tr>
+<tr>
+<td>USPO - BRECKENRIDGE</td>
+<td>305 SOUTH RIDGE ST.</td>
+<td>BRECKENRIDGE</td>
+<td>CO</td>
+<td>80424</td>
+<td>9705470347</td>
+</tr>
+<tr>
+<td>ADAMS COUNTY CLERK AND RECORDER</td>
+<td>4430 S. ADAMS COUNTY PARKWAY</td>
+<td>BRIGHTON</td>
+<td>CO</td>
+<td>80601</td>
+<td>7205236020</td>
+</tr>
+<tr>
+<td>USPO - BRIGHTON</td>
+<td>90 N. FOURTH AVENUE</td>
+<td>BRIGHTON</td>
+<td>CO</td>
+<td>80601</td>
+<td>3036370826</td>
+</tr>
+<tr>
+<td>CITY AND COUNTY OF BROOMFIELD</td>
+<td>ONE DESCOMBES DR.</td>
+<td>BROOMFIELD</td>
+<td>CO</td>
+<td>80020</td>
+<td>3034386390</td>
+</tr>
+<tr>
+<td>USPO - EAGLE VIEW STATION</td>
+<td>8800 WEST 116TH CIRCLE</td>
+<td>BROOMFIELD</td>
+<td>CO</td>
+<td>80021</td>
+<td>3034669449</td>
+</tr>
+<tr>
+<td>USPO - BUENA VISTA</td>
+<td>110 BROOKDALE AVE</td>
+<td>BUENA VISTA</td>
+<td>CO</td>
+<td>81211</td>
+<td>7193952445</td>
+</tr>
+<tr>
+<td>USPO - BURLINGTON</td>
+<td>259 14TH STREET</td>
+<td>BURLINGTON</td>
+<td>CO</td>
+<td>80807</td>
+<td>7193468902</td>
+</tr>
+<tr>
+<td>USPO - CALHAN</td>
+<td>655 CASCADE ST</td>
+<td>CALHAN</td>
+<td>CO</td>
+<td>80808</td>
+<td>7193473254</td>
+</tr>
+<tr>
+<td>USPO - CANON CITY</td>
+<td>1501 MAIN ST.</td>
+<td>CANON CITY</td>
+<td>CO</td>
+<td>81212</td>
+<td>7192756877</td>
+</tr>
+<tr>
+<td>DOUGLAS COUNTY CLERK AND RECORDER</td>
+<td>301 WILCOX STREET</td>
+<td>CASTLE ROCK</td>
+<td>CO</td>
+<td>80104</td>
+<td>3036607446</td>
+</tr>
+<tr>
+<td>CITY OF CENTENNIAL</td>
+<td>13133 E. ARAPAHOE RD.</td>
+<td>CENTENNIAL</td>
+<td>CO</td>
+<td>80112</td>
+<td>3033258000</td>
+</tr>
+<tr>
+<td>USPO - CENTER</td>
+<td>255 S. WORTH STREET</td>
+<td>CENTER</td>
+<td>CO</td>
+<td>81125</td>
+<td>7197542215</td>
+</tr>
+<tr>
+<td>GILPIN COUNTY</td>
+<td>203 EUREKA STREET</td>
+<td>CENTRAL CITY</td>
+<td>CO</td>
+<td>80427</td>
+<td>3035825214</td>
+</tr>
+<tr>
+<td>USPO - BRIARGATE STATION</td>
+<td>8585 CRITERION DRIVE</td>
+<td>COLORADO SPRINGS</td>
+<td>CO</td>
+<td>80920</td>
+<td>7195987516</td>
+</tr>
+<tr>
+<td>USPO - MAIN OFFICE</td>
+<td>201 EAST PIKES PEAK AVE.</td>
+<td>COLORADO SPRINGS</td>
+<td>CO</td>
+<td>80903</td>
+<td>7195705208</td>
+</tr>
+<tr>
+<td>USPO - SECURITY STATION</td>
+<td>5755 KITTERY DRIVE</td>
+<td>COLORADO SPRINGS</td>
+<td>CO</td>
+<td>80911</td>
+<td>7193939276</td>
+</tr>
+<tr>
+<td>COMMERCE CITY CIVIC CENTER</td>
+<td>7887 E. 60TH AVE</td>
+<td>COMMERCE CITY</td>
+<td>CO</td>
+<td>80022</td>
+<td>3032893611</td>
+</tr>
+<tr>
+<td>USPO - CORTEZ</td>
+<td>35 SOUTH BEECH ST</td>
+<td>CORTEZ</td>
+<td>CO</td>
+<td>81321</td>
+<td>9705653181</td>
+</tr>
+<tr>
+<td>USPO - CRAIG</td>
+<td>556 PERSHING ST</td>
+<td>CRAIG</td>
+<td>CO</td>
+<td>81625</td>
+<td>9708248506</td>
+</tr>
+<tr>
+<td>USPO - CRESTED BUTTE</td>
+<td>217 ELK AVE</td>
+<td>CRESTED BUTTE</td>
+<td>CO</td>
+<td>81224</td>
+<td>9703495568</td>
+</tr>
+<tr>
+<td>USPO - CRESTONE</td>
+<td>166 S. ALDER AVE</td>
+<td>CRESTONE</td>
+<td>CO</td>
+<td>81131</td>
+<td>7192564760</td>
+</tr>
+<tr>
+<td>USPO - DELTA</td>
+<td>360 MEEKER ST.</td>
+<td>DELTA</td>
+<td>CO</td>
+<td>81416</td>
+<td>9708742652</td>
+</tr>
+<tr>
+<td>DENVER COUNTY COURT</td>
+<td>520 WEST COLFAX AVE ROOM 160</td>
+<td>DENVER</td>
+<td>CO</td>
+<td>80204</td>
+<td>7203370410</td>
+</tr>
+<tr>
+<td>USPO - DOWNTOWN STATION</td>
+<td>951 20TH STREET</td>
+<td>DENVER</td>
+<td>CO</td>
+<td>80202</td>
+<td>3032962071</td>
+</tr>
+<tr>
+<td>USPO - UNIVERSITY PARK STATION</td>
+<td>3800 BUCHTEL BLVD.</td>
+<td>DENVER</td>
+<td>CO</td>
+<td>80210</td>
+<td>3037595794</td>
+</tr>
+<tr>
+<td>USPO - DIVIDE</td>
+<td>66 HYBROOK ROAD S</td>
+<td>DIVIDE</td>
+<td>CO</td>
+<td>80814</td>
+<td>7196872885</td>
+</tr>
+<tr>
+<td>USPO - DOLORES</td>
+<td>1000 RAILROAD AVE</td>
+<td>DOLORES</td>
+<td>CO</td>
+<td>81323</td>
+<td>9708827796</td>
+</tr>
+<tr>
+<td>FT. LEWIS COLLEGE INTERNATION PROGRAMS OFFICE</td>
+<td>1000 RIM DR.</td>
+<td>DURANGO</td>
+<td>CO</td>
+<td>81301</td>
+<td>9702477672</td>
+</tr>
+<tr>
+<td>USPO - DURANGO</td>
+<td>222 W. 8TH ST.</td>
+<td>DURANGO</td>
+<td>CO</td>
+<td>81301</td>
+<td>9702473434</td>
+</tr>
+<tr>
+<td>USPO - ERIE</td>
+<td>150 WELLS STREET</td>
+<td>ERIE</td>
+<td>CO</td>
+<td>80516</td>
+<td>3038280781</td>
+</tr>
+<tr>
+<td>USPO - EVANS</td>
+<td>3344 11TH AVENUE</td>
+<td>EVANS</td>
+<td>CO</td>
+<td>80620</td>
+<td>9703304841</td>
+</tr>
+<tr>
+<td>USPO - EVERGREEN</td>
+<td>3649 EVERGREEN PARKWAY</td>
+<td>EVERGREEN</td>
+<td>CO</td>
+<td>80439</td>
+<td>3036799861</td>
+</tr>
+<tr>
+<td>USPO - FAIRPLAY</td>
+<td>517 HATHAWAY ST</td>
+<td>FAIRPLAY</td>
+<td>CO</td>
+<td>80440</td>
+<td>7198362423</td>
+</tr>
+<tr>
+<td>USPO - FLAGLER</td>
+<td>315 MAIN AVENUE</td>
+<td>FLAGLER</td>
+<td>CO</td>
+<td>80815</td>
+<td>7197654815</td>
+</tr>
+<tr>
+<td>USPO - FLORENCE</td>
+<td>121 N. PIKES PEAK AVE.</td>
+<td>FLORENCE</td>
+<td>CO</td>
+<td>81226</td>
+<td>7197843818</td>
+</tr>
+<tr>
+<td>USPO - FLORISSANT</td>
+<td>18101 CRD 1</td>
+<td>FLORISSANT</td>
+<td>CO</td>
+<td>80816</td>
+<td>7197483891</td>
+</tr>
+<tr>
+<td>COLORADO STATE UNIVERSITY - EDUCATION ABROAD</td>
+<td>700 OVAL DRIVE</td>
+<td>FORT COLLINS</td>
+<td>CO</td>
+<td>80523</td>
+<td>9704915917</td>
+</tr>
+<tr>
+<td>FORT COLLINS CITY CLERKS OFFICE</td>
+<td>300 LAPORTE AVE</td>
+<td>FORT COLLINS</td>
+<td>CO</td>
+<td>80521</td>
+<td>9702216515</td>
+</tr>
+<tr>
+<td>LARIMER COUNTY - CITIZEN INFO CENTER</td>
+<td>200 W OAK ST.</td>
+<td>FORT COLLINS</td>
+<td>CO</td>
+<td>80521</td>
+<td>9704987860</td>
+</tr>
+<tr>
+<td>USPO - FORT COLLINS</td>
+<td>301 EAST BOARDWALK DR.</td>
+<td>FORT COLLINS</td>
+<td>CO</td>
+<td>80525</td>
+<td>9702254100</td>
+</tr>
+<tr>
+<td>USPO - FORT LUPTON</td>
+<td>533 4TH ST.</td>
+<td>FORT LUPTON</td>
+<td>CO</td>
+<td>80621</td>
+<td>3038574734</td>
+</tr>
+<tr>
+<td>USPO - FORT MORGAN</td>
+<td>300 STATE ST</td>
+<td>FORT MORGAN</td>
+<td>CO</td>
+<td>80701</td>
+<td>9708677111</td>
+</tr>
+<tr>
+<td>USPO - FOWLER</td>
+<td>34191 COUNTY RD 3.5</td>
+<td>FOWLER</td>
+<td>CO</td>
+<td>81039</td>
+<td>7192635260</td>
+</tr>
+<tr>
+<td>USPO - FRASER</td>
+<td>520 ZEREX</td>
+<td>FRASER</td>
+<td>CO</td>
+<td>80442</td>
+<td>9707265578</td>
+</tr>
+<tr>
+<td>USPO - FREDERICK</td>
+<td>411 OAK ST.</td>
+<td>FREDERICK</td>
+<td>CO</td>
+<td>80530</td>
+<td>3038332581</td>
+</tr>
+<tr>
+<td>USPO - GLENWOOD SPRINGS</td>
+<td>113 9TH ST.</td>
+<td>GLENWOOD SPRINGS</td>
+<td>CO</td>
+<td>81601</td>
+<td>9709455611</td>
+</tr>
+<tr>
+<td>CITY OF GOLDEN</td>
+<td>911 10TH STREET</td>
+<td>GOLDEN</td>
+<td>CO</td>
+<td>80401</td>
+<td>3033848000</td>
+</tr>
+<tr>
+<td>JEFFERSON COUNTY GOVERNMENT OFFICES</td>
+<td>100 JEFFERSON COUNTY PKWY. SUITE 2530</td>
+<td>GOLDEN</td>
+<td>CO</td>
+<td>80419</td>
+<td>3032718191</td>
+</tr>
+<tr>
+<td>USPO - GOLDEN</td>
+<td>1100 JOHNSON ROAD</td>
+<td>GOLDEN</td>
+<td>CO</td>
+<td>80401</td>
+<td>3034458900</td>
+</tr>
+<tr>
+<td>USPO - GRANBY</td>
+<td>54 ZERO STREET</td>
+<td>GRANBY</td>
+<td>CO</td>
+<td>80446</td>
+<td>9708873612</td>
+</tr>
+<tr>
+<td>USPO - GRAND JUNCTION</td>
+<td>241 N. 4TH ST.</td>
+<td>GRAND JUNCTION</td>
+<td>CO</td>
+<td>81501</td>
+<td>9702443402</td>
+</tr>
+<tr>
+<td>UNC CENTER FOR INTERNATIONAL EDUCATION</td>
+<td>2045 10TH AVENUE</td>
+<td>GREELEY</td>
+<td>CO</td>
+<td>80631</td>
+<td>9703512396</td>
+</tr>
+<tr>
+<td>USPO - GREELEY</td>
+<td>925 11TH AVENUE</td>
+<td>GREELEY</td>
+<td>CO</td>
+<td>80631</td>
+<td>9703922782</td>
+</tr>
+<tr>
+<td>USPO - GUNNISON</td>
+<td>200 NORTH WISCONSIN ST</td>
+<td>GUNNISON</td>
+<td>CO</td>
+<td>81230</td>
+<td>9706411884</td>
+</tr>
+<tr>
+<td>TOWN OF GYPSUM</td>
+<td>50 LUNDGREN BLVD.</td>
+<td>GYPSUM</td>
+<td>CO</td>
+<td>81637</td>
+<td>9705247514</td>
+</tr>
+<tr>
+<td>USPO - HENDERSON</td>
+<td>12210 BRIGHTON ROAD</td>
+<td>HENDERSON</td>
+<td>CO</td>
+<td>80640</td>
+<td>3036591612</td>
+</tr>
+<tr>
+<td>USPO - HESPERUS</td>
+<td>10864 HWY 160</td>
+<td>HESPERUS</td>
+<td>CO</td>
+<td>81326</td>
+<td>9703854393</td>
+</tr>
+<tr>
+<td>USPO - HIGHLANDS RANCH BRANCH</td>
+<td>9609 SOUTH UNIVERSITY BLVD</td>
+<td>HIGHLANDS RANCH</td>
+<td>CO</td>
+<td>80130</td>
+<td>3032275500</td>
+</tr>
+<tr>
+<td>USPO - HOLYOKE</td>
+<td>226 S INTEROCEAN AVE</td>
+<td>HOLYOKE</td>
+<td>CO</td>
+<td>80734</td>
+<td>9708543100</td>
+</tr>
+<tr>
+<td>USPO - HUDSON</td>
+<td>738 CEDAR ST</td>
+<td>HUDSON</td>
+<td>CO</td>
+<td>80642</td>
+<td>3035364775</td>
+</tr>
+<tr>
+<td>USPO - IDAHO SPRINGS</td>
+<td>2420 COLORADO BLVD.</td>
+<td>IDAHO SPRINGS</td>
+<td>CO</td>
+<td>80452</td>
+<td>3035672903</td>
+</tr>
+<tr>
+<td>USPO - IDLEDALE</td>
+<td>21659 HWY 74</td>
+<td>IDLEDALE</td>
+<td>CO</td>
+<td>80453</td>
+<td>3036978476</td>
+</tr>
+<tr>
+<td>USPO - IGNACIO</td>
+<td>1001 WILLIAMS AVE</td>
+<td>IGNACIO</td>
+<td>CO</td>
+<td>81137</td>
+<td>9705634322</td>
+</tr>
+<tr>
+<td>USPO - JOES</td>
+<td>6461 HWY 36</td>
+<td>JOES</td>
+<td>CO</td>
+<td>80822</td>
+<td>9703584346</td>
+</tr>
+<tr>
+<td>USPO - JOHNSTOWN</td>
+<td>121 CASTLE PINES AVE</td>
+<td>JOHNSTOWN</td>
+<td>CO</td>
+<td>80534</td>
+<td>9705874246</td>
+</tr>
+<tr>
+<td>USPO - KERSEY</td>
+<td>331 1ST STREET</td>
+<td>KERSEY</td>
+<td>CO</td>
+<td>80644</td>
+<td>9703534884</td>
+</tr>
+<tr>
+<td>USPO - KIOWA</td>
+<td>708 COMMANCHE ST</td>
+<td>KIOWA</td>
+<td>CO</td>
+<td>80117</td>
+<td>3036212011</td>
+</tr>
+<tr>
+<td>USPO - LA JARA</td>
+<td>525 MAIN STREET</td>
+<td>LA JARA</td>
+<td>CO</td>
+<td>81140</td>
+<td>7192745331</td>
+</tr>
+<tr>
+<td>USPO - LA JUNTA</td>
+<td>324 COLORADO AVE.</td>
+<td>LA JUNTA</td>
+<td>CO</td>
+<td>81050</td>
+<td>7193845917</td>
+</tr>
+<tr>
+<td>USPO - LAFAYETTE</td>
+<td>603 S. PUBLIC RD.</td>
+<td>LAFAYETTE</td>
+<td>CO</td>
+<td>80026</td>
+<td>3039261048</td>
+</tr>
+<tr>
+<td>CITY OF LAKEWOOD</td>
+<td>480 S. ALLISON PARKWAY</td>
+<td>LAKEWOOD</td>
+<td>CO</td>
+<td>80226</td>
+<td>3039877080</td>
+</tr>
+<tr>
+<td>RED ROCKS COMMUNITY COLLEGE</td>
+<td>13300 W 6TH AVENUE</td>
+<td>LAKEWOOD</td>
+<td>CO</td>
+<td>80228</td>
+<td>3039146416</td>
+</tr>
+<tr>
+<td>USPO - LAKEWOOD</td>
+<td>10799 W ALAMEDA AVE.</td>
+<td>LAKEWOOD</td>
+<td>CO</td>
+<td>80226</td>
+<td>3039693200</td>
+</tr>
+<tr>
+<td>USPO - LARKSPUR</td>
+<td>96 PERRY PARK AVE.</td>
+<td>LARKSPUR</td>
+<td>CO</td>
+<td>80118</td>
+<td>3036812449</td>
+</tr>
+<tr>
+<td>USPO - LEADVILLE</td>
+<td>130 WEST 5TH ST.</td>
+<td>LEADVILLE</td>
+<td>CO</td>
+<td>80461</td>
+<td>7194869397</td>
+</tr>
+<tr>
+<td>USPO - LIMON</td>
+<td>250 F AVENUE</td>
+<td>LIMON</td>
+<td>CO</td>
+<td>80828</td>
+<td>7197752264</td>
+</tr>
+<tr>
+<td>ARAPAHOE COUNTY CLERK AND  RECORDER</td>
+<td>5334 SOUTH PRINCE ST.</td>
+<td>LITTLETON</td>
+<td>CO</td>
+<td>80120</td>
+<td>3037954520</td>
+</tr>
+<tr>
+<td>USPO - LONGMONT</td>
+<td>201 COFFMAN STREET</td>
+<td>LONGMONT</td>
+<td>CO</td>
+<td>80501</td>
+<td>3036519618</td>
+</tr>
+<tr>
+<td>USPO - LOUISVILLE</td>
+<td>566 S. MCCASLIN BLVD.</td>
+<td>LOUISVILLE</td>
+<td>CO</td>
+<td>80027</td>
+<td>3036650030</td>
+</tr>
+<tr>
+<td>USPO - LOVELAND</td>
+<td>446 EAST 29TH STREET</td>
+<td>LOVELAND</td>
+<td>CO</td>
+<td>80538</td>
+<td>9706633010</td>
+</tr>
+<tr>
+<td>USPO - LYONS</td>
+<td>305 RAILROAD AVENUE</td>
+<td>LYONS</td>
+<td>CO</td>
+<td>80540</td>
+<td>3038230109</td>
+</tr>
+<tr>
+<td>USPO - MANCOS</td>
+<td>291 N. WALNUT ST</td>
+<td>MANCOS</td>
+<td>CO</td>
+<td>81328</td>
+<td>9705337754</td>
+</tr>
+<tr>
+<td>TOWN OF MEAD</td>
+<td>441 THIRD ST</td>
+<td>MEAD</td>
+<td>CO</td>
+<td>80542</td>
+<td>9705354477</td>
+</tr>
+<tr>
+<td>USPO - MEEKER</td>
+<td>365 6TH ST.</td>
+<td>MEEKER</td>
+<td>CO</td>
+<td>81641</td>
+<td>9708785830</td>
+</tr>
+<tr>
+<td>USPO - MONTE VISTA</td>
+<td>150 WASHINTON STREET</td>
+<td>MONTE VISTA</td>
+<td>CO</td>
+<td>81144</td>
+<td>7198523431</td>
+</tr>
+<tr>
+<td>MONTROSE REGIONAL LIBRARY DISTRICT</td>
+<td>320 S. 2ND STREET</td>
+<td>MONTROSE</td>
+<td>CO</td>
+<td>81401</td>
+<td>9702499656</td>
+</tr>
+<tr>
+<td>USPO - MONTROSE</td>
+<td>321 S 1ST ST.</td>
+<td>MONTROSE</td>
+<td>CO</td>
+<td>81401</td>
+<td>9702496655</td>
+</tr>
+<tr>
+<td>CITY OF NORTHGLENN</td>
+<td>11701 COMMUNITY CENTER DRIVE</td>
+<td>NORTHGLENN</td>
+<td>CO</td>
+<td>80233</td>
+<td>3034508999</td>
+</tr>
+<tr>
+<td>USPO - NUCLA</td>
+<td>145 WEST 5TH AVENUE</td>
+<td>NUCLA</td>
+<td>CO</td>
+<td>81424</td>
+<td>9708647326</td>
+</tr>
+<tr>
+<td>USPO - OURAY</td>
+<td>620 MAIN STREET</td>
+<td>OURAY</td>
+<td>CO</td>
+<td>81427</td>
+<td>9703254302</td>
+</tr>
+<tr>
+<td>USPO - PAGOSA SPRINGS</td>
+<td>250 HOT SPRINGS BLVD.</td>
+<td>PAGOSA SPRINGS</td>
+<td>CO</td>
+<td>81147</td>
+<td>9702645440</td>
+</tr>
+<tr>
+<td>USPO - PALMER LAKE</td>
+<td>10 PRIMROSE ST</td>
+<td>PALMER LAKE</td>
+<td>CO</td>
+<td>80133</td>
+<td>7194812146</td>
+</tr>
+<tr>
+<td>USPO - PEETZ</td>
+<td>602 MAIN ST.</td>
+<td>PEETZ</td>
+<td>CO</td>
+<td>80747</td>
+<td>9703342345</td>
+</tr>
+<tr>
+<td>USPO - PLATTEVILLE</td>
+<td>400 MARION STREET</td>
+<td>PLATTEVILLE</td>
+<td>CO</td>
+<td>80651</td>
+<td>9707852295</td>
+</tr>
+<tr>
+<td>USPO - BELMONT STATION</td>
+<td>1025 E US HWY 50</td>
+<td>PUEBLO</td>
+<td>CO</td>
+<td>81001</td>
+<td>7195460903</td>
+</tr>
+<tr>
+<td>USPO - SUNSET STATION</td>
+<td>3000 WEDGEWOOD DRIVE</td>
+<td>PUEBLO</td>
+<td>CO</td>
+<td>81005</td>
+<td>7195660020</td>
+</tr>
+<tr>
+<td>USPO - SALIDA</td>
+<td>310 D ST.</td>
+<td>SALIDA</td>
+<td>CO</td>
+<td>81201</td>
+<td>7195392548</td>
+</tr>
+<tr>
+<td>USPO - SEDGWICK</td>
+<td>211 MAIN AVENUE</td>
+<td>SEDGWICK</td>
+<td>CO</td>
+<td>80749</td>
+<td>9704635690</td>
+</tr>
+<tr>
+<td>USPO - SOUTH FORK</td>
+<td>130 WEST FRONTAGE ROAD</td>
+<td>SOUTH FORK</td>
+<td>CO</td>
+<td>81154</td>
+<td>7198735611</td>
+</tr>
+<tr>
+<td>USPO - SPRINGFIELD</td>
+<td>188 EAST 9TH AVENUE</td>
+<td>SPRINGFIELD</td>
+<td>CO</td>
+<td>81073</td>
+<td>7195236609</td>
+</tr>
+<tr>
+<td>USPO - STEAMBOAT SPRINGS</td>
+<td>200 LINCOLN AVENUE</td>
+<td>STEAMBOAT SPRINGS</td>
+<td>CO</td>
+<td>80487</td>
+<td>9708798360</td>
+</tr>
+<tr>
+<td>USPO - SUGAR CITY</td>
+<td>208 COLORADO AVENUE</td>
+<td>SUGAR CITY</td>
+<td>CO</td>
+<td>81076</td>
+<td>7192673333</td>
+</tr>
+<tr>
+<td>USPO - TELLURIDE</td>
+<td>150 S. WILLOW ST.</td>
+<td>TELLURIDE</td>
+<td>CO</td>
+<td>81435</td>
+<td>9707283900</td>
+</tr>
+<tr>
+<td>WILKINSON PUBLIC LIBRARY</td>
+<td>100 W. PACIFIC AVE.</td>
+<td>TELLURIDE</td>
+<td>CO</td>
+<td>81435</td>
+<td>9707284519</td>
+</tr>
+<tr>
+<td>CITY OF THORNTON</td>
+<td>9500 CIVIC CENTER DRIVE</td>
+<td>THORNTON</td>
+<td>CO</td>
+<td>80229</td>
+<td>3035387230</td>
+</tr>
+<tr>
+<td>USPO - TRINIDAD</td>
+<td>301 EAST MAIN STREET</td>
+<td>TRINIDAD</td>
+<td>CO</td>
+<td>81082</td>
+<td>7198451180</td>
+</tr>
+<tr>
+<td>USPO - USAF ACADEMY</td>
+<td>5136 COMMUNITY CENTER DRIVE</td>
+<td>USAF ACADEMY</td>
+<td>CO</td>
+<td>80840</td>
+<td>7194720510</td>
+</tr>
+<tr>
+<td>USPO - VAIL</td>
+<td>1300 N. FRONTAGE RD. W</td>
+<td>VAIL</td>
+<td>CO</td>
+<td>81657</td>
+<td>9704765217</td>
+</tr>
+<tr>
+<td>USPO - WALSENBURG</td>
+<td>204 E. 6TH ST.</td>
+<td>WALSENBURG</td>
+<td>CO</td>
+<td>81089</td>
+<td>7197385762</td>
+</tr>
+<tr>
+<td>USPO - WATKINS</td>
+<td>33151 E. 16TH DR.</td>
+<td>WATKINS</td>
+<td>CO</td>
+<td>80137</td>
+<td>3032619655</td>
+</tr>
+<tr>
+<td>CITY OF WESTMINSTER</td>
+<td>4800 WEST 92ND AVENUE</td>
+<td>WESTMINSTER</td>
+<td>CO</td>
+<td>80031</td>
+<td>3036582337</td>
+</tr>
+<tr>
+<td>USPO - HARRIS PARK</td>
+<td>7262 MEADE ST</td>
+<td>WESTMINSTER</td>
+<td>CO</td>
+<td>80030</td>
+<td>3034870620</td>
+</tr>
+<tr>
+<td>USPO - WILEY</td>
+<td>301 MAIN ST</td>
+<td>WILEY</td>
+<td>CO</td>
+<td>81092</td>
+<td>7198294953</td>
+</tr>
+<tr>
+<td>USPO - WINTER PARK</td>
+<td>78490 U.S. HIGHWAY 40</td>
+<td>WINTER PARK</td>
+<td>CO</td>
+<td>80482</td>
+<td>9707266775</td>
+</tr>
+<tr>
+<td>USPO - WOODLAND PARK</td>
+<td>900 TAMARAC PARKWAY</td>
+<td>WOODLAND PARK</td>
+<td>CO</td>
+<td>80863</td>
+<td>7196860240</td>
+</tr>
+<tr>
+<td>USPO - WRAY</td>
+<td>407 WEST 7TH ST.</td>
+<td>WRAY</td>
+<td>CO</td>
+<td>80758</td>
+<td>9703325819</td>
+</tr>
+</tbody>
+</table>

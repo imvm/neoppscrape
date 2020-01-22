@@ -1,0 +1,502 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>BEAVER COUNTY CLERK</td>
+<td>105 EAST CENTER STREET</td>
+<td>BEAVER</td>
+<td>UT</td>
+<td>84713</td>
+<td>4354386463</td>
+</tr>
+<tr>
+<td>BLANDING POST OFFICE</td>
+<td>90 NORTH MAIN ST</td>
+<td>BLANDING</td>
+<td>UT</td>
+<td>84511</td>
+<td>4356782627</td>
+</tr>
+<tr>
+<td>BOUNTIFUL POST OFFICE</td>
+<td>20 S. MAIN STREET</td>
+<td>BOUNTIFUL</td>
+<td>UT</td>
+<td>84010</td>
+<td>8012925754</td>
+</tr>
+<tr>
+<td>BOX ELDER COUNTY CLERK</td>
+<td>1 SOUTH MAIN STREET STE 10</td>
+<td>BRIGHAM CITY</td>
+<td>UT</td>
+<td>84302</td>
+<td>4357343393</td>
+</tr>
+<tr>
+<td>EMERY COUNTY CLERK - AUDITOR</td>
+<td>75 EAST MAIN STREET</td>
+<td>CASTLE DALE</td>
+<td>UT</td>
+<td>84513</td>
+<td>4353813550</td>
+</tr>
+<tr>
+<td>CEDAR CITY POST OFFICE</td>
+<td>333 N. MAIN ST.</td>
+<td>CEDAR CITY</td>
+<td>UT</td>
+<td>84720</td>
+<td>4355866701</td>
+</tr>
+<tr>
+<td>CITY OF CEDAR HILLS</td>
+<td>10246 N CANYON ROAD</td>
+<td>CEDAR HILLS</td>
+<td>UT</td>
+<td>84062</td>
+<td>8017859668</td>
+</tr>
+<tr>
+<td>SUMMIT COUNTY CLERK</td>
+<td>60 N. MAIN STREET</td>
+<td>COALVILLE</td>
+<td>UT</td>
+<td>84017</td>
+<td>4353363204</td>
+</tr>
+<tr>
+<td>DELTA POST OFFICE</td>
+<td>86 S. 300 E.</td>
+<td>DELTA</td>
+<td>UT</td>
+<td>84624</td>
+<td>4358642811</td>
+</tr>
+<tr>
+<td>DRAPER CITY OFFICES</td>
+<td>1020 E. PIONEER RD. STE 10</td>
+<td>DRAPER</td>
+<td>UT</td>
+<td>84020</td>
+<td>8015766548</td>
+</tr>
+<tr>
+<td>DUCHESNE COUNTY CLERK</td>
+<td>734 N. CENTER ST.</td>
+<td>DUCHESNE</td>
+<td>UT</td>
+<td>84021</td>
+<td>4357381103</td>
+</tr>
+<tr>
+<td>EPHRAIM POST OFFICE</td>
+<td>55 EAST 100 NORTH</td>
+<td>EPHRAIM</td>
+<td>UT</td>
+<td>84627</td>
+<td>4352834189</td>
+</tr>
+<tr>
+<td>DAVIS COUNTY CLERK</td>
+<td>61 SOUTH MAIN ST</td>
+<td>FARMINGTON</td>
+<td>UT</td>
+<td>84025</td>
+<td>8014513438</td>
+</tr>
+<tr>
+<td>MILLARD COUNTY CLERK</td>
+<td>765 S. HIGHWAY 99</td>
+<td>FILLMORE</td>
+<td>UT</td>
+<td>84631</td>
+<td>4357436223</td>
+</tr>
+<tr>
+<td>WASATCH COUNTY CLERK/AUDITOR</td>
+<td>25 N. MAIN ST.</td>
+<td>HEBER CITY</td>
+<td>UT</td>
+<td>84032</td>
+<td>4356573190</td>
+</tr>
+<tr>
+<td>HERRIMAN CITY</td>
+<td>5355 WEST HERRIMAN MAIN STREET</td>
+<td>HERRIMAN</td>
+<td>UT</td>
+<td>84096</td>
+<td>8014465323</td>
+</tr>
+<tr>
+<td>HUNTSVILLE MAIN POST OFFICE</td>
+<td>7785 E.  500 S.</td>
+<td>HUNTSVILLE</td>
+<td>UT</td>
+<td>84317</td>
+<td>8017452567</td>
+</tr>
+<tr>
+<td>KANE COUNTY CLERK</td>
+<td>76 NORTH MAIN</td>
+<td>KANAB</td>
+<td>UT</td>
+<td>84741</td>
+<td>4356442458</td>
+</tr>
+<tr>
+<td>LAYTON CITY</td>
+<td>437 N WASATCH DRIVE</td>
+<td>LAYTON</td>
+<td>UT</td>
+<td>84041</td>
+<td> </td>
+</tr>
+<tr>
+<td>LAYTON POST OFFICE</td>
+<td>1123 N. FAIRFIELD RD.</td>
+<td>LAYTON</td>
+<td>UT</td>
+<td>84041</td>
+<td>8015466072</td>
+</tr>
+<tr>
+<td>LEHI CITY HALL</td>
+<td>153 N 100 E</td>
+<td>LEHI</td>
+<td>UT</td>
+<td>84043</td>
+<td>3852011000</td>
+</tr>
+<tr>
+<td>LEHI POST OFFICE</td>
+<td>333 E. MAIN ST.</td>
+<td>LEHI</td>
+<td>UT</td>
+<td>84043</td>
+<td>8017661562</td>
+</tr>
+<tr>
+<td>WAYNE COUNTY COURT</td>
+<td>18 SOUTH MAIN STREET</td>
+<td>LOA</td>
+<td>UT</td>
+<td>84747</td>
+<td>4358362765</td>
+</tr>
+<tr>
+<td>LOGAN MAIN POST OFFICE</td>
+<td>75 WEST  200 NORTH</td>
+<td>LOGAN</td>
+<td>UT</td>
+<td>84321</td>
+<td>4357520413</td>
+</tr>
+<tr>
+<td>UTAH STATE UNIVERSITY CARD OFFICE</td>
+<td>0131 OLD MAIN HILL</td>
+<td>LOGAN</td>
+<td>UT</td>
+<td>84322</td>
+<td>4357973852</td>
+</tr>
+<tr>
+<td>DAGGETT COUNTY CLERK</td>
+<td>95 NORTH 1ST WEST</td>
+<td>MANILA</td>
+<td>UT</td>
+<td>84046</td>
+<td>4357843154</td>
+</tr>
+<tr>
+<td>SANPETE COUNTY CLERK</td>
+<td>160 N MAIN</td>
+<td>MANTI</td>
+<td>UT</td>
+<td>84642</td>
+<td>4358352131</td>
+</tr>
+<tr>
+<td>MOAB POST OFFICE</td>
+<td>50 E. 100 N.</td>
+<td>MOAB</td>
+<td>UT</td>
+<td>84532</td>
+<td>4352597427</td>
+</tr>
+<tr>
+<td>SAN JUAN COUNTY CLERK</td>
+<td>117 SOUTH MAIN ST.</td>
+<td>MONTICELLO</td>
+<td>UT</td>
+<td>84535</td>
+<td>4355873223</td>
+</tr>
+<tr>
+<td>MURRAY CITY HALL</td>
+<td>5025 S STATE ST.</td>
+<td>MURRAY</td>
+<td>UT</td>
+<td>84107</td>
+<td>8012642660</td>
+</tr>
+<tr>
+<td>JUAB COUNTY CLERK - AUDITOR</td>
+<td>160 N. MAIN</td>
+<td>NEPHI</td>
+<td>UT</td>
+<td>84648</td>
+<td>4356233410</td>
+</tr>
+<tr>
+<td>OGDEN MAIN POST OFFICE</td>
+<td>3680 PACIFIC AVE</td>
+<td>OGDEN</td>
+<td>UT</td>
+<td>84401</td>
+<td>8016274521</td>
+</tr>
+<tr>
+<td>WEBER COUNTY CLERK/AUDITOR</td>
+<td>2380 WASHINGTON BLVD</td>
+<td>OGDEN</td>
+<td>UT</td>
+<td>84401</td>
+<td>8013998400</td>
+</tr>
+<tr>
+<td>CITY OF OREM</td>
+<td>56 N. STATE ST.</td>
+<td>OREM</td>
+<td>UT</td>
+<td>84057</td>
+<td>8012297275</td>
+</tr>
+<tr>
+<td>OREM MOUNTAIN SHADOWS POST OFFICE</td>
+<td>877 E. 1200 S.</td>
+<td>OREM</td>
+<td>UT</td>
+<td>84097</td>
+<td>8018027141</td>
+</tr>
+<tr>
+<td>GARFIELD COUNTY COURT CLERK</td>
+<td>55 SOUTH MAIN ST.</td>
+<td>PANGUITCH</td>
+<td>UT</td>
+<td>84759</td>
+<td>4356761100</td>
+</tr>
+<tr>
+<td>PARK CITY MAIN POST OFFICE</td>
+<td>2100 PARK AVENUE</td>
+<td>PARK CITY</td>
+<td>UT</td>
+<td>84060</td>
+<td>4356558037</td>
+</tr>
+<tr>
+<td>IRON COUNTY CLERK</td>
+<td>68 SOUTH 100 EAST</td>
+<td>PAROWAN</td>
+<td>UT</td>
+<td>84761</td>
+<td>4354778340</td>
+</tr>
+<tr>
+<td>CARBON COUNTY CLERK</td>
+<td>751 E 100 N</td>
+<td>PRICE</td>
+<td>UT</td>
+<td>84501</td>
+<td>4356363228</td>
+</tr>
+<tr>
+<td>PRICE POST OFFICE</td>
+<td>95 S. CARBON AVENUE</td>
+<td>PRICE</td>
+<td>UT</td>
+<td>84501</td>
+<td>4356371638</td>
+</tr>
+<tr>
+<td>PROVO CITY</td>
+<td>351 W. CENTER STREET</td>
+<td>PROVO</td>
+<td>UT</td>
+<td>84601</td>
+<td>8018526000</td>
+</tr>
+<tr>
+<td>PROVO EAST BAY STATION</td>
+<td>936 S 250 E</td>
+<td>PROVO</td>
+<td>UT</td>
+<td>84606</td>
+<td>8013562212</td>
+</tr>
+<tr>
+<td>UTAH COUNTY CLERK/AUDITOR</td>
+<td>111 S UNIVERSITY AVE</td>
+<td>PROVO</td>
+<td>UT</td>
+<td>84601</td>
+<td>8018518109</td>
+</tr>
+<tr>
+<td>RICHFIELD POST OFFICE</td>
+<td>93 N. MAIN</td>
+<td>RICHFIELD</td>
+<td>UT</td>
+<td>84701</td>
+<td>4358962078</td>
+</tr>
+<tr>
+<td>SEVIER COUNTY CLERK</td>
+<td>250 N. MAIN ST.</td>
+<td>RICHFIELD</td>
+<td>UT</td>
+<td>84701</td>
+<td>4358930401</td>
+</tr>
+<tr>
+<td>RIVERSIDE UTAH POST OFFICE</td>
+<td>15445 N. 5400 W.</td>
+<td>RIVERSIDE</td>
+<td>UT</td>
+<td>84334</td>
+<td>4354583329</td>
+</tr>
+<tr>
+<td>SALT LAKE CITY MAIN POST OFFICE</td>
+<td>1760 WEST 2100 SOUTH</td>
+<td>SALT LAKE CITY</td>
+<td>UT</td>
+<td>84199</td>
+<td>8019742332</td>
+</tr>
+<tr>
+<td>SALT LAKE CITY PUBLIC LIBRARY</td>
+<td>210 E 400 S</td>
+<td>SALT LAKE CITY</td>
+<td>UT</td>
+<td>84111</td>
+<td>8013228142</td>
+</tr>
+<tr>
+<td>SALT LAKE COUNTY CLERK</td>
+<td>2001 S. STATE ST.</td>
+<td>SALT LAKE CITY</td>
+<td>UT</td>
+<td>84114</td>
+<td>3854687300</td>
+</tr>
+<tr>
+<td>UNIVERSITY OF UTAH LEARNING ABROAD</td>
+<td>200 S. CENTRAL CAMPUS DRIVE</td>
+<td>SALT LAKE CITY</td>
+<td>UT</td>
+<td>84112</td>
+<td>8015815849</td>
+</tr>
+<tr>
+<td>SANDY CITY HALL</td>
+<td>10000 S CENTENNIAL PARKWAY</td>
+<td>SANDY</td>
+<td>UT</td>
+<td>84070</td>
+<td>8015687135</td>
+</tr>
+<tr>
+<td>SANDY POST OFFICE</td>
+<td>8850 SOUTH 700 EAST</td>
+<td>SANDY</td>
+<td>UT</td>
+<td>84070</td>
+<td>8015651946</td>
+</tr>
+<tr>
+<td>SOUTH OGDEN CITY HALL</td>
+<td>3950 ADAMS AVE</td>
+<td>SOUTH OGDEN</td>
+<td>UT</td>
+<td>84403</td>
+<td>8016222700</td>
+</tr>
+<tr>
+<td>SPRINGVILLE CITY CIVIC CENTER</td>
+<td>110 SOUTH MAIN STREET</td>
+<td>SPRINGVILLE</td>
+<td>UT</td>
+<td>84663</td>
+<td>8014892700</td>
+</tr>
+<tr>
+<td>ST GEORGE RED ROCKS POST OFFICE</td>
+<td>1150 E. RIVERSIDE DR.</td>
+<td>ST. GEORGE</td>
+<td>UT</td>
+<td>84790</td>
+<td>4356882850</td>
+</tr>
+<tr>
+<td>WASHINGTON COUNTY CLERK</td>
+<td>197 EAST TABERNACLE</td>
+<td>ST. GEORGE</td>
+<td>UT</td>
+<td>84770</td>
+<td>4356345712</td>
+</tr>
+<tr>
+<td>SYRACUSE CITY RECORDER</td>
+<td>1979 WEST 1900 SOUTH</td>
+<td>SYRACUSE</td>
+<td>UT</td>
+<td>84075</td>
+<td>8018251477</td>
+</tr>
+<tr>
+<td>TOOELE COUNTY CLERK</td>
+<td>47 SOUTH MAIN</td>
+<td>TOOELE</td>
+<td>UT</td>
+<td>84074</td>
+<td>4358433140</td>
+</tr>
+<tr>
+<td>UINTAH COUNTY CLERK - AUDITOR</td>
+<td>147 E. MAIN ST.</td>
+<td>VERNAL</td>
+<td>UT</td>
+<td>84078</td>
+<td>4357815360</td>
+</tr>
+<tr>
+<td>VERNAL POST OFFICE</td>
+<td>67 N. 800 W.</td>
+<td>VERNAL</td>
+<td>UT</td>
+<td>84078</td>
+<td>4357892393</td>
+</tr>
+<tr>
+<td>WEST JORDAN POST OFFICE</td>
+<td>7901 SOUTH 3200 WEST</td>
+<td>WEST JORDAN</td>
+<td>UT</td>
+<td>84088</td>
+<td>8015663186</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,2390 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ADA POST OFFICE</td>
+<td>7125 HEADLEY ST</td>
+<td>ADA</td>
+<td>MI</td>
+<td>49301</td>
+<td>6166761088</td>
+</tr>
+<tr>
+<td>ADRIAN POST OFFICE</td>
+<td>413 E MAUMEE STREET</td>
+<td>ADRIAN</td>
+<td>MI</td>
+<td>49221</td>
+<td>5172633795</td>
+</tr>
+<tr>
+<td>ALBION POST OFFICE</td>
+<td>307 N. SUPERIOR STREET</td>
+<td>ALBION</td>
+<td>MI</td>
+<td>49224</td>
+<td>5176292598</td>
+</tr>
+<tr>
+<td>ALLEGAN COUNTY REGISTER OF DEEDS</td>
+<td>113 CHESTNUT ST</td>
+<td>ALLEGAN</td>
+<td>MI</td>
+<td>49010</td>
+<td>2696730390</td>
+</tr>
+<tr>
+<td>ALMA POST OFFICE</td>
+<td>233 N STATE</td>
+<td>ALMA</td>
+<td>MI</td>
+<td>48801</td>
+<td>9894638311</td>
+</tr>
+<tr>
+<td>ALMONT POST OFFICE</td>
+<td>116 N. MAIN STREET</td>
+<td>ALMONT</td>
+<td>MI</td>
+<td>48003</td>
+<td>8107988839</td>
+</tr>
+<tr>
+<td>ALPENA COUNTY MICHIGAN REGISTER OF DEEDS</td>
+<td>720 W CHISHOLM STREET</td>
+<td>ALPENA</td>
+<td>MI</td>
+<td>49707</td>
+<td>9893549547</td>
+</tr>
+<tr>
+<td>ALPENA POST OFFICE</td>
+<td>350 N. 2ND AVENUE</td>
+<td>ALPENA</td>
+<td>MI</td>
+<td>49707</td>
+<td>9893563873</td>
+</tr>
+<tr>
+<td>ANN ARBOR MAIN PO</td>
+<td>2075 W STADIUM BLVD</td>
+<td>ANN ARBOR</td>
+<td>MI</td>
+<td>48103</td>
+<td>7346620223</td>
+</tr>
+<tr>
+<td>GREEN ROAD POST OFFICE</td>
+<td>3000 GREEN ROAD</td>
+<td>ANN ARBOR</td>
+<td>MI</td>
+<td>48105</td>
+<td>7346622005</td>
+</tr>
+<tr>
+<td>LIBERTY STATION POST OFFICE</td>
+<td>200 E. LIBERTY ST</td>
+<td>ANN ARBOR</td>
+<td>MI</td>
+<td>48104</td>
+<td>7346622009</td>
+</tr>
+<tr>
+<td>WASHTENAW COUNTY CLERK</td>
+<td>200 N MAIN STREET</td>
+<td>ANN ARBOR</td>
+<td>MI</td>
+<td>48104</td>
+<td>7342226730</td>
+</tr>
+<tr>
+<td>ATHENS POST OFFICE</td>
+<td>115 N. CAPITAL AVENUE</td>
+<td>ATHENS</td>
+<td>MI</td>
+<td>49011</td>
+<td>2697295370</td>
+</tr>
+<tr>
+<td>MONTMORENCY COUNTY REGISTER OF DEEDS</td>
+<td>12265 M-32 WEST</td>
+<td>ATLANTA</td>
+<td>MI</td>
+<td>49709</td>
+<td>9897858079</td>
+</tr>
+<tr>
+<td>BAD AXE POST OFFICE</td>
+<td>133 NORTH HANSELMAN STREET</td>
+<td>BAD AXE</td>
+<td>MI</td>
+<td>48413</td>
+<td>9892697251</td>
+</tr>
+<tr>
+<td>BARK RIVER POST OFFICE</td>
+<td>1316 OLD HIGHWAY 2/41</td>
+<td>BARK RIVER</td>
+<td>MI</td>
+<td>49807</td>
+<td>9064669942</td>
+</tr>
+<tr>
+<td>BARODA POST OFFICE</td>
+<td>1368 SOUTH STREET</td>
+<td>BARODA</td>
+<td>MI</td>
+<td>49101</td>
+<td>2694221888</td>
+</tr>
+<tr>
+<td>BARRYTON POST OFFICE</td>
+<td>151 E NORTHERN AVENUE</td>
+<td>BARRYTON</td>
+<td>MI</td>
+<td>49305</td>
+<td>9893825520</td>
+</tr>
+<tr>
+<td>BATTLE CREEK POST OFFICE</td>
+<td>90 S MCCAMLY STREET</td>
+<td>BATTLE CREEK</td>
+<td>MI</td>
+<td>49016</td>
+<td>2699653286</td>
+</tr>
+<tr>
+<td>BAY CITY POST OFFICE</td>
+<td>1000 WASHINGTON AVENUE</td>
+<td>BAY CITY</td>
+<td>MI</td>
+<td>48708</td>
+<td>9898955555</td>
+</tr>
+<tr>
+<td>CITY OF BAY CITY, MI</td>
+<td>301 WASHINGTON AVENUE</td>
+<td>BAY CITY</td>
+<td>MI</td>
+<td>48708</td>
+<td>9898948168</td>
+</tr>
+<tr>
+<td>BELDING POST OFFICE</td>
+<td>201 E. MAIN STREET</td>
+<td>BELDING</td>
+<td>MI</td>
+<td>48809</td>
+<td>6167940230</td>
+</tr>
+<tr>
+<td>ANTRIM COUNTY TREASURER</td>
+<td>203 E. CAYUGA ST.</td>
+<td>BELLAIRE</td>
+<td>MI</td>
+<td>49615</td>
+<td>2315336720</td>
+</tr>
+<tr>
+<td>BELMONT POST OFFICE</td>
+<td>6220 BELMONT AVE</td>
+<td>BELMONT</td>
+<td>MI</td>
+<td>49306</td>
+<td>6163611120</td>
+</tr>
+<tr>
+<td>PLAINFIELD CHARTER TOWNSHIP</td>
+<td>6161 BELMONT AVENUE NE</td>
+<td>BELMONT</td>
+<td>MI</td>
+<td>49306</td>
+<td>6163648466</td>
+</tr>
+<tr>
+<td>BENTON HARBOR POST OFFICE</td>
+<td>525 RIVERVIEW DR</td>
+<td>BENTON HARBOR</td>
+<td>MI</td>
+<td>49022</td>
+<td>2699268227</td>
+</tr>
+<tr>
+<td>BERRIEN SPRINGS POST OFFICE</td>
+<td>115 N MAIN ST</td>
+<td>BERRIEN SPRINGS</td>
+<td>MI</td>
+<td>49103</td>
+<td>2694733031</td>
+</tr>
+<tr>
+<td>GOGEBIC COUNTY REGISTER OF DEEDS OFFICE</td>
+<td>200 N MOORE STREET</td>
+<td>BESSEMER</td>
+<td>MI</td>
+<td>49911</td>
+<td>9066670381</td>
+</tr>
+<tr>
+<td>BENZIE COUNTY REGISTER OF DEEDS</td>
+<td>448 COURT PLACE</td>
+<td>BEULAH</td>
+<td>MI</td>
+<td>49617</td>
+<td>2318820016</td>
+</tr>
+<tr>
+<td>VILLAGE OF BEVERLY HILLS</td>
+<td>18500 W 13 MILE ROAD</td>
+<td>BEVERLY HILLS</td>
+<td>MI</td>
+<td>48025</td>
+<td>2486466404</td>
+</tr>
+<tr>
+<td>DIVISION STREET STATION</td>
+<td>826 DIVISION STREET</td>
+<td>BIG RAPIDS</td>
+<td>MI</td>
+<td>49307</td>
+<td>2315921498</td>
+</tr>
+<tr>
+<td>MECOSTA COUNTY REGISTER OF DEEDS</td>
+<td>400 ELM ST.</td>
+<td>BIG RAPIDS</td>
+<td>MI</td>
+<td>49307</td>
+<td>2315920148</td>
+</tr>
+<tr>
+<td>BIRMINGHAM POST OFFICE</td>
+<td>1221 BOWERS STREET</td>
+<td>BIRMINGHAM</td>
+<td>MI</td>
+<td>48012</td>
+<td>2486460723</td>
+</tr>
+<tr>
+<td>CITY OF BIRMINGHAM CLERKS OFFICE</td>
+<td>151 MARTIN STREET</td>
+<td>BIRMINGHAM</td>
+<td>MI</td>
+<td>48009</td>
+<td>2485301880</td>
+</tr>
+<tr>
+<td>BLOOMFIELD HILLS POST OFFICE</td>
+<td>2050 SOUTH BLVD</td>
+<td>BLOOMFIELD HILLS</td>
+<td>MI</td>
+<td>48304</td>
+<td>2483323981</td>
+</tr>
+<tr>
+<td>BLOOMFIELD HILLS TOWNSQUARE</td>
+<td>2211 S TELEGRAPH RD</td>
+<td>BLOOMFIELD HILLS</td>
+<td>MI</td>
+<td>48302</td>
+<td>2483326870</td>
+</tr>
+<tr>
+<td>BLOOMFIELD TOWNSHIP</td>
+<td>4200 TELEGRAPH ROAD</td>
+<td>BLOOMFIELD HILLS</td>
+<td>MI</td>
+<td>48302</td>
+<td>2484337702</td>
+</tr>
+<tr>
+<td>BOYNE CITY POST OFFICE</td>
+<td>301 WATER STREET</td>
+<td>BOYNE CITY</td>
+<td>MI</td>
+<td>49712</td>
+<td>2315829941</td>
+</tr>
+<tr>
+<td>BRIGHTON POST OFFICE</td>
+<td>100 CHARLES H ORNDORF DRIVE</td>
+<td>BRIGHTON</td>
+<td>MI</td>
+<td>48116</td>
+<td>8102291698</td>
+</tr>
+<tr>
+<td>GREEN OAK CHARTER TOWNSHIP</td>
+<td>10001 SILVER LAKE ROAD</td>
+<td>BRIGHTON</td>
+<td>MI</td>
+<td>48116</td>
+<td>8102311333</td>
+</tr>
+<tr>
+<td>BRONSON POST OFFICE</td>
+<td>220 E. CHICAGO STREET</td>
+<td>BRONSON</td>
+<td>MI</td>
+<td>49028</td>
+<td>5173695135</td>
+</tr>
+<tr>
+<td>BROOKLYN POST OFFICE</td>
+<td>235 N. MAIN STREET</td>
+<td>BROOKLYN</td>
+<td>MI</td>
+<td>49230</td>
+<td>5175924209</td>
+</tr>
+<tr>
+<td>CHARTER TOWNSHIP OF BROWNSTOWN</td>
+<td>21313 TELEGRAPH ROAD</td>
+<td>BROWNSTOWN</td>
+<td>MI</td>
+<td>48183</td>
+<td>7346750910</td>
+</tr>
+<tr>
+<td>BURNIPS POST OFFICE</td>
+<td>4273 30TH STREET</td>
+<td>BURNIPS</td>
+<td>MI</td>
+<td>49314</td>
+<td>6168968286</td>
+</tr>
+<tr>
+<td>BYRON CENTER POST OFFICE</td>
+<td>8350 BYRON CENTER AVENUE SW</td>
+<td>BYRON CENTER</td>
+<td>MI</td>
+<td>49315</td>
+<td>6168781796</td>
+</tr>
+<tr>
+<td>CADILLAC POST OFFICE</td>
+<td>118 E HARRIS STREET</td>
+<td>CADILLAC</td>
+<td>MI</td>
+<td>49601</td>
+<td>2317756519</td>
+</tr>
+<tr>
+<td>WEXFORD COUNTY REGISTER OF DEEDS</td>
+<td>437 E. DIVISION STREET</td>
+<td>CADILLAC</td>
+<td>MI</td>
+<td>49601</td>
+<td>2317799455</td>
+</tr>
+<tr>
+<td>CALEDONIA POST OFFICE</td>
+<td>9339 CHERRY VALLEY AVE SE</td>
+<td>CALEDONIA</td>
+<td>MI</td>
+<td>49316</td>
+<td>6168919524</td>
+</tr>
+<tr>
+<td>CANTON POST OFFICE</td>
+<td>480 NORTH CANTON CENTER RD</td>
+<td>CANTON</td>
+<td>MI</td>
+<td>48187</td>
+<td>7348440590</td>
+</tr>
+<tr>
+<td>CAPAC POST OFFICE</td>
+<td>102 W. MILL ST.</td>
+<td>CAPAC</td>
+<td>MI</td>
+<td>48014</td>
+<td>8103957090</td>
+</tr>
+<tr>
+<td>CARLETON POST OFFICE</td>
+<td>12840 GRAFTON ROAD</td>
+<td>CARLETON</td>
+<td>MI</td>
+<td>48117</td>
+<td>7346543656</td>
+</tr>
+<tr>
+<td>CARO POST OFFICE</td>
+<td>210 LINCOLN STREET</td>
+<td>CARO</td>
+<td>MI</td>
+<td>48723</td>
+<td>9896733104</td>
+</tr>
+<tr>
+<td>CASEVILLE TOWNSHIP</td>
+<td>6767 MAIN STREET</td>
+<td>CASEVILLE</td>
+<td>MI</td>
+<td>48725</td>
+<td>9898563053</td>
+</tr>
+<tr>
+<td>VILLAGE OF CASS CITY</td>
+<td>6506 MAIN STREET</td>
+<td>CASS CITY</td>
+<td>MI</td>
+<td>48726</td>
+<td>9898722911</td>
+</tr>
+<tr>
+<td>CEDAR SPRINGS POST OFFICE</td>
+<td>36 E. CHERRY ST</td>
+<td>CEDAR SPRINGS</td>
+<td>MI</td>
+<td>49319</td>
+<td>6166961230</td>
+</tr>
+<tr>
+<td>CENTER LINE POST OFFICE</td>
+<td>26056 VAN DYKE AVENUE</td>
+<td>CENTER LINE</td>
+<td>MI</td>
+<td>48015</td>
+<td>5868349994</td>
+</tr>
+<tr>
+<td>ST. JOSEPH COUNTY REGISTER OF DEEDS</td>
+<td>125 W. MAIN ST</td>
+<td>CENTREVILLE</td>
+<td>MI</td>
+<td>49032</td>
+<td>2694675553</td>
+</tr>
+<tr>
+<td>CHARLEVOIX POST OFFICE</td>
+<td>6700 M 66 HWY N</td>
+<td>CHARLEVOIX</td>
+<td>MI</td>
+<td>49720</td>
+<td>2315472631</td>
+</tr>
+<tr>
+<td>CHARLOTTE POST OFFICE</td>
+<td>117 W LOVETT ST</td>
+<td>CHARLOTTE</td>
+<td>MI</td>
+<td>48813</td>
+<td>5175430170</td>
+</tr>
+<tr>
+<td>EATON COUNTY REGISTER OF DEEDS</td>
+<td>1045 INDEPENDENCE BLVD</td>
+<td>CHARLOTTE</td>
+<td>MI</td>
+<td>48813</td>
+<td>5175434203</td>
+</tr>
+<tr>
+<td>CHEBOYGAN POST OFFICE</td>
+<td>200 N MAIN ST</td>
+<td>CHEBOYGAN</td>
+<td>MI</td>
+<td>49721</td>
+<td>2316279898</td>
+</tr>
+<tr>
+<td>CHELSEA POST OFFICE</td>
+<td>1101 SOUTH MAIN STREET</td>
+<td>CHELSEA</td>
+<td>MI</td>
+<td>48118</td>
+<td>7344758483</td>
+</tr>
+<tr>
+<td>CHESANING POST OFFICE</td>
+<td>230 E BROAD ST</td>
+<td>CHESANING</td>
+<td>MI</td>
+<td>48616</td>
+<td>9898453100</td>
+</tr>
+<tr>
+<td>CHESTERFIELD  TOWNSHIP</td>
+<td>47275 SUGARBUSH</td>
+<td>CHESTERFIELD TOWNSHIP</td>
+<td>MI</td>
+<td>48047</td>
+<td>5869490400</td>
+</tr>
+<tr>
+<td>CLARE POST OFFICE</td>
+<td>111 W. 5TH STREET</td>
+<td>CLARE</td>
+<td>MI</td>
+<td>48617</td>
+<td>9893867682</td>
+</tr>
+<tr>
+<td>CLARKSTON POSTAL STORE</td>
+<td>5799 S. MAIN STREET</td>
+<td>CLARKSTON</td>
+<td>MI</td>
+<td>48347</td>
+<td>2486250648</td>
+</tr>
+<tr>
+<td>CHARTER TOWNSHIP OF CLINTON</td>
+<td>40700 ROMEO PLANK ROAD</td>
+<td>CLINTON TOWNSHIP</td>
+<td>MI</td>
+<td>48038</td>
+<td>5862869422</td>
+</tr>
+<tr>
+<td>CLIO POST OFFICE</td>
+<td>800 S. MILL STREET</td>
+<td>CLIO</td>
+<td>MI</td>
+<td>48420</td>
+<td>8106860810</td>
+</tr>
+<tr>
+<td>COLDWATER POST OFFICE</td>
+<td>100 W. PEARL ST.</td>
+<td>COLDWATER</td>
+<td>MI</td>
+<td>49036</td>
+<td>5172782632</td>
+</tr>
+<tr>
+<td>COLON POST OFFICE</td>
+<td>123 S BLACKSTONE AVE</td>
+<td>COLON</td>
+<td>MI</td>
+<td>49040</td>
+<td>2694323775</td>
+</tr>
+<tr>
+<td>ALPINE TOWNSHIP</td>
+<td>5255 ALPINE AVE NW</td>
+<td>COMSTOCK PARK</td>
+<td>MI</td>
+<td>49321</td>
+<td>6167841262</td>
+</tr>
+<tr>
+<td>COOPERSVILLE POST OFFICE</td>
+<td>314 CENTER ST</td>
+<td>COOPERSVILLE</td>
+<td>MI</td>
+<td>49404</td>
+<td>6168377383</td>
+</tr>
+<tr>
+<td>SHIAWASSEE COUNTY  CIRCUIT COURT</td>
+<td>208 NORTH SHIAWASSEE STREET</td>
+<td>CORUNNA</td>
+<td>MI</td>
+<td>48817</td>
+<td>9897432262</td>
+</tr>
+<tr>
+<td>CROSWELL POST OFFICE</td>
+<td>104 N. HOWARD AVENUE</td>
+<td>CROSWELL</td>
+<td>MI</td>
+<td>48422</td>
+<td>8105469062</td>
+</tr>
+<tr>
+<td>CRYSTAL FALLS POST OFFICE</td>
+<td>501 SUPERIOR AVE</td>
+<td>CRYSTAL FALLS</td>
+<td>MI</td>
+<td>49920</td>
+<td>9068754472</td>
+</tr>
+<tr>
+<td>DAVISON POST OFFICE</td>
+<td>10290 DAVISON ROAD</td>
+<td>DAVISON</td>
+<td>MI</td>
+<td>48423</td>
+<td>8106532424</td>
+</tr>
+<tr>
+<td>DEARBORN POST OFFICE</td>
+<td>3800 GREENFIELD ROAD</td>
+<td>DEARBORN</td>
+<td>MI</td>
+<td>48120</td>
+<td>3133374700</td>
+</tr>
+<tr>
+<td>DEARBORN HEIGHTS POST OFFICE</td>
+<td>26200 FORD ROAD</td>
+<td>DEARBORN HEIGHTS</td>
+<td>MI</td>
+<td>48127</td>
+<td>3132030328</td>
+</tr>
+<tr>
+<td>DELTON POST OFFICE</td>
+<td>10155 S M 43</td>
+<td>DELTON</td>
+<td>MI</td>
+<td>49046</td>
+<td>2696235255</td>
+</tr>
+<tr>
+<td>GWY - DETROIT MAIN POST OFFICE</td>
+<td>1401 W. FORT STREET</td>
+<td>DETROIT</td>
+<td>MI</td>
+<td>48233</td>
+<td>3132268075</td>
+</tr>
+<tr>
+<td>SPRINGWELLS POST OFFICE</td>
+<td>1901 SPRINGWELLS STREET</td>
+<td>DETROIT</td>
+<td>MI</td>
+<td>48209</td>
+<td>3138430745</td>
+</tr>
+<tr>
+<td>DOWLING POST OFFICE</td>
+<td>8599 S M37 HIGHWAY</td>
+<td>DOWLING</td>
+<td>MI</td>
+<td>49050</td>
+<td>2697213440</td>
+</tr>
+<tr>
+<td>EAST JORDAN POST OFFICE</td>
+<td>103 2ND STREET</td>
+<td>EAST JORDAN</td>
+<td>MI</td>
+<td>49727</td>
+<td>2315367311</td>
+</tr>
+<tr>
+<td>EAST LANSING POST OFFICE</td>
+<td>1140 ABBOTT ROAD</td>
+<td>EAST LANSING</td>
+<td>MI</td>
+<td>48823</td>
+<td>5173511024</td>
+</tr>
+<tr>
+<td>MICHIGAN STATE UNIVERSITY -MAIN LIBRARY</td>
+<td>366 WEST CIRCLE DRIVE</td>
+<td>EAST LANSING</td>
+<td>MI</td>
+<td>48824</td>
+<td>5178840843</td>
+</tr>
+<tr>
+<td>EAU CLAIRE DISTRICT LIBRARY</td>
+<td>6528 E. MAIN STREET</td>
+<td>EAU CLAIRE</td>
+<td>MI</td>
+<td>49111</td>
+<td>2694616241</td>
+</tr>
+<tr>
+<td>EMMETT POST OFFICE</td>
+<td>3120 MAIN STREET</td>
+<td>EMMETT</td>
+<td>MI</td>
+<td>48022</td>
+<td>8103841720</td>
+</tr>
+<tr>
+<td>DELTA COUNTY REGISTER OF DEEDS</td>
+<td>310 LUDINGTON STREET</td>
+<td>ESCANABA</td>
+<td>MI</td>
+<td>49829</td>
+<td>9067895116</td>
+</tr>
+<tr>
+<td>ESCANABA POST OFFICE</td>
+<td>2525 1ST AVENUE NORTH</td>
+<td>ESCANABA</td>
+<td>MI</td>
+<td>49829</td>
+<td>9067860652</td>
+</tr>
+<tr>
+<td>FAIR HAVEN POST OFFICE</td>
+<td>8680 DIXIE HIGHWAY</td>
+<td>FAIR HAVEN</td>
+<td>MI</td>
+<td>48023</td>
+<td>5867259674</td>
+</tr>
+<tr>
+<td>CITY OF FARMINGTON HILLS</td>
+<td>31555 W.ELEVEN MILE ROAD</td>
+<td>FARMINGTON HILLS</td>
+<td>MI</td>
+<td>48336</td>
+<td>2488712449</td>
+</tr>
+<tr>
+<td>FARMINGTON HILLS POST OFFICE</td>
+<td>32455 WEST 12 MILE RD</td>
+<td>FARMINGTON HILLS</td>
+<td>MI</td>
+<td>48333</td>
+<td>2483243485</td>
+</tr>
+<tr>
+<td>FENTON POST OFFICE</td>
+<td>210 S. LEROY STREET</td>
+<td>FENTON</td>
+<td>MI</td>
+<td>48430</td>
+<td>8106296813</td>
+</tr>
+<tr>
+<td>TYRONE TOWNSHIP</td>
+<td>8420 RUNYAN LAKE RD</td>
+<td>FENTON</td>
+<td>MI</td>
+<td>48430</td>
+<td>8106298631</td>
+</tr>
+<tr>
+<td>CITY OF FLAT ROCK</td>
+<td>25500 GIBRALTAR ROAD</td>
+<td>FLAT ROCK</td>
+<td>MI</td>
+<td>48134</td>
+<td>7347822455</td>
+</tr>
+<tr>
+<td>FLAT ROCK POST OFFICE</td>
+<td>26216 GIBRALTAR RD</td>
+<td>FLAT ROCK</td>
+<td>MI</td>
+<td>48134</td>
+<td>7347830506</td>
+</tr>
+<tr>
+<td>FLINT MAIN POST OFFICE</td>
+<td>250 E. BOULEVARD DRIVE</td>
+<td>FLINT</td>
+<td>MI</td>
+<td>48502</td>
+<td>8102571526</td>
+</tr>
+<tr>
+<td>FLUSHING POST OFFICE</td>
+<td>127 S. CHERRY STREET</td>
+<td>FLUSHING</td>
+<td>MI</td>
+<td>48433</td>
+<td>8106596473</td>
+</tr>
+<tr>
+<td>FORT GRATIOT CHARTER TOWNSHIP</td>
+<td>3720 KEEWAHDIN ROAD</td>
+<td>FORT GRATIOT</td>
+<td>MI</td>
+<td>48059</td>
+<td>8103854489</td>
+</tr>
+<tr>
+<td>FRANKENMUTH POST OFFICE</td>
+<td>119 N MAIN ST</td>
+<td>FRANKENMUTH</td>
+<td>MI</td>
+<td>48734</td>
+<td>9896526751</td>
+</tr>
+<tr>
+<td>FRASER POST OFFICE</td>
+<td>16925 MASONIC BLVD</td>
+<td>FRASER</td>
+<td>MI</td>
+<td>48026</td>
+<td>5868594842</td>
+</tr>
+<tr>
+<td>FREMONT POST OFFICE</td>
+<td>19 S. DIVISION AVE</td>
+<td>FREMONT</td>
+<td>MI</td>
+<td>49412</td>
+<td>2319244820</td>
+</tr>
+<tr>
+<td>GAYLORD POST OFFICE</td>
+<td>289 W. COMMERCE BLVD</td>
+<td>GAYLORD</td>
+<td>MI</td>
+<td>49735</td>
+<td>9897326800</td>
+</tr>
+<tr>
+<td>GLADSTONE POST OFFICE</td>
+<td>1003 DELTA AVENUE</td>
+<td>GLADSTONE</td>
+<td>MI</td>
+<td>49837</td>
+<td>9064283505</td>
+</tr>
+<tr>
+<td>GLADWIN COUNTY CLERK 55TH CIRCUIT COURT</td>
+<td>401 W CEDAR AVE</td>
+<td>GLADWIN</td>
+<td>MI</td>
+<td>48624</td>
+<td>9894267351</td>
+</tr>
+<tr>
+<td>GOBLES POST OFFICE</td>
+<td>106 E EXCHANGE STREET</td>
+<td>GOBLES</td>
+<td>MI</td>
+<td>49055</td>
+<td>2696282931</td>
+</tr>
+<tr>
+<td>GOODELLS POST OFFICE</td>
+<td>2585 GOODELLS ROAD</td>
+<td>GOODELLS</td>
+<td>MI</td>
+<td>48027</td>
+<td>8103251650</td>
+</tr>
+<tr>
+<td>GOODRICH POST OFFICE</td>
+<td>8283 S. STATE ROAD</td>
+<td>GOODRICH</td>
+<td>MI</td>
+<td>48438</td>
+<td>8106367933</td>
+</tr>
+<tr>
+<td>GRAND BLANC POST OFFICE</td>
+<td>11426 DAVIS STREET</td>
+<td>GRAND BLANC</td>
+<td>MI</td>
+<td>48480</td>
+<td>8108669458</td>
+</tr>
+<tr>
+<td>GRAND HAVEN POST OFFICE</td>
+<td>324 WASHINGTON AVENUE</td>
+<td>GRAND HAVEN</td>
+<td>MI</td>
+<td>49417</td>
+<td>6168420510</td>
+</tr>
+<tr>
+<td>CASCADE CHARTER TOWNSHIP</td>
+<td>2865 THORNHILLS AVE. SE</td>
+<td>GRAND RAPIDS</td>
+<td>MI</td>
+<td>49546</td>
+<td>6169491508</td>
+</tr>
+<tr>
+<td>CITY OF WALKER</td>
+<td>4243 REMEMBRANCE ROAD</td>
+<td>GRAND RAPIDS</td>
+<td>MI</td>
+<td>49534</td>
+<td>6167916865</td>
+</tr>
+<tr>
+<td>GRAND RAPIDS CITY CLERKS OFFICE</td>
+<td>300 MONROE AVE  NW</td>
+<td>GRAND RAPIDS</td>
+<td>MI</td>
+<td>49503</td>
+<td>6164563010</td>
+</tr>
+<tr>
+<td>GRAND RAPIDS MAIN POST OFFICE</td>
+<td>225 MICHIGAN ST NW</td>
+<td>GRAND RAPIDS</td>
+<td>MI</td>
+<td>49501</td>
+<td>6167761577</td>
+</tr>
+<tr>
+<td>NORTHWEST STATION</td>
+<td>1625 WALKER AVE NW</td>
+<td>GRAND RAPIDS</td>
+<td>MI</td>
+<td>49504</td>
+<td>6167914005</td>
+</tr>
+<tr>
+<td>GRANDVILLE CITY HALL</td>
+<td>3195 WILSON AVENUE SW</td>
+<td>GRANDVILLE</td>
+<td>MI</td>
+<td>49418</td>
+<td>6165313030</td>
+</tr>
+<tr>
+<td>CRAWFORD COUNTY</td>
+<td>200 W MICHIGAN AVE</td>
+<td>GRAYLING</td>
+<td>MI</td>
+<td>49738</td>
+<td>9893443203</td>
+</tr>
+<tr>
+<td>GRAYLING POST OFFICE</td>
+<td>300 E. MICHIGAN AVENUE</td>
+<td>GRAYLING</td>
+<td>MI</td>
+<td>49738</td>
+<td>9893484591</td>
+</tr>
+<tr>
+<td>GREENVILLE POST OFFICE</td>
+<td>119 W CASS STREET</td>
+<td>GREENVILLE</td>
+<td>MI</td>
+<td>48838</td>
+<td>6167548732</td>
+</tr>
+<tr>
+<td>GROSSE ILE TOWNSHIP</td>
+<td>9601 GROH ROAD</td>
+<td>GROSSE ILE TOWNSHIP</td>
+<td>MI</td>
+<td>48138</td>
+<td>7346764422</td>
+</tr>
+<tr>
+<td>GROSSE POINTE BRANCH</td>
+<td>18640 MACK AVENUE</td>
+<td>GROSSE POINTE FARMS</td>
+<td>MI</td>
+<td>48236</td>
+<td>3132646059</td>
+</tr>
+<tr>
+<td>CITY OF GROSSE POINTE WOODS</td>
+<td>20025 MACK PLAZA DRIVE</td>
+<td>GROSSE POINTE WOODS</td>
+<td>MI</td>
+<td>48236</td>
+<td>3133432604</td>
+</tr>
+<tr>
+<td>HALE POST OFFICE</td>
+<td>121 E MAIN ST</td>
+<td>HALE</td>
+<td>MI</td>
+<td>48739</td>
+<td>9897284401</td>
+</tr>
+<tr>
+<td>HAMTRAMCK POST OFFICE</td>
+<td>2933 CANIFF STREET</td>
+<td>HAMTRAMCK</td>
+<td>MI</td>
+<td>48212</td>
+<td>3138263334</td>
+</tr>
+<tr>
+<td>HARBOR SPRINGS POST OFFICE</td>
+<td>250 STATE STREET</td>
+<td>HARBOR SPRINGS</td>
+<td>MI</td>
+<td>49740</td>
+<td>2315262521</td>
+</tr>
+<tr>
+<td>HARRISON POST OFFICE</td>
+<td>191 S. 1ST STREET</td>
+<td>HARRISON</td>
+<td>MI</td>
+<td>48625</td>
+<td>9895397433</td>
+</tr>
+<tr>
+<td>CHARTER TOWNSHIP OF HARRISON</td>
+<td>38151 LANSE CREUSE</td>
+<td>HARRISON TOWNSHIP</td>
+<td>MI</td>
+<td>48045</td>
+<td>5864661404</td>
+</tr>
+<tr>
+<td>ALCONA COUNTY REGISTER OF DEEDS</td>
+<td>106 FIFTH STREET</td>
+<td>HARRISVILLE</td>
+<td>MI</td>
+<td>48740</td>
+<td>9897249450</td>
+</tr>
+<tr>
+<td>HART POST OFFICE</td>
+<td>135 S. STATE STREET</td>
+<td>HART</td>
+<td>MI</td>
+<td>49420</td>
+<td>2318732850</td>
+</tr>
+<tr>
+<td>HARTLAND TOWNSHIP</td>
+<td>2655 CLARK ROAD</td>
+<td>HARTLAND</td>
+<td>MI</td>
+<td>48353</td>
+<td>8106327498</td>
+</tr>
+<tr>
+<td>HAZEL PARK POST OFFICE</td>
+<td>23200 JOHN R ROAD</td>
+<td>HAZEL PARK</td>
+<td>MI</td>
+<td>48030</td>
+<td>2485424227</td>
+</tr>
+<tr>
+<td>HIGHLAND POST OFFICE</td>
+<td>376 BEACH FARM CIRCLE</td>
+<td>HIGHLAND</td>
+<td>MI</td>
+<td>48356</td>
+<td>2487756963</td>
+</tr>
+<tr>
+<td>HILLSDALE POST OFFICE</td>
+<td>99 N. BROAD STREET</td>
+<td>HILLSDALE</td>
+<td>MI</td>
+<td>49242</td>
+<td>5174371251</td>
+</tr>
+<tr>
+<td>HOLLAND CITY HALL</td>
+<td>270 SOUTH RIVER AVE</td>
+<td>HOLLAND</td>
+<td>MI</td>
+<td>49423</td>
+<td>6163551301</td>
+</tr>
+<tr>
+<td>HOLLAND POST OFFICE</td>
+<td>190 E. 8TH STREET</td>
+<td>HOLLAND</td>
+<td>MI</td>
+<td>49423</td>
+<td>6163965201</td>
+</tr>
+<tr>
+<td>DELHI CHARTER TOWNSHIP</td>
+<td>2074 AURELIUS ROAD</td>
+<td>HOLT</td>
+<td>MI</td>
+<td>48842</td>
+<td>5176942135</td>
+</tr>
+<tr>
+<td>HORTON POST OFFICE</td>
+<td>220 MAIN ST.</td>
+<td>HORTON</td>
+<td>MI</td>
+<td>49246</td>
+<td>5175632014</td>
+</tr>
+<tr>
+<td>HOUGHTON COUNTY REGISTER OF DEEDS OFFICE</td>
+<td>401 E HOUGHTON AVE</td>
+<td>HOUGHTON</td>
+<td>MI</td>
+<td>49931</td>
+<td>9064821311</td>
+</tr>
+<tr>
+<td>HOUGHTON POST OFFICE</td>
+<td>701 SHELDEN AVENUE</td>
+<td>HOUGHTON</td>
+<td>MI</td>
+<td>49931</td>
+<td>8002758777</td>
+</tr>
+<tr>
+<td>HOWELL POST OFFICE</td>
+<td>325 S. MICHIGAN AVENUE</td>
+<td>HOWELL</td>
+<td>MI</td>
+<td>48843</td>
+<td>5175462582</td>
+</tr>
+<tr>
+<td>HUDSONVILLE POST OFFICE</td>
+<td>3333 CENTRAL BLVD</td>
+<td>HUDSONVILLE</td>
+<td>MI</td>
+<td>49426</td>
+<td>6166699456</td>
+</tr>
+<tr>
+<td>IMLAY CITY POST OFFICE</td>
+<td>310  E. THIRD STREET</td>
+<td>IMLAY CITY</td>
+<td>MI</td>
+<td>48444</td>
+<td>8107247545</td>
+</tr>
+<tr>
+<td>IONIA POST OFFICE</td>
+<td>117 N KIDD ST</td>
+<td>IONIA</td>
+<td>MI</td>
+<td>48846</td>
+<td>6165273370</td>
+</tr>
+<tr>
+<td>DICKINSON COUNTY TREASURERS OFFICE</td>
+<td>705 S. STEPHENSON AVE</td>
+<td>IRON MOUNTAIN</td>
+<td>MI</td>
+<td>49801</td>
+<td>9067748130</td>
+</tr>
+<tr>
+<td>IRON MOUNTAIN POST OFFICE</td>
+<td>101 W. LUDINGTON STREET</td>
+<td>IRON MOUNTAIN</td>
+<td>MI</td>
+<td>49801</td>
+<td>9067762047</td>
+</tr>
+<tr>
+<td>IRON RIVER POST OFFICE</td>
+<td>425 W. GENESEE STREET</td>
+<td>IRON RIVER</td>
+<td>MI</td>
+<td>49935</td>
+<td>9062656441</td>
+</tr>
+<tr>
+<td>CITY OF IRONWOOD</td>
+<td>213 S MARQUETTE STREET</td>
+<td>IRONWOOD</td>
+<td>MI</td>
+<td>49938</td>
+<td>9069325050</td>
+</tr>
+<tr>
+<td>ISHPEMING POST OFFICE</td>
+<td>211 N. 2ND STREET</td>
+<td>ISHPEMING</td>
+<td>MI</td>
+<td>49849</td>
+<td>9064866161</td>
+</tr>
+<tr>
+<td>GRATIOT COUNTY REGISTER OF DEEDS</td>
+<td>214 E CENTER STREET</td>
+<td>ITHACA</td>
+<td>MI</td>
+<td>48847</td>
+<td>9898755217</td>
+</tr>
+<tr>
+<td>JACKSON COUNTY TREASURER</td>
+<td>120 W. MICHIGAN AVE</td>
+<td>JACKSON</td>
+<td>MI</td>
+<td>49201</td>
+<td>5177884418</td>
+</tr>
+<tr>
+<td>JACKSON POST OFFICE</td>
+<td>113 W. MICHIGAN AVENUE</td>
+<td>JACKSON</td>
+<td>MI</td>
+<td>49201</td>
+<td>5177680611</td>
+</tr>
+<tr>
+<td>JENISON POST OFFICE</td>
+<td>408 CHICAGO DR</td>
+<td>JENISON</td>
+<td>MI</td>
+<td>49428</td>
+<td>6164572600</td>
+</tr>
+<tr>
+<td>JONESVILLE POST OFFICE</td>
+<td>114 MAUMEE STREET</td>
+<td>JONESVILLE</td>
+<td>MI</td>
+<td>49250</td>
+<td>5178499062</td>
+</tr>
+<tr>
+<td>CHARTER TOWNSHIP OF KALAMAZOO</td>
+<td>1720 RIVERVIEW DRIVE</td>
+<td>KALAMAZOO</td>
+<td>MI</td>
+<td>49004</td>
+<td>2693818080</td>
+</tr>
+<tr>
+<td>CHARTER TOWNSHIP OF TEXAS</td>
+<td>7110 W Q AVENUE</td>
+<td>KALAMAZOO</td>
+<td>MI</td>
+<td>49009</td>
+<td>2693751591</td>
+</tr>
+<tr>
+<td>HAENICKE INSTITUTE FOR GLOBAL EDUCATION</td>
+<td>WESTERN MICHIGAN UNIVERSITY</td>
+<td>KALAMAZOO</td>
+<td>MI</td>
+<td>49008</td>
+<td>2693875890</td>
+</tr>
+<tr>
+<td>KALAMAZOO POST OFFICE</td>
+<td>1121 MILLER ROAD</td>
+<td>KALAMAZOO</td>
+<td>MI</td>
+<td>49001</td>
+<td>2693887228</td>
+</tr>
+<tr>
+<td>OSHTEMO POST OFFICE</td>
+<td>3885 S. 9TH STREET</td>
+<td>KALAMAZOO</td>
+<td>MI</td>
+<td>49009</td>
+<td>2693535005</td>
+</tr>
+<tr>
+<td>WESTWOOD BRANCH POST OFFICE</td>
+<td>167 N DRAKE RD</td>
+<td>KALAMAZOO</td>
+<td>MI</td>
+<td>49009</td>
+<td>2693437425</td>
+</tr>
+<tr>
+<td>KALKASKA COUNTY REGISTER OF DEEDS</td>
+<td>605 N. BIRCH STREET</td>
+<td>KALKASKA</td>
+<td>MI</td>
+<td>49646</td>
+<td>2312583315</td>
+</tr>
+<tr>
+<td>CITY OF KENTWOOD</td>
+<td>4900 BRETON AVE SE</td>
+<td>KENTWOOD</td>
+<td>MI</td>
+<td>49508</td>
+<td>6166989610</td>
+</tr>
+<tr>
+<td>TORCH LAKE TOWNSHIP</td>
+<td>2355 NORTH US 31 HWY</td>
+<td>KEWADIN</td>
+<td>MI</td>
+<td>49648</td>
+<td>2315992036</td>
+</tr>
+<tr>
+<td>MISSAUKEE COUNTY TREASURER</td>
+<td>111 S. CANAL ST</td>
+<td>LAKE CITY</td>
+<td>MI</td>
+<td>49651</td>
+<td>2318394967</td>
+</tr>
+<tr>
+<td>LAKE ORION POST OFFICE</td>
+<td>611 N. AXFORD STREET</td>
+<td>LAKE ORION</td>
+<td>MI</td>
+<td>48361</td>
+<td>2486933253</td>
+</tr>
+<tr>
+<td>BARAGA COUNTY TREASURER</td>
+<td>2 S. MAIN STREET</td>
+<td>LANSE</td>
+<td>MI</td>
+<td>49946</td>
+<td>9065246100</td>
+</tr>
+<tr>
+<td>DELTA TOWNSHIP</td>
+<td>7710 W. SAGINAW HWY</td>
+<td>LANSING</td>
+<td>MI</td>
+<td>48917</td>
+<td>5173238500</td>
+</tr>
+<tr>
+<td>LANSING CITY CLERKS OFFICE</td>
+<td>124 W. MICHIGAN AVE.</td>
+<td>LANSING</td>
+<td>MI</td>
+<td>48933</td>
+<td>5174834131</td>
+</tr>
+<tr>
+<td>LAPEER POST OFFICE</td>
+<td>567 W. NEPESSING STREET</td>
+<td>LAPEER</td>
+<td>MI</td>
+<td>48446</td>
+<td>8106647061</td>
+</tr>
+<tr>
+<td>LAWTON POST OFFICE</td>
+<td>210 S. MAIN STREET</td>
+<td>LAWTON</td>
+<td>MI</td>
+<td>49065</td>
+<td>2696243601</td>
+</tr>
+<tr>
+<td>LESLIE POST OFFICE</td>
+<td>170 S. MAIN STREET</td>
+<td>LESLIE</td>
+<td>MI</td>
+<td>49251</td>
+<td>5175895201</td>
+</tr>
+<tr>
+<td>LEXINGTON POST OFFICE</td>
+<td>5204 MAIN STREET</td>
+<td>LEXINGTON</td>
+<td>MI</td>
+<td>48450</td>
+<td>8103598591</td>
+</tr>
+<tr>
+<td>LIVONIA GREENMEAD POST OFFICE</td>
+<td>37500 PEMBROKE STREET</td>
+<td>LIVONIA</td>
+<td>MI</td>
+<td>48152</td>
+<td>7345911095</td>
+</tr>
+<tr>
+<td>LIVONIA MAIN POST OFFICE</td>
+<td>11800 MERRIMAN RD</td>
+<td>LIVONIA</td>
+<td>MI</td>
+<td>48150</td>
+<td>7344587952</td>
+</tr>
+<tr>
+<td>LOWELL POST OFFICE</td>
+<td>120 N BROADWAY</td>
+<td>LOWELL</td>
+<td>MI</td>
+<td>49331</td>
+<td>6168979949</td>
+</tr>
+<tr>
+<td>LUDINGTON POST OFFICE</td>
+<td>201 E. LUDINGTON AVENUE</td>
+<td>LUDINGTON</td>
+<td>MI</td>
+<td>49431</td>
+<td>2318438646</td>
+</tr>
+<tr>
+<td>MASON COUNTY REGISTER OF DEEDS</td>
+<td>304 E. LUDINGTON AVENUE</td>
+<td>LUDINGTON</td>
+<td>MI</td>
+<td>49431</td>
+<td>2318434466</td>
+</tr>
+<tr>
+<td>MACKINAC ISLAND POST OFFICE</td>
+<td>7316 MARKET STREET</td>
+<td>MACKINAC ISLAND</td>
+<td>MI</td>
+<td>49757</td>
+<td>9068473821</td>
+</tr>
+<tr>
+<td>MADISON HEIGHTS POST OFFICE</td>
+<td>29441 JOHN R. ROAD</td>
+<td>MADISON HEIGHTS</td>
+<td>MI</td>
+<td>48071</td>
+<td>2485472975</td>
+</tr>
+<tr>
+<td>MANISTEE POST OFFICE</td>
+<td>35 FILER STREET</td>
+<td>MANISTEE</td>
+<td>MI</td>
+<td>49660</td>
+<td>2317232523</td>
+</tr>
+<tr>
+<td>MANISTIQUE POST OFFICE</td>
+<td>301 S CEDAR ST</td>
+<td>MANISTIQUE</td>
+<td>MI</td>
+<td>49854</td>
+<td>9063412646</td>
+</tr>
+<tr>
+<td>MARINE CITY POST OFFICE</td>
+<td>460 S. WATER STREET</td>
+<td>MARINE CITY</td>
+<td>MI</td>
+<td>48039</td>
+<td>8107659311</td>
+</tr>
+<tr>
+<td>MARLETTE POST OFFICE</td>
+<td>2984 FENNER STREET</td>
+<td>MARLETTE</td>
+<td>MI</td>
+<td>48453</td>
+<td>9896353560</td>
+</tr>
+<tr>
+<td>MARQUETTE COUNTY CLERK OF COURTS</td>
+<td>234  W.  BARAGA AVENUE</td>
+<td>MARQUETTE</td>
+<td>MI</td>
+<td>49855</td>
+<td>9062258330</td>
+</tr>
+<tr>
+<td>PETER WHITE PUBLIC LIBRARY</td>
+<td>217 N. FRONT STREET</td>
+<td>MARQUETTE</td>
+<td>MI</td>
+<td>49855</td>
+<td>9062264311</td>
+</tr>
+<tr>
+<td>MARSHALL POST OFFICE</td>
+<td>202 E. MICHIGAN AVENUE</td>
+<td>MARSHALL</td>
+<td>MI</td>
+<td>49068</td>
+<td>2697812859</td>
+</tr>
+<tr>
+<td>MARYSVILLE POST OFFICE</td>
+<td>1238 MICHIGAN AVENUE</td>
+<td>MARYSVILLE</td>
+<td>MI</td>
+<td>48040</td>
+<td>8103647922</td>
+</tr>
+<tr>
+<td>INGHAM COUNTY PARKS</td>
+<td>121 E. MAPLE ST.</td>
+<td>MASON</td>
+<td>MI</td>
+<td>48854</td>
+<td>5176762233</td>
+</tr>
+<tr>
+<td>MENOMINEE COUNTY REGISTER OF DEEDS</td>
+<td>839 10TH AVE.</td>
+<td>MENOMINEE</td>
+<td>MI</td>
+<td>49858</td>
+<td>9068632822</td>
+</tr>
+<tr>
+<td>MICHIGAN CENTER POST OFFICE</td>
+<td>122 BROAD STREET</td>
+<td>MICHIGAN CENTER</td>
+<td>MI</td>
+<td>49254</td>
+<td>5177643567</td>
+</tr>
+<tr>
+<td>MIDLAND COUNTY CIRCUIT COURT CLERKS</td>
+<td>301 W. MAIN STREET</td>
+<td>MIDLAND</td>
+<td>MI</td>
+<td>48640</td>
+<td>9898326735</td>
+</tr>
+<tr>
+<td>MIDLAND POST OFFICE</td>
+<td>2900 RODD STREET</td>
+<td>MIDLAND</td>
+<td>MI</td>
+<td>48640</td>
+<td>9896316580</td>
+</tr>
+<tr>
+<td>MIO POST OFFICE</td>
+<td>213 S. MORENCI AVE</td>
+<td>MIO</td>
+<td>MI</td>
+<td>48647</td>
+<td>9898265531</td>
+</tr>
+<tr>
+<td>MONROE CHARTER TOWNSHIP</td>
+<td>4925 EAST DUNBAR ROAD</td>
+<td>MONROE</td>
+<td>MI</td>
+<td>48161</td>
+<td>7342416574</td>
+</tr>
+<tr>
+<td>MONROE POST OFFICE</td>
+<td>210 W FRONT STREET</td>
+<td>MONROE</td>
+<td>MI</td>
+<td>48161</td>
+<td>7342412689</td>
+</tr>
+<tr>
+<td>MONTAGUE POST OFFICE</td>
+<td>8761 FERRY ST</td>
+<td>MONTAGUE</td>
+<td>MI</td>
+<td>49437</td>
+<td>2318944851</td>
+</tr>
+<tr>
+<td>MT CLEMENS POST OFFICE</td>
+<td>155 SOUTH MAIN STREET</td>
+<td>MT CLEMENS</td>
+<td>MI</td>
+<td>48046</td>
+<td>5867832879</td>
+</tr>
+<tr>
+<td>ISABELLA COUNTY REGISTER OF DEEDS</td>
+<td>200 N. MAIN STREET</td>
+<td>MT. PLEASANT</td>
+<td>MI</td>
+<td>48858</td>
+<td>9893174089</td>
+</tr>
+<tr>
+<td>MOUNT PLEASANT POST OFFICE</td>
+<td>813 MAIN STREET</td>
+<td>MT. PLEASANT</td>
+<td>MI</td>
+<td>48858</td>
+<td>9897735276</td>
+</tr>
+<tr>
+<td>MUNISING POST OFFICE</td>
+<td>220 ELM AVENUE</td>
+<td>MUNISING</td>
+<td>MI</td>
+<td>49862</td>
+<td>9063872081</td>
+</tr>
+<tr>
+<td>CITY OF MUSKEGON</td>
+<td>933 TERRACE ST</td>
+<td>MUSKEGON</td>
+<td>MI</td>
+<td>49440</td>
+<td>2317246705</td>
+</tr>
+<tr>
+<td>MUSKEGON POST OFFICE</td>
+<td>800 1ST STREET</td>
+<td>MUSKEGON</td>
+<td>MI</td>
+<td>49440</td>
+<td>2317227292</td>
+</tr>
+<tr>
+<td>NEW BALTIMORE MAIN POST OFFICE</td>
+<td>35339 23 MILE ROAD</td>
+<td>NEW BALTIMORE</td>
+<td>MI</td>
+<td>48047</td>
+<td>5867256575</td>
+</tr>
+<tr>
+<td>NEW BUFFALO POST OFFICE</td>
+<td>325 W BUFFALO STREET</td>
+<td>NEW BUFFALO</td>
+<td>MI</td>
+<td>49117</td>
+<td>2694693200</td>
+</tr>
+<tr>
+<td>NEW HUDSON POST OFFICE</td>
+<td>56655 GRAND RIVER AVENUE</td>
+<td>NEW HUDSON</td>
+<td>MI</td>
+<td>48165</td>
+<td>2482785095</td>
+</tr>
+<tr>
+<td>NILES POST OFFICE</td>
+<td>741 BROADWAY</td>
+<td>NILES</td>
+<td>MI</td>
+<td>49120</td>
+<td>2696835520</td>
+</tr>
+<tr>
+<td>NORTHVILLE POST OFFICE</td>
+<td>200 S. WING ST</td>
+<td>NORTHVILLE</td>
+<td>MI</td>
+<td>48167</td>
+<td>2483492062</td>
+</tr>
+<tr>
+<td>CITY OF NOVI CLERKS OFFICE</td>
+<td>45175 W. TEN MILE ROAD</td>
+<td>NOVI</td>
+<td>MI</td>
+<td>48375</td>
+<td>2483470456</td>
+</tr>
+<tr>
+<td>NOVI POST OFFICE</td>
+<td>24875 NOVI ROAD</td>
+<td>NOVI</td>
+<td>MI</td>
+<td>48376</td>
+<td>2483493152</td>
+</tr>
+<tr>
+<td>ONTONAGON POST OFFICE</td>
+<td>207 COPPER STREET</td>
+<td>ONTONAGON</td>
+<td>MI</td>
+<td>49953</td>
+<td>9068842646</td>
+</tr>
+<tr>
+<td>ORTONVILLE POST OFFICE</td>
+<td>55 POND STREET</td>
+<td>ORTONVILLE</td>
+<td>MI</td>
+<td>48462</td>
+<td>2486272070</td>
+</tr>
+<tr>
+<td>OSCODA POST OFFICE</td>
+<td>221 N STATE STREET</td>
+<td>OSCODA</td>
+<td>MI</td>
+<td>48750</td>
+<td>9897395112</td>
+</tr>
+<tr>
+<td>OTSEGO TOWNSHIP HALL</td>
+<td>400 N. 16TH STREET</td>
+<td>OTSEGO</td>
+<td>MI</td>
+<td>49078</td>
+<td>2696949434</td>
+</tr>
+<tr>
+<td>OWOSSO POST OFFICE</td>
+<td>319 N WASHINGTON STREET</td>
+<td>OWOSSO</td>
+<td>MI</td>
+<td>48867</td>
+<td>9897232929</td>
+</tr>
+<tr>
+<td>VAN BUREN COUNTY DEPT OF LAND SERVICES</td>
+<td>219 PAW PAW</td>
+<td>PAW PAW</td>
+<td>MI</td>
+<td>49079</td>
+<td>2696578243</td>
+</tr>
+<tr>
+<td>PETOSKEY POST OFFICE</td>
+<td>318 STATE ST</td>
+<td>PETOSKEY</td>
+<td>MI</td>
+<td>49770</td>
+<td>2313472671</td>
+</tr>
+<tr>
+<td>PINCKNEY POST OFFICE</td>
+<td>1325 EAST M-36 ROAD</td>
+<td>PINCKNEY</td>
+<td>MI</td>
+<td>48169</td>
+<td>7348783491</td>
+</tr>
+<tr>
+<td>PINCONNING POST OFFICE</td>
+<td>207 KAISER ST</td>
+<td>PINCONNING</td>
+<td>MI</td>
+<td>48650</td>
+<td>9898794971</td>
+</tr>
+<tr>
+<td>CHARTER TOWNSHIP OF PLYMOUTH</td>
+<td>9955 N HAGGERTY RD</td>
+<td>PLYMOUTH</td>
+<td>MI</td>
+<td>48170</td>
+<td>7343543225</td>
+</tr>
+<tr>
+<td>CITY OF PLYMOUTH</td>
+<td>201 S. MAIN STREET</td>
+<td>PLYMOUTH</td>
+<td>MI</td>
+<td>48170</td>
+<td>7344531234</td>
+</tr>
+<tr>
+<td>PLYMOUTH MAIN POST OFFICE</td>
+<td>47526 CLIPPER STREET</td>
+<td>PLYMOUTH</td>
+<td>MI</td>
+<td>48170</td>
+<td>7344534669</td>
+</tr>
+<tr>
+<td>OAKLAND COUNTY ELECTIONS OFFICE</td>
+<td>1200 N. TELEGRAPH ROAD</td>
+<td>PONTIAC</td>
+<td>MI</td>
+<td>48341</td>
+<td>2488580564</td>
+</tr>
+<tr>
+<td>PONTIAC MAIN POST OFFICE</td>
+<td>735 W. HURON</td>
+<td>PONTIAC</td>
+<td>MI</td>
+<td>48343</td>
+<td>2484542413</td>
+</tr>
+<tr>
+<td>PORT HURON POST OFFICE</td>
+<td>852 32ND ST.</td>
+<td>PORT HURON</td>
+<td>MI</td>
+<td>48061</td>
+<td>8109894830</td>
+</tr>
+<tr>
+<td>PRUDENVILLE POST OFFICE</td>
+<td>899 W. HOUGHTON LAKE DRIVE</td>
+<td>PRUDENVILLE</td>
+<td>MI</td>
+<td>48651</td>
+<td>9893665147</td>
+</tr>
+<tr>
+<td>REDFORD STATION</td>
+<td>12245 BEECH DALY ROAD</td>
+<td>REDFORD</td>
+<td>MI</td>
+<td>48239</td>
+<td>3139371242</td>
+</tr>
+<tr>
+<td>OSCEOLA COUNTY REGISTER OF DEEDS</td>
+<td>301 W. UPTON AVE</td>
+<td>REED CITY</td>
+<td>MI</td>
+<td>49677</td>
+<td>2318326113</td>
+</tr>
+<tr>
+<td>RICHMOND POST OFFICE</td>
+<td>36511 DIVISION ROAD</td>
+<td>RICHMOND</td>
+<td>MI</td>
+<td>48062</td>
+<td>5867270697</td>
+</tr>
+<tr>
+<td>ROCHESTER MAIN POST OFFICE</td>
+<td>511 OLDE TOWNE ROAD</td>
+<td>ROCHESTER</td>
+<td>MI</td>
+<td>48308</td>
+<td>2486019998</td>
+</tr>
+<tr>
+<td>CITY OF ROCHESTER HILLS - CLERKS OFFICE</td>
+<td>1000 ROCHESTER HILLS DRIVE</td>
+<td>ROCHESTER HILLS</td>
+<td>MI</td>
+<td>48309</td>
+<td>2486564630</td>
+</tr>
+<tr>
+<td>ROCKFORD POST OFFICE</td>
+<td>57 COURTLAND STREET NE</td>
+<td>ROCKFORD</td>
+<td>MI</td>
+<td>49341</td>
+<td>6168660789</td>
+</tr>
+<tr>
+<td>ROGERS CITY POST OFFICE</td>
+<td>188 N THIRD STREET</td>
+<td>ROGERS CITY</td>
+<td>MI</td>
+<td>49779</td>
+<td>9897344123</td>
+</tr>
+<tr>
+<td>ROMEO POST OFFICE</td>
+<td>119 CHURCH STREET</td>
+<td>ROMEO</td>
+<td>MI</td>
+<td>48065</td>
+<td>5863364499</td>
+</tr>
+<tr>
+<td>ROSCOMMON POST OFFICE</td>
+<td>281  LAKE STREET</td>
+<td>ROSCOMMON</td>
+<td>MI</td>
+<td>48653</td>
+<td>9892755580</td>
+</tr>
+<tr>
+<td>ROSEVILLE POST OFFICE</td>
+<td>30550 GRATIOT AVENUE</td>
+<td>ROSEVILLE</td>
+<td>MI</td>
+<td>48066</td>
+<td>5862852022</td>
+</tr>
+<tr>
+<td>ROYAL OAK MAIN POST OFFICE</td>
+<td>200 W. SECOND STREET</td>
+<td>ROYAL OAK</td>
+<td>MI</td>
+<td>48068</td>
+<td>2485467112</td>
+</tr>
+<tr>
+<td>SAGINAW COUNTY CLERK COURT RECORDS OFFICE</td>
+<td>111 S. MICHIGAN AVE</td>
+<td>SAGINAW</td>
+<td>MI</td>
+<td>48601</td>
+<td>9897905540</td>
+</tr>
+<tr>
+<td>SAGINAW MAIN POST OFFICE</td>
+<td>1233 S WASHINGTON AVE</td>
+<td>SAGINAW</td>
+<td>MI</td>
+<td>48601</td>
+<td>9897715718</td>
+</tr>
+<tr>
+<td>THOMAS TOWNSHIP</td>
+<td>249 N MILLER ROAD</td>
+<td>SAGINAW</td>
+<td>MI</td>
+<td>48609</td>
+<td>9897810150</td>
+</tr>
+<tr>
+<td>SALINE MUNICIPAL BUILDING</td>
+<td>100 N HARRIS STREET</td>
+<td>SALINE</td>
+<td>MI</td>
+<td>48176</td>
+<td>7344294907</td>
+</tr>
+<tr>
+<td>SALINE POST OFFICE</td>
+<td>108 N. MAPLE RD</td>
+<td>SALINE</td>
+<td>MI</td>
+<td>48176</td>
+<td>7349445859</td>
+</tr>
+<tr>
+<td>SANILAC COUNTY REGISTER OF DEEDS</td>
+<td>60 W. SANILAC AVE</td>
+<td>SANDUSKY</td>
+<td>MI</td>
+<td>48471</td>
+<td>8106482313</td>
+</tr>
+<tr>
+<td>CHIPPEWA COUNTY REGISTER OF DEEDS</td>
+<td>319 COURT STREET</td>
+<td>SAULT STE MARIE</td>
+<td>MI</td>
+<td>49783</td>
+<td>9066356312</td>
+</tr>
+<tr>
+<td>SAULT ST MARIE POST OFFICE</td>
+<td>161 RIDGE STREET</td>
+<td>SAULT STE. MARIE</td>
+<td>MI</td>
+<td>49783</td>
+<td>9066329951</td>
+</tr>
+<tr>
+<td>CHARTER TOWNSHIP OF SHELBY</td>
+<td>52700 VAN DYKE AVE</td>
+<td>SHELBY TOWNSHIP</td>
+<td>MI</td>
+<td>48316</td>
+<td>5867315102</td>
+</tr>
+<tr>
+<td>SHELBY TOWNSHIP POST OFFICE</td>
+<td>7755 22 MILE ROAD</td>
+<td>SHELBY TOWNSHIP</td>
+<td>MI</td>
+<td>48317</td>
+<td>5867319613</td>
+</tr>
+<tr>
+<td>SOUTH HAVEN POST OFFICE</td>
+<td>336 BROADWAY STREET</td>
+<td>SOUTH HAVEN</td>
+<td>MI</td>
+<td>49090</td>
+<td>2696371283</td>
+</tr>
+<tr>
+<td>SOUTH LYON POST OFFICE</td>
+<td>111 SOUTH LAFAYETTE ST</td>
+<td>SOUTH LYON</td>
+<td>MI</td>
+<td>48178</td>
+<td>2484374501</td>
+</tr>
+<tr>
+<td>SOUTHFIELD POST OFFICE</td>
+<td>22200 W. 11 MILE ROAD</td>
+<td>SOUTHFIELD</td>
+<td>MI</td>
+<td>48037</td>
+<td>2483682977</td>
+</tr>
+<tr>
+<td>SOUTHGATE POST OFFICE</td>
+<td>14000 DIX-TOLEDO ROAD</td>
+<td>SOUTHGATE</td>
+<td>MI</td>
+<td>48195</td>
+<td>7342837158</td>
+</tr>
+<tr>
+<td>SPARTA POST OFFICE</td>
+<td>34 E DIVISION ST.</td>
+<td>SPARTA</td>
+<td>MI</td>
+<td>49345</td>
+<td>6168877003</td>
+</tr>
+<tr>
+<td>SPRING ARBOR POST OFFICE</td>
+<td>109 TEFT RD</td>
+<td>SPRING ARBOR</td>
+<td>MI</td>
+<td>49283</td>
+<td>5179627336</td>
+</tr>
+<tr>
+<td>ST CLAIR POST OFFICE</td>
+<td>202 TRUMBULL STREET</td>
+<td>ST. CLAIR</td>
+<td>MI</td>
+<td>48079</td>
+<td>8103294555</td>
+</tr>
+<tr>
+<td>CITY OF ST CLAIR SHORES CITY CLERK</td>
+<td>27600 JEFFERSON AVENUE</td>
+<td>ST. CLAIR SHORES</td>
+<td>MI</td>
+<td>48081</td>
+<td>5864473303</td>
+</tr>
+<tr>
+<td>ST CLAIR SHORES POST OFFICE</td>
+<td>23125 GREATER MACK AVENUE</td>
+<td>ST. CLAIR SHORES</td>
+<td>MI</td>
+<td>48080</td>
+<td>5864982874</td>
+</tr>
+<tr>
+<td>MACKINAC COUNTY REGISTER OF DEEDS</td>
+<td>100 S. MARLEY STREET</td>
+<td>ST. IGNACE</td>
+<td>MI</td>
+<td>49781</td>
+<td>9066437306</td>
+</tr>
+<tr>
+<td>CLINTON COUNTY REGISTER OF DEEDS</td>
+<td>100 E STATE STREET</td>
+<td>ST. JOHNS</td>
+<td>MI</td>
+<td>48879</td>
+<td>9892245270</td>
+</tr>
+<tr>
+<td>STANDISH POST OFFICE</td>
+<td>120 S GROVE STREET</td>
+<td>STANDISH</td>
+<td>MI</td>
+<td>48658</td>
+<td>9898466408</td>
+</tr>
+<tr>
+<td>MONTCALM COUNTY CIRCUIT COURT</td>
+<td>639 NORTH STATE STREET</td>
+<td>STANTON</td>
+<td>MI</td>
+<td>48888</td>
+<td>9898313520</td>
+</tr>
+<tr>
+<td>STEPHENSON POST OFFICE</td>
+<td>W520 SAMUEL ST</td>
+<td>STEPHENSON</td>
+<td>MI</td>
+<td>49887</td>
+<td>9067536919</td>
+</tr>
+<tr>
+<td>STERLING HEIGHTS POST OFFICE</td>
+<td>7007 16 MILE ROAD</td>
+<td>STERLING HEIGHTS</td>
+<td>MI</td>
+<td>48312</td>
+<td>5869832319</td>
+</tr>
+<tr>
+<td>STEVENSVILLE POST OFFICE</td>
+<td>5888 CLEVELAND AVE</td>
+<td>STEVENSVILLE</td>
+<td>MI</td>
+<td>49127</td>
+<td>2694293452</td>
+</tr>
+<tr>
+<td>STURGIS POST OFFICE</td>
+<td>124 E CHICAGO RD</td>
+<td>STURGIS</td>
+<td>MI</td>
+<td>49091</td>
+<td>2696591780</td>
+</tr>
+<tr>
+<td>LEELANAU COUNTY REGISTER OF DEEDS</td>
+<td>8527 E GOVERNMENT CENTER DRIVE</td>
+<td>SUTTONS BAY</td>
+<td>MI</td>
+<td>49682</td>
+<td>2312569682</td>
+</tr>
+<tr>
+<td>SUTTONS BAY POST OFFICE</td>
+<td>106 W. BROADWAY</td>
+<td>SUTTONS BAY</td>
+<td>MI</td>
+<td>49682</td>
+<td>2312713622</td>
+</tr>
+<tr>
+<td>SWARTZ CREEK POST OFFICE</td>
+<td>8055 PAUL FORTINO DRIVE</td>
+<td>SWARTZ CREEK</td>
+<td>MI</td>
+<td>48473</td>
+<td>8106357393</td>
+</tr>
+<tr>
+<td>IOSCO COUNTY CLERK</td>
+<td>422 W LAKE STREET</td>
+<td>TAWAS CITY</td>
+<td>MI</td>
+<td>48763</td>
+<td>9893623497</td>
+</tr>
+<tr>
+<td>TAYLOR POST OFFICE</td>
+<td>24837 GODDARD ROAD</td>
+<td>TAYLOR</td>
+<td>MI</td>
+<td>48180</td>
+<td>7349464863</td>
+</tr>
+<tr>
+<td>TECUMSEH POST OFFICE</td>
+<td>320 EAST CHICAGO BOULEVARD</td>
+<td>TECUMSEH</td>
+<td>MI</td>
+<td>49286</td>
+<td>5174231197</td>
+</tr>
+<tr>
+<td>BEDFORD TOWNSHIP</td>
+<td>8100 JACKMAN ROAD</td>
+<td>TEMPERANCE</td>
+<td>MI</td>
+<td>48182</td>
+<td>7342247320</td>
+</tr>
+<tr>
+<td>THREE RIVERS POST OFFICE</td>
+<td>100 N MAIN ST</td>
+<td>THREE RIVERS</td>
+<td>MI</td>
+<td>49093</td>
+<td>2692786595</td>
+</tr>
+<tr>
+<td>EAST BAY CHARTER TOWNSHIP</td>
+<td>1965 N THREE MILE ROAD</td>
+<td>TRAVERSE CITY</td>
+<td>MI</td>
+<td>49696</td>
+<td>2319478647</td>
+</tr>
+<tr>
+<td>GRAND TRAVERSE COUNTY TREASURER</td>
+<td>400 BOARDMAN AVE.</td>
+<td>TRAVERSE CITY</td>
+<td>MI</td>
+<td>49684</td>
+<td>2319224735</td>
+</tr>
+<tr>
+<td>TRAVERSE CITY MAIN POST OFFICE</td>
+<td>202 SOUTH UNION STREET</td>
+<td>TRAVERSE CITY</td>
+<td>MI</td>
+<td>49684</td>
+<td>2319469616</td>
+</tr>
+<tr>
+<td>CITY OF TRENTON MI</td>
+<td>3101 WEST ROAD</td>
+<td>TRENTON</td>
+<td>MI</td>
+<td>48183</td>
+<td>7346757300</td>
+</tr>
+<tr>
+<td>CITY OF TROY - TREASURERS OFFICE</td>
+<td>500 W. BIG BEAVER</td>
+<td>TROY</td>
+<td>MI</td>
+<td>48084</td>
+<td>2485243333</td>
+</tr>
+<tr>
+<td>TROY POST OFFICE</td>
+<td>2844 LIVERNOIS ROAD</td>
+<td>TROY</td>
+<td>MI</td>
+<td>48099</td>
+<td>2486191598</td>
+</tr>
+<tr>
+<td>BRADY TOWNSHIP</td>
+<td>13123 SOUTH 24TH STREET</td>
+<td>VICKSBURG</td>
+<td>MI</td>
+<td>49097</td>
+<td>2696491813</td>
+</tr>
+<tr>
+<td>WARREN POST OFFICE</td>
+<td>28401 MOUND ROAD</td>
+<td>WARREN</td>
+<td>MI</td>
+<td>48090</td>
+<td>5865768966</td>
+</tr>
+<tr>
+<td>WASHINGTON POST OFFICE</td>
+<td>58757 VAN DYKE</td>
+<td>WASHINGTON</td>
+<td>MI</td>
+<td>48094</td>
+<td>5866778603</td>
+</tr>
+<tr>
+<td>WATERFORD RETAIL STORE POST OFFICE</td>
+<td>5036 DIXIE HIGHWAY</td>
+<td>WATERFORD</td>
+<td>MI</td>
+<td>48329</td>
+<td>2485996288</td>
+</tr>
+<tr>
+<td>LEIGHTON TOWNSHIP</td>
+<td>4451 12TH STREET, SUITE A</td>
+<td>WAYLAND</td>
+<td>MI</td>
+<td>49348</td>
+<td>6168918238</td>
+</tr>
+<tr>
+<td>WAYLAND POST OFFICE</td>
+<td>325 RENO DRIVE</td>
+<td>WAYLAND</td>
+<td>MI</td>
+<td>49348</td>
+<td>2697922371</td>
+</tr>
+<tr>
+<td>WEST BLOOMFIELD POST OFFICE</td>
+<td>6725 DALY ROAD</td>
+<td>WEST BLOOMFIELD</td>
+<td>MI</td>
+<td>48322</td>
+<td>2488627450</td>
+</tr>
+<tr>
+<td>WEST BLOOMFIELD TOWNSHIP CLERKS OFFICE</td>
+<td>4550 WALNUT LAKE ROAD</td>
+<td>WEST BLOOMFIELD</td>
+<td>MI</td>
+<td>48323</td>
+<td>2484514848</td>
+</tr>
+<tr>
+<td>WEST BRANCH POST OFFICE</td>
+<td>122 S THIRD ST</td>
+<td>WEST BRANCH</td>
+<td>MI</td>
+<td>48661</td>
+<td>9893452691</td>
+</tr>
+<tr>
+<td>OTTAWA COUNTY CLERK-REGISTER OF DEEDS</td>
+<td>12220 FILLMORE STREET</td>
+<td>WEST OLIVE</td>
+<td>MI</td>
+<td>49460</td>
+<td>6169944510</td>
+</tr>
+<tr>
+<td>CITY OF WESTLAND</td>
+<td>37201 MARQUETTE</td>
+<td>WESTLAND</td>
+<td>MI</td>
+<td>48185</td>
+<td>7347133732</td>
+</tr>
+<tr>
+<td>WESTLAND POST OFFICE</td>
+<td>6300 N. WAYNE ROAD</td>
+<td>WESTLAND</td>
+<td>MI</td>
+<td>48185</td>
+<td>7343260372</td>
+</tr>
+<tr>
+<td>NEWAYGO COUNTY REGISTER OF DEEDS</td>
+<td>1087 E NEWELL</td>
+<td>WHITE CLOUD</td>
+<td>MI</td>
+<td>49349</td>
+<td>2316897246</td>
+</tr>
+<tr>
+<td>CHARTER TOWNSHIP OF WHITE LAKE</td>
+<td>7525 HIGHLAND ROAD</td>
+<td>WHITE LAKE</td>
+<td>MI</td>
+<td>48383</td>
+<td>2486983300</td>
+</tr>
+<tr>
+<td>ACME TOWNSHIP</td>
+<td>6042 ACME ROAD</td>
+<td>WILLIAMSBURG</td>
+<td>MI</td>
+<td>49690</td>
+<td>2319381350</td>
+</tr>
+<tr>
+<td>CITY OF WIXOM</td>
+<td>49045 PONTIAC TRAIL</td>
+<td>WIXOM</td>
+<td>MI</td>
+<td>48393</td>
+<td>2486240865</td>
+</tr>
+<tr>
+<td>CITY OF WOODHAVEN</td>
+<td>21869 WEST ROAD</td>
+<td>WOODHAVEN</td>
+<td>MI</td>
+<td>48183</td>
+<td>7346754903</td>
+</tr>
+<tr>
+<td>ROGERS PLAZA POSTAL STORE</td>
+<td>1026 28TH ST SW</td>
+<td>WYOMING</td>
+<td>MI</td>
+<td>49509</td>
+<td>6065322218</td>
+</tr>
+<tr>
+<td>CHARTER TOWNSHIP OF YPSILANTI</td>
+<td>7200 S. HURON RIVER DRIVE</td>
+<td>YPSILANTI</td>
+<td>MI</td>
+<td>48197</td>
+<td>7344844700</td>
+</tr>
+<tr>
+<td>YPSILANTI POST OFFICE</td>
+<td>1606 S HURON STREET</td>
+<td>YPSILANTI</td>
+<td>MI</td>
+<td>48197</td>
+<td>7344823046</td>
+</tr>
+<tr>
+<td>ZEELAND POST OFFICE</td>
+<td>155 E. MAIN AVE</td>
+<td>ZEELAND</td>
+<td>MI</td>
+<td>49464</td>
+<td>6167722971</td>
+</tr>
+</tbody>
+</table>

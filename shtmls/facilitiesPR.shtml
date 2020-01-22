@@ -1,0 +1,318 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AGUADILLA POST OFFICE</td>
+<td>50 CARR 459</td>
+<td>AGUADILLA</td>
+<td>PR</td>
+<td>00603</td>
+<td>2027917601</td>
+</tr>
+<tr>
+<td>ARECIBO MAIN POST OFFICE</td>
+<td>10 AVE SAN PATRICIO</td>
+<td>ARECIBO</td>
+<td>PR</td>
+<td>00612</td>
+<td>2027917648</td>
+</tr>
+<tr>
+<td>PR DEPARTAMENTO DE ESTADO - OFICINA DE PASAPORTES (ARECIBO)</td>
+<td>AVE JOSE DE DIEGO</td>
+<td>ARECIBO</td>
+<td>PR</td>
+<td>00612</td>
+<td>7878150405</td>
+</tr>
+<tr>
+<td>USPS BAYAMON GARDENS BRANCH</td>
+<td>100 VICTORY SHOPP CTR</td>
+<td>BAYAMON</td>
+<td>PR</td>
+<td>00957</td>
+<td>7877872235</td>
+</tr>
+<tr>
+<td>USPS BAYAMON MAIN POST OFFICE</td>
+<td>100 AVE RAMON L RODRIGUEZ</td>
+<td>BAYAMON</td>
+<td>PR</td>
+<td>00959</td>
+<td>7877850415</td>
+</tr>
+<tr>
+<td>CABO ROJO POST OFFICE PUERTO RICO</td>
+<td>64 CARBONELL ST.</td>
+<td>CABO ROJO</td>
+<td>PR</td>
+<td>00623</td>
+<td>7878511095</td>
+</tr>
+<tr>
+<td>CAGUAS MAIN POST OFFICE</td>
+<td>225 AVE GAUTIER BENITEZ</td>
+<td>CAGUAS</td>
+<td>PR</td>
+<td>00725</td>
+<td>7877435110</td>
+</tr>
+<tr>
+<td>CANOVANAS POST OFFICE</td>
+<td>18400 CARR 3</td>
+<td>CANOVANAS</td>
+<td>PR</td>
+<td>00729</td>
+<td>7872564777</td>
+</tr>
+<tr>
+<td>USPS ROBERTO CLEMENTE WALKER POST OFFICE</td>
+<td>1000 AVE SANCHEZ OSORIO</td>
+<td>CAROLINA</td>
+<td>PR</td>
+<td>00983</td>
+<td>7877500135</td>
+</tr>
+<tr>
+<td>USPS CAYEY POST OFFICE</td>
+<td>11 AVE BALDORIOTY E.</td>
+<td>CAYEY</td>
+<td>PR</td>
+<td>00736</td>
+<td>7877388020</td>
+</tr>
+<tr>
+<td>USPS CIDRA POST OFFICE</td>
+<td>100 AVE INDUSTRIAL</td>
+<td>CIDRA</td>
+<td>PR</td>
+<td>00739</td>
+<td>7877143999</td>
+</tr>
+<tr>
+<td>USPS COAMO POST OFFICE</td>
+<td>URB EL EDEN</td>
+<td>COAMO</td>
+<td>PR</td>
+<td>00769</td>
+<td>7878032721</td>
+</tr>
+<tr>
+<td>USPS COTO LAUREL POST OFFICE</td>
+<td>3007 AVE. SAN CRISTOBAL</td>
+<td>COTO LAUREL</td>
+<td>PR</td>
+<td>00780</td>
+<td>7872598475</td>
+</tr>
+<tr>
+<td>PR DEPARTAMENTO DE ESTADO - OFICINA DE PASAPORTES (FAJARDO)</td>
+<td>6 CALLE DR LOPEZ W</td>
+<td>FAJARDO</td>
+<td>PR</td>
+<td>00738</td>
+<td>7879887128</td>
+</tr>
+<tr>
+<td>USPS FAJARDO POST OFFICE</td>
+<td>113 CALLE GARRIDO MORALES W</td>
+<td>FAJARDO</td>
+<td>PR</td>
+<td>00738</td>
+<td>7876558777</td>
+</tr>
+<tr>
+<td>USPS GUAYNABO POST OFFICE</td>
+<td>100 CALLE CECILIO URBINA</td>
+<td>GUAYNABO</td>
+<td>PR</td>
+<td>00969</td>
+<td>7877204141</td>
+</tr>
+<tr>
+<td>USPS ISABELA POST OFFICE</td>
+<td>5 CALLE PINEIRO</td>
+<td>ISABELA</td>
+<td>PR</td>
+<td>00662</td>
+<td>7878728723930</td>
+</tr>
+<tr>
+<td>LARES POST OFFICE</td>
+<td>100 AVE. LOS PATRIOTAS</td>
+<td>LARES</td>
+<td>PR</td>
+<td>00669</td>
+<td>7878972260</td>
+</tr>
+<tr>
+<td>USPS MAUNABO POST OFFICE</td>
+<td>184 AVE CALIMANO</td>
+<td>MAUNABO</td>
+<td>PR</td>
+<td>00707</td>
+<td>2027917639</td>
+</tr>
+<tr>
+<td>MAYAGUEZ POST OFFICE</td>
+<td>60 CALLE DE LA CANDELARIA W</td>
+<td>MAYAGUEZ</td>
+<td>PR</td>
+<td>00680</td>
+<td> </td>
+</tr>
+<tr>
+<td>MOROVIS POST OFFICE</td>
+<td>200 CARR 155</td>
+<td>MOROVIS</td>
+<td>PR</td>
+<td>00687</td>
+<td>7878621500</td>
+</tr>
+<tr>
+<td>USPS NARANJITO POST OFFICE</td>
+<td>40 CALLE GEORGETTI</td>
+<td>NARANJITO</td>
+<td>PR</td>
+<td>00719</td>
+<td>7878692140</td>
+</tr>
+<tr>
+<td>USPS PONCE MAIN POST OFFICE</td>
+<td>2340 AVE EDUARDO RUBERTE</td>
+<td>PONCE</td>
+<td>PR</td>
+<td>00717</td>
+<td>7878431000</td>
+</tr>
+<tr>
+<td>SABANA SECA POST OFFICE</td>
+<td>100 CARR 866</td>
+<td>SABANA SECA</td>
+<td>PR</td>
+<td>00952</td>
+<td>7875859091</td>
+</tr>
+<tr>
+<td>USPS SAN GERMAN POST OFFICE</td>
+<td>181 AVE UNIV INTERAMERICANA</td>
+<td>SAN GERMAN</td>
+<td>PR</td>
+<td>00683</td>
+<td>7878921313</td>
+</tr>
+<tr>
+<td>65TH INFANTRY STATION</td>
+<td>100 CALLE ALONDRA</td>
+<td>SAN JUAN</td>
+<td>PR</td>
+<td>00924</td>
+<td>7877624595</td>
+</tr>
+<tr>
+<td>CUPEY STATION</td>
+<td>369 SAN CLAUDIO AVENUE</td>
+<td>SAN JUAN</td>
+<td>PR</td>
+<td>00926</td>
+<td>7877482435</td>
+</tr>
+<tr>
+<td>LOIZA STREET POST OFFICE</td>
+<td>1959 CALLE LOIZA</td>
+<td>SAN JUAN</td>
+<td>PR</td>
+<td>00911</td>
+<td>7872094462</td>
+</tr>
+<tr>
+<td>OFICINA DE PASAPORTES PLAZA LAS AMERICAS</td>
+<td>PLAZA LAS AMERICAS</td>
+<td>SAN JUAN</td>
+<td>PR</td>
+<td>00918</td>
+<td>7872507371</td>
+</tr>
+<tr>
+<td>USPS HATO REY STATION</td>
+<td>361 CALLE JUAN CALAF</td>
+<td>SAN JUAN</td>
+<td>PR</td>
+<td>00918</td>
+<td>7877541273</td>
+</tr>
+<tr>
+<td>USPS OLD SAN JUAN POST OFFICE</td>
+<td>100 PASEO DE COLON</td>
+<td>SAN JUAN</td>
+<td>PR</td>
+<td>00901</td>
+<td>7877242098</td>
+</tr>
+<tr>
+<td>USPS SAN JUAN MAIN OFFICE WINDOW UNIT</td>
+<td>585 AVE FD ROOSEVELT</td>
+<td>SAN JUAN</td>
+<td>PR</td>
+<td>00936</td>
+<td>7876221758</td>
+</tr>
+<tr>
+<td>SAN LORENZO POST OFFICE</td>
+<td>123 CALLE DE DIEGO</td>
+<td>SAN LORENZO</td>
+<td>PR</td>
+<td>00754</td>
+<td> </td>
+</tr>
+<tr>
+<td>SAN SEBASTIAN POST OFFICE</td>
+<td>211 CALLE RUIZ BELVIS</td>
+<td>SAN SEBASTIAN</td>
+<td>PR</td>
+<td>00685</td>
+<td>7872801333</td>
+</tr>
+<tr>
+<td>USPS TOA BAJA POST OFFICE</td>
+<td>600 DR HERNAN CORTES</td>
+<td>TOA BAJA</td>
+<td>PR</td>
+<td>00949</td>
+<td>2027917605</td>
+</tr>
+<tr>
+<td>USPS UTUADO POST OFFICE</td>
+<td>41 AVE FERNANDO L RIBAS</td>
+<td>UTUADO</td>
+<td>PR</td>
+<td>00641</td>
+<td>9392028209</td>
+</tr>
+<tr>
+<td>VEGA ALTA</td>
+<td>100 CARR 2</td>
+<td>VEGA ALTA</td>
+<td>PR</td>
+<td>00692</td>
+<td>7878834200</td>
+</tr>
+<tr>
+<td>USPS VIEQUES POST OFFICE</td>
+<td>97 CALLE LUIS MUNOZ RIVERA</td>
+<td>VIEQUES</td>
+<td>PR</td>
+<td>00765</td>
+<td>2027917632</td>
+</tr>
+</tbody>
+</table>

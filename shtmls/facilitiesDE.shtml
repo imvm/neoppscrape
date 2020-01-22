@@ -1,0 +1,158 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>DAGSBORO POST OFFICE</td>
+<td>28290 CLAYTON STREET</td>
+<td>DAGSBORO</td>
+<td>DE</td>
+<td>19939</td>
+<td>3027329404</td>
+</tr>
+<tr>
+<td>DOVER MAIN POST OFFICE</td>
+<td>55 LOOCKERMAN PLAZA</td>
+<td>DOVER</td>
+<td>DE</td>
+<td>19901</td>
+<td>3027345822</td>
+</tr>
+<tr>
+<td>DOVER PUBLIC LIBRARY</td>
+<td>35 LOOCKERMAN PLAZA</td>
+<td>DOVER</td>
+<td>DE</td>
+<td>19901</td>
+<td>3027367030</td>
+</tr>
+<tr>
+<td>GEORGETOWN POST OFFICE</td>
+<td>115 SOUTH KING STREET</td>
+<td>GEORGETOWN</td>
+<td>DE</td>
+<td>19947</td>
+<td>3028563647</td>
+</tr>
+<tr>
+<td>HOCKESSIN POST OFFICE</td>
+<td>651 VALLEY RD</td>
+<td>HOCKESSIN</td>
+<td>DE</td>
+<td>19707</td>
+<td>3022394240</td>
+</tr>
+<tr>
+<td>LAUREL PUBLIC LIBRARY</td>
+<td>101 E. 4TH ST</td>
+<td>LAUREL</td>
+<td>DE</td>
+<td>19956</td>
+<td>3028753184</td>
+</tr>
+<tr>
+<td>MIDDLETOWN POST OFFICE</td>
+<td>298 E. MAIN STREET</td>
+<td>MIDDLETOWN</td>
+<td>DE</td>
+<td>19709</td>
+<td>3023786241</td>
+</tr>
+<tr>
+<td>MILFORD MAIN POST OFFICE</td>
+<td>110 CAUSEY AVENUE</td>
+<td>MILFORD</td>
+<td>DE</td>
+<td>19963</td>
+<td>3024225618</td>
+</tr>
+<tr>
+<td>MILLSBORO POST OFFICE</td>
+<td>100 MAIN ST</td>
+<td>MILLSBORO</td>
+<td>DE</td>
+<td>19966</td>
+<td>3029349226</td>
+</tr>
+<tr>
+<td>WILMINGTON POST OFFICE AND DISTRIBUTION CENTER</td>
+<td>147 QUIGLEY BLVD.</td>
+<td>NEW CASTLE</td>
+<td>DE</td>
+<td>19720</td>
+<td>3023232260</td>
+</tr>
+<tr>
+<td>NEWARK MAIN POST OFFICE</td>
+<td>401 OGLETOWN ROAD</td>
+<td>NEWARK</td>
+<td>DE</td>
+<td>19711</td>
+<td>3027375771</td>
+</tr>
+<tr>
+<td>OCEAN VIEW POST OFFICE</td>
+<td>35764 ATLANTIC AVENUE</td>
+<td>OCEAN VIEW</td>
+<td>DE</td>
+<td>19970</td>
+<td>3025399466</td>
+</tr>
+<tr>
+<td>REHOBOTH BEACH POST OFFICE</td>
+<td>179 REHOBOTH AVENUE</td>
+<td>REHOBOTH BEACH</td>
+<td>DE</td>
+<td>19971</td>
+<td>3022278406</td>
+</tr>
+<tr>
+<td>SEAFORD MAIN POST OFFICE</td>
+<td>2001 BRIDGEVILLE HWY</td>
+<td>SEAFORD</td>
+<td>DE</td>
+<td>19973</td>
+<td>3026283441</td>
+</tr>
+<tr>
+<td>SMYRNA POST OFFICE</td>
+<td>13 SOUTH MARKET STREET</td>
+<td>SMYRNA</td>
+<td>DE</td>
+<td>19977</td>
+<td>3026539935</td>
+</tr>
+<tr>
+<td>GREENVILLE BRANCH POST OFFICE</td>
+<td>3801 KENNETT PIKE</td>
+<td>WILMINGTON</td>
+<td>DE</td>
+<td>19807</td>
+<td>3026521877</td>
+</tr>
+<tr>
+<td>RODNEY SQUARE STATION POST OFFICE</td>
+<td>500 DELAWARE AVENUE SUITE 1</td>
+<td>WILMINGTON</td>
+<td>DE</td>
+<td>19801</td>
+<td>3026560228</td>
+</tr>
+<tr>
+<td>TALLEYVILLE POSTAL STORE</td>
+<td>3911 CONCORD PIKE</td>
+<td>WILMINGTON</td>
+<td>DE</td>
+<td>19803</td>
+<td>3024785753</td>
+</tr>
+</tbody>
+</table>

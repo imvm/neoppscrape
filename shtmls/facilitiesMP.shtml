@@ -1,0 +1,22 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SAIPAN PASSPORT ACCEPTANCE OFFICE</td>
+<td>1321 ASCENCION DRIVE</td>
+<td>SAIPAN</td>
+<td>MP</td>
+<td>96950</td>
+<td>6706644760</td>
+</tr>
+</tbody>
+</table>

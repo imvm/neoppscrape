@@ -1,0 +1,22 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>US EMBASSY MAJURO</td>
+<td>U.S. DEPARTMENT OF STATE</td>
+<td>MAJURO</td>
+<td>MH</td>
+<td>96960</td>
+<td>6922474011</td>
+</tr>
+</tbody>
+</table>

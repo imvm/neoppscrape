@@ -1,0 +1,302 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ANAHOLA POST OFFICE</td>
+<td>4-4350 KUHIO HWY</td>
+<td>ANAHOLA</td>
+<td>HI</td>
+<td>96703</td>
+<td>8088224710</td>
+</tr>
+<tr>
+<td>CAPTAIN COOK POST OFFICE</td>
+<td>82-6110 MAMALAHOA HIGHWAY</td>
+<td>CAPTAIN COOK</td>
+<td>HI</td>
+<td>96704</td>
+<td>8083239678</td>
+</tr>
+<tr>
+<td>EWA STATION</td>
+<td>91-1202 RENTON RD</td>
+<td>EWA BEACH</td>
+<td>HI</td>
+<td>96706</td>
+<td>8086894250</td>
+</tr>
+<tr>
+<td>HAIKU POST OFFICE</td>
+<td>770 HAIKU RD</td>
+<td>HAIKU</td>
+<td>HI</td>
+<td>96708</td>
+<td>8085752614</td>
+</tr>
+<tr>
+<td>HANAPEPE POST OFFICE</td>
+<td>3817 KONA RD</td>
+<td>HANAPEPE</td>
+<td>HI</td>
+<td>96716</td>
+<td>8083355433</td>
+</tr>
+<tr>
+<td>HAUULA POST OFFICE</td>
+<td>54-316 KAMEHAMEHA HWY</td>
+<td>HAUULA</td>
+<td>HI</td>
+<td>96717</td>
+<td>8082935057</td>
+</tr>
+<tr>
+<td>HAWAII COMMUNITY COLLEGE - OCET</td>
+<td>1175 MANONO ST BLDG 379A RM 3</td>
+<td>HILO</td>
+<td>HI</td>
+<td>96720</td>
+<td>8089342700</td>
+</tr>
+<tr>
+<td>HOLUALOA POST OFFICE</td>
+<td>76-5921 MAMALAHOA HWY.</td>
+<td>HOLUALOA</td>
+<td>HI</td>
+<td>96725</td>
+<td>8083225085</td>
+</tr>
+<tr>
+<td>HONOKAA POST OFFICE</td>
+<td>45-490 LEHUA ST</td>
+<td>HONOKAA</td>
+<td>HI</td>
+<td>96727</td>
+<td>8087750081</td>
+</tr>
+<tr>
+<td>AIRPORT - MAIN POST OFFICE</td>
+<td>3595 NORTH NIMITZ HIGHWAY</td>
+<td>HONOLULU</td>
+<td>HI</td>
+<td>96818</td>
+<td>8084233434</td>
+</tr>
+<tr>
+<td>HAWAII STATE LIBRARY</td>
+<td>478 S. KING ST.,</td>
+<td>HONOLULU</td>
+<td>HI</td>
+<td>96813</td>
+<td>8085863477</td>
+</tr>
+<tr>
+<td>KAPIOLANI COMMUNITY COLLEGE - HOSPITALITY DEPT</td>
+<td>4303 DIAMOND HEAD ROAD</td>
+<td>HONOLULU</td>
+<td>HI</td>
+<td>96816</td>
+<td>8087349258</td>
+</tr>
+<tr>
+<td>UNIVERSITY OF HAWAII AT MANOA</td>
+<td>2465 CAMPUS ROAD</td>
+<td>HONOLULU</td>
+<td>HI</td>
+<td>96822</td>
+<td>8089567236</td>
+</tr>
+<tr>
+<td>KAAAWA POST OFFICE</td>
+<td>51-480 KAMEHAMEHA HWY.</td>
+<td>KAAAWA</td>
+<td>HI</td>
+<td>96730</td>
+<td>8082378372</td>
+</tr>
+<tr>
+<td>KAHULUI POST OFFICE</td>
+<td>138 SOUTH PUUNENE AVE.</td>
+<td>KAHULUI</td>
+<td>HI</td>
+<td>96732</td>
+<td>8088712487</td>
+</tr>
+<tr>
+<td>UNIVERSITY OF HAWAII, MAUI COLLEGE REGISTRAR</td>
+<td>310 WEST KAAHUMANUU AVE.</td>
+<td>KAHULUI</td>
+<td>HI</td>
+<td>96732</td>
+<td>8089843474</td>
+</tr>
+<tr>
+<td>HAWAII COMMUNITY COLLEGE - PALAMANUI</td>
+<td>73-4255 ANE KEOHOKALOLE HWY.</td>
+<td>KAILUA-KONA</td>
+<td>HI</td>
+<td>96740</td>
+<td>8089698816</td>
+</tr>
+<tr>
+<td>KALAHEO POST OFFICE</td>
+<td>4489 PAPALINA RD</td>
+<td>KALAHEO</td>
+<td>HI</td>
+<td>96741</td>
+<td>8083325800</td>
+</tr>
+<tr>
+<td>KAPAAU POST OFFICE</td>
+<td>54-396 UNION MILL RD</td>
+<td>KAPAAU</td>
+<td>HI</td>
+<td>96755</td>
+<td>8088896766</td>
+</tr>
+<tr>
+<td>KAUNAKAKAI POST OFFICE</td>
+<td>120 ALA MALAMA AVE</td>
+<td>KAUNAKAKAI</td>
+<td>HI</td>
+<td>96748</td>
+<td>8085535845</td>
+</tr>
+<tr>
+<td>KEAAU PUBLIC AND SCHOOL LIBRARY</td>
+<td>16-571 KEAAU-PAHOA ROAD</td>
+<td>KEAAU</td>
+<td>HI</td>
+<td>96749</td>
+<td>8089824281</td>
+</tr>
+<tr>
+<td>KILAUEA POST OFFICE</td>
+<td>2585 ALA NAMAHANA PARKWAY</td>
+<td>KILAUEA</td>
+<td>HI</td>
+<td>96754</td>
+<td>8088281721</td>
+</tr>
+<tr>
+<td>LAIE POST OFFICE</td>
+<td>55-510 KAMEHAMEHA HWY.</td>
+<td>LAIE</td>
+<td>HI</td>
+<td>96762</td>
+<td>8082930337</td>
+</tr>
+<tr>
+<td>LANAI CITY POST OFFICE</td>
+<td>620 JACARANDA ST.</td>
+<td>LANAI CITY</td>
+<td>HI</td>
+<td>96763</td>
+<td>8085656517</td>
+</tr>
+<tr>
+<td>LAWAI POST OFFICE</td>
+<td>2-3675 KAUMUALII HWY</td>
+<td>LAWAI</td>
+<td>HI</td>
+<td>96765</td>
+<td>8083329161</td>
+</tr>
+<tr>
+<td>KAUAI COMMUNITY COLLEGE OFFICE OF CONTINUING EDUCATION AND TRAINING</td>
+<td>3-1901 KAUMUALII HWY</td>
+<td>LIHUE</td>
+<td>HI</td>
+<td>96766</td>
+<td>8082458319</td>
+</tr>
+<tr>
+<td>LIHUE POST OFFICE</td>
+<td>4441 RICE ST.</td>
+<td>LIHUE</td>
+<td>HI</td>
+<td>96766</td>
+<td>8082451628</td>
+</tr>
+<tr>
+<td>MAKAWAO POST OFFICE</td>
+<td>1075 MAKAWAO AVE.</td>
+<td>MAKAWAO</td>
+<td>HI</td>
+<td>96768</td>
+<td>8085720019</td>
+</tr>
+<tr>
+<td>MOUNTAIN VIEW POST OFFICE</td>
+<td>18-1350 VOLCANO HWY</td>
+<td>MOUNTAIN VIEW</td>
+<td>HI</td>
+<td>96771</td>
+<td>8089686461</td>
+</tr>
+<tr>
+<td>PAHALA POST OFFICE</td>
+<td>96-3163 PIKAKE ST</td>
+<td>PAHALA</td>
+<td>HI</td>
+<td>96777</td>
+<td>8089289815</td>
+</tr>
+<tr>
+<td>PAIA POST OFFICE</td>
+<td>120 BALDWIN AVE</td>
+<td>PAIA</td>
+<td>HI</td>
+<td>96779</td>
+<td>8085798866</td>
+</tr>
+<tr>
+<td>PAPAIKOU POST OFFICE</td>
+<td>27-250 OLD MAMALAHOA HWY</td>
+<td>PAPAIKOU</td>
+<td>HI</td>
+<td>96781</td>
+<td>8089641621</td>
+</tr>
+<tr>
+<td>LEEWARD COMMUNITY COLLEGE</td>
+<td>96-045 ALA IKE CE-101</td>
+<td>PEARL CITY</td>
+<td>HI</td>
+<td>96782</td>
+<td>8084550477</td>
+</tr>
+<tr>
+<td>PEPEEKEO POST OFFICE</td>
+<td>28-2825 HAWAII BELT ROAD</td>
+<td>PEPEEKEO</td>
+<td>HI</td>
+<td>96783</td>
+<td>8089643253</td>
+</tr>
+<tr>
+<td>WAIALUA POST OFFICE</td>
+<td>67-079 NAUAHI ST.</td>
+<td>WAIALUA</td>
+<td>HI</td>
+<td>96791</td>
+<td>8086372754</td>
+</tr>
+<tr>
+<td>WAIMANALO POST OFFICE</td>
+<td>41-859 KALANIANAOLE HWY</td>
+<td>WAIMANALO</td>
+<td>HI</td>
+<td>96795</td>
+<td>8082590106</td>
+</tr>
+</tbody>
+</table>

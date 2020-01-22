@@ -1,0 +1,774 @@
+<table id='passportoffices'>
+<thead>
+<tr>
+<th scope="col"><b>Facility</b></th>
+<th scope="col"><b>Address</b></th>
+<th scope="col"><b>City</b></th>
+<th scope="col"><b>State</b></th>
+<th scope="col"><b>ZIP</b></th>
+<th scope="col"><b>Phone</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AJO JUSTICE COURT</td>
+<td>111 LA MINA AVENUE</td>
+<td>AJO</td>
+<td>AZ</td>
+<td>85321</td>
+<td>5203877684</td>
+</tr>
+<tr>
+<td>CITY OF AVONDALE</td>
+<td>11465 WEST CIVIC CENTER DRIVE</td>
+<td>AVONDALE</td>
+<td>AZ</td>
+<td>85323</td>
+<td>6233331200</td>
+</tr>
+<tr>
+<td>BENSON POST OFFICE</td>
+<td>250 S OCOTILLO AVE</td>
+<td>BENSON</td>
+<td>AZ</td>
+<td>85602</td>
+<td>5205863422</td>
+</tr>
+<tr>
+<td>COCHISE COUNTY CLERK OF SUPERIOR COURT - BISBEE</td>
+<td>100 QUALITY HILL</td>
+<td>BISBEE</td>
+<td>AZ</td>
+<td>85603</td>
+<td>5204328600</td>
+</tr>
+<tr>
+<td>BLACK CANYON CITY POST OFFICE</td>
+<td>19060 E. K MINE RD.</td>
+<td>BLACK CANYON CITY</td>
+<td>AZ</td>
+<td>85324</td>
+<td>6233745771</td>
+</tr>
+<tr>
+<td>CITY OF BUCKEYE</td>
+<td>530 E. MONROE AVE</td>
+<td>BUCKEYE</td>
+<td>AZ</td>
+<td>85326</td>
+<td>6233496254</td>
+</tr>
+<tr>
+<td>BULLHEAD CITY MAIN POST OFFICE</td>
+<td>1882 LAKESIDE DR</td>
+<td>BULLHEAD CITY</td>
+<td>AZ</td>
+<td>86442</td>
+<td>9282786002</td>
+</tr>
+<tr>
+<td>MOHAVE COUNTY CLERK OF SUPERIOR COURT - BULLHEAD CITY</td>
+<td>2225 TRANE RD</td>
+<td>BULLHEAD CITY</td>
+<td>AZ</td>
+<td>86442</td>
+<td>9287580730</td>
+</tr>
+<tr>
+<td>CAMP VERDE POST OFFICE</td>
+<td>403 W FINNIE FLAT RD</td>
+<td>CAMP VERDE</td>
+<td>AZ</td>
+<td>86322</td>
+<td>9285673175</td>
+</tr>
+<tr>
+<td>YAVAPAI COUNTY SUPERIOR COURT - CAMP VERDE</td>
+<td>2840 N. COMMONWEALTH DR.</td>
+<td>CAMP VERDE</td>
+<td>AZ</td>
+<td>86322</td>
+<td>9285677741</td>
+</tr>
+<tr>
+<td>CASA GRANDE POST OFFICE</td>
+<td>1670 N PINAL AVE</td>
+<td>CASA GRANDE</td>
+<td>AZ</td>
+<td>85122</td>
+<td>5208367221</td>
+</tr>
+<tr>
+<td>CITY OF CASA GRANDE</td>
+<td>510 E FLORENCE BLVD</td>
+<td>CASA GRANDE</td>
+<td>AZ</td>
+<td>85122</td>
+<td>5204218600</td>
+</tr>
+<tr>
+<td>CAVE CREEK POST OFFICE</td>
+<td>38400 N SCHOOL HOUSE RD</td>
+<td>CAVE CREEK</td>
+<td>AZ</td>
+<td>85331</td>
+<td>4805959598</td>
+</tr>
+<tr>
+<td>DESERT FOOTHILLS LIBRARY</td>
+<td>38443 N. SCHOOL HOUSE ROAD</td>
+<td>CAVE CREEK</td>
+<td>AZ</td>
+<td>85331</td>
+<td>4805753201</td>
+</tr>
+<tr>
+<td>CHANDLER CITY CLERK</td>
+<td>175 S ARIZONA AVENUE</td>
+<td>CHANDLER</td>
+<td>AZ</td>
+<td>85225</td>
+<td>4807822181</td>
+</tr>
+<tr>
+<td>CHANDLER MAIN POST OFFICE</td>
+<td>101 N. COLORADO ST.</td>
+<td>CHANDLER</td>
+<td>AZ</td>
+<td>85225</td>
+<td>4809636643</td>
+</tr>
+<tr>
+<td>CHINO VALLEY POST OFFICE</td>
+<td>725 E. RD 2 NORTH</td>
+<td>CHINO VALLEY</td>
+<td>AZ</td>
+<td>86323</td>
+<td>9286362907</td>
+</tr>
+<tr>
+<td>CLARKDALE POST OFFICE</td>
+<td>9 SOUTH 9TH ST.</td>
+<td>CLARKDALE</td>
+<td>AZ</td>
+<td>86324</td>
+<td>9286345312</td>
+</tr>
+<tr>
+<td>GREENLEE SUPERIOR COURT</td>
+<td>223 5TH STREET</td>
+<td>CLIFTON</td>
+<td>AZ</td>
+<td>85533</td>
+<td>9288654242</td>
+</tr>
+<tr>
+<td>COLORADO CITY POST OFFICE</td>
+<td>55 S CENTRAL</td>
+<td>COLORADO CITY</td>
+<td>AZ</td>
+<td>86021</td>
+<td>9288752424</td>
+</tr>
+<tr>
+<td>COOLIDGE POST OFFICE</td>
+<td>229 W. CENTRAL AVENUE</td>
+<td>COOLIDGE</td>
+<td>AZ</td>
+<td>85128</td>
+<td>5207233011</td>
+</tr>
+<tr>
+<td>CORTARO POST OFFICE</td>
+<td>5800 W ARIZONA PAVILLIONS RD</td>
+<td>CORTARO</td>
+<td>AZ</td>
+<td>85652</td>
+<td>5207446105</td>
+</tr>
+<tr>
+<td>DOUGLAS POST OFFICE</td>
+<td>601 E 10TH STREET</td>
+<td>DOUGLAS</td>
+<td>AZ</td>
+<td>85607</td>
+<td>5203643631</td>
+</tr>
+<tr>
+<td>ELOY POST OFFICE</td>
+<td>620 N. MAIN ST.</td>
+<td>ELOY</td>
+<td>AZ</td>
+<td>85131</td>
+<td>5204663451</td>
+</tr>
+<tr>
+<td>COCONINO COUNTY CLERK OF SUPERIOR COURT</td>
+<td>200 N SAN FRANCISCO ST.</td>
+<td>FLAGSTAFF</td>
+<td>AZ</td>
+<td>86001</td>
+<td>9286797600</td>
+</tr>
+<tr>
+<td>FLAGSTAFF MAIN POST OFFICE</td>
+<td>2400 N POSTAL BLVD</td>
+<td>FLAGSTAFF</td>
+<td>AZ</td>
+<td>86004</td>
+<td>9287149302</td>
+</tr>
+<tr>
+<td>NORTHERN ARIZONA UNIVERSITY - CTR FOR INTL ED</td>
+<td>523 S KNOLES DR</td>
+<td>FLAGSTAFF</td>
+<td>AZ</td>
+<td>86011</td>
+<td>9285232409</td>
+</tr>
+<tr>
+<td>FLORENCE MAIN POST OFFICE</td>
+<td>501 N MAIN STREET</td>
+<td>FLORENCE</td>
+<td>AZ</td>
+<td>85132</td>
+<td>5208685651</td>
+</tr>
+<tr>
+<td>GLENDALE MAIN POST OFFICE</td>
+<td>5955 W PEORIA AVE</td>
+<td>GLENDALE</td>
+<td>AZ</td>
+<td>85302</td>
+<td>6234862029</td>
+</tr>
+<tr>
+<td>GILA COUNTY CLERK OF SUPERIOR COURT - GLOBE</td>
+<td>1400 EAST ASH STREET</td>
+<td>GLOBE</td>
+<td>AZ</td>
+<td>85501</td>
+<td>9284028866</td>
+</tr>
+<tr>
+<td>GLOBE POST OFFICE</td>
+<td>101 S. HILL STREET</td>
+<td>GLOBE</td>
+<td>AZ</td>
+<td>85501</td>
+<td>9284252381</td>
+</tr>
+<tr>
+<td>AVONDALE/GOODYEAR POST OFFICE</td>
+<td>875 S. ESTRELLA PARKWAY</td>
+<td>GOODYEAR</td>
+<td>AZ</td>
+<td>85338</td>
+<td>6238829148</td>
+</tr>
+<tr>
+<td>GREEN VALLEY POST OFFICE</td>
+<td>50 E. CONTINENTAL RD</td>
+<td>GREEN VALLEY</td>
+<td>AZ</td>
+<td>85614</td>
+<td>5206254221</td>
+</tr>
+<tr>
+<td>HIGLEY POST OFFICE</td>
+<td>3324 E. RAY RD</td>
+<td>HIGLEY</td>
+<td>AZ</td>
+<td>85236</td>
+<td>4809889796</td>
+</tr>
+<tr>
+<td>HOLBROOK POST OFFICE</td>
+<td>100 W. ERIE STREET</td>
+<td>HOLBROOK</td>
+<td>AZ</td>
+<td>86025</td>
+<td>9285243311</td>
+</tr>
+<tr>
+<td>NAVAJO COUNTY CLERK OF THE SUPERIOR COURT</td>
+<td>100 EAST CODE TALKERS DR</td>
+<td>HOLBROOK</td>
+<td>AZ</td>
+<td>86025</td>
+<td>9285244188</td>
+</tr>
+<tr>
+<td>HUMBOLDT POST OFFICE</td>
+<td>12814 E MAIN STREET</td>
+<td>HUMBOLDT</td>
+<td>AZ</td>
+<td>86329</td>
+<td>9286327411</td>
+</tr>
+<tr>
+<td>KAYENTA POST OFFICE</td>
+<td>391 HWY 163</td>
+<td>KAYENTA</td>
+<td>AZ</td>
+<td>86033</td>
+<td>9286973922</td>
+</tr>
+<tr>
+<td>KINGMAN MAIN POST OFFICE</td>
+<td>1901 JOHNSON AVE</td>
+<td>KINGMAN</td>
+<td>AZ</td>
+<td>86401</td>
+<td>9287532480</td>
+</tr>
+<tr>
+<td>MOHAVE COUNTY CLERK OF SUPERIOR COURT - KINGMAN</td>
+<td>401 EAST SPRING STREET</td>
+<td>KINGMAN</td>
+<td>AZ</td>
+<td>86401</td>
+<td>9287530713</td>
+</tr>
+<tr>
+<td>LAKE HAVASU CITY POST OFFICE</td>
+<td>1750 N MCCULLOCH BLVD</td>
+<td>LAKE HAVASU CITY</td>
+<td>AZ</td>
+<td>86403</td>
+<td>9288552361</td>
+</tr>
+<tr>
+<td>MOHAVE COUNTY CLERK OF SUPERIOR COURT - LAKE HAVASU CITY</td>
+<td>2001 COLLEGE DRIVE</td>
+<td>LAKE HAVASU CITY</td>
+<td>AZ</td>
+<td>86403</td>
+<td>9284530701</td>
+</tr>
+<tr>
+<td>CITY OF MARICOPA/CITY HALL</td>
+<td>39700 WEST CIVIC CENTER PLAZA</td>
+<td>MARICOPA</td>
+<td>AZ</td>
+<td>85138</td>
+<td>5205689098</td>
+</tr>
+<tr>
+<td>MARICOPA COUNTY CLERK OF SUPERIOR COURT - SE REGIONAL FACILITY</td>
+<td>222 EAST JAVELINA AVENUE</td>
+<td>MESA</td>
+<td>AZ</td>
+<td>85210</td>
+<td>6023725375</td>
+</tr>
+<tr>
+<td>SHERWOOD PASSPORT OFFICE</td>
+<td>325 S LINDSAY RD</td>
+<td>MESA</td>
+<td>AZ</td>
+<td>85204</td>
+<td>4809859026</td>
+</tr>
+<tr>
+<td>NOGALES MAIN POST OFFICE</td>
+<td>300 N. MORLEY AVE.</td>
+<td>NOGALES</td>
+<td>AZ</td>
+<td>85621</td>
+<td>5202879247</td>
+</tr>
+<tr>
+<td>SANTA CRUZ COUNTY CLERK OF SUPERIOR COURT</td>
+<td>2160 N. CONGRESS DRIVE, SUITE 2200</td>
+<td>NOGALES</td>
+<td>AZ</td>
+<td>85621</td>
+<td>5203757700</td>
+</tr>
+<tr>
+<td>PAGE POST OFFICE</td>
+<td>44 6TH AVENUE</td>
+<td>PAGE</td>
+<td>AZ</td>
+<td>86040</td>
+<td>9286452571</td>
+</tr>
+<tr>
+<td>LA PAZ COUNTY SUPERIOR COURT CLERK</td>
+<td>1316 KOFA AVENUE</td>
+<td>PARKER</td>
+<td>AZ</td>
+<td>85344</td>
+<td>9286696131</td>
+</tr>
+<tr>
+<td>PARKER POST OFFICE</td>
+<td>1500 S. CALIFORNIA AVE.</td>
+<td>PARKER</td>
+<td>AZ</td>
+<td>85344</td>
+<td>9286698179</td>
+</tr>
+<tr>
+<td>GILA COUNTY CLERK - PAYSON</td>
+<td>714 SOUTH BEELINE HWY</td>
+<td>PAYSON</td>
+<td>AZ</td>
+<td>85541</td>
+<td>9284743978</td>
+</tr>
+<tr>
+<td>AHWATUKEE POST OFFICE</td>
+<td>11010 S 51ST STREET</td>
+<td>PHOENIX</td>
+<td>AZ</td>
+<td>85044</td>
+<td>4808931748</td>
+</tr>
+<tr>
+<td>DAISY MOUNTAIN POST OFFICE</td>
+<td>44047 N. 43RD AVENUE</td>
+<td>PHOENIX</td>
+<td>AZ</td>
+<td>85087</td>
+<td>6235517950</td>
+</tr>
+<tr>
+<td>ED PASTOR POST OFFICE</td>
+<td>522 N CENTRAL AVE</td>
+<td>PHOENIX</td>
+<td>AZ</td>
+<td>85004</td>
+<td>6022539648</td>
+</tr>
+<tr>
+<td>MARICOPA COUNTY CLERK OF SUPERIOR COURT</td>
+<td>601 WEST JACKSON ST., 1ST FLOOR</td>
+<td>PHOENIX</td>
+<td>AZ</td>
+<td>85003</td>
+<td>6023725375</td>
+</tr>
+<tr>
+<td>MARYVALE POST OFFICE</td>
+<td>4415 N MARYVALE PKWY</td>
+<td>PHOENIX</td>
+<td>AZ</td>
+<td>85031</td>
+<td>6238482821</td>
+</tr>
+<tr>
+<td>NORTHEAST REGIONAL COURT CENTER</td>
+<td>18380 N 40TH ST.</td>
+<td>PHOENIX</td>
+<td>AZ</td>
+<td>85032</td>
+<td>6023725375</td>
+</tr>
+<tr>
+<td>PHOENIX CAPITOL STATION</td>
+<td>2 S. 35TH AVE</td>
+<td>PHOENIX</td>
+<td>AZ</td>
+<td>85009</td>
+<td>6024840719</td>
+</tr>
+<tr>
+<td>PHOENIX MAIN POST OFFICE</td>
+<td>4949 E VAN BUREN ST</td>
+<td>PHOENIX</td>
+<td>AZ</td>
+<td>85026</td>
+<td>6022253158</td>
+</tr>
+<tr>
+<td>PHOENIX RIO SALADO STATION</td>
+<td>1441 E BUCKEYE ROAD</td>
+<td>PHOENIX</td>
+<td>AZ</td>
+<td>85034</td>
+<td>6022233232</td>
+</tr>
+<tr>
+<td>PHOENIX SHAW BUTTE STATION</td>
+<td>12208 N 19TH AVE</td>
+<td>PHOENIX</td>
+<td>AZ</td>
+<td>85029</td>
+<td>6023314284</td>
+</tr>
+<tr>
+<td>PINETOP POST OFFICE</td>
+<td>712 EAST WHITE MOUNTAIN BLVD</td>
+<td>PINETOP</td>
+<td>AZ</td>
+<td>85935</td>
+<td>9283674756</td>
+</tr>
+<tr>
+<td>CLERK OF THE SUPERIOR COURT - PRESCOTT DISTRICT</td>
+<td>120 S. CORTEZ STREET</td>
+<td>PRESCOTT</td>
+<td>AZ</td>
+<td>86303</td>
+<td>9287713312</td>
+</tr>
+<tr>
+<td>PRESCOTT MAIN POST OFFICE</td>
+<td>442 MILLER VALLEY RD.</td>
+<td>PRESCOTT</td>
+<td>AZ</td>
+<td>86301</td>
+<td>9287781890</td>
+</tr>
+<tr>
+<td>PRESCOTT VALLEY RETAIL STATION</td>
+<td>8307 E STATE ROUTE 69</td>
+<td>PRESCOTT VALLEY</td>
+<td>AZ</td>
+<td>86314</td>
+<td>9287726996</td>
+</tr>
+<tr>
+<td>RILLITO POST OFFICE</td>
+<td>11651 N. CASA GRANDE DR</td>
+<td>RILLITO</td>
+<td>AZ</td>
+<td>85654</td>
+<td>5206823706</td>
+</tr>
+<tr>
+<td>GRAHAM COUNTY CLERK OF SUPERIOR COURT</td>
+<td>800 W MAIN STREET</td>
+<td>SAFFORD</td>
+<td>AZ</td>
+<td>85546</td>
+<td>9284283100</td>
+</tr>
+<tr>
+<td>SAHUARITA MUNICIPAL COURT</td>
+<td>360 W. SAHUARITA CENTER WAY</td>
+<td>SAHUARITA</td>
+<td>AZ</td>
+<td>85629</td>
+<td>5203447150</td>
+</tr>
+<tr>
+<td>SAN LUIS POST OFFICE</td>
+<td>874 S MAIN ST.</td>
+<td>SAN LUIS</td>
+<td>AZ</td>
+<td>85336</td>
+<td>9286277065</td>
+</tr>
+<tr>
+<td>SAN MANUEL POST OFFICE</td>
+<td>430 SOUTH AVENUE A</td>
+<td>SAN MANUEL</td>
+<td>AZ</td>
+<td>85631</td>
+<td>5203859341</td>
+</tr>
+<tr>
+<td>CITY OF SCOTTSDALE TAX AND LICENSE</td>
+<td>7447 E. INDIAN SCHOOL ROAD</td>
+<td>SCOTTSDALE</td>
+<td>AZ</td>
+<td>85251</td>
+<td>4803122400</td>
+</tr>
+<tr>
+<td>SCOTTSDALE MAIN POST OFFICE</td>
+<td>1776 N. SCOTTSDALE RD.</td>
+<td>SCOTTSDALE</td>
+<td>AZ</td>
+<td>85257</td>
+<td>4809491448</td>
+</tr>
+<tr>
+<td>SEDONA POST OFFICE</td>
+<td>190 W. STATE ROUTE 89A</td>
+<td>SEDONA</td>
+<td>AZ</td>
+<td>86336</td>
+<td>9282823511</td>
+</tr>
+<tr>
+<td>SHOW LOW POST OFFICE</td>
+<td>191 W DEUCE OF CLUBS</td>
+<td>SHOW LOW</td>
+<td>AZ</td>
+<td>85901</td>
+<td>9285374588</td>
+</tr>
+<tr>
+<td>COCHISE COUNTY CLERK OF SUPERIOR COURT - SIERRA VISTA</td>
+<td>100 COLONIA DE SALUD</td>
+<td>SIERRA VISTA</td>
+<td>AZ</td>
+<td>85635</td>
+<td>5208033060</td>
+</tr>
+<tr>
+<td>SIERRA VISTA MAIN POST OFFICE</td>
+<td>2300 E FRY BLVD.</td>
+<td>SIERRA VISTA</td>
+<td>AZ</td>
+<td>85635</td>
+<td>5204582540</td>
+</tr>
+<tr>
+<td>SPRINGERVILLE POST OFFICE</td>
+<td>5 E MAIN STREET</td>
+<td>SPRINGERVILLE</td>
+<td>AZ</td>
+<td>85938</td>
+<td>9283334962</td>
+</tr>
+<tr>
+<td>CLERK OF SUPERIOR COURT - APACHE COUNTY</td>
+<td>70 W. 3RD SOUTH</td>
+<td>ST JOHNS</td>
+<td>AZ</td>
+<td>85936</td>
+<td>9283377550</td>
+</tr>
+<tr>
+<td>SUN CITY POST OFFICE</td>
+<td>9802 WEST BELL ROAD</td>
+<td>SUN CITY</td>
+<td>AZ</td>
+<td>85351</td>
+<td>6239339887</td>
+</tr>
+<tr>
+<td>CITY OF SURPRISE - CITY HALL  AZ</td>
+<td>16000 N. CIVIC CENTER PLAZA</td>
+<td>SURPRISE</td>
+<td>AZ</td>
+<td>85374</td>
+<td>6232221200</td>
+</tr>
+<tr>
+<td>NORTHWEST REGIONAL COURT</td>
+<td>14264 W. TIERRA BUENA LANE</td>
+<td>SURPRISE</td>
+<td>AZ</td>
+<td>85374</td>
+<td>6023725375</td>
+</tr>
+<tr>
+<td>ARIZONA STATE UNIV - PASSPORT ACCEPTANCE OFFICE</td>
+<td>1100 E UNIVERSITY DR, SUITE 111</td>
+<td>TEMPE</td>
+<td>AZ</td>
+<td>85287</td>
+<td>4807277373</td>
+</tr>
+<tr>
+<td>TEMPE APACHE POST OFFICE</td>
+<td>1962 E APACHE BLVD</td>
+<td>TEMPE</td>
+<td>AZ</td>
+<td>85281</td>
+<td>4809290180</td>
+</tr>
+<tr>
+<td>TEMPE MAIN POST OFFICE</td>
+<td>233 E. SOUTHERN AVE.</td>
+<td>TEMPE</td>
+<td>AZ</td>
+<td>85282</td>
+<td>4809670956</td>
+</tr>
+<tr>
+<td>THATCHER POST OFFICE</td>
+<td>1122 N. STADIUM AVE</td>
+<td>THATCHER</td>
+<td>AZ</td>
+<td>85552</td>
+<td>9284280613</td>
+</tr>
+<tr>
+<td>PIMA COMMUNITY COLLEGE (PCC), EAST CAMPUS</td>
+<td>8181 E IRVINGTON RD</td>
+<td>TUCSON</td>
+<td>AZ</td>
+<td>85709</td>
+<td>5202067600</td>
+</tr>
+<tr>
+<td>PIMA COUNTY CLERK OF SUPERIOR COURT</td>
+<td>240 N STONE AVE</td>
+<td>TUCSON</td>
+<td>AZ</td>
+<td>85701</td>
+<td>5207243210</td>
+</tr>
+<tr>
+<td>PIMA COUNTY DEVELOPMENT SERVICES</td>
+<td>201 N STONE AVE</td>
+<td>TUCSON</td>
+<td>AZ</td>
+<td>85701</td>
+<td>5207249506</td>
+</tr>
+<tr>
+<td>TUCSON MAIN POST OFFICE - CHERRYBELL</td>
+<td>1501 S CHERRYBELL STRAV</td>
+<td>TUCSON</td>
+<td>AZ</td>
+<td>85726</td>
+<td>5203885043</td>
+</tr>
+<tr>
+<td>UA PASSPORTS</td>
+<td>615 N PARK AVENUE, ROOM 103</td>
+<td>TUCSON</td>
+<td>AZ</td>
+<td>85721</td>
+<td>5206267161</td>
+</tr>
+<tr>
+<td>WICKENBURG POST OFFICE</td>
+<td>2029 W. WICKENBURG WAY</td>
+<td>WICKENBURG</td>
+<td>AZ</td>
+<td>85390</td>
+<td>9286842138</td>
+</tr>
+<tr>
+<td>WILLCOX POST OFFICE</td>
+<td>200 S CURTIS AVENUE</td>
+<td>WILLCOX</td>
+<td>AZ</td>
+<td>85643</td>
+<td>5203842689</td>
+</tr>
+<tr>
+<td>NAVAJO NATION SUPREME COURT</td>
+<td>101 VETERANS MEMORIAL PARK #1</td>
+<td>WINDOW ROCK</td>
+<td>AZ</td>
+<td>86515</td>
+<td>9288716763</td>
+</tr>
+<tr>
+<td>YUMA COUNTY CLERK OF SUPERIOR COURT</td>
+<td>250 W. 2ND ST., SUITE B</td>
+<td>YUMA</td>
+<td>AZ</td>
+<td>85364</td>
+<td>9288174210</td>
+</tr>
+<tr>
+<td>YUMA MAIN POST OFFICE</td>
+<td>2222 SOUTH 4TH AVE</td>
+<td>YUMA</td>
+<td>AZ</td>
+<td>85364</td>
+<td>9283439416</td>
+</tr>
+</tbody>
+</table>
