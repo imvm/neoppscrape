@@ -1,686 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>PONTOTOC COUNTY COURT CLERK</td>
-<td>120 W. 13TH STREET</td>
-<td>ADA</td>
-<td>OK</td>
-<td>74820</td>
-<td>5803325763</td>
-</tr>
-<tr>
-<td>ALTUS POST OFFICE</td>
-<td>217 W. CYPRESS</td>
-<td>ALTUS</td>
-<td>OK</td>
-<td>73521</td>
-<td>5804823339</td>
-</tr>
-<tr>
-<td>JACKSON COUNTY COURT CLERK</td>
-<td>101 N MAIN, ROOM 303</td>
-<td>ALTUS</td>
-<td>OK</td>
-<td>73521</td>
-<td>5804820448</td>
-</tr>
-<tr>
-<td>WOODS COUNTY COURT CLERK</td>
-<td>407 GOVERNMENT ST.</td>
-<td>ALVA</td>
-<td>OK</td>
-<td>73717</td>
-<td>5803273119</td>
-</tr>
-<tr>
-<td>CADDO COUNTY COURT CLERK</td>
-<td>110 SW 2ND STREET</td>
-<td>ANADARKO</td>
-<td>OK</td>
-<td>73005</td>
-<td>4052473393</td>
-</tr>
-<tr>
-<td>CUSTER COUNTY COURT CLERK</td>
-<td>675 B STREET</td>
-<td>ARAPAHO</td>
-<td>OK</td>
-<td>73620</td>
-<td>5803233233</td>
-</tr>
-<tr>
-<td>ARDMORE POST OFFICE</td>
-<td>208 1ST AVE SW</td>
-<td>ARDMORE</td>
-<td>OK</td>
-<td>73401</td>
-<td>5802231583</td>
-</tr>
-<tr>
-<td>CHAMPION PUBLIC LIBRARY</td>
-<td>601 RAILWAY EXPRESS</td>
-<td>ARDMORE</td>
-<td>OK</td>
-<td>73401</td>
-<td>5802233164</td>
-</tr>
-<tr>
-<td>BARTLESVILLE MAIN POST OFFICE</td>
-<td>615 SW JENNINGS AVE</td>
-<td>BARTLESVILLE</td>
-<td>OK</td>
-<td>74003</td>
-<td>9183367152</td>
-</tr>
-<tr>
-<td>BEAVER POST OFFICE</td>
-<td>16 E. 2ND ST.</td>
-<td>BEAVER</td>
-<td>OK</td>
-<td>73932</td>
-<td>5806253362</td>
-</tr>
-<tr>
-<td>BIXBY POST OFFICE</td>
-<td>16 S. A. AVENUE</td>
-<td>BIXBY</td>
-<td>OK</td>
-<td>74008</td>
-<td>9183668270</td>
-</tr>
-<tr>
-<td>BLANCHARD POST OFFICE</td>
-<td>1200 N. COUNCIL RD.</td>
-<td>BLANCHARD</td>
-<td>OK</td>
-<td>73010</td>
-<td>4054853034</td>
-</tr>
-<tr>
-<td>BROKEN ARROW MAIN POST OFFICE</td>
-<td>1701 S. MAIN ST.</td>
-<td>BROKEN ARROW</td>
-<td>OK</td>
-<td>74012</td>
-<td>9182585652</td>
-</tr>
-<tr>
-<td>LINCOLN COUNTY COURT CLERK</td>
-<td>811 MANVEL AVE</td>
-<td>CHANDLER</td>
-<td>OK</td>
-<td>74834</td>
-<td>4052581309</td>
-</tr>
-<tr>
-<td>CHECOTAH POST OFFICE</td>
-<td>213 W. SPAULDING ST.</td>
-<td>CHECOTAH</td>
-<td>OK</td>
-<td>74426</td>
-<td>9184735606</td>
-</tr>
-<tr>
-<td>ALFALFA COUNTY COURT CLERK</td>
-<td>300 S. GRAND AVE.</td>
-<td>CHEROKEE</td>
-<td>OK</td>
-<td>73728</td>
-<td>5805963523</td>
-</tr>
-<tr>
-<td>ROGER MILLS COUNTY COURT CLERK</td>
-<td>500 E BROADWAY</td>
-<td>CHEYENNE</td>
-<td>OK</td>
-<td>73628</td>
-<td>5804973361</td>
-</tr>
-<tr>
-<td>GRADY COUNTY EMERGENCY MANAGEMENT</td>
-<td>315 W. PENNSYLVANIA AVE.</td>
-<td>CHICKASHA</td>
-<td>OK</td>
-<td>73018</td>
-<td>4052222339</td>
-</tr>
-<tr>
-<td>CLAREMORE PO</td>
-<td>400 W. 9TH ST.</td>
-<td>CLAREMORE</td>
-<td>OK</td>
-<td>74017</td>
-<td>9183435912</td>
-</tr>
-<tr>
-<td>COALGATE POST OFFICE</td>
-<td>38 N MAIN ST.</td>
-<td>COALGATE</td>
-<td>OK</td>
-<td>74538</td>
-<td>5809272223</td>
-</tr>
-<tr>
-<td>STEPHENS COUNTY COURT CLERK</td>
-<td>101 SOUTH 11TH RM 301</td>
-<td>DUNCAN</td>
-<td>OK</td>
-<td>73533</td>
-<td>5804702000</td>
-</tr>
-<tr>
-<td>BRYAN COUNTY COURT CLERK</td>
-<td>402 WEST EVERGREEN</td>
-<td>DURANT</td>
-<td>OK</td>
-<td>74701</td>
-<td>5809241446</td>
-</tr>
-<tr>
-<td>COFFEE CREEK STATION</td>
-<td>407 W. COVELL ROAD</td>
-<td>EDMOND</td>
-<td>OK</td>
-<td>73003</td>
-<td>4058440583</td>
-</tr>
-<tr>
-<td>OKLAHOMA COUNTY COURT CLERK</td>
-<td>28 E. MAIN</td>
-<td>EDMOND</td>
-<td>OK</td>
-<td>73034</td>
-<td>4053594514</td>
-</tr>
-<tr>
-<td>CANADIAN COUNTY COURT CLERK</td>
-<td>301 NORTH CHOCTAW AVENUE</td>
-<td>EL RENO</td>
-<td>OK</td>
-<td>73036</td>
-<td>4052956167</td>
-</tr>
-<tr>
-<td>EL RENO PO</td>
-<td>203 N.EVANS AVE.</td>
-<td>EL RENO</td>
-<td>OK</td>
-<td>73036</td>
-<td>4052766095</td>
-</tr>
-<tr>
-<td>ENID POST OFFICE</td>
-<td>115 W. BROADWAY AVE</td>
-<td>ENID</td>
-<td>OK</td>
-<td>73701</td>
-<td>5802374331</td>
-</tr>
-<tr>
-<td>GARFIELD COUNTY COURT CLERK</td>
-<td>114 WEST BROADWAY</td>
-<td>ENID</td>
-<td>OK</td>
-<td>73701</td>
-<td>5802370232</td>
-</tr>
-<tr>
-<td>EUFAULA POST OFFICE</td>
-<td>131 W. FOLEY ST.</td>
-<td>EUFAULA</td>
-<td>OK</td>
-<td>74432</td>
-<td>9186892622</td>
-</tr>
-<tr>
-<td>MAJOR COUNTY COURT CLERK</td>
-<td>500 E BROADWAY</td>
-<td>FAIRVIEW</td>
-<td>OK</td>
-<td>73737</td>
-<td>5802274690</td>
-</tr>
-<tr>
-<td>GROVE POST OFFICE</td>
-<td>1200 S SHUNDI ST</td>
-<td>GROVE</td>
-<td>OK</td>
-<td>74344</td>
-<td>9187862266</td>
-</tr>
-<tr>
-<td>GUTHRIE POST OFFICE</td>
-<td>201 W. OKLAHOMA AVE.</td>
-<td>GUTHRIE</td>
-<td>OK</td>
-<td>73044</td>
-<td>4052824736</td>
-</tr>
-<tr>
-<td>GUYMON OK POST OFFICE</td>
-<td>302 N QUINN ST</td>
-<td>GUYMON</td>
-<td>OK</td>
-<td>73942</td>
-<td>5803386422</td>
-</tr>
-<tr>
-<td>TEXAS COUNTY COURT CLERK</td>
-<td>319 N. MAIN ST.</td>
-<td>GUYMON</td>
-<td>OK</td>
-<td>73942</td>
-<td>5803383003</td>
-</tr>
-<tr>
-<td>HENNESSEY POST OFFICE</td>
-<td>221 S MAIN ST.</td>
-<td>HENNESSEY</td>
-<td>OK</td>
-<td>73742</td>
-<td>4058532928</td>
-</tr>
-<tr>
-<td>HENRYETTA POST OFFICE</td>
-<td>201 N. 5TH ST</td>
-<td>HENRYETTA</td>
-<td>OK</td>
-<td>74437</td>
-<td>9186527834</td>
-</tr>
-<tr>
-<td>KIOWA COUNTY COURT CLERK</td>
-<td>316 S. MAIN</td>
-<td>HOBART</td>
-<td>OK</td>
-<td>73651</td>
-<td>5807265125</td>
-</tr>
-<tr>
-<td>HARMON COUNTY COURT CLERK</td>
-<td>114 W HOLLIS ST.</td>
-<td>HOLLIS</td>
-<td>OK</td>
-<td>73550</td>
-<td>5806883617</td>
-</tr>
-<tr>
-<td>HUGO POST OFFICE</td>
-<td>207 N 4TH ST</td>
-<td>HUGO</td>
-<td>OK</td>
-<td>74743</td>
-<td>5803266696</td>
-</tr>
-<tr>
-<td>JENKS POST OFFICE</td>
-<td>303 E. A .ST.</td>
-<td>JENKS</td>
-<td>OK</td>
-<td>74037</td>
-<td>9182983193</td>
-</tr>
-<tr>
-<td>KINGFISHER COUNTY COURT CLERK</td>
-<td>101 SOUTH MAIN</td>
-<td>KINGFISHER</td>
-<td>OK</td>
-<td>73750</td>
-<td>4053753813</td>
-</tr>
-<tr>
-<td>COMANCHE COUNTY COURT CLERK</td>
-<td>315 SW 5TH ST.</td>
-<td>LAWTON</td>
-<td>OK</td>
-<td>73501</td>
-<td>5803554017</td>
-</tr>
-<tr>
-<td>LAWTON MAIN POST OFFICE</td>
-<td>501 SW 5TH ST.</td>
-<td>LAWTON</td>
-<td>OK</td>
-<td>73501</td>
-<td>5803531500</td>
-</tr>
-<tr>
-<td>GREER COUNTY COURT CLERK</td>
-<td>106 E. JEFFERSON</td>
-<td>MANGUM</td>
-<td>OK</td>
-<td>73554</td>
-<td>5807823665</td>
-</tr>
-<tr>
-<td>MCALESTER MPO</td>
-<td>500 E. WASHINGTON AVE.</td>
-<td>MCALESTER</td>
-<td>OK</td>
-<td>74501</td>
-<td>9184234048</td>
-</tr>
-<tr>
-<td>PITTSBURG COUNTY COURT CLERK</td>
-<td>115 E. CARL ALBERT PKWY</td>
-<td>MCALESTER</td>
-<td>OK</td>
-<td>74501</td>
-<td>9184234859</td>
-</tr>
-<tr>
-<td>MIAMI POST OFFICE</td>
-<td>34 A ST.  NE</td>
-<td>MIAMI</td>
-<td>OK</td>
-<td>74354</td>
-<td>9185421018</td>
-</tr>
-<tr>
-<td>MUSKOGEE POST OFFICE</td>
-<td>505 N MAIN ST.</td>
-<td>MUSKOGEE</td>
-<td>OK</td>
-<td>74401</td>
-<td>9186865246</td>
-</tr>
-<tr>
-<td>MUSTANG POST OFFICE</td>
-<td>600 N. MUSTANG RD.</td>
-<td>MUSTANG</td>
-<td>OK</td>
-<td>73064</td>
-<td>4053762681</td>
-</tr>
-<tr>
-<td>KAY COUNTY COURT CLERK</td>
-<td>201 S. MAIN STREET</td>
-<td>NEWKIRK</td>
-<td>OK</td>
-<td>74647</td>
-<td>5803623350</td>
-</tr>
-<tr>
-<td>NORMAN MAIN POST OFFICE</td>
-<td>129 W. GRAY AVE</td>
-<td>NORMAN</td>
-<td>OK</td>
-<td>73069</td>
-<td>4055157415</td>
-</tr>
-<tr>
-<td>OKLAHOMA UNIVERSITY (OU) PASSPORT</td>
-<td>900 ASP AVENUE, ROOM 127A</td>
-<td>NORMAN</td>
-<td>OK</td>
-<td>73019</td>
-<td>4053253030</td>
-</tr>
-<tr>
-<td>SOONER STATION</td>
-<td>200 36TH AVE. N.W</td>
-<td>NORMAN</td>
-<td>OK</td>
-<td>73072</td>
-<td>4053666149</td>
-</tr>
-<tr>
-<td>OKFUSKEE COUNTY COURT CLERK</td>
-<td>209 N 3RD ST.</td>
-<td>OKEMAH</td>
-<td>OK</td>
-<td>74859</td>
-<td>9186230525</td>
-</tr>
-<tr>
-<td>CENTER CITY STATION</td>
-<td>305 NW 5TH ST.</td>
-<td>OKLAHOMA CITY</td>
-<td>OK</td>
-<td>73102</td>
-<td>4052360321</td>
-</tr>
-<tr>
-<td>OKLAHOMA COUNTY COURT CLERK</td>
-<td>320 ROBERT S. KERR</td>
-<td>OKLAHOMA CITY</td>
-<td>OK</td>
-<td>73102</td>
-<td>4057132262</td>
-</tr>
-<tr>
-<td>RENO - MERIDIAN POST OFFICE</td>
-<td>4901 W. RENO</td>
-<td>OKLAHOMA CITY</td>
-<td>OK</td>
-<td>73127</td>
-<td>4059499761</td>
-</tr>
-<tr>
-<td>OKMULGEE POST OFFICE</td>
-<td>111 W. 4TH</td>
-<td>OKMULGEE</td>
-<td>OK</td>
-<td>74447</td>
-<td>9187563747</td>
-</tr>
-<tr>
-<td>NOBLE COUNTY COURT CLERK</td>
-<td>300 COURT HOUSE DRIVE</td>
-<td>PERRY</td>
-<td>OK</td>
-<td>73077</td>
-<td>5803365187</td>
-</tr>
-<tr>
-<td>POTEAU POST OFFICE</td>
-<td>115 N. WITTE ST.</td>
-<td>POTEAU</td>
-<td>OK</td>
-<td>74953</td>
-<td>9186473410</td>
-</tr>
-<tr>
-<td>MAYES COUNTY COURT CLERK</td>
-<td>ONE COURT PLACE</td>
-<td>PRYOR</td>
-<td>OK</td>
-<td>74361</td>
-<td>9188252185</td>
-</tr>
-<tr>
-<td>SEQUOYAH COUNTY COURT CLERK</td>
-<td>120 EAST CHICKASAW AVE</td>
-<td>SALLISAW</td>
-<td>OK</td>
-<td>74955</td>
-<td>9187754411</td>
-</tr>
-<tr>
-<td>BECKHAM COUNTY COURT CLERK</td>
-<td>104 S 3RD</td>
-<td>SAYRE</td>
-<td>OK</td>
-<td>73662</td>
-<td>5809283330</td>
-</tr>
-<tr>
-<td>POTTAWATOMIE COUNTY COURT CLERK</td>
-<td>325 N BROADWAY</td>
-<td>SHAWNEE</td>
-<td>OK</td>
-<td>74801</td>
-<td>4052733624</td>
-</tr>
-<tr>
-<td>SKIATOOK POST OFFICE</td>
-<td>303 E. 2ND ST</td>
-<td>SKIATOOK</td>
-<td>OK</td>
-<td>74070</td>
-<td>9183962495</td>
-</tr>
-<tr>
-<td>HASKELL COUNTY COURT CLERK</td>
-<td>202 E. MAIN</td>
-<td>STIGLER</td>
-<td>OK</td>
-<td>74462</td>
-<td>9189673323</td>
-</tr>
-<tr>
-<td>OKLAHOMA STATE UNIVERSITY</td>
-<td>311 S MONROE STREET</td>
-<td>STILLWATER</td>
-<td>OK</td>
-<td>74078</td>
-<td>4057445385</td>
-</tr>
-<tr>
-<td>PAYNE COUNTY COURT CLERK</td>
-<td>606 S. HUSBAND ST.</td>
-<td>STILLWATER</td>
-<td>OK</td>
-<td>74074</td>
-<td>4053724774</td>
-</tr>
-<tr>
-<td>STILLWATER POST OFFICE</td>
-<td>809 S. LEWIS ST</td>
-<td>STILLWATER</td>
-<td>OK</td>
-<td>74074</td>
-<td>4053722501</td>
-</tr>
-<tr>
-<td>STILWELL POST OFFICE</td>
-<td>16 S 2ND ST</td>
-<td>STILWELL</td>
-<td>OK</td>
-<td>74960</td>
-<td>9186967173</td>
-</tr>
-<tr>
-<td>MURRAY COUNTY COURT CLERK</td>
-<td>1001 W   WYANDOTTE STREET</td>
-<td>SULPHUR</td>
-<td>OK</td>
-<td>73086</td>
-<td>5806223223</td>
-</tr>
-<tr>
-<td>CHEROKEE COUNTY COURT CLERK</td>
-<td>213 W DELAWARE</td>
-<td>TAHLEQUAH</td>
-<td>OK</td>
-<td>74464</td>
-<td>9184560691</td>
-</tr>
-<tr>
-<td>DEWEY COUNTY COURT CLERK</td>
-<td>104 W RUBLE</td>
-<td>TALOGA</td>
-<td>OK</td>
-<td>73667</td>
-<td>5803285521</td>
-</tr>
-<tr>
-<td>EASTSIDE POST OFFICE</td>
-<td>2920  S.129TH EAST AVE.</td>
-<td>TULSA</td>
-<td>OK</td>
-<td>74134</td>
-<td>9186641791</td>
-</tr>
-<tr>
-<td>SOUTHEAST POST OFFICE</td>
-<td>9023 E. 46TH STREET</td>
-<td>TULSA</td>
-<td>OK</td>
-<td>74145</td>
-<td>9186274637</td>
-</tr>
-<tr>
-<td>TULSA COUNTY COURT CLERKS OFFICE</td>
-<td>500 SOUTH DENVER AVE</td>
-<td>TULSA</td>
-<td>OK</td>
-<td>74103</td>
-<td>9185965419</td>
-</tr>
-<tr>
-<td>WEST TULSA STATION</td>
-<td>3408 W. 42ND PL.</td>
-<td>TULSA</td>
-<td>OK</td>
-<td>74107</td>
-<td>9184463976</td>
-</tr>
-<tr>
-<td>CRAIG COUNTY COURT CLERK</td>
-<td>210 WEST DELAWARE</td>
-<td>VINITA</td>
-<td>OK</td>
-<td>74301</td>
-<td>9182566451</td>
-</tr>
-<tr>
-<td>WAGONER POST OFFICE</td>
-<td>233 E. CHURCH ST.</td>
-<td>WAGONER</td>
-<td>OK</td>
-<td>74467</td>
-<td>9184851043</td>
-</tr>
-<tr>
-<td>COTTON COUNTY COURT CLERK OFFICE</td>
-<td>301 N. BROADWAY 3RD FL</td>
-<td>WALTERS</td>
-<td>OK</td>
-<td>73572</td>
-<td>5808753029</td>
-</tr>
-<tr>
-<td>BLAINE COUNTY COURT CLERK</td>
-<td>212 N WEIGLE</td>
-<td>WATONGA</td>
-<td>OK</td>
-<td>73772</td>
-<td>5806235300</td>
-</tr>
-<tr>
-<td>WEATHERFORD MAIN POST OFFICE</td>
-<td>107 E. FRANKLIN AVE.</td>
-<td>WEATHERFORD</td>
-<td>OK</td>
-<td>73096</td>
-<td>5807722412</td>
-</tr>
-<tr>
-<td>WOODWARD COUNTY COURT CLERK</td>
-<td>1600 MAIN</td>
-<td>WOODWARD</td>
-<td>OK</td>
-<td>73801</td>
-<td>5802563413</td>
-</tr>
-<tr>
-<td>WOODWARD POST OFFICE</td>
-<td>2020 WILLIAMS AVE</td>
-<td>WOODWARD</td>
-<td>OK</td>
-<td>73801</td>
-<td>5802567138</td>
-</tr>
-</tbody>
-</table>

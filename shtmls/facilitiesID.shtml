@@ -1,526 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>POWER COUNTY CLERKS OFFICE</td>
-<td>543 BANNOCK AVE.</td>
-<td>AMERICAN FALLS</td>
-<td>ID</td>
-<td>83211</td>
-<td>2082267611</td>
-</tr>
-<tr>
-<td>BUTTE COUNTY CLERK OF THE DISTRICT COURT</td>
-<td>205 WEST GRAND AVE</td>
-<td>ARCO</td>
-<td>ID</td>
-<td>83213</td>
-<td>2085273021</td>
-</tr>
-<tr>
-<td>BINGHAM COUNTY CLERKS OFFICE</td>
-<td>501 N. MAPLE, #205</td>
-<td>BLACKFOOT</td>
-<td>ID</td>
-<td>83221</td>
-<td>2087823160</td>
-</tr>
-<tr>
-<td>USPO - BLACKFOOT</td>
-<td>165 W. PACIFIC ST.</td>
-<td>BLACKFOOT</td>
-<td>ID</td>
-<td>83221</td>
-<td>2087850333</td>
-</tr>
-<tr>
-<td>BOISE STATE UNIVERSITY</td>
-<td>2055 CESAR CHAVEZ LANE, #227</td>
-<td>BOISE</td>
-<td>ID</td>
-<td>83725</td>
-<td>2084262630</td>
-</tr>
-<tr>
-<td>USPO - BOISE MAIN OFFICE</td>
-<td>770 S. 13TH ST</td>
-<td>BOISE</td>
-<td>ID</td>
-<td>83708</td>
-<td>2084334351</td>
-</tr>
-<tr>
-<td>BOUNDARY COUNTY CLERK</td>
-<td>6452 KOOTENAI ST.</td>
-<td>BONNERS FERRY</td>
-<td>ID</td>
-<td>83805</td>
-<td>2082672242</td>
-</tr>
-<tr>
-<td>CASSIA COUNTY RECORDER</td>
-<td>1459 OVERLAND AVE, RM 105</td>
-<td>BURLEY</td>
-<td>ID</td>
-<td>83318</td>
-<td>2088785240</td>
-</tr>
-<tr>
-<td>CANYON COUNTY CLERK</td>
-<td>111 N. 11TH AVE, SUITE 330</td>
-<td>CALDWELL</td>
-<td>ID</td>
-<td>83605</td>
-<td>2084547555</td>
-</tr>
-<tr>
-<td>VALLEY COUNTY CLERK RECORDER</td>
-<td>219 NORTH MAIN ST.</td>
-<td>CASCADE</td>
-<td>ID</td>
-<td>83611</td>
-<td>2083827100</td>
-</tr>
-<tr>
-<td>CUSTER COUNTY CLERK</td>
-<td>801 E. MAIN AVE</td>
-<td>CHALLIS</td>
-<td>ID</td>
-<td>83226</td>
-<td>2088792360</td>
-</tr>
-<tr>
-<td>KOOTENAI COUNTY RECORDER</td>
-<td>451 N. GOVERNMENT WAY</td>
-<td>COEUR D ALENE</td>
-<td>ID</td>
-<td>83814</td>
-<td>2084461480</td>
-</tr>
-<tr>
-<td>USPO - COEUR D ALENE</td>
-<td>111 N. 7TH ST</td>
-<td>COEUR D ALENE</td>
-<td>ID</td>
-<td>83814</td>
-<td>2087653741</td>
-</tr>
-<tr>
-<td>ADAMS COUNTY CLERK</td>
-<td>201 INDUSTRIAL AVE.</td>
-<td>COUNCIL</td>
-<td>ID</td>
-<td>83612</td>
-<td>2082534561</td>
-</tr>
-<tr>
-<td>TETON COUNTY CLERK</td>
-<td>150 COURTHOUSE DR, #208</td>
-<td>DRIGGS</td>
-<td>ID</td>
-<td>83422</td>
-<td>2083548780</td>
-</tr>
-<tr>
-<td>CLARK COUNTY RECORDER</td>
-<td>224 W. MAIN</td>
-<td>DUBOIS</td>
-<td>ID</td>
-<td>83423</td>
-<td>2083745304</td>
-</tr>
-<tr>
-<td>GEM COUNTY CLERKS OFFICE</td>
-<td>415 E. MAIN STREET</td>
-<td>EMMETT</td>
-<td>ID</td>
-<td>83617</td>
-<td>2083654561</td>
-</tr>
-<tr>
-<td>CAMAS COUNTY CLERK</td>
-<td>501 SOLDIER RD.</td>
-<td>FAIRFIELD</td>
-<td>ID</td>
-<td>83327</td>
-<td>2087642242</td>
-</tr>
-<tr>
-<td>GOODING COUNTY CLERK</td>
-<td>624 MAIN ST.</td>
-<td>GOODING</td>
-<td>ID</td>
-<td>83330</td>
-<td>2089344841</td>
-</tr>
-<tr>
-<td>IDAHO COUNTY RECORDER</td>
-<td>320 W. MAIN ST, RM 5</td>
-<td>GRANGEVILLE</td>
-<td>ID</td>
-<td>83530</td>
-<td>2089832751</td>
-</tr>
-<tr>
-<td>BLAINE COUNTY CLERK</td>
-<td>206 1ST AVE S, STE 200</td>
-<td>HAILEY</td>
-<td>ID</td>
-<td>83333</td>
-<td>2087885505</td>
-</tr>
-<tr>
-<td>USPO - HAILEY</td>
-<td>820 S. MAIN ST.</td>
-<td>HAILEY</td>
-<td>ID</td>
-<td>83333</td>
-<td>2087882276</td>
-</tr>
-<tr>
-<td>BOISE COUNTY AUDITOR AND RECORDER</td>
-<td>420 MAIN ST.</td>
-<td>IDAHO CITY</td>
-<td>ID</td>
-<td>83631</td>
-<td>2083924431</td>
-</tr>
-<tr>
-<td>BONNEVILLE COUNTY RECORDER</td>
-<td>605 N. CAPITAL AVE</td>
-<td>IDAHO FALLS</td>
-<td>ID</td>
-<td>83402</td>
-<td>2085291350</td>
-</tr>
-<tr>
-<td>USPO - IDAHO FALLS</td>
-<td>605 4TH ST.</td>
-<td>IDAHO FALLS</td>
-<td>ID</td>
-<td>83401</td>
-<td>2085252511</td>
-</tr>
-<tr>
-<td>JEROME COUNTY RECORDER</td>
-<td>300 N. LINCOLN, STE 301</td>
-<td>JEROME</td>
-<td>ID</td>
-<td>83338</td>
-<td>2086442714</td>
-</tr>
-<tr>
-<td>USPO - KETCHUM</td>
-<td>151 4TH ST W.</td>
-<td>KETCHUM</td>
-<td>ID</td>
-<td>83340</td>
-<td>2087265161</td>
-</tr>
-<tr>
-<td>KUNA LIBRARY DISTRICT</td>
-<td>457 N. LOCUST AVE</td>
-<td>KUNA</td>
-<td>ID</td>
-<td>83634</td>
-<td>2089221025</td>
-</tr>
-<tr>
-<td>NEZ PERCE COUNTY AUDITORS OFFICE</td>
-<td>1230 MAIN ST.</td>
-<td>LEWISTON</td>
-<td>ID</td>
-<td>83501</td>
-<td>2087993020</td>
-</tr>
-<tr>
-<td>USPO - LEWISTON</td>
-<td>1613 IDAHO ST.</td>
-<td>LEWISTON</td>
-<td>ID</td>
-<td>83501</td>
-<td>2087984929</td>
-</tr>
-<tr>
-<td>ONEIDA COUNTY COURTHOUSE</td>
-<td>10 COURT ST.</td>
-<td>MALAD</td>
-<td>ID</td>
-<td>83252</td>
-<td>2087664116</td>
-</tr>
-<tr>
-<td>CITY OF MERIDIAN</td>
-<td>33 E. BROADWAY, #104</td>
-<td>MERIDIAN</td>
-<td>ID</td>
-<td>83642</td>
-<td>2084890387</td>
-</tr>
-<tr>
-<td>USPO - MONTPELIER</td>
-<td>804 GRANT STREET</td>
-<td>MONTPELIER</td>
-<td>ID</td>
-<td>83254</td>
-<td>2088471894</td>
-</tr>
-<tr>
-<td>LATAH COUNTY AUDITOR</td>
-<td>522 S. ADAMS ST. STE 101</td>
-<td>MOSCOW</td>
-<td>ID</td>
-<td>83843</td>
-<td>2088832249</td>
-</tr>
-<tr>
-<td>USPO - MOSCOW</td>
-<td>220 E. 5TH ST</td>
-<td>MOSCOW</td>
-<td>ID</td>
-<td>83843</td>
-<td>2088838464</td>
-</tr>
-<tr>
-<td>ELMORE COUNTY RECORDER</td>
-<td>150 S. 4TH E. STE 3</td>
-<td>MOUNTAIN HOME</td>
-<td>ID</td>
-<td>83647</td>
-<td>2085872130</td>
-</tr>
-<tr>
-<td>OWYHEE COUNTY COURTHOUSE</td>
-<td>20381 ST. HWY. 78</td>
-<td>MURPHY</td>
-<td>ID</td>
-<td>83650</td>
-<td>2084952806</td>
-</tr>
-<tr>
-<td>NAMPA CITY CLERKS OFFICE</td>
-<td>411 3RD STREET SOUTH</td>
-<td>NAMPA</td>
-<td>ID</td>
-<td>83651</td>
-<td>2084685415</td>
-</tr>
-<tr>
-<td>LEWIS COUNTY CLERK OF DISTRICT COURT</td>
-<td>510 OAK ST., SUITE 1</td>
-<td>NEZPERCE</td>
-<td>ID</td>
-<td>83543</td>
-<td>2089372661</td>
-</tr>
-<tr>
-<td>CLEARWATER COUNTY AUDITOR - RECORDER</td>
-<td>150 MICHIGAN AVENUE, ROOM 106</td>
-<td>OROFINO</td>
-<td>ID</td>
-<td>83544</td>
-<td>2084765615</td>
-</tr>
-<tr>
-<td>PAYETTE COUNTY CLERK</td>
-<td>1130 3RD AVE N. RM 104</td>
-<td>PAYETTE</td>
-<td>ID</td>
-<td>83661</td>
-<td>2086426000</td>
-</tr>
-<tr>
-<td>BANNOCK COUNTY CLERK</td>
-<td>624 E. CENTER ST, RM 211</td>
-<td>POCATELLO</td>
-<td>ID</td>
-<td>83201</td>
-<td>2082367343</td>
-</tr>
-<tr>
-<td>USPO - POCATELLO</td>
-<td>730 E. CLARK ST</td>
-<td>POCATELLO</td>
-<td>ID</td>
-<td>83201</td>
-<td>2082352190</td>
-</tr>
-<tr>
-<td>FRANKLIN COUNTY CLERK</td>
-<td>39 W. ONEIDA</td>
-<td>PRESTON</td>
-<td>ID</td>
-<td>83263</td>
-<td>2088521090</td>
-</tr>
-<tr>
-<td>MADISON COUNTY CLERK</td>
-<td>134 EAST MAIN ST.</td>
-<td>REXBURG</td>
-<td>ID</td>
-<td>83440</td>
-<td>2083596244</td>
-</tr>
-<tr>
-<td>USPO - REXBURG</td>
-<td>140 S CENTER ST.</td>
-<td>REXBURG</td>
-<td>ID</td>
-<td>83440</td>
-<td>2083565031</td>
-</tr>
-<tr>
-<td>JEFFERSON COUNTY CLERK</td>
-<td>210 COURTHOUSE WAY, STE 100</td>
-<td>RIGBY</td>
-<td>ID</td>
-<td>83442</td>
-<td>2087457756</td>
-</tr>
-<tr>
-<td>MINIDOKA COUNTY RECORDERS OFFICE</td>
-<td>715 G STREET</td>
-<td>RUPERT</td>
-<td>ID</td>
-<td>83350</td>
-<td>2084369511</td>
-</tr>
-<tr>
-<td>USPO - RUPERT</td>
-<td>724 F STREET</td>
-<td>RUPERT</td>
-<td>ID</td>
-<td>83350</td>
-<td>2084363446</td>
-</tr>
-<tr>
-<td>FREMONT COUNTY CLERK</td>
-<td>151 W. FIRST N. RM 12</td>
-<td>SAINT ANTHONY</td>
-<td>ID</td>
-<td>83445</td>
-<td>2086247332</td>
-</tr>
-<tr>
-<td>LEMHI COUNTY COURT</td>
-<td>206 COURTHOUSE DRIVE</td>
-<td>SALMON</td>
-<td>ID</td>
-<td>83467</td>
-<td>2087562815</td>
-</tr>
-<tr>
-<td>BONNER COUNTY RECORDER</td>
-<td>1500 HWY 2, STE 335</td>
-<td>SANDPOINT</td>
-<td>ID</td>
-<td>83864</td>
-<td>2082651490</td>
-</tr>
-<tr>
-<td>USPO - SANDPOINT</td>
-<td>204 N. 4TH AVE</td>
-<td>SANDPOINT</td>
-<td>ID</td>
-<td>83864</td>
-<td>2082632716</td>
-</tr>
-<tr>
-<td>USPO - SHELLEY</td>
-<td>244 W. PINE ST.</td>
-<td>SHELLEY</td>
-<td>ID</td>
-<td>83274</td>
-<td>2083573550</td>
-</tr>
-<tr>
-<td>LINCOLN COUNTY CLERK</td>
-<td>111 WEST B STREET, STE. C</td>
-<td>SHOSHONE</td>
-<td>ID</td>
-<td>83352</td>
-<td>2088867641</td>
-</tr>
-<tr>
-<td>CARIBOU COUNTY COURTHOUSE</td>
-<td>159 SOUTH MAIN</td>
-<td>SODA SPRINGS</td>
-<td>ID</td>
-<td>83276</td>
-<td>2085474324</td>
-</tr>
-<tr>
-<td>BENEWAH COUNTY CLERK OF COURT</td>
-<td>701 W. COLLEGE AVE, STE 101</td>
-<td>ST. MARIES</td>
-<td>ID</td>
-<td>83861</td>
-<td>2082453212</td>
-</tr>
-<tr>
-<td>USPO - ST MARIES</td>
-<td>222 S. 7TH ST. STE 2</td>
-<td>ST. MARIES</td>
-<td>ID</td>
-<td>83861</td>
-<td>2082452031</td>
-</tr>
-<tr>
-<td>TWIN FALLS COUNTY RECORDER</td>
-<td>630 ADDISON AVE W</td>
-<td>TWIN FALLS</td>
-<td>ID</td>
-<td>83301</td>
-<td>2087364004</td>
-</tr>
-<tr>
-<td>USPO - TWIN FALLS</td>
-<td>253 2ND AVE, W.</td>
-<td>TWIN FALLS</td>
-<td>ID</td>
-<td>83301</td>
-<td>2085367067</td>
-</tr>
-<tr>
-<td>USPO - VICTOR</td>
-<td>92 S. MAIN ST</td>
-<td>VICTOR</td>
-<td>ID</td>
-<td>83455</td>
-<td>2087872232</td>
-</tr>
-<tr>
-<td>CLERK OF THE DISTRICT COURT - SHOSHONE COUNTY</td>
-<td>700 BANK STREET, STE 120</td>
-<td>WALLACE</td>
-<td>ID</td>
-<td>83873</td>
-<td>2087521264</td>
-</tr>
-<tr>
-<td>USPO - WEISER</td>
-<td>106 W. MAIN ST</td>
-<td>WEISER</td>
-<td>ID</td>
-<td>83672</td>
-<td>2085490114</td>
-</tr>
-<tr>
-<td>WASHINGTON COUNTY CLERK</td>
-<td>256 E. COURT ST</td>
-<td>WEISER</td>
-<td>ID</td>
-<td>83672</td>
-<td>2084142092</td>
-</tr>
-</tbody>
-</table>

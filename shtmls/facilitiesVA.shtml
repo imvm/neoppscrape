@@ -1,1550 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ABINGDON MAIN POST OFFICE</td>
-<td>300 WEST MAIN ST</td>
-<td>ABINGDON</td>
-<td>VA</td>
-<td>24210</td>
-<td>2766281121</td>
-</tr>
-<tr>
-<td>WASHINGTON CO VA TREASURERS OFFICE</td>
-<td>1 GOVERNMENT CENTER PLACE .</td>
-<td>ABINGDON</td>
-<td>VA</td>
-<td>24210</td>
-<td>2766766272</td>
-</tr>
-<tr>
-<td>ALEXANDRIA LIBRARY BARRETT BRANCH LIBRARY</td>
-<td>717 QUEEN ST.</td>
-<td>ALEXANDRIA</td>
-<td>VA</td>
-<td>22314</td>
-<td>7037461703</td>
-</tr>
-<tr>
-<td>ALEXANDRIA LIBRARY-BEATLEY CENTRAL LIBRARY</td>
-<td>5005 DUKE ST.</td>
-<td>ALEXANDRIA</td>
-<td>VA</td>
-<td>22304</td>
-<td>7037461702</td>
-</tr>
-<tr>
-<td>ENGLESIDE POST OFFICE</td>
-<td>8588 RICHMOND HWY</td>
-<td>ALEXANDRIA</td>
-<td>VA</td>
-<td>22309</td>
-<td>7037045680</td>
-</tr>
-<tr>
-<td>AMELIA COUNTY CIRCUIT COURT</td>
-<td>16441 COURT ST</td>
-<td>AMELIA</td>
-<td>VA</td>
-<td>23002</td>
-<td>8045612128</td>
-</tr>
-<tr>
-<td>JAMES L. HAMNER PUBLIC LIBRARY</td>
-<td>16351 DUNN STREET</td>
-<td>AMELIA</td>
-<td>VA</td>
-<td>23002</td>
-<td>8045614559</td>
-</tr>
-<tr>
-<td>AMHERST POST OFFICE</td>
-<td>120 S MAIN STREET</td>
-<td>AMHERST</td>
-<td>VA</td>
-<td>24521</td>
-<td>4349469274</td>
-</tr>
-<tr>
-<td>ANNANDALE POST OFFICE</td>
-<td>4270 JOHN MARR DRIVE</td>
-<td>ANNANDALE</td>
-<td>VA</td>
-<td>22003</td>
-<td>7032560081</td>
-</tr>
-<tr>
-<td>APPOMATTOX POST OFFICE</td>
-<td>791 COURT ST</td>
-<td>APPOMATTOX</td>
-<td>VA</td>
-<td>24522</td>
-<td>4343527026</td>
-</tr>
-<tr>
-<td>ARLINGTON MAIN POST OFFICE</td>
-<td>3118 WASHINGTON BOULEVARD</td>
-<td>ARLINGTON</td>
-<td>VA</td>
-<td>22201</td>
-<td>7039930072</td>
-</tr>
-<tr>
-<td>ARLINGTON SOUTH STATION USPS</td>
-<td>1210 SOUTH GLEBE ROAD</td>
-<td>ARLINGTON</td>
-<td>VA</td>
-<td>22204</td>
-<td>7039792814</td>
-</tr>
-<tr>
-<td>PRESTON KING POST OFFICE</td>
-<td>5877 WASHINGTON BOULEVARD</td>
-<td>ARLINGTON</td>
-<td>VA</td>
-<td>22205</td>
-<td>7035365151</td>
-</tr>
-<tr>
-<td>BEALETON POST OFFICE</td>
-<td>6189 STATION DR</td>
-<td>BEALETON</td>
-<td>VA</td>
-<td>22712</td>
-<td>5404396483</td>
-</tr>
-<tr>
-<td>BEDFORD POST OFFICE</td>
-<td>500 MAIN STREET</td>
-<td>BEDFORD</td>
-<td>VA</td>
-<td>24523</td>
-<td>5405865820</td>
-</tr>
-<tr>
-<td>BEDFORD PUBLIC LIBRARY SYSTEM</td>
-<td>321 N. BRIDGE ST.</td>
-<td>BEDFORD</td>
-<td>VA</td>
-<td>24523</td>
-<td>5405868911</td>
-</tr>
-<tr>
-<td>BIG STONE GAP POST OFFICE</td>
-<td>322 WOOD AVE E</td>
-<td>BIG STONE GAP</td>
-<td>VA</td>
-<td>24219</td>
-<td>2765232960</td>
-</tr>
-<tr>
-<td>BLACKSBURG LIBRARY</td>
-<td>200 MILLER STREET</td>
-<td>BLACKSBURG</td>
-<td>VA</td>
-<td>24060</td>
-<td>5403826969</td>
-</tr>
-<tr>
-<td>BLACKSBURG MAIN OFFICE</td>
-<td>909 UNIVERSITY CITY BLVD</td>
-<td>BLACKSBURG</td>
-<td>VA</td>
-<td>24060</td>
-<td>5405522751</td>
-</tr>
-<tr>
-<td>VIRGINIA TECH SQUIRES STUDENT CENTER</td>
-<td>290 COLLEGE AVE</td>
-<td>BLACKSBURG</td>
-<td>VA</td>
-<td>24061</td>
-<td>5402319844</td>
-</tr>
-<tr>
-<td>BLUE RIDGE POST OFFICE</td>
-<td>3521 BLUE RIDGE BLVD</td>
-<td>BLUE RIDGE</td>
-<td>VA</td>
-<td>24064</td>
-<td>5409771964</td>
-</tr>
-<tr>
-<td>BOWLING GREEN POST OFFICE</td>
-<td>117 MILFORD ST.</td>
-<td>BOWLING GREEN</td>
-<td>VA</td>
-<td>22427</td>
-<td>8046330471</td>
-</tr>
-<tr>
-<td>CAROLINE COUNTY COMMISSIONER OF REVENUE</td>
-<td>212 N MAIN ST</td>
-<td>BOWLING GREEN</td>
-<td>VA</td>
-<td>22427</td>
-<td>8046339834</td>
-</tr>
-<tr>
-<td>MECKLENBURG COUNTY CLERK OF CIRCUIT COURT</td>
-<td>393 WASHINGTON ST.</td>
-<td>BOYDTON</td>
-<td>VA</td>
-<td>23917</td>
-<td>4347386191</td>
-</tr>
-<tr>
-<td>BRIDGEWATER COMMUNITY CENTER</td>
-<td>201 GREEN STREET</td>
-<td>BRIDGEWATER</td>
-<td>VA</td>
-<td>22812</td>
-<td>5409084212</td>
-</tr>
-<tr>
-<td>BRISTOL POST OFFICE</td>
-<td>111 6TH STREET</td>
-<td>BRISTOL</td>
-<td>VA</td>
-<td>24203</td>
-<td>4232748010</td>
-</tr>
-<tr>
-<td>USPS BRISTOW MAIN OFFICE</td>
-<td>11151 VALLEY VIEW DR</td>
-<td>BRISTOW</td>
-<td>VA</td>
-<td>20136</td>
-<td>7033670883</td>
-</tr>
-<tr>
-<td>BUENA VISTA CIRCUIT COURT</td>
-<td>2039 SYCAMORE AVE</td>
-<td>BUENA VISTA</td>
-<td>VA</td>
-<td>24416</td>
-<td>5402618627</td>
-</tr>
-<tr>
-<td>CAPE CHARLES POST OFFICE</td>
-<td>299 RANDOLPH AVE</td>
-<td>CAPE CHARLES</td>
-<td>VA</td>
-<td>23310</td>
-<td>7573314927</td>
-</tr>
-<tr>
-<td>CENTREVILLE MAIN OFFICE USPS</td>
-<td>14120-A LEE HIGHWAY</td>
-<td>CENTREVILLE</td>
-<td>VA</td>
-<td>20121</td>
-<td>7038302714</td>
-</tr>
-<tr>
-<td>SULLY STATION BRANCH USPS</td>
-<td>5003 WESTFIELDS BLVD</td>
-<td>CENTREVILLE</td>
-<td>VA</td>
-<td>20120</td>
-<td>7033785502</td>
-</tr>
-<tr>
-<td>CHANTILLY POST OFFICE</td>
-<td>4410 BROOKFIELD CORPORATE DRIVE</td>
-<td>CHANTILLY</td>
-<td>VA</td>
-<td>20151</td>
-<td>7039619419</td>
-</tr>
-<tr>
-<td>HERITAGE PUBLIC LIBRARY - CHARLES CITY</td>
-<td>10790 COURTHOUSE RD</td>
-<td>CHARLES CITY</td>
-<td>VA</td>
-<td>23030</td>
-<td>8046522450</td>
-</tr>
-<tr>
-<td>CHARLOTTE COURT HOUSE POST OFFICE</td>
-<td>140 DAVID BRUCE AVE.</td>
-<td>CHARLOTTE COURT HOUSE</td>
-<td>VA</td>
-<td>23923</td>
-<td>4345425101</td>
-</tr>
-<tr>
-<td>CHARLOTTESVILLE MAIN POST OFFICE</td>
-<td>1155 SEMINOLE TRAIL</td>
-<td>CHARLOTTESVILLE</td>
-<td>VA</td>
-<td>22906</td>
-<td>4349787606</td>
-</tr>
-<tr>
-<td>OFFICE OF THE TREASURER CHARLOTTESVILLE VA</td>
-<td>605 E. MAIN ST</td>
-<td>CHARLOTTESVILLE</td>
-<td>VA</td>
-<td>22902</td>
-<td>4349703146</td>
-</tr>
-<tr>
-<td>CHASE CITY POST OFFICE</td>
-<td>960 N MAIN ST</td>
-<td>CHASE CITY</td>
-<td>VA</td>
-<td>23924</td>
-<td>4343721687</td>
-</tr>
-<tr>
-<td>CHATHAM POST OFFICE</td>
-<td>31 S. MAIN ST.</td>
-<td>CHATHAM</td>
-<td>VA</td>
-<td>24531</td>
-<td>4344324321</td>
-</tr>
-<tr>
-<td>CHESAPEAKE POST OFFICE</td>
-<td>1425 BATTLEFIELD BLVD., N</td>
-<td>CHESAPEAKE</td>
-<td>VA</td>
-<td>23320</td>
-<td>7575484865</td>
-</tr>
-<tr>
-<td>CITY CLERKS OFFICE CHESAPEAKE VA</td>
-<td>306 CEDAR ROAD</td>
-<td>CHESAPEAKE</td>
-<td>VA</td>
-<td>23322</td>
-<td>7573826151</td>
-</tr>
-<tr>
-<td>CHESTERFIELD POST OFFICE</td>
-<td>10221 KRAUSE RD</td>
-<td>CHESTERFIELD</td>
-<td>VA</td>
-<td>23832</td>
-<td>8047069281</td>
-</tr>
-<tr>
-<td>CHRISTIANSBURG LIBRARY</td>
-<td>125 SHELTMAN STREET</td>
-<td>CHRISTIANSBURG</td>
-<td>VA</td>
-<td>24073</td>
-<td>5403826969</td>
-</tr>
-<tr>
-<td>MONTGOMERY COUNTY CLERK OF CIRCUIT COURT</td>
-<td>55 E MAIN ST</td>
-<td>CHRISTIANSBURG</td>
-<td>VA</td>
-<td>24073</td>
-<td>5403825760</td>
-</tr>
-<tr>
-<td>CLARKSVILLE POST OFFICE</td>
-<td>104 4TH STREET</td>
-<td>CLARKSVILLE</td>
-<td>VA</td>
-<td>23927</td>
-<td>4343744782</td>
-</tr>
-<tr>
-<td>DICKENSON COUNTY CIRCUIT CLERKS OFFICE</td>
-<td>293 MAIN STREET</td>
-<td>CLINTWOOD</td>
-<td>VA</td>
-<td>24228</td>
-<td>2769261616</td>
-</tr>
-<tr>
-<td>COLONIAL BEACH POST OFFICE</td>
-<td>1000 DWIGHT AVE</td>
-<td>COLONIAL BEACH</td>
-<td>VA</td>
-<td>22443</td>
-<td>8042240986</td>
-</tr>
-<tr>
-<td>SOUTHAMPTON COUNTY CLERK OF CIRCUIT COURT</td>
-<td>22350 MAIN ST.</td>
-<td>COURTLAND</td>
-<td>VA</td>
-<td>23837</td>
-<td>7576532200</td>
-</tr>
-<tr>
-<td>ALLEGHANY COUNTY CLERK OF CIRCUIT COURT</td>
-<td>266 W. MAIN ST.</td>
-<td>COVINGTON</td>
-<td>VA</td>
-<td>24426</td>
-<td>5409651730</td>
-</tr>
-<tr>
-<td>CULPEPER POST OFFICE</td>
-<td>205 SOUTH MAIN ST</td>
-<td>CULPEPER</td>
-<td>VA</td>
-<td>22701</td>
-<td>5408298435</td>
-</tr>
-<tr>
-<td>DAHLGREN POST OFFICE</td>
-<td>17285 DAHLGREN ROAD</td>
-<td>DAHLGREN</td>
-<td>VA</td>
-<td>22448</td>
-<td>5406633230</td>
-</tr>
-<tr>
-<td>DANVILLE MAIN POST OFFICE</td>
-<td>105 TEAL COURT</td>
-<td>DANVILLE</td>
-<td>VA</td>
-<td>24541</td>
-<td>4347913137</td>
-</tr>
-<tr>
-<td>ASHBURN POST OFFICE</td>
-<td>44715 PRENTICE DRIVE</td>
-<td>DULLES</td>
-<td>VA</td>
-<td>20101</td>
-<td>7034066202</td>
-</tr>
-<tr>
-<td>EMPORIA POST OFFICE</td>
-<td>109 S MAIN ST</td>
-<td>EMPORIA</td>
-<td>VA</td>
-<td>23847</td>
-<td>4346340895</td>
-</tr>
-<tr>
-<td>FAIRFAX MAIN OFFICE USPS</td>
-<td>10660 PAGE AVENUE</td>
-<td>FAIRFAX</td>
-<td>VA</td>
-<td>22030</td>
-<td>7035910458</td>
-</tr>
-<tr>
-<td>TURNPIKE BRANCH POST OFFICE</td>
-<td>3601 PICKETT ROAD</td>
-<td>FAIRFAX</td>
-<td>VA</td>
-<td>22031</td>
-<td>7039783504</td>
-</tr>
-<tr>
-<td>BAILEYS CROSSROADS USPS</td>
-<td>6021 LEESBURG PIKE</td>
-<td>FALLS CHURCH</td>
-<td>VA</td>
-<td>22041</td>
-<td>7039986826</td>
-</tr>
-<tr>
-<td>FALLS CHURCH FINANCE UNIT</td>
-<td>800 WEST BROAD STREET</td>
-<td>FALLS CHURCH</td>
-<td>VA</td>
-<td>22046</td>
-<td>7032370872</td>
-</tr>
-<tr>
-<td>FARMVILLE POST OFFICE</td>
-<td>301 E THIRD ST</td>
-<td>FARMVILLE</td>
-<td>VA</td>
-<td>23901</td>
-<td>4343923354</td>
-</tr>
-<tr>
-<td>CLERK OF BOTETOURT COUNTY CIRCUIT CLERK</td>
-<td>1 WEST MAIN STREET</td>
-<td>FINCASTLE</td>
-<td>VA</td>
-<td>24090</td>
-<td>5404738274</td>
-</tr>
-<tr>
-<td>JESSIE PETERMAN LIBRARY</td>
-<td>321 W. MAIN STREET</td>
-<td>FLOYD</td>
-<td>VA</td>
-<td>24091</td>
-<td>5403826969</td>
-</tr>
-<tr>
-<td>FOREST MAIN POST OFFICE</td>
-<td>14805 FOREST ROAD</td>
-<td>FOREST</td>
-<td>VA</td>
-<td>24551</td>
-<td>4345254235</td>
-</tr>
-<tr>
-<td>FALMOUTH BRANCH POST OFFICE</td>
-<td>16 LICHFIELD BLVD</td>
-<td>FREDERICKSBURG</td>
-<td>VA</td>
-<td>22406</td>
-<td>5403737841</td>
-</tr>
-<tr>
-<td>FREDERICKSBURG MAIN POST OFFICE</td>
-<td>600 PRINCESS ANNE ST</td>
-<td>FREDERICKSBURG</td>
-<td>VA</td>
-<td>22401</td>
-<td>5403614235</td>
-</tr>
-<tr>
-<td>FRONT ROYAL POST OFFICE</td>
-<td>120 E THIRD STREET</td>
-<td>FRONT ROYAL</td>
-<td>VA</td>
-<td>22630</td>
-<td>5406357983</td>
-</tr>
-<tr>
-<td>GAINESVILLE POST OFFICE</td>
-<td>14689 LEE HWY</td>
-<td>GAINESVILLE</td>
-<td>VA</td>
-<td>20155</td>
-<td>7037543443</td>
-</tr>
-<tr>
-<td>GALAX MAIN OFFICE</td>
-<td>200 E GRAYSON ST</td>
-<td>GALAX</td>
-<td>VA</td>
-<td>24333</td>
-<td>2762933891</td>
-</tr>
-<tr>
-<td>SCOTT COUNTY CLERK OF COURT</td>
-<td>202 W JACKSON STREET</td>
-<td>GATE CITY</td>
-<td>VA</td>
-<td>24251</td>
-<td>2763863801</td>
-</tr>
-<tr>
-<td>GLOUCESTER POST OFFICE</td>
-<td>6892 MAIN STREET</td>
-<td>GLOUCESTER</td>
-<td>VA</td>
-<td>23061</td>
-<td>8046952706</td>
-</tr>
-<tr>
-<td>GREAT FALLS POST OFFICE</td>
-<td>10001 GEORGETOWN PIKE</td>
-<td>GREAT FALLS</td>
-<td>VA</td>
-<td>22066</td>
-<td>7037570316</td>
-</tr>
-<tr>
-<td>GROTTOES POST OFFICE</td>
-<td>110 6TH STREET</td>
-<td>GROTTOES</td>
-<td>VA</td>
-<td>24441</td>
-<td>5402490419</td>
-</tr>
-<tr>
-<td>BUCHANAN COUNTY CIRCUIT COURT CLERK</td>
-<td>4447 SLATE CREEK RD</td>
-<td>GRUNDY</td>
-<td>VA</td>
-<td>24614</td>
-<td>2769356567</td>
-</tr>
-<tr>
-<td>HALIFAX COUNTY CLERK OF CIRCUIT COURT</td>
-<td>1030 MARY BETHUNE STREET SUITE LL3</td>
-<td>HALIFAX</td>
-<td>VA</td>
-<td>24558</td>
-<td>4344766211</td>
-</tr>
-<tr>
-<td>HAMPTON MAIN POST OFFICE</td>
-<td>809 ABERDEEN RD</td>
-<td>HAMPTON</td>
-<td>VA</td>
-<td>23670</td>
-<td>7572624850</td>
-</tr>
-<tr>
-<td>HAMPTON TREASURERS OFFICE</td>
-<td>1 FRANKLIN ST</td>
-<td>HAMPTON</td>
-<td>VA</td>
-<td>23669</td>
-<td>7577276374</td>
-</tr>
-<tr>
-<td>HARRISONBURG POST OFFICE</td>
-<td>3811 SOUTH MAIN ST</td>
-<td>HARRISONBURG</td>
-<td>VA</td>
-<td>22801</td>
-<td>5405746074</td>
-</tr>
-<tr>
-<td>ROCKINGHAM COUNTY CLERK OF CIRCUIT COURT</td>
-<td>80 COURT SQUARE</td>
-<td>HARRISONBURG</td>
-<td>VA</td>
-<td>22802</td>
-<td>5405643111</td>
-</tr>
-<tr>
-<td>HAYMARKET GAINESVILLE COMMUNITY LIBRARY</td>
-<td>14870 LIGHTNER RD</td>
-<td>HAYMARKET</td>
-<td>VA</td>
-<td>20169</td>
-<td>7037928700</td>
-</tr>
-<tr>
-<td>NORTHUMBERLAND COUNTY TREASURERS OFFICE</td>
-<td>72-T MONUMENT PLACE</td>
-<td>HEATHSVILLE</td>
-<td>VA</td>
-<td>22473</td>
-<td>8045805201</td>
-</tr>
-<tr>
-<td>HERNDON MAIN OFFICE USPS</td>
-<td>590 GROVE STREET</td>
-<td>HERNDON</td>
-<td>VA</td>
-<td>20170</td>
-<td>7036899890</td>
-</tr>
-<tr>
-<td>OAKHILL POST OFFICE</td>
-<td>13520 MCLEAREN ROAD</td>
-<td>HERNDON</td>
-<td>VA</td>
-<td>20171</td>
-<td>7034648360</td>
-</tr>
-<tr>
-<td>CARROLL COUNTY CIRCUIT COURT</td>
-<td>605 PINE STREET</td>
-<td>HILLSVILLE</td>
-<td>VA</td>
-<td>24343</td>
-<td>2767303070</td>
-</tr>
-<tr>
-<td>HURT POST OFFICE</td>
-<td>201MAIN ST.</td>
-<td>HURT</td>
-<td>VA</td>
-<td>24563</td>
-<td>4343244804</td>
-</tr>
-<tr>
-<td>GRAYSON COUNTY CLERK OF CIRCUIT COURT</td>
-<td>129 DAVIS ST.</td>
-<td>INDEPENDENCE</td>
-<td>VA</td>
-<td>24348</td>
-<td>2767732231</td>
-</tr>
-<tr>
-<td>GRAYSON COUNTY PUBLIC LIBRARY</td>
-<td>149 S. INDEPENDENCE AVE</td>
-<td>INDEPENDENCE</td>
-<td>VA</td>
-<td>24348</td>
-<td>2767732761</td>
-</tr>
-<tr>
-<td>ISLE OF WIGHT COUNTY CIRCUIT COURT</td>
-<td>17000 JOSIAH PARKER CIRCLE</td>
-<td>ISLE OF WIGHT</td>
-<td>VA</td>
-<td>23397</td>
-<td>7573656233</td>
-</tr>
-<tr>
-<td>LEE COUNTY CLERK OF CIRCUIT COURT</td>
-<td>33640 MAIN STREET</td>
-<td>JONESVILLE</td>
-<td>VA</td>
-<td>24263</td>
-<td>2763467763</td>
-</tr>
-<tr>
-<td>KENBRIDGE POST OFFICE</td>
-<td>118 EAST 5TH AVE.</td>
-<td>KENBRIDGE</td>
-<td>VA</td>
-<td>23944</td>
-<td>4346766666</td>
-</tr>
-<tr>
-<td>KILMARNOCK POST OFFICE</td>
-<td>239 N MAIN ST</td>
-<td>KILMARNOCK</td>
-<td>VA</td>
-<td>22482</td>
-<td>8044353941</td>
-</tr>
-<tr>
-<td>KING GEORGE POST OFFICE</td>
-<td>7993 KINGS HWY</td>
-<td>KING GEORGE</td>
-<td>VA</td>
-<td>22485</td>
-<td>5407756405</td>
-</tr>
-<tr>
-<td>LEWIS EGERTON SMOOT MEMORIAL LIBRARY</td>
-<td>9533 KINGS HIGHWAY</td>
-<td>KING GEORGE</td>
-<td>VA</td>
-<td>22485</td>
-<td>5407752147</td>
-</tr>
-<tr>
-<td>BRUNSWICK COUNTY LIBRARY</td>
-<td>133 S HICKS STREET</td>
-<td>LAWRENCEVILLE</td>
-<td>VA</td>
-<td>23868</td>
-<td>4348482418</td>
-</tr>
-<tr>
-<td>RUSSELL COUNTY TREASURERS OFFICE</td>
-<td>137 HIGHLAND DRIVE</td>
-<td>LEBANON</td>
-<td>VA</td>
-<td>24266</td>
-<td>2768898028</td>
-</tr>
-<tr>
-<td>LEESBURG MAIN POST OFFICE</td>
-<td>25 CATOCTIN CIRCLE SE</td>
-<td>LEESBURG</td>
-<td>VA</td>
-<td>20175</td>
-<td>7036693755</td>
-</tr>
-<tr>
-<td>RUST LIBRARY</td>
-<td>380 OLD WATERFORD RD NW</td>
-<td>LEESBURG</td>
-<td>VA</td>
-<td>20176</td>
-<td>7037770323</td>
-</tr>
-<tr>
-<td>ROCKBRIDGE REGIONAL LIBRARY SYSTEM</td>
-<td>138 SOUTH MAIN STREET</td>
-<td>LEXINGTON</td>
-<td>VA</td>
-<td>24450</td>
-<td>5404634324</td>
-</tr>
-<tr>
-<td>LIGHTFOOT POST OFFICE</td>
-<td>6376 RICHMOND RD</td>
-<td>LIGHTFOOT</td>
-<td>VA</td>
-<td>23090</td>
-<td>7575652103</td>
-</tr>
-<tr>
-<td>LORTON POST OFFICE</td>
-<td>7726 GUNSTON PLAZA</td>
-<td>LORTON</td>
-<td>VA</td>
-<td>22079</td>
-<td>7033396374</td>
-</tr>
-<tr>
-<td>LOUISA POST OFFICE</td>
-<td>204 W MAIN ST</td>
-<td>LOUISA</td>
-<td>VA</td>
-<td>23093</td>
-<td>5409670691</td>
-</tr>
-<tr>
-<td>LOVETTSVILLE POST OFFICE</td>
-<td>15 N CHURCH ST</td>
-<td>LOVETTSVILLE</td>
-<td>VA</td>
-<td>20180</td>
-<td>5408223835</td>
-</tr>
-<tr>
-<td>PAGE COUNTY CLERK OF CIRCUIT COURT</td>
-<td>116 SOUTH COURT STREET</td>
-<td>LURAY</td>
-<td>VA</td>
-<td>22835</td>
-<td>5407434064</td>
-</tr>
-<tr>
-<td>LYNCHBURG CIRCUIT COURT</td>
-<td>900 COURT ST.</td>
-<td>LYNCHBURG</td>
-<td>VA</td>
-<td>24504</td>
-<td>4344552620</td>
-</tr>
-<tr>
-<td>MAIN OFFICE WINDOW UNIT - LYNCHBURG POST OFFICE</td>
-<td>3300 ODD FELLOWS RD</td>
-<td>LYNCHBURG</td>
-<td>VA</td>
-<td>24506</td>
-<td>4345288995</td>
-</tr>
-<tr>
-<td>MADISON POST OFFICE</td>
-<td>1438 NORTH MAIN STREET</td>
-<td>MADISON</td>
-<td>VA</td>
-<td>22727</td>
-<td>5409485702</td>
-</tr>
-<tr>
-<td>MADISON HEIGHTS POST OFFICE</td>
-<td>158 LAKEVIEW DRIVE</td>
-<td>MADISON HEIGHTS</td>
-<td>VA</td>
-<td>24572</td>
-<td>4348455128</td>
-</tr>
-<tr>
-<td>MANASSAS MAIN OFFICE USPS</td>
-<td>8801 SUDLEY ROAD</td>
-<td>MANASSAS</td>
-<td>VA</td>
-<td>20110</td>
-<td>7033682146</td>
-</tr>
-<tr>
-<td>MARION POST OFFICE</td>
-<td>200 PEARL AVE</td>
-<td>MARION</td>
-<td>VA</td>
-<td>24354</td>
-<td>2767835051</td>
-</tr>
-<tr>
-<td>CIRCUIT COURT CLERK MARTINSVILLE VA</td>
-<td>55 WEST CHURCH STREET RM 205</td>
-<td>MARTINSVILLE</td>
-<td>VA</td>
-<td>24114</td>
-<td>2764035106</td>
-</tr>
-<tr>
-<td>HENRY COUNTY CLERK OF CIRCUIT COURT</td>
-<td>3160 KINGS MOUNTAIN ROAD</td>
-<td>MARTINSVILLE</td>
-<td>VA</td>
-<td>24112</td>
-<td>2766344880</td>
-</tr>
-<tr>
-<td>MARTINSVILLE POSTAL OFFICE</td>
-<td>1123 SPRUCE ST</td>
-<td>MARTINSVILLE</td>
-<td>VA</td>
-<td>24112</td>
-<td>2763367174</td>
-</tr>
-<tr>
-<td>WEST MCLEAN BRANCH USPS</td>
-<td>1544 SPRING HILL ROAD</td>
-<td>MCLEAN</td>
-<td>VA</td>
-<td>22102</td>
-<td>7037346243</td>
-</tr>
-<tr>
-<td>MERRIFIELD POST OFFICE</td>
-<td>8409 LEE HIGHWAY</td>
-<td>MERRIFIELD</td>
-<td>VA</td>
-<td>22081</td>
-<td>7036986610</td>
-</tr>
-<tr>
-<td>HIGHLAND COUNTY CIRCUIT COURT</td>
-<td>165 W MAIN STREET</td>
-<td>MONTEREY</td>
-<td>VA</td>
-<td>24465</td>
-<td>5404682447</td>
-</tr>
-<tr>
-<td>CRAIG COUNTY CLERK OF CIRCUIT COURT</td>
-<td>182 MAIN ST</td>
-<td>NEW CASTLE</td>
-<td>VA</td>
-<td>24127</td>
-<td>5408646141</td>
-</tr>
-<tr>
-<td>HERITAGE PUBLIC LIBRARY - NEW KENT</td>
-<td>7791 INVICTA LANE</td>
-<td>NEW KENT</td>
-<td>VA</td>
-<td>23124</td>
-<td>8049662480</td>
-</tr>
-<tr>
-<td>NEWPORT NEWS POST OFFICE</td>
-<td>101 25TH ST</td>
-<td>NEWPORT NEWS</td>
-<td>VA</td>
-<td>23607</td>
-<td>7572470841</td>
-</tr>
-<tr>
-<td>PATRICK HENRY POST OFFICE</td>
-<td>685 TURNBERRY BLVD</td>
-<td>NEWPORT NEWS</td>
-<td>VA</td>
-<td>23608</td>
-<td>7578904544</td>
-</tr>
-<tr>
-<td>DEBREE STATION USPS</td>
-<td>417 W 20TH ST</td>
-<td>NORFOLK</td>
-<td>VA</td>
-<td>23517</td>
-<td>7576253814</td>
-</tr>
-<tr>
-<td>L C PAGE STATION USPS</td>
-<td>2461 EAST LITTLE CREEK RD</td>
-<td>NORFOLK</td>
-<td>VA</td>
-<td>23518</td>
-<td>7575833524</td>
-</tr>
-<tr>
-<td>LAFAYETTE STATION USPS</td>
-<td>2655 TIDEWATER DRIVE</td>
-<td>NORFOLK</td>
-<td>VA</td>
-<td>23509</td>
-<td>7576249479</td>
-</tr>
-<tr>
-<td>NORFOLK CIRCUIT COURT CLERKS OFFICE</td>
-<td>150 ST PAULS BLVD 7TH FLOOR</td>
-<td>NORFOLK</td>
-<td>VA</td>
-<td>23510</td>
-<td>7577698539</td>
-</tr>
-<tr>
-<td>NORFOLK MAIN OFFICE WINDOW UNIT</td>
-<td>600 CHURCH STREET</td>
-<td>NORFOLK</td>
-<td>VA</td>
-<td>23501</td>
-<td>7576292286</td>
-</tr>
-<tr>
-<td>NORVIEW STATION USPS</td>
-<td>1112 GREEN ST</td>
-<td>NORFOLK</td>
-<td>VA</td>
-<td>23513</td>
-<td>7578554957</td>
-</tr>
-<tr>
-<td>OCEAN VIEW STATION</td>
-<td>9631 FIRST VIEW ST.</td>
-<td>NORFOLK</td>
-<td>VA</td>
-<td>23503</td>
-<td>7575835820</td>
-</tr>
-<tr>
-<td>WRIGHT STATION USPS</td>
-<td>7712 GRANBY ST</td>
-<td>NORFOLK</td>
-<td>VA</td>
-<td>23505</td>
-<td>7574800398</td>
-</tr>
-<tr>
-<td>NORTH GARDEN POST OFFICE</td>
-<td>4917 PLANK RD</td>
-<td>NORTH GARDEN</td>
-<td>VA</td>
-<td>22959</td>
-<td>4342967443</td>
-</tr>
-<tr>
-<td>NORTH TAZEWELL POST OFFICE</td>
-<td>1511 RIVERSIDE DRIVE</td>
-<td>NORTH TAZEWELL</td>
-<td>VA</td>
-<td>24630</td>
-<td>2769883421</td>
-</tr>
-<tr>
-<td>OAK HALL MAIN POST OFFICE</td>
-<td>8133 LANKFORD HWY.</td>
-<td>OAK HALL</td>
-<td>VA</td>
-<td>23416</td>
-<td>7578243568</td>
-</tr>
-<tr>
-<td>OAKTON BRANCH POST OFFICE</td>
-<td>10449 WHITE GRANITE DRIVE</td>
-<td>OAKTON</td>
-<td>VA</td>
-<td>22124</td>
-<td>7032180731</td>
-</tr>
-<tr>
-<td>ONANCOCK POST OFFICE</td>
-<td>35 MARKET ST</td>
-<td>ONANCOCK</td>
-<td>VA</td>
-<td>23417</td>
-<td>7577873923</td>
-</tr>
-<tr>
-<td>ORANGE COUNTY TREASURER</td>
-<td>112 W MAIN ST</td>
-<td>ORANGE</td>
-<td>VA</td>
-<td>22960</td>
-<td>5406722656</td>
-</tr>
-<tr>
-<td>FLUVANNA COUNTY CIRCUIT COURT</td>
-<td>72 MAIN STREET</td>
-<td>PALMYRA</td>
-<td>VA</td>
-<td>22963</td>
-<td>4345911970</td>
-</tr>
-<tr>
-<td>GILES COUNTY CIRCUIT COURT CLERKS OFFICE</td>
-<td>501 WENONAH AVENUE</td>
-<td>PEARISBURG</td>
-<td>VA</td>
-<td>24134</td>
-<td>5409211722</td>
-</tr>
-<tr>
-<td>PEMBROKE POST OFFICE</td>
-<td>102 PROGRESS ST</td>
-<td>PEMBROKE</td>
-<td>VA</td>
-<td>24136</td>
-<td>5406267211</td>
-</tr>
-<tr>
-<td>PETERSBURG POST OFFICE</td>
-<td>29 FRANKLIN STREET</td>
-<td>PETERSBURG</td>
-<td>VA</td>
-<td>23803</td>
-<td>8047322939</td>
-</tr>
-<tr>
-<td>PETERSBURG PUBLIC LIBRARY</td>
-<td>201 W. WASHINGTON STREET</td>
-<td>PETERSBURG</td>
-<td>VA</td>
-<td>23803</td>
-<td>8047332387</td>
-</tr>
-<tr>
-<td>POQUOSON PUBLIC LIBRARY</td>
-<td>500 CITY HALL AVENUE</td>
-<td>POQUOSON</td>
-<td>VA</td>
-<td>23662</td>
-<td>7578683060</td>
-</tr>
-<tr>
-<td>PORTSMOUTH POST OFFICE</td>
-<td>933 BROAD ST</td>
-<td>PORTSMOUTH</td>
-<td>VA</td>
-<td>23707</td>
-<td>7573970841</td>
-</tr>
-<tr>
-<td>POWHATAN COUNTY CLERK OF CIRCUIT COURT</td>
-<td>3880-C OLD BUCKINGHAM ROAD</td>
-<td>POWHATAN</td>
-<td>VA</td>
-<td>23139</td>
-<td>8045985660</td>
-</tr>
-<tr>
-<td>PULASKI COUNTY CLERK OF CIRCUIT COURT</td>
-<td>45 3RD ST. NW</td>
-<td>PULASKI</td>
-<td>VA</td>
-<td>24301</td>
-<td>5409807825</td>
-</tr>
-<tr>
-<td>RADFORD MAIN POST OFFICE</td>
-<td>901 W MAIN ST</td>
-<td>RADFORD</td>
-<td>VA</td>
-<td>24141</td>
-<td>5406392014</td>
-</tr>
-<tr>
-<td>RADFORD PUBLIC LIBRARY</td>
-<td>30 W MAIN ST</td>
-<td>RADFORD</td>
-<td>VA</td>
-<td>24141</td>
-<td>5407313621</td>
-</tr>
-<tr>
-<td>RESTON BRANCH USPS</td>
-<td>11110 SUNSET HILLS ROAD</td>
-<td>RESTON</td>
-<td>VA</td>
-<td>20190</td>
-<td>7036899874</td>
-</tr>
-<tr>
-<td>RHOADESVILLE POST OFFICE</td>
-<td>25433 LAFAYETTE DR</td>
-<td>RHOADESVILLE</td>
-<td>VA</td>
-<td>22542</td>
-<td>5408544491</td>
-</tr>
-<tr>
-<td>RICHLANDS POST OFFICE</td>
-<td>1430 FRONT ST</td>
-<td>RICHLANDS</td>
-<td>VA</td>
-<td>24641</td>
-<td>2769649550</td>
-</tr>
-<tr>
-<td>LAKESIDE BRANCH USPS</td>
-<td>2100 EAST PARHAM ROAD</td>
-<td>RICHMOND</td>
-<td>VA</td>
-<td>23228</td>
-<td>8042620641</td>
-</tr>
-<tr>
-<td>POCOSHOCK CREEK BRANCH USPS</td>
-<td>7501 LADY BLAIR LANE</td>
-<td>RICHMOND</td>
-<td>VA</td>
-<td>23236</td>
-<td>8046754063</td>
-</tr>
-<tr>
-<td>REGENCY BRANCH POST OFFICE</td>
-<td>2000 STARLING DRIVE</td>
-<td>RICHMOND</td>
-<td>VA</td>
-<td>23229</td>
-<td>8047473378</td>
-</tr>
-<tr>
-<td>RICHMOND MAIN POST OFFICE</td>
-<td>1801 BROOK RD</td>
-<td>RICHMOND</td>
-<td>VA</td>
-<td>23232</td>
-<td>8047756150</td>
-</tr>
-<tr>
-<td>RIDGE BRANCH USPS</td>
-<td>10509 PATTERSON AVE</td>
-<td>RICHMOND</td>
-<td>VA</td>
-<td>23238</td>
-<td>8047407092</td>
-</tr>
-<tr>
-<td>ROANOKE - SOUTH COUNTY LIBRARY</td>
-<td>6303 MERRIMAN RD.</td>
-<td>ROANOKE</td>
-<td>VA</td>
-<td>24018</td>
-<td>5407778782</td>
-</tr>
-<tr>
-<td>ROANOKE POST OFFICE</td>
-<td>419 RUTHERFORD AVE NE</td>
-<td>ROANOKE</td>
-<td>VA</td>
-<td>24022</td>
-<td>5409858802</td>
-</tr>
-<tr>
-<td>ROCKVILLE POST OFFICE</td>
-<td>16590 POUNCEY TRACT RD.</td>
-<td>ROCKVILLE</td>
-<td>VA</td>
-<td>23146</td>
-<td>8047493572</td>
-</tr>
-<tr>
-<td>FRANKLIN COUNTY CLERK OF CIRCUIT COURT</td>
-<td>275 SOUTH MAIN STREET</td>
-<td>ROCKY MOUNT</td>
-<td>VA</td>
-<td>24151</td>
-<td>5404833065</td>
-</tr>
-<tr>
-<td>ROCKY MOUNT MUNICIPAL BUILDING</td>
-<td>345 DONALD AVENUE</td>
-<td>ROCKY MOUNT</td>
-<td>VA</td>
-<td>24151</td>
-<td>5404835243</td>
-</tr>
-<tr>
-<td>SALEM POST OFFICE</td>
-<td>320 W MAIN STREET</td>
-<td>SALEM</td>
-<td>VA</td>
-<td>24153</td>
-<td>5403899214</td>
-</tr>
-<tr>
-<td>MIDDLESEX COUNTY TREASURERS OFFICE</td>
-<td>877 GENERAL PULLER HIGHWAY</td>
-<td>SALUDA</td>
-<td>VA</td>
-<td>23149</td>
-<td>8047585302</td>
-</tr>
-<tr>
-<td>SEALSTON POST OFFICE</td>
-<td>1130 KINGS HWY</td>
-<td>SEALSTON</td>
-<td>VA</td>
-<td>22547</td>
-<td>5407753158</td>
-</tr>
-<tr>
-<td>SOUTH BOSTON POST OFFICE</td>
-<td>601 N MAIN ST</td>
-<td>SOUTH BOSTON</td>
-<td>VA</td>
-<td>24592</td>
-<td>4345757921</td>
-</tr>
-<tr>
-<td>BURKE POST OFFICE</td>
-<td>9501 BURKE ROAD</td>
-<td>SPRINGFIELD</td>
-<td>VA</td>
-<td>22015</td>
-<td>7039781436</td>
-</tr>
-<tr>
-<td>SPRINGFIELD MAIN OFFICE</td>
-<td>7051 BROOKFIELD PLAZA</td>
-<td>SPRINGFIELD</td>
-<td>VA</td>
-<td>22150</td>
-<td>7034511534</td>
-</tr>
-<tr>
-<td>WEST SPRINGFIELD BRANCH USPS</td>
-<td>6200 ROLLING ROAD</td>
-<td>SPRINGFIELD</td>
-<td>VA</td>
-<td>22152</td>
-<td>7035690378</td>
-</tr>
-<tr>
-<td>STAFFORD POST OFFICE</td>
-<td>2650 JEFFERSON DAVIS HWY</td>
-<td>STAFFORD</td>
-<td>VA</td>
-<td>22554</td>
-<td>5406597095</td>
-</tr>
-<tr>
-<td>STANLEY POST OFFICE</td>
-<td>151 E MAIN STREET</td>
-<td>STANLEY</td>
-<td>VA</td>
-<td>22851</td>
-<td>5407782174</td>
-</tr>
-<tr>
-<td>STAUNTON POST OFFICE</td>
-<td>1430 N AUGUSTA ST</td>
-<td>STAUNTON</td>
-<td>VA</td>
-<td>24401</td>
-<td>5408863163</td>
-</tr>
-<tr>
-<td>POTOMAC FALLS POST OFFICE</td>
-<td>46164 WEST LAKE DRIVE</td>
-<td>STERLING</td>
-<td>VA</td>
-<td>20165</td>
-<td>7034332725</td>
-</tr>
-<tr>
-<td>STERLING MAIN OFFICE USPS</td>
-<td>150 SOUTH STERLING BOULEVARD</td>
-<td>STERLING</td>
-<td>VA</td>
-<td>20164</td>
-<td>7034443163</td>
-</tr>
-<tr>
-<td>PATRICK COUNTY CIRCUIT COURT</td>
-<td>101 WEST BLUE RIDGE ST</td>
-<td>STUART</td>
-<td>VA</td>
-<td>24171</td>
-<td>2766947213</td>
-</tr>
-<tr>
-<td>CIRCUIT COURT CLERK SUFFOLK COUNTY</td>
-<td>150 N MAIN ST</td>
-<td>SUFFOLK</td>
-<td>VA</td>
-<td>23434</td>
-<td>7575147800</td>
-</tr>
-<tr>
-<td>TAPPAHANNOCK POST OFFICE</td>
-<td>400 WRIGHT STREET</td>
-<td>TAPPAHANNOCK</td>
-<td>VA</td>
-<td>22560</td>
-<td>8044459178</td>
-</tr>
-<tr>
-<td>VIENNA MAIN OFFICE USPS</td>
-<td>200 LAWYERS ROAD NW</td>
-<td>VIENNA</td>
-<td>VA</td>
-<td>22180</td>
-<td>7032421393</td>
-</tr>
-<tr>
-<td>VINTON POST OFFICE</td>
-<td>119 S. POLLARD ST.</td>
-<td>VINTON</td>
-<td>VA</td>
-<td>24179</td>
-<td>5403451495</td>
-</tr>
-<tr>
-<td>ACREDALE STATION USPS</td>
-<td>1225 KEMPSVILLE RD</td>
-<td>VIRGINIA BEACH</td>
-<td>VA</td>
-<td>23464</td>
-<td>7574203737</td>
-</tr>
-<tr>
-<td>CITY CLERK CITY OF VIRGINIA BEACH</td>
-<td>2401 COURTHOUSE DRIVE</td>
-<td>VIRGINIA BEACH</td>
-<td>VA</td>
-<td>23456</td>
-<td>7573854303</td>
-</tr>
-<tr>
-<td>BATH COUNTY CIRCUIT COURT</td>
-<td>65 COURTHOUSE HILL ROAD</td>
-<td>WARM SPRINGS</td>
-<td>VA</td>
-<td>24484</td>
-<td>5408397226</td>
-</tr>
-<tr>
-<td>WARRENTON POST OFFICE</td>
-<td>53 MAIN STREET</td>
-<td>WARRENTON</td>
-<td>VA</td>
-<td>20186</td>
-<td>5404281861</td>
-</tr>
-<tr>
-<td>RICHMOND COUNTY CLERK OF CIRCUIT COURT</td>
-<td>101 COURT CIRCLE</td>
-<td>WARSAW</td>
-<td>VA</td>
-<td>22572</td>
-<td>8043333781</td>
-</tr>
-<tr>
-<td>WAVERLY POST OFFICE</td>
-<td>325 W MAIN STREET</td>
-<td>WAVERLY</td>
-<td>VA</td>
-<td>23890</td>
-<td>8048343509</td>
-</tr>
-<tr>
-<td>CITY OF WAYNESBORO - TREASURERS OFFICE</td>
-<td>503 W MAIN ST</td>
-<td>WAYNESBORO</td>
-<td>VA</td>
-<td>22980</td>
-<td>5409426606</td>
-</tr>
-<tr>
-<td>WEST POINT POST OFFICE</td>
-<td>925 MAIN ST</td>
-<td>WEST POINT</td>
-<td>VA</td>
-<td>23181</td>
-<td>8048433181</td>
-</tr>
-<tr>
-<td>WHITE MARSH POST OFFICE</td>
-<td>4898 GEORGE WASHINGTON MEMORIAL HWY</td>
-<td>WHITE MARSH</td>
-<td>VA</td>
-<td>23183</td>
-<td>8046932951</td>
-</tr>
-<tr>
-<td>MONTICELLO STATION USPS</td>
-<td>5219 MONTICELLO AVE</td>
-<td>WILLIAMSBURG</td>
-<td>VA</td>
-<td>23188</td>
-<td>7575647641</td>
-</tr>
-<tr>
-<td>WILLIAMSBURG MAIN POST OFFICE</td>
-<td>425 N BOUNDARY ST</td>
-<td>WILLIAMSBURG</td>
-<td>VA</td>
-<td>23185</td>
-<td>7572290838</td>
-</tr>
-<tr>
-<td>CITY OF WINCHESTER VA CLERK OF CIRCUIT COURT</td>
-<td>5 NORTH KENT ST.</td>
-<td>WINCHESTER</td>
-<td>VA</td>
-<td>22601</td>
-<td>5406675770</td>
-</tr>
-<tr>
-<td>FREDERICK COUNTY CIRCUIT COURT CLERKS OFFICE</td>
-<td>5 NORTH KENT STREET</td>
-<td>WINCHESTER</td>
-<td>VA</td>
-<td>22601</td>
-<td>5406675770</td>
-</tr>
-<tr>
-<td>WINCHESTER MAIN POST OFFICE</td>
-<td>340 N PLEASANT VALLEY</td>
-<td>WINCHESTER</td>
-<td>VA</td>
-<td>22601</td>
-<td>5406622554</td>
-</tr>
-<tr>
-<td>POTOMAC COMMUNITY LIBRARY</td>
-<td>2201 OPITZ BLVD</td>
-<td>WOODBRIDGE</td>
-<td>VA</td>
-<td>22191</td>
-<td>7037928330</td>
-</tr>
-<tr>
-<td>PRINCE WILLIAM POST OFFICE</td>
-<td>3360 POST OFFICE RD.</td>
-<td>WOODBRIDGE</td>
-<td>VA</td>
-<td>22193</td>
-<td>7038782715</td>
-</tr>
-<tr>
-<td>WOODFORD POST OFFICE</td>
-<td>11087 WOODFORD ROAD</td>
-<td>WOODFORD</td>
-<td>VA</td>
-<td>22580</td>
-<td>8046336923</td>
-</tr>
-<tr>
-<td>SHENANDOAH COUNTY CLERK OF CIRCUIT COURT</td>
-<td>112 S. MAIN ST.</td>
-<td>WOODSTOCK</td>
-<td>VA</td>
-<td>22664</td>
-<td>5404596150</td>
-</tr>
-<tr>
-<td>WYTHE COUNTY CIRCUIT COURT</td>
-<td>225 SOUTH FOURTH STREET, STE 105</td>
-<td>WYTHEVILLE</td>
-<td>VA</td>
-<td>24382</td>
-<td>2762236050</td>
-</tr>
-<tr>
-<td>WYTHE COUNTY PUBLIC LIBRARY</td>
-<td>300 E MONROE STREET</td>
-<td>WYTHEVILLE</td>
-<td>VA</td>
-<td>24382</td>
-<td>2767732761</td>
-</tr>
-<tr>
-<td>GRAFTON POST OFFICE</td>
-<td>5702 G WASHINGTON MEMORIAL HWY</td>
-<td>YORKTOWN</td>
-<td>VA</td>
-<td>23692</td>
-<td>7578985435</td>
-</tr>
-</tbody>
-</table>

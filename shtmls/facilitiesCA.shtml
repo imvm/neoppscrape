@@ -1,4430 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ADELANTO POST OFFICE</td>
-<td>11530 RANCHO ROAD</td>
-<td>ADELANTO</td>
-<td>CA</td>
-<td>92301</td>
-<td>7602468535</td>
-</tr>
-<tr>
-<td>ALAMEDA POST OFFICE</td>
-<td>2201 SHORELINE DRIVE</td>
-<td>ALAMEDA</td>
-<td>CA</td>
-<td>94501</td>
-<td>5107484156</td>
-</tr>
-<tr>
-<td>CITY OF ALAMEDA CITY CLERK OFFICE</td>
-<td>2263 SANTA CLARA AVE</td>
-<td>ALAMEDA</td>
-<td>CA</td>
-<td>94501</td>
-<td>5107474804</td>
-</tr>
-<tr>
-<td>ALAMO PO</td>
-<td>160 ALAMO PLAZA</td>
-<td>ALAMO</td>
-<td>CA</td>
-<td>94507</td>
-<td>9259359953</td>
-</tr>
-<tr>
-<td>ALBANY CITY CLERK</td>
-<td>1000 SAN PABLO AVE.</td>
-<td>ALBANY</td>
-<td>CA</td>
-<td>94706</td>
-<td>5105285710</td>
-</tr>
-<tr>
-<td>ALHAMBRA CIVIC CENTER LIBRARY</td>
-<td>101 S. 1ST STREET</td>
-<td>ALHAMBRA</td>
-<td>CA</td>
-<td>91801</td>
-<td>6265705028</td>
-</tr>
-<tr>
-<td>ALHAMBRA POST OFFICE</td>
-<td>10 W. BAY STATE ST</td>
-<td>ALHAMBRA</td>
-<td>CA</td>
-<td>91802</td>
-<td>6262891681</td>
-</tr>
-<tr>
-<td>ALPINE POST OFFICE</td>
-<td>2127 ARNOLD WAY</td>
-<td>ALPINE</td>
-<td>CA</td>
-<td>91901</td>
-<td>6194451772</td>
-</tr>
-<tr>
-<td>ALTADENA LIBRARY DISTRICT</td>
-<td>600 EAST MARIPOSA STREET</td>
-<td>ALTADENA</td>
-<td>CA</td>
-<td>91001</td>
-<td>6267982950</td>
-</tr>
-<tr>
-<td>MODOC COUNTY BOARD OF SUPERVISORS</td>
-<td>204 S. COURT STREET</td>
-<td>ALTURAS</td>
-<td>CA</td>
-<td>96101</td>
-<td>5302336201</td>
-</tr>
-<tr>
-<td>ALVISO POST OFFICE</td>
-<td>1525 GOLD STREET</td>
-<td>ALVISO</td>
-<td>CA</td>
-<td>95002</td>
-<td>4082624258</td>
-</tr>
-<tr>
-<td>ANAHEIM CITY CLERKS OFFICE</td>
-<td>200 S. ANAHEIM BLVD</td>
-<td>ANAHEIM</td>
-<td>CA</td>
-<td>92805</td>
-<td>7147654540</td>
-</tr>
-<tr>
-<td>ANAHEIM HILLS STATION POST OFFICE</td>
-<td>5505 E. SANTA ANA CANYON ROAD</td>
-<td>ANAHEIM</td>
-<td>CA</td>
-<td>92817</td>
-<td>7149212304</td>
-</tr>
-<tr>
-<td>ANAHEIM MAIN POST OFFICE</td>
-<td>701 N. LOARA ST</td>
-<td>ANAHEIM</td>
-<td>CA</td>
-<td>92803</td>
-<td>7145202639</td>
-</tr>
-<tr>
-<td>BROOKHURST CENTER STATION POST OFFICE</td>
-<td>2255 W. BALL RD.</td>
-<td>ANAHEIM</td>
-<td>CA</td>
-<td>92804</td>
-<td>7147740188</td>
-</tr>
-<tr>
-<td>HOLIDAY (ANAHEIM) STATION</td>
-<td>1180  W. BALL RD.</td>
-<td>ANAHEIM</td>
-<td>CA</td>
-<td>92812</td>
-<td>7145338182</td>
-</tr>
-<tr>
-<td>ORANGE COUNTY CLERK-RECORDER NORTH COUNTY BRANCH OFFICE</td>
-<td>222 S HARBOR BLVD, SUITE 110</td>
-<td>ANAHEIM</td>
-<td>CA</td>
-<td>92805</td>
-<td>7147731362</td>
-</tr>
-<tr>
-<td>ANGELUS OAKS POST OFFICE</td>
-<td>37696 STATE HIGHWAY 38</td>
-<td>ANGELUS OAKS</td>
-<td>CA</td>
-<td>92305</td>
-<td>9097942909</td>
-</tr>
-<tr>
-<td>ANGWIN POST OFFICE</td>
-<td>5 ANGWIN PLAZA</td>
-<td>ANGWIN</td>
-<td>CA</td>
-<td>94508</td>
-<td>7079652272</td>
-</tr>
-<tr>
-<td>ANTIOCH POST OFFICE</td>
-<td>2730 WEST TREGALLAS RD.</td>
-<td>ANTIOCH</td>
-<td>CA</td>
-<td>94509</td>
-<td>9257570379</td>
-</tr>
-<tr>
-<td>ANZA POST OFFICE</td>
-<td>38775 CONTRERAS RD</td>
-<td>ANZA</td>
-<td>CA</td>
-<td>92539</td>
-<td>9517632074</td>
-</tr>
-<tr>
-<td>APPLE VALLEY TOWN CLERK OFFICE</td>
-<td>14955 DALE EVANS PARKWAY</td>
-<td>APPLE VALLEY</td>
-<td>CA</td>
-<td>92307</td>
-<td>7602407000</td>
-</tr>
-<tr>
-<td>APTOS MAIN POST OFFICE</td>
-<td>500 CATHEDRAL DRIVE</td>
-<td>APTOS</td>
-<td>CA</td>
-<td>95003</td>
-<td>8316883165</td>
-</tr>
-<tr>
-<td>ARCADIA PUBLIC LIBRARY</td>
-<td>20 W. DUARTE RD</td>
-<td>ARCADIA</td>
-<td>CA</td>
-<td>91006</td>
-<td>6262944848</td>
-</tr>
-<tr>
-<td>ARCATA POST OFFICE</td>
-<td>799 H ST</td>
-<td>ARCATA</td>
-<td>CA</td>
-<td>95521</td>
-<td>7078223370</td>
-</tr>
-<tr>
-<td>ARMONA POST OFFICE</td>
-<td>13992 ADA ST.</td>
-<td>ARMONA</td>
-<td>CA</td>
-<td>93202</td>
-<td>5595824521</td>
-</tr>
-<tr>
-<td>ARROYO GRANDE LIBRARY</td>
-<td>800 WEST BRANCH</td>
-<td>ARROYO GRANDE</td>
-<td>CA</td>
-<td>93420</td>
-<td>8054737161</td>
-</tr>
-<tr>
-<td>ARTESIA CITY HALL</td>
-<td>18747 CLARKDALE AVE.</td>
-<td>ARTESIA</td>
-<td>CA</td>
-<td>90701</td>
-<td>5628656262</td>
-</tr>
-<tr>
-<td>ARVIN POST OFFICE</td>
-<td>140 N. HILL STREET</td>
-<td>ARVIN</td>
-<td>CA</td>
-<td>93203</td>
-<td>6618546412</td>
-</tr>
-<tr>
-<td>ATASCADERO LIBRARY</td>
-<td>6555 CAPISTRANO</td>
-<td>ATASCADERO</td>
-<td>CA</td>
-<td>93422</td>
-<td>8054616161</td>
-</tr>
-<tr>
-<td>ATWOOD POST OFFICE</td>
-<td>1679 E. ORANGETHORPE AVE</td>
-<td>ATWOOD</td>
-<td>CA</td>
-<td>92811</td>
-<td>7145282414</td>
-</tr>
-<tr>
-<td>AUBURN POST OFFICE</td>
-<td>371 NEVADA ST.</td>
-<td>AUBURN</td>
-<td>CA</td>
-<td>95603</td>
-<td>5308857837</td>
-</tr>
-<tr>
-<td>PLACER COUNTY CLERK</td>
-<td>2954 RICHARDSON DRIVE</td>
-<td>AUBURN</td>
-<td>CA</td>
-<td>95603</td>
-<td>5308865600</td>
-</tr>
-<tr>
-<td>AVALON POST OFFICE</td>
-<td>118 METROPOLE AVE</td>
-<td>AVALON</td>
-<td>CA</td>
-<td>90704</td>
-<td>3105102850</td>
-</tr>
-<tr>
-<td>AVENAL POST OFFICE</td>
-<td>913 E. SAN JOAQUIN ST.</td>
-<td>AVENAL</td>
-<td>CA</td>
-<td>93204</td>
-<td>5593861075</td>
-</tr>
-<tr>
-<td>AZUSA CITY LIBRARY</td>
-<td>729 N. DALTON AVE</td>
-<td>AZUSA</td>
-<td>CA</td>
-<td>91702</td>
-<td>6268125232</td>
-</tr>
-<tr>
-<td>AZUSA POST OFFICE</td>
-<td>110 W. 6TH STREET</td>
-<td>AZUSA</td>
-<td>CA</td>
-<td>91702</td>
-<td>6269699530</td>
-</tr>
-<tr>
-<td>STOCKDALE STATION POST OFFICE</td>
-<td>5501 STOCKDALE HWY</td>
-<td>BAKERSFIELD</td>
-<td>CA</td>
-<td>93309</td>
-<td>6615276808</td>
-</tr>
-<tr>
-<td>BALDWIN PARK CITY HALL</td>
-<td>14403 E. PACIFIC AVENUE</td>
-<td>BALDWIN PARK</td>
-<td>CA</td>
-<td>91706</td>
-<td>6269604011</td>
-</tr>
-<tr>
-<td>BALDWIN PARK POST OFFICE</td>
-<td>4230 N. MAINE AVE</td>
-<td>BALDWIN PARK</td>
-<td>CA</td>
-<td>91706</td>
-<td>6269620268</td>
-</tr>
-<tr>
-<td>BANNING POST OFFICE</td>
-<td>176 N. ALESSANDRO ST</td>
-<td>BANNING</td>
-<td>CA</td>
-<td>92220</td>
-<td>9518492447</td>
-</tr>
-<tr>
-<td>BARSTOW CITY CLERKS OFFICE</td>
-<td>220 E. MOUNTAIN VIEW STREET</td>
-<td>BARSTOW</td>
-<td>CA</td>
-<td>92311</td>
-<td>7602563531</td>
-</tr>
-<tr>
-<td>BARSTOW MAIN POST OFFICE</td>
-<td>425 S. SECOND AVE</td>
-<td>BARSTOW</td>
-<td>CA</td>
-<td>92311</td>
-<td>7602569304</td>
-</tr>
-<tr>
-<td>BEAUMONT CITY HALL</td>
-<td>550 E. 6TH STREET</td>
-<td>BEAUMONT</td>
-<td>CA</td>
-<td>92223</td>
-<td>9517698520</td>
-</tr>
-<tr>
-<td>BEAUMONT POST OFFICE</td>
-<td>950 BEAUMONT AVE</td>
-<td>BEAUMONT</td>
-<td>CA</td>
-<td>92223</td>
-<td>8008019801</td>
-</tr>
-<tr>
-<td>BELL GARDENS CITY CLERKS OFFICE</td>
-<td>7100 GARFIELD AVENUE</td>
-<td>BELL GARDENS</td>
-<td>CA</td>
-<td>90201</td>
-<td>5628067704</td>
-</tr>
-<tr>
-<td>BELL GARDENS MAIN POST OFFICE</td>
-<td>7001 S. GARFIELD AVE</td>
-<td>BELL GARDENS</td>
-<td>CA</td>
-<td>90201</td>
-<td>5627765294</td>
-</tr>
-<tr>
-<td>BELLFLOWER MAIN POST OFFICE</td>
-<td>9835 FLOWER ST</td>
-<td>BELLFLOWER</td>
-<td>CA</td>
-<td>90706</td>
-<td>5629201776</td>
-</tr>
-<tr>
-<td>BELMONT POST OFFICE</td>
-<td>640 MASONIC WAY</td>
-<td>BELMONT</td>
-<td>CA</td>
-<td>94002</td>
-<td>6505919588</td>
-</tr>
-<tr>
-<td>BEN LOMOND POST OFFICE</td>
-<td>250 MAIN STREET</td>
-<td>BEN LOMOND</td>
-<td>CA</td>
-<td>95005</td>
-<td>8313363528</td>
-</tr>
-<tr>
-<td>BENICIA POST OFFICE</td>
-<td>290 EAST L STREET</td>
-<td>BENICIA</td>
-<td>CA</td>
-<td>94510</td>
-<td>7077454019</td>
-</tr>
-<tr>
-<td>BERKELEY POST OFFICE</td>
-<td>2000 ALLSTON WAY</td>
-<td>BERKELEY</td>
-<td>CA</td>
-<td>94704</td>
-<td>5106493114</td>
-</tr>
-<tr>
-<td>UC BERKELEY PASSPORT OFFICE</td>
-<td>2301 BANCROFT WAY</td>
-<td>BERKELEY</td>
-<td>CA</td>
-<td>94720</td>
-<td>5106427796</td>
-</tr>
-<tr>
-<td>BEVERLY HILLS PUBLIC LIBRARY</td>
-<td>444 N. REXFORD DRIVE</td>
-<td>BEVERLY HILLS</td>
-<td>CA</td>
-<td>90210</td>
-<td>3102882279</td>
-</tr>
-<tr>
-<td>BIG BEAR LAKE POST OFFICE</td>
-<td>472 PINE KNOT BLVD</td>
-<td>BIG BEAR LAKE</td>
-<td>CA</td>
-<td>92315</td>
-<td>9098661035</td>
-</tr>
-<tr>
-<td>BIG PINE POST OFFICE</td>
-<td>140 N. MAIN ST.</td>
-<td>BIG PINE</td>
-<td>CA</td>
-<td>93513</td>
-<td>7609382542</td>
-</tr>
-<tr>
-<td>BIOLA POST OFFICE</td>
-<td>4672 N. BIOLA AVE</td>
-<td>BIOLA</td>
-<td>CA</td>
-<td>93606</td>
-<td>5598432338</td>
-</tr>
-<tr>
-<td>BISHOP MAIN POST OFFICE</td>
-<td>585 W. LINE ST</td>
-<td>BISHOP</td>
-<td>CA</td>
-<td>93514</td>
-<td>7608733526</td>
-</tr>
-<tr>
-<td>BLAIRSDEN - GRAEAGLE POST OFFICE</td>
-<td>1228 WASCO TR</td>
-<td>BLAIRSDEN/ GRAEAGLE</td>
-<td>CA</td>
-<td>96103</td>
-<td>5308362352</td>
-</tr>
-<tr>
-<td>BLOOMINGTON POST OFFICE</td>
-<td>10191 LINDEN AVE</td>
-<td>BLOOMINGTON</td>
-<td>CA</td>
-<td>92316</td>
-<td>9098775042</td>
-</tr>
-<tr>
-<td>BLYTHE POST OFFICE</td>
-<td>200 E. MURPHY ST</td>
-<td>BLYTHE</td>
-<td>CA</td>
-<td>92225</td>
-<td>7609221711</td>
-</tr>
-<tr>
-<td>BORREGO SPRINGS POST OFFICE</td>
-<td>2599 COUNTRY CLUB ROAD</td>
-<td>BORREGO SPRINGS</td>
-<td>CA</td>
-<td>92004</td>
-<td>7607670741</td>
-</tr>
-<tr>
-<td>BOYES HOT SPRINGS POST OFFICE</td>
-<td>18092 SONOMA HWY</td>
-<td>BOYES HOT SPRINGS</td>
-<td>CA</td>
-<td>95416</td>
-<td>7079383750</td>
-</tr>
-<tr>
-<td>BRADLEY POST OFFICE</td>
-<td>73101 PLEYTO ST.</td>
-<td>BRADLEY</td>
-<td>CA</td>
-<td>93426</td>
-<td>8054722377</td>
-</tr>
-<tr>
-<td>BRAWLEY POST OFFICE</td>
-<td>401 MAIN STREET</td>
-<td>BRAWLEY</td>
-<td>CA</td>
-<td>92227</td>
-<td>7603446870</td>
-</tr>
-<tr>
-<td>BREA MAIN POST OFFICE</td>
-<td>700 E. BIRCH ST</td>
-<td>BREA</td>
-<td>CA</td>
-<td>92822</td>
-<td>7145297850</td>
-</tr>
-<tr>
-<td>BRENTWOOD CITY CLERK</td>
-<td>150 CITY PARK WAY</td>
-<td>BRENTWOOD</td>
-<td>CA</td>
-<td>94513</td>
-<td>9255165440</td>
-</tr>
-<tr>
-<td>BRENTWOOD POST OFFICE</td>
-<td>18 OAK STREET</td>
-<td>BRENTWOOD</td>
-<td>CA</td>
-<td>94513</td>
-<td>9252402065</td>
-</tr>
-<tr>
-<td>BUENA PARK LIBRARY DISTRICT</td>
-<td>7150 W. LA PALMA AVENUE</td>
-<td>BUENA PARK</td>
-<td>CA</td>
-<td>90620</td>
-<td>7148264100</td>
-</tr>
-<tr>
-<td>BUENA PARK POST OFFICE</td>
-<td>7377 LA PALMA AVE</td>
-<td>BUENA PARK</td>
-<td>CA</td>
-<td>90622</td>
-<td>7145238701</td>
-</tr>
-<tr>
-<td>CITY OF BUENA PARK - CITY HALL</td>
-<td>6650 BEACH BLVD</td>
-<td>BUENA PARK</td>
-<td>CA</td>
-<td>90622</td>
-<td>7145623750</td>
-</tr>
-<tr>
-<td>CITY OF BURBANK CITY CLERKS OFFICE</td>
-<td>275 E. OLIVE AVENUE</td>
-<td>BURBANK</td>
-<td>CA</td>
-<td>91502</td>
-<td>8182385851</td>
-</tr>
-<tr>
-<td>BURLINGAME MPO</td>
-<td>329 PRIMROSE ROAD</td>
-<td>BURLINGAME</td>
-<td>CA</td>
-<td>94010</td>
-<td>6503474686</td>
-</tr>
-<tr>
-<td>BURLINGAME PUBLIC LIBRARY</td>
-<td>480 PRIMROSE RD</td>
-<td>BURLINGAME</td>
-<td>CA</td>
-<td>94010</td>
-<td> </td>
-</tr>
-<tr>
-<td>BUTTONWILLOW POST OFFICE</td>
-<td>121 N. MAIN ST</td>
-<td>BUTTONWILLOW</td>
-<td>CA</td>
-<td>93206</td>
-<td>6617645460</td>
-</tr>
-<tr>
-<td>CALEXICO POST OFFICE</td>
-<td>1101 OLLIE AVE.</td>
-<td>CALEXICO</td>
-<td>CA</td>
-<td>92231</td>
-<td>7603570206</td>
-</tr>
-<tr>
-<td>CALIMESA CITY HALL</td>
-<td>908 PARK AVENUE</td>
-<td>CALIMESA</td>
-<td>CA</td>
-<td>92320</td>
-<td>9097959801</td>
-</tr>
-<tr>
-<td>CALIMESA POST OFFICE</td>
-<td>600 W. AVENUE L</td>
-<td>CALIMESA</td>
-<td>CA</td>
-<td>92320</td>
-<td>9097958124</td>
-</tr>
-<tr>
-<td>CALISTOGA POST OFFICE</td>
-<td>1013 WASHINGTON ST</td>
-<td>CALISTOGA</td>
-<td>CA</td>
-<td>94515</td>
-<td>7079426661</td>
-</tr>
-<tr>
-<td>CAMP PENDLETON AREA 22 POST OFFICE</td>
-<td>22103 USPS BLDG 22103</td>
-<td>CAMP PENDLETON</td>
-<td>CA</td>
-<td>92055</td>
-<td>7607254691</td>
-</tr>
-<tr>
-<td>CAMPBELL POST OFFICE</td>
-<td>500 WEST HAMILTON AVE.</td>
-<td>CAMPBELL</td>
-<td>CA</td>
-<td>95008</td>
-<td>4083782026</td>
-</tr>
-<tr>
-<td>CAMPO POST OFFICE</td>
-<td>951 JEB STUART ROAD</td>
-<td>CAMPO</td>
-<td>CA</td>
-<td>91906</td>
-<td>6194785466</td>
-</tr>
-<tr>
-<td>CARMEL POST OFFICE</td>
-<td>3845 VIA NONA MARIE</td>
-<td>CARMEL</td>
-<td>CA</td>
-<td>93923</td>
-<td>8316254412</td>
-</tr>
-<tr>
-<td>CALIFORNIA STATE UNIVERSITY-DOMINGUEZ HILLS</td>
-<td>1000 E VICTORIA STREET</td>
-<td>CARSON</td>
-<td>CA</td>
-<td>90747</td>
-<td>3102432570</td>
-</tr>
-<tr>
-<td>CASTROVILLE POST OFFICE</td>
-<td>10799 MERRITT ST.</td>
-<td>CASTROVILLE</td>
-<td>CA</td>
-<td>95012</td>
-<td>8316332636</td>
-</tr>
-<tr>
-<td>CATHEDRAL CITY POST OFFICE</td>
-<td>33490 DATE PALM DR</td>
-<td>CATHEDRAL CITY</td>
-<td>CA</td>
-<td>92234</td>
-<td>7602028848</td>
-</tr>
-<tr>
-<td>CAYUCOS POST OFFICE</td>
-<td>97 ASH AVE</td>
-<td>CAYUCOS</td>
-<td>CA</td>
-<td>93430</td>
-<td>8059953479</td>
-</tr>
-<tr>
-<td>CHICO MIDTOWN STATION</td>
-<td>141 W. 5TH ST.</td>
-<td>CHICO</td>
-<td>CA</td>
-<td>95928</td>
-<td>5303425048</td>
-</tr>
-<tr>
-<td>OFFICE OF INTERNATIONAL EDUCATION CSU, CHICO</td>
-<td>400 W 1ST STREET</td>
-<td>CHICO</td>
-<td>CA</td>
-<td>95929</td>
-<td>5308986247</td>
-</tr>
-<tr>
-<td>CHINO POST OFFICE</td>
-<td>5375 WALNUT AVE</td>
-<td>CHINO</td>
-<td>CA</td>
-<td>91708</td>
-<td>9093641361</td>
-</tr>
-<tr>
-<td>CHINO HILLS CITY CLERKS OFFICE</td>
-<td>14000 CITY CENTER DRIVE</td>
-<td>CHINO HILLS</td>
-<td>CA</td>
-<td>91709</td>
-<td>9093642607</td>
-</tr>
-<tr>
-<td>CHINO HILLS POST OFFICE</td>
-<td>14071 PEYTON DR</td>
-<td>CHINO HILLS</td>
-<td>CA</td>
-<td>91709</td>
-<td>9095480695</td>
-</tr>
-<tr>
-<td>CHOWCHILLA POST OFFICE</td>
-<td>135 S 1ST STREET</td>
-<td>CHOWCHILLA</td>
-<td>CA</td>
-<td>93610</td>
-<td>5596650380</td>
-</tr>
-<tr>
-<td>CHULA VISTA PUBLIC LIBRARY</td>
-<td>365 F STREET</td>
-<td>CHULA VISTA</td>
-<td>CA</td>
-<td>91910</td>
-<td>6196915069</td>
-</tr>
-<tr>
-<td>CHULA VISTA PUBLIC LIBRARY - OTAY RANCH BRANCH</td>
-<td>2015 BIRCH RD</td>
-<td>CHULA VISTA</td>
-<td>CA</td>
-<td>91915</td>
-<td>6193975740</td>
-</tr>
-<tr>
-<td>RANCHO DEL REY STATION POST OFFICE</td>
-<td>340 OXFORD STREET</td>
-<td>CHULA VISTA</td>
-<td>CA</td>
-<td>91911</td>
-<td>6198622087</td>
-</tr>
-<tr>
-<td>CITRUS HEIGHTS POST OFFICE</td>
-<td>6330 FOUNTAIN SQUARE DRIVE</td>
-<td>CITRUS HEIGHTS</td>
-<td>CA</td>
-<td>95610</td>
-<td>9167251290</td>
-</tr>
-<tr>
-<td>INDUSTRY P DC - WINDOW SECT POST OFFICE</td>
-<td>15421 EAST GALE AVE</td>
-<td>CITY OF INDUSTRY</td>
-<td>CA</td>
-<td>91715</td>
-<td>6268556520</td>
-</tr>
-<tr>
-<td>CLAREMONT POST OFFICE</td>
-<td>140 HARVARD AVE</td>
-<td>CLAREMONT</td>
-<td>CA</td>
-<td>91711</td>
-<td>9096257161</td>
-</tr>
-<tr>
-<td>CLAYTON POST OFFICE</td>
-<td>6150 CENTER STREET</td>
-<td>CLAYTON</td>
-<td>CA</td>
-<td>94517</td>
-<td>9256724337</td>
-</tr>
-<tr>
-<td>CLEARLAKE POST OFFICE</td>
-<td>14500 OLYMPIC DRIVE</td>
-<td>CLEARLAKE</td>
-<td>CA</td>
-<td>95422</td>
-<td>7079946790</td>
-</tr>
-<tr>
-<td>COACHELLA POST OFFICE</td>
-<td>1412 6TH STREET</td>
-<td>COACHELLA</td>
-<td>CA</td>
-<td>92236</td>
-<td>7603988112</td>
-</tr>
-<tr>
-<td>COLTON POST OFFICE</td>
-<td>265 N. 7TH AVE</td>
-<td>COLTON</td>
-<td>CA</td>
-<td>92324</td>
-<td>9098252154</td>
-</tr>
-<tr>
-<td>CITY OF COMPTON, CITY CLERKS OFFICE</td>
-<td>205 S. WILLOWBROOK AVE</td>
-<td>COMPTON</td>
-<td>CA</td>
-<td>90220</td>
-<td>3106055530</td>
-</tr>
-<tr>
-<td>COMPTON MAIN POST OFFICE</td>
-<td>701 S. SANTA FE AVE</td>
-<td>COMPTON</td>
-<td>CA</td>
-<td>90224</td>
-<td>3237742703</td>
-</tr>
-<tr>
-<td>CONCORD POST OFFICE</td>
-<td>2121 MERIDIAN BLVD.</td>
-<td>CONCORD</td>
-<td>CA</td>
-<td>94520</td>
-<td>9252656701</td>
-</tr>
-<tr>
-<td>CORCORAN POST OFFICE</td>
-<td>917 CHASE AVENUE</td>
-<td>CORCORAN</td>
-<td>CA</td>
-<td>93212</td>
-<td>5599924505</td>
-</tr>
-<tr>
-<td>CITY OF CORONA - CIRCLE CITY CENTER</td>
-<td>365 N MAIN ST</td>
-<td>CORONA</td>
-<td>CA</td>
-<td>92880</td>
-<td>9517362386</td>
-</tr>
-<tr>
-<td>CORONA MAIN POST OFFICE</td>
-<td>414 W. GRAND BLVD</td>
-<td>CORONA</td>
-<td>CA</td>
-<td>92878</td>
-<td>9517373120</td>
-</tr>
-<tr>
-<td>CORONA PUBLIC LIBRARY</td>
-<td>650 S. MAIN STREET</td>
-<td>CORONA</td>
-<td>CA</td>
-<td>92882</td>
-<td>9517362386</td>
-</tr>
-<tr>
-<td>CORONA DEL MAR POST OFFICE</td>
-<td>406 ORCHID AVE</td>
-<td>CORONA DEL MAR</td>
-<td>CA</td>
-<td>92625</td>
-<td>9496732989</td>
-</tr>
-<tr>
-<td>CORTE MADERA POST OFFICE</td>
-<td>7 PIXLEY AVE</td>
-<td>CORTE MADERA</td>
-<td>CA</td>
-<td>94925</td>
-<td>4159245056</td>
-</tr>
-<tr>
-<td>COSTA MESA POST OFFICE</td>
-<td>1590 ADAMS AVE</td>
-<td>COSTA MESA</td>
-<td>CA</td>
-<td>92628</td>
-<td>7145465022</td>
-</tr>
-<tr>
-<td>MESA CENTER STATION POST OFFICE</td>
-<td>2230 FAIRVIEW RD STE C</td>
-<td>COSTA MESA</td>
-<td>CA</td>
-<td>92627</td>
-<td>9496462912</td>
-</tr>
-<tr>
-<td>COVINA POST OFFICE</td>
-<td>545 N. RIMSDALE AVE</td>
-<td>COVINA</td>
-<td>CA</td>
-<td>91722</td>
-<td>6269666145</td>
-</tr>
-<tr>
-<td>CRESCENT CITY POST OFFICE</td>
-<td>751 2ND STREET</td>
-<td>CRESCENT CITY</td>
-<td>CA</td>
-<td>95531</td>
-<td>7074642151</td>
-</tr>
-<tr>
-<td>CRESTLINE MAIN POST OFFICE</td>
-<td>23921 LAKE DRIVE</td>
-<td>CRESTLINE</td>
-<td>CA</td>
-<td>92325</td>
-<td>9093385489</td>
-</tr>
-<tr>
-<td>CULVER CITY - CITY CLERKS OFFICE</td>
-<td>9770 CULVER BLVD</td>
-<td>CULVER CITY</td>
-<td>CA</td>
-<td>90232</td>
-<td>3102535851</td>
-</tr>
-<tr>
-<td>CUPERTINO LIBRARY</td>
-<td>10800 TORRE AVENUE</td>
-<td>CUPERTINO</td>
-<td>CA</td>
-<td>95014</td>
-<td>4084461677</td>
-</tr>
-<tr>
-<td>CUPERTINO POST OFFICE</td>
-<td>21701 STEVENS CREEK BLVD</td>
-<td>CUPERTINO</td>
-<td>CA</td>
-<td>95014</td>
-<td>4082523086</td>
-</tr>
-<tr>
-<td>CYPRESS POST OFFICE</td>
-<td>5762 LINCOLN AVE</td>
-<td>CYPRESS</td>
-<td>CA</td>
-<td>90630</td>
-<td>7148282274</td>
-</tr>
-<tr>
-<td>CITY OF DALY CITY CITY CLERKS OFFICE</td>
-<td>333 90TH STREET</td>
-<td>DALY CITY</td>
-<td>CA</td>
-<td>94015</td>
-<td>6509918078</td>
-</tr>
-<tr>
-<td>DALY CITY POST OFFICE</td>
-<td>1100 SULLIVAN AVE</td>
-<td>DALY CITY</td>
-<td>CA</td>
-<td>94015</td>
-<td>6507562304</td>
-</tr>
-<tr>
-<td>DANA POINT POST OFFICE</td>
-<td>24551 DEL PRADO</td>
-<td>DANA POINT</td>
-<td>CA</td>
-<td>92629</td>
-<td>9494962787</td>
-</tr>
-<tr>
-<td>DANVILLE POST OFFICE</td>
-<td>2605 CAMINO TASSAJARA</td>
-<td>DANVILLE</td>
-<td>CA</td>
-<td>94526</td>
-<td>9257360775</td>
-</tr>
-<tr>
-<td>UC DAVIS CAMPUS RECREATION AND UNIONS</td>
-<td>232 ACTIVITIES AND RECREATION CENTER, ARC</td>
-<td>DAVIS</td>
-<td>CA</td>
-<td>95616</td>
-<td>5307525034</td>
-</tr>
-<tr>
-<td>DESCANSO POST OFFICE</td>
-<td>24680 VIEJAS GRADE STE A</td>
-<td>DESCANSO</td>
-<td>CA</td>
-<td>91916</td>
-<td>6194452046</td>
-</tr>
-<tr>
-<td>DESERT HOT SPRINGS POST OFFICE</td>
-<td>66311 TWO BUNCH PALMS TRAIL</td>
-<td>DESERT HOT SPRINGS</td>
-<td>CA</td>
-<td>92240</td>
-<td>7602514448</td>
-</tr>
-<tr>
-<td>DIAMOND BAR LIBRARY</td>
-<td>21800 COPLEY DRIVE</td>
-<td>DIAMOND BAR</td>
-<td>CA</td>
-<td>91765</td>
-<td>9094864978</td>
-</tr>
-<tr>
-<td>DOWNEY MAIN POST OFFICE</td>
-<td>8111 FIRESTONE BLVD</td>
-<td>DOWNEY</td>
-<td>CA</td>
-<td>90241</td>
-<td>5626225745</td>
-</tr>
-<tr>
-<td>DUARTE LIBRARY</td>
-<td>1301 BUENA VISTA ST.</td>
-<td>DUARTE</td>
-<td>CA</td>
-<td>91010</td>
-<td>6263581865</td>
-</tr>
-<tr>
-<td>DUARTE POST OFFICE</td>
-<td>1220 HIGHLAND AVE</td>
-<td>DUARTE</td>
-<td>CA</td>
-<td>91010</td>
-<td>6262566043</td>
-</tr>
-<tr>
-<td>PALO ALTO POST OFFICE</td>
-<td>2085 E. BAYSHORE RD.</td>
-<td>EAST PALO ALTO</td>
-<td>CA</td>
-<td>94303</td>
-<td>6503211423</td>
-</tr>
-<tr>
-<td>EASTVALE CITY HALL</td>
-<td>12363 LIMONITE AVENUE</td>
-<td>EASTVALE</td>
-<td>CA</td>
-<td>91752</td>
-<td>9513610900</td>
-</tr>
-<tr>
-<td>EDWARDS POST OFFICE</td>
-<td>1000 KINCHELOE AVE</td>
-<td>EDWARDS</td>
-<td>CA</td>
-<td>93523</td>
-<td>6612587150</td>
-</tr>
-<tr>
-<td>EL CAJON CITY CLERKS OFFICE</td>
-<td>200 CIVIC CENTER WAY</td>
-<td>EL CAJON</td>
-<td>CA</td>
-<td>92020</td>
-<td>6194411763</td>
-</tr>
-<tr>
-<td>EL CAJON MAIN POST OFFICE</td>
-<td>401 W. LEXINGTON AVE.</td>
-<td>EL CAJON</td>
-<td>CA</td>
-<td>92020</td>
-<td>6195888665</td>
-</tr>
-<tr>
-<td>EL CENTRO POST OFFICE</td>
-<td>1598 W MAIN STREET</td>
-<td>EL CENTRO</td>
-<td>CA</td>
-<td>92243</td>
-<td>7603522872</td>
-</tr>
-<tr>
-<td>CITY OF EL CERRITO</td>
-<td>10890 SAN PABLO AVE.</td>
-<td>EL CERRITO</td>
-<td>CA</td>
-<td>94530</td>
-<td>5102154371</td>
-</tr>
-<tr>
-<td>EL GRANADA POST OFFICE</td>
-<td>20 AVENUE PORTOLA</td>
-<td>EL GRANADA</td>
-<td>CA</td>
-<td>94018</td>
-<td>6507265000</td>
-</tr>
-<tr>
-<td>EL MONTE MAIN POST OFFICE</td>
-<td>11151 VALLEY BLVD</td>
-<td>EL MONTE</td>
-<td>CA</td>
-<td>91734</td>
-<td>6264430704</td>
-</tr>
-<tr>
-<td>ELK GROVE LAGUNA POSTAL STORE - PASSPORT CENTER</td>
-<td>9105 BRUCEVILLE RD</td>
-<td>ELK GROVE</td>
-<td>CA</td>
-<td>95758</td>
-<td>9166838704</td>
-</tr>
-<tr>
-<td>ENCINITAS MAIN POST OFFICE</td>
-<td>1150 GARDEN VIEW ROAD</td>
-<td>ENCINITAS</td>
-<td>CA</td>
-<td>92024</td>
-<td>7607531415</td>
-</tr>
-<tr>
-<td>ESCONDIDO MAIN POST OFFICE</td>
-<td>1157 WEST MISSION AVE.</td>
-<td>ESCONDIDO</td>
-<td>CA</td>
-<td>92025</td>
-<td>7607359507</td>
-</tr>
-<tr>
-<td>EUREKA POST OFFICE</td>
-<td>337 WEST CLARK</td>
-<td>EUREKA</td>
-<td>CA</td>
-<td>95501</td>
-<td>7074421768</td>
-</tr>
-<tr>
-<td>FAIRFIELD POST OFFICE</td>
-<td>600 KENTUCKY STREET</td>
-<td>FAIRFIELD</td>
-<td>CA</td>
-<td>94533</td>
-<td>7074257325</td>
-</tr>
-<tr>
-<td>FALLBROOK POST OFFICE</td>
-<td>747 S. MISSION ROAD</td>
-<td>FALLBROOK</td>
-<td>CA</td>
-<td>92028</td>
-<td>7607282946</td>
-</tr>
-<tr>
-<td>FONTANA CITY HALL</td>
-<td>8353 SIERRA AVE.</td>
-<td>FONTANA</td>
-<td>CA</td>
-<td>92335</td>
-<td>9093507635</td>
-</tr>
-<tr>
-<td>FORTUNA POST OFFICE</td>
-<td>699 13TH STREET</td>
-<td>FORTUNA</td>
-<td>CA</td>
-<td>95540</td>
-<td>7077259307</td>
-</tr>
-<tr>
-<td>FOUNTAIN VALLEY POST OFFICE</td>
-<td>17227 NEW HOPE ST</td>
-<td>FOUNTAIN VALLEY</td>
-<td>CA</td>
-<td>92728</td>
-<td>7149660595</td>
-</tr>
-<tr>
-<td>FREMONT POST OFFICE</td>
-<td>37010 DUSTERBERRY WAY</td>
-<td>FREMONT</td>
-<td>CA</td>
-<td>94536</td>
-<td>5107928655</td>
-</tr>
-<tr>
-<td>CALIFORNIA STATE UNIVERSITY, FRESNO</td>
-<td>5005 N. MAPLE AVE.</td>
-<td>FRESNO</td>
-<td>CA</td>
-<td>93740</td>
-<td>5592780013</td>
-</tr>
-<tr>
-<td>FRESNO COUNTY CLERK</td>
-<td>2220 TULARE ST, 1ST FLOOR</td>
-<td>FRESNO</td>
-<td>CA</td>
-<td>93721</td>
-<td>5596002575</td>
-</tr>
-<tr>
-<td>FRESNO DOWNTOWN POST OFFICE</td>
-<td>1900 E STREET</td>
-<td>FRESNO</td>
-<td>CA</td>
-<td>93706</td>
-<td>5594977675</td>
-</tr>
-<tr>
-<td>COMMONWEALTH STATION</td>
-<td>202 E. COMMONWEALTH AVE.</td>
-<td>FULLERTON</td>
-<td>CA</td>
-<td>92836</td>
-<td>7148792803</td>
-</tr>
-<tr>
-<td>FULLERTON MAIN POST OFFICE</td>
-<td>1350 E. CHAPMAN AVE</td>
-<td>FULLERTON</td>
-<td>CA</td>
-<td>92834</td>
-<td>7145251024</td>
-</tr>
-<tr>
-<td>FULLERTON PUBLIC LIBRARY</td>
-<td>353 W. COMMONWEALTH AVE.</td>
-<td>FULLERTON</td>
-<td>CA</td>
-<td>92832</td>
-<td>7147386333</td>
-</tr>
-<tr>
-<td>SUNNYHILLS (FULLERTON) STATION</td>
-<td>1820 N. SUNNYCREST DRIVE</td>
-<td>FULLERTON</td>
-<td>CA</td>
-<td>92838</td>
-<td>7148716618</td>
-</tr>
-<tr>
-<td>GARDEN GROVE MAIN POST OFFICE</td>
-<td>10441 STANFORD ST</td>
-<td>GARDEN GROVE</td>
-<td>CA</td>
-<td>92842</td>
-<td>7145371181</td>
-</tr>
-<tr>
-<td>CITY OF GARDENA</td>
-<td>1700 WEST 162ND STREET</td>
-<td>GARDENA</td>
-<td>CA</td>
-<td>90247</td>
-<td>3102179500</td>
-</tr>
-<tr>
-<td>GILROY MAIN POST OFFICE</td>
-<td>100 4TH ST.</td>
-<td>GILROY</td>
-<td>CA</td>
-<td>95020</td>
-<td>4088421354</td>
-</tr>
-<tr>
-<td>GLENDALE MAIN POST OFFICE</td>
-<td>313 E. BROADWAY</td>
-<td>GLENDALE</td>
-<td>CA</td>
-<td>91209</td>
-<td>8182659214</td>
-</tr>
-<tr>
-<td>GLENDORA CITY CLERKS DEPARTMENT</td>
-<td>116 E. FOOTHILL BLVD</td>
-<td>GLENDORA</td>
-<td>CA</td>
-<td>91741</td>
-<td>6269148210</td>
-</tr>
-<tr>
-<td>GLENDORA POST OFFICE</td>
-<td>255 S. GLENDORA AVE</td>
-<td>GLENDORA</td>
-<td>CA</td>
-<td>91740</td>
-<td>6268579127</td>
-</tr>
-<tr>
-<td>GROVELAND POST OFFICE</td>
-<td>18737 BACK ST.</td>
-<td>GROVELAND</td>
-<td>CA</td>
-<td>95321</td>
-<td>2099627102</td>
-</tr>
-<tr>
-<td>GROVER BEACH POST OFFICE</td>
-<td>917 GRAND AVE.</td>
-<td>GROVER BEACH</td>
-<td>CA</td>
-<td>93433</td>
-<td>8054895138</td>
-</tr>
-<tr>
-<td>GUALALA POST OFFICE</td>
-<td>39225 S HIGHWAY 1</td>
-<td>GUALALA</td>
-<td>CA</td>
-<td>95445</td>
-<td>7078843759</td>
-</tr>
-<tr>
-<td>GUASTI POST OFFICE</td>
-<td>323 N. TURNER AVE</td>
-<td>GUASTI</td>
-<td>CA</td>
-<td>91743</td>
-<td>9099376749</td>
-</tr>
-<tr>
-<td>HALF MOON BAY POST OFFICE</td>
-<td>500 STONE PINE ROAD</td>
-<td>HALF MOON BAY</td>
-<td>CA</td>
-<td>94019</td>
-<td>6507264015</td>
-</tr>
-<tr>
-<td>KINGS COUNTY ASSESSORS OFFICE</td>
-<td>1400 W. LACEY BLVD.</td>
-<td>HANFORD</td>
-<td>CA</td>
-<td>93230</td>
-<td>5598522486</td>
-</tr>
-<tr>
-<td>KINGS COUNTY ELECTIONS</td>
-<td>1400 W. LACEY BLVD</td>
-<td>HANFORD</td>
-<td>CA</td>
-<td>93230</td>
-<td>5598524401</td>
-</tr>
-<tr>
-<td>HAWTHORNE MAIN POST OFFICE</td>
-<td>12700 INGLEWOOD AVE.</td>
-<td>HAWTHORNE</td>
-<td>CA</td>
-<td>90250</td>
-<td>3106762287</td>
-</tr>
-<tr>
-<td>HAYWARD CITY CLERK</td>
-<td>777 B STREET</td>
-<td>HAYWARD</td>
-<td>CA</td>
-<td>94541</td>
-<td>5105834400</td>
-</tr>
-<tr>
-<td>HAYWARD POST OFFICE</td>
-<td>24438 SANTA CLARA STREET</td>
-<td>HAYWARD</td>
-<td>CA</td>
-<td>94544</td>
-<td>5107802254</td>
-</tr>
-<tr>
-<td>HEALDSBURG MAIN POST OFFICE</td>
-<td>160 FOSS CREEK CIRCLE</td>
-<td>HEALDSBURG</td>
-<td>CA</td>
-<td>95448</td>
-<td>7074339276</td>
-</tr>
-<tr>
-<td>HEMET POST OFFICE</td>
-<td>324 S. STATE STREET</td>
-<td>HEMET</td>
-<td>CA</td>
-<td>92543</td>
-<td>9516585865</td>
-</tr>
-<tr>
-<td>HEMET PUBLIC LIBRARY</td>
-<td>300 E. LATHAM AVE</td>
-<td>HEMET</td>
-<td>CA</td>
-<td>92543</td>
-<td>9517652440</td>
-</tr>
-<tr>
-<td>HESPERIA POST OFFICE</td>
-<td>17240 OLIVE STREET</td>
-<td>HESPERIA</td>
-<td>CA</td>
-<td>92345</td>
-<td>7602443897</td>
-</tr>
-<tr>
-<td>HOLLISTER POST OFFICE</td>
-<td>100 MAPLE STREET</td>
-<td>HOLLISTER</td>
-<td>CA</td>
-<td>95023</td>
-<td>8316375633</td>
-</tr>
-<tr>
-<td>SAN BENITO COUNTY FREE LIBRARY</td>
-<td>470 FIFTH ST.</td>
-<td>HOLLISTER</td>
-<td>CA</td>
-<td>95023</td>
-<td>8316364107</td>
-</tr>
-<tr>
-<td>HOLTVILLE POST OFFICE</td>
-<td>520 FERN AVE</td>
-<td>HOLTVILLE</td>
-<td>CA</td>
-<td>92250</td>
-<td>7603565200</td>
-</tr>
-<tr>
-<td>HOMELAND POST OFFICE</td>
-<td>31610 US HWY 74</td>
-<td>HOMELAND</td>
-<td>CA</td>
-<td>92548</td>
-<td>9519261536</td>
-</tr>
-<tr>
-<td>BEACH CENTER STATION POST OFFICE</td>
-<td>316 OLIVE AVE</td>
-<td>HUNTINGTON BEACH</td>
-<td>CA</td>
-<td>92648</td>
-<td>7145364973</td>
-</tr>
-<tr>
-<td>HUNTINGTON BEACH CITY CLERKS OFFICE</td>
-<td>2000 MAIN STREET</td>
-<td>HUNTINGTON BEACH</td>
-<td>CA</td>
-<td>92648</td>
-<td>7143741612</td>
-</tr>
-<tr>
-<td>HUNTINGTON BEACH MAIN POST OFFICE</td>
-<td>6771 WARNER AVE</td>
-<td>HUNTINGTON BEACH</td>
-<td>CA</td>
-<td>92647</td>
-<td>7148434200</td>
-</tr>
-<tr>
-<td>HUNTINGTON PARK MAIN POST OFFICE</td>
-<td>6606 SEVILLE AVE</td>
-<td>HUNTINGTON PARK</td>
-<td>CA</td>
-<td>90255</td>
-<td>3235855942</td>
-</tr>
-<tr>
-<td>IDYLLWILD POST OFFICE</td>
-<td>54391 VILLAGE CENTER DRIVE</td>
-<td>IDYLLWILD</td>
-<td>CA</td>
-<td>92549</td>
-<td>9516591969</td>
-</tr>
-<tr>
-<td>IMPERIAL POST OFFICE</td>
-<td>116 NORTH IMPERIAL AVE.</td>
-<td>IMPERIAL</td>
-<td>CA</td>
-<td>92251</td>
-<td>7603554966</td>
-</tr>
-<tr>
-<td>INDIO MAIN POST OFFICE</td>
-<td>45805 FARGO STREET</td>
-<td>INDIO</td>
-<td>CA</td>
-<td>92201</td>
-<td>7603472092</td>
-</tr>
-<tr>
-<td>INGLEWOOD PUBLIC LIBRARY</td>
-<td>101 W. MANCHESTER BLVD.</td>
-<td>INGLEWOOD</td>
-<td>CA</td>
-<td>90301</td>
-<td>3104125304</td>
-</tr>
-<tr>
-<td>INYOKERN POST OFFICE</td>
-<td>6504 LOCUST AVENUE</td>
-<td>INYOKERN</td>
-<td>CA</td>
-<td>93527</td>
-<td>7603775125</td>
-</tr>
-<tr>
-<td>HARVEST STATION - IRVINE POST OFFICE</td>
-<td>17192 MURPHY AVE</td>
-<td>IRVINE</td>
-<td>CA</td>
-<td>92623</td>
-<td>9494740292</td>
-</tr>
-<tr>
-<td>IRVINE MAIN POST OFFICE</td>
-<td>15642 SAND CANYON AVE</td>
-<td>IRVINE</td>
-<td>CA</td>
-<td>92619</td>
-<td>9494534910</td>
-</tr>
-<tr>
-<td>NORTHWOOD STATION POST OFFICE</td>
-<td>1 LEAGUE</td>
-<td>IRVINE</td>
-<td>CA</td>
-<td>92602</td>
-<td>7143683374</td>
-</tr>
-<tr>
-<td>UC IRVINE -  PASSPORT APPLICATION ACCEPTANCE</td>
-<td>19182 JAMBOREE RD</td>
-<td>IRVINE</td>
-<td>CA</td>
-<td>92612</td>
-<td>9498245100</td>
-</tr>
-<tr>
-<td>CITY OF IRWINDALE CITY HALL</td>
-<td>5050 N. IRWINDALE AVENUE</td>
-<td>IRWINDALE</td>
-<td>CA</td>
-<td>91706</td>
-<td>6264302202</td>
-</tr>
-<tr>
-<td>JACKSON POST OFFICE</td>
-<td>424 SUTTER ST</td>
-<td>JACKSON</td>
-<td>CA</td>
-<td>95642</td>
-<td>2092237720</td>
-</tr>
-<tr>
-<td>JAMUL POST OFFICE</td>
-<td>13961 CAMPO ROAD</td>
-<td>JAMUL</td>
-<td>CA</td>
-<td>91935</td>
-<td>6196690864</td>
-</tr>
-<tr>
-<td>RUBIDOUX POST OFFICE</td>
-<td>8082 LIMONITE BLVD SUITE 1</td>
-<td>JURUPA VALLEY</td>
-<td>CA</td>
-<td>92509</td>
-<td>9517278345</td>
-</tr>
-<tr>
-<td>KENWOOD MPO</td>
-<td>8930 SONOMA HIGHWAY</td>
-<td>KENWOOD</td>
-<td>CA</td>
-<td>95452</td>
-<td>7078335322</td>
-</tr>
-<tr>
-<td>CIVIC CENTER LA HABRA FINANCE STATION POST OFFICE</td>
-<td>200 N. EUCLID ST.</td>
-<td>LA HABRA</td>
-<td>CA</td>
-<td>90631</td>
-<td>7149920580</td>
-</tr>
-<tr>
-<td>LA HABRA POST OFFICE</td>
-<td>1001 W. IMPERIAL HWY.</td>
-<td>LA HABRA</td>
-<td>CA</td>
-<td>90631</td>
-<td>7149920580</td>
-</tr>
-<tr>
-<td>UCSD STUDENT SERVICES CENTER (SSC)</td>
-<td>402 MYERS DRIVE,</td>
-<td>LA JOLLA</td>
-<td>CA</td>
-<td>92093</td>
-<td>8582462620</td>
-</tr>
-<tr>
-<td>UNIVERSITY OF CALIFORNIA SAN DIEGO</td>
-<td>GREENHOUSE LANE</td>
-<td>LA JOLLA</td>
-<td>CA</td>
-<td>92093</td>
-<td>8582465247</td>
-</tr>
-<tr>
-<td>CITY OF LA MIRADA</td>
-<td>13700 LA MIRADA BLVD</td>
-<td>LA MIRADA</td>
-<td>CA</td>
-<td>90638</td>
-<td>5629430131</td>
-</tr>
-<tr>
-<td>LA MIRADA POST OFFICE</td>
-<td>14901 ADELFA DRIVE</td>
-<td>LA MIRADA</td>
-<td>CA</td>
-<td>90638</td>
-<td>7145211097</td>
-</tr>
-<tr>
-<td>LA PUENTE COMMUNITY CENTER</td>
-<td>501 N. GLENDORA AVE</td>
-<td>LA PUENTE</td>
-<td>CA</td>
-<td>91744</td>
-<td>6268551560</td>
-</tr>
-<tr>
-<td>LA PUENTE POST OFFICE</td>
-<td>15310 ELLIOT AVE</td>
-<td>LA PUENTE</td>
-<td>CA</td>
-<td>91747</td>
-<td>6263695301</td>
-</tr>
-<tr>
-<td>LA QUINTA POST OFFICE</td>
-<td>79125 CORPORATE CENTER DRIVE</td>
-<td>LA QUINTA</td>
-<td>CA</td>
-<td>92253</td>
-<td>7607712900</td>
-</tr>
-<tr>
-<td>LA VERNE CITY CLERKS OFFICE</td>
-<td>3660 D STREET</td>
-<td>LA VERNE</td>
-<td>CA</td>
-<td>91750</td>
-<td>9095968726</td>
-</tr>
-<tr>
-<td>LA VERNE POST OFFICE</td>
-<td>3355 N. WHITE AVENUE</td>
-<td>LA VERNE</td>
-<td>CA</td>
-<td>91750</td>
-<td>9093924681</td>
-</tr>
-<tr>
-<td>LAFAYETTE POST OFFICE</td>
-<td>3641 MT. DIABLO BLVD</td>
-<td>LAFAYETTE</td>
-<td>CA</td>
-<td>94549</td>
-<td>9252838229</td>
-</tr>
-<tr>
-<td>LAGUNA HILLS BRANCH POST OFFICE</td>
-<td>24001 CALLE DE LA MAGDALENA</td>
-<td>LAGUNA HILLS</td>
-<td>CA</td>
-<td>92654</td>
-<td>9498371848</td>
-</tr>
-<tr>
-<td>ORANGE COUNTY CLERK-RECORDER LAGUNA HILLS</td>
-<td>24031 EL TORO RD.</td>
-<td>LAGUNA HILLS</td>
-<td>CA</td>
-<td>92653</td>
-<td>9497072115</td>
-</tr>
-<tr>
-<td>LAGUNA BEACH POST OFFICE</td>
-<td>29911 NIGUEL ROAD</td>
-<td>LAGUNA NIGUEL</td>
-<td>CA</td>
-<td>92607</td>
-<td>9494951902</td>
-</tr>
-<tr>
-<td>LAKE ARROWHEAD POST OFFICE</td>
-<td>28150 HIGHWAY 189</td>
-<td>LAKE ARROWHEAD</td>
-<td>CA</td>
-<td>92352</td>
-<td>9093372673</td>
-</tr>
-<tr>
-<td>CITY OF LAKE ELSINORE</td>
-<td>130 SOUTH MAIN STREET</td>
-<td>LAKE ELSINORE</td>
-<td>CA</td>
-<td>92530</td>
-<td>9516743124</td>
-</tr>
-<tr>
-<td>LAKE ELSINORE POST OFFICE</td>
-<td>500 W. GRAHAM AVE.</td>
-<td>LAKE ELSINORE</td>
-<td>CA</td>
-<td>92530</td>
-<td>9516749726</td>
-</tr>
-<tr>
-<td>EL TORO POST OFFICE</td>
-<td>24552 RAYMOND WAY</td>
-<td>LAKE FOREST</td>
-<td>CA</td>
-<td>92630</td>
-<td>9498371976</td>
-</tr>
-<tr>
-<td>LAKE FOREST CITY CLERKS OFFICE</td>
-<td>100 CIVIC CENTER DRIVE</td>
-<td>LAKE FOREST</td>
-<td>CA</td>
-<td>92630</td>
-<td>9494613420</td>
-</tr>
-<tr>
-<td>LAKE HUGHES POST OFFICE</td>
-<td>16817 ELIZABETH LAKE ROAD</td>
-<td>LAKE HUGHES</td>
-<td>CA</td>
-<td>93532</td>
-<td>6617249281</td>
-</tr>
-<tr>
-<td>LAKE ISABELLA POST OFFICE</td>
-<td>6441 LAKE ISABELLA BLVD</td>
-<td>LAKE ISABELLA</td>
-<td>CA</td>
-<td>93240</td>
-<td>7603798755</td>
-</tr>
-<tr>
-<td>LAKEPORT MPO</td>
-<td>1151 11TH STREET</td>
-<td>LAKEPORT</td>
-<td>CA</td>
-<td>95453</td>
-<td>7072635837</td>
-</tr>
-<tr>
-<td>LAKESIDE POST OFFICE</td>
-<td>12515 WOODSIDE AVE.</td>
-<td>LAKESIDE</td>
-<td>CA</td>
-<td>92040</td>
-<td>6194435280</td>
-</tr>
-<tr>
-<td>LAMONT POST OFFICE</td>
-<td>11940 MAIN STREET</td>
-<td>LAMONT</td>
-<td>CA</td>
-<td>93241</td>
-<td>6618451031</td>
-</tr>
-<tr>
-<td>LANCASTER CITY CLERKS OFFICE</td>
-<td>44933 FERN AVENUE</td>
-<td>LANCASTER</td>
-<td>CA</td>
-<td>93534</td>
-<td>6617236000</td>
-</tr>
-<tr>
-<td>LANCASTER LIBRARY</td>
-<td>601 W. LANCASTER BLVD.</td>
-<td>LANCASTER</td>
-<td>CA</td>
-<td>93534</td>
-<td>6619485029</td>
-</tr>
-<tr>
-<td>LAWNDALE POST OFFICE</td>
-<td>4320 MARINE AVENUE</td>
-<td>LAWNDALE</td>
-<td>CA</td>
-<td>90260</td>
-<td>3106799804</td>
-</tr>
-<tr>
-<td>CITY OF LEMON GROVE</td>
-<td>3232 MAIN STREET</td>
-<td>LEMON GROVE</td>
-<td>CA</td>
-<td>91945</td>
-<td>6198253800</td>
-</tr>
-<tr>
-<td>LINDSAY POST OFFICE</td>
-<td>262 E. HONOLULU STREET</td>
-<td>LINDSAY</td>
-<td>CA</td>
-<td>93247</td>
-<td>5595629295</td>
-</tr>
-<tr>
-<td>LITTLEROCK POST OFFICE</td>
-<td>7765 PEARBLOSSOM HIGHWAY</td>
-<td>LITTLEROCK</td>
-<td>CA</td>
-<td>93543</td>
-<td>6619444002</td>
-</tr>
-<tr>
-<td>LIVERMORE POST OFFICE</td>
-<td>220 SOUTH LIVERMORE AVENUE</td>
-<td>LIVERMORE</td>
-<td>CA</td>
-<td>94550</td>
-<td>9254470813</td>
-</tr>
-<tr>
-<td>LODI POST OFFICE</td>
-<td>120 S. SCHOOL ST.</td>
-<td>LODI</td>
-<td>CA</td>
-<td>95240</td>
-<td>2093692351</td>
-</tr>
-<tr>
-<td>LOMA LINDA POST OFFICE</td>
-<td>25925 BARTON RD.</td>
-<td>LOMA LINDA</td>
-<td>CA</td>
-<td>92354</td>
-<td>9094780488</td>
-</tr>
-<tr>
-<td>LOMITA POST OFFICE</td>
-<td>25131 NARBONNE AVE.</td>
-<td>LOMITA</td>
-<td>CA</td>
-<td>90717</td>
-<td>3103268280</td>
-</tr>
-<tr>
-<td>LOMPOC - ANDERSON RECREATION CENTER</td>
-<td>125 WEST WALNUT AVE.</td>
-<td>LOMPOC</td>
-<td>CA</td>
-<td>93436</td>
-<td>8058758100</td>
-</tr>
-<tr>
-<td>CSULB - U.S. PASSPORT APPLICATION ACCEPTANCE OFFICE</td>
-<td>1250 N. BELLFLOWER BLVD. BH 250</td>
-<td>LONG BEACH</td>
-<td>CA</td>
-<td>90840</td>
-<td>5629857790</td>
-</tr>
-<tr>
-<td>LONG BEACH CITY CLERKS OFFICE</td>
-<td>411 W. OCEAN BLVD.</td>
-<td>LONG BEACH</td>
-<td>CA</td>
-<td>90802</td>
-<td>5625706101</td>
-</tr>
-<tr>
-<td>SIGNAL HILL STATION</td>
-<td>2371 GRAND AVE</td>
-<td>LONG BEACH</td>
-<td>CA</td>
-<td>90815</td>
-<td>5624942296</td>
-</tr>
-<tr>
-<td>LOS ALAMOS POST OFFICE</td>
-<td>497 BELL STREET</td>
-<td>LOS ALAMOS</td>
-<td>CA</td>
-<td>93440</td>
-<td>8053443602</td>
-</tr>
-<tr>
-<td>LOS ALTOS LIBRARY</td>
-<td>13 S. SAN ANTONIO RD.</td>
-<td>LOS ALTOS</td>
-<td>CA</td>
-<td>94022</td>
-<td>6509487683</td>
-</tr>
-<tr>
-<td>LOYOLA CORNER LOS ALTOS PO</td>
-<td>1525 MIRAMONTE AVE</td>
-<td>LOS ALTOS</td>
-<td>CA</td>
-<td>94024</td>
-<td>6509600817</td>
-</tr>
-<tr>
-<td>AIRPORT FINANCE STATION POST OFFICE</td>
-<td>9029 AIRPORT BLVD</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90009</td>
-<td>3106497400</td>
-</tr>
-<tr>
-<td>BARRINGTON KARL MALDEN STATION</td>
-<td>200 S. BARRINGTON AVE</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90049</td>
-<td>3104764057</td>
-</tr>
-<tr>
-<td>BICENTENNIAL STATION POST OFFICE</td>
-<td>7610 BEVERLY BLVD</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90048</td>
-<td>3239335953</td>
-</tr>
-<tr>
-<td>DOCKWEILER STATION POST OFFICE</td>
-<td>3585 S. VERMONT AVE</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90007</td>
-<td>3237319458</td>
-</tr>
-<tr>
-<td>EAGLE ROCK STATION POST OFFICE</td>
-<td>7435 N. FIGUEROA ST</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90041</td>
-<td>3232546033</td>
-</tr>
-<tr>
-<td>EAST LOS ANGELES LIBRARY</td>
-<td>4837 E. 3RD STREET</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90022</td>
-<td>3232640155</td>
-</tr>
-<tr>
-<td>EAST LOS ANGELES POST OFFICE</td>
-<td>975 S ATLANTIC</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90022</td>
-<td>3232682643</td>
-</tr>
-<tr>
-<td>EDENDALE STATION POST OFFICE</td>
-<td>1525 N. ALVARADO ST</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90026</td>
-<td>2134132964</td>
-</tr>
-<tr>
-<td>HANCOCK/JOHN MARSHALL STATION POST OFFICE</td>
-<td>8200 S. VERMONT AVE.</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90044</td>
-<td>3237580261</td>
-</tr>
-<tr>
-<td>HOLLYWOOD STATION POST OFFICE</td>
-<td>1615 N WILCOX AVE.</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90028</td>
-<td>3234642355</td>
-</tr>
-<tr>
-<td>JULIAN DIXON STATION POST OFFICE</td>
-<td>5472 CRENSHAW BLVD</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90043</td>
-<td>3232910587</td>
-</tr>
-<tr>
-<td>LOS ANGELES MAIN POST OFFICE</td>
-<td>7101 S. CENTRAL AVE</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90001</td>
-<td>3235861476</td>
-</tr>
-<tr>
-<td>LOS FELIZ STATION POST OFFICE</td>
-<td>1825 N. VERMONT AVE</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90027</td>
-<td>3236601133</td>
-</tr>
-<tr>
-<td>NAT KING COLE STATION POST OFFICE</td>
-<td>265 S. WESTERN AVE.</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90004</td>
-<td>2133834806</td>
-</tr>
-<tr>
-<td>PREUSS STATION POST OFFICE</td>
-<td>1270 S. ALFRED ST</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90035</td>
-<td>3236552853</td>
-</tr>
-<tr>
-<td>RAY CHARLES STATION WEST ADAMS POST OFFICE</td>
-<td>4960 W. WASHINGTON BLVD.</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90016</td>
-<td>3239331471</td>
-</tr>
-<tr>
-<td>SANFORD-DOSAN AHN CHANG HO STATION POST OFFICE</td>
-<td>3751 W. 6TH STREET</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90020</td>
-<td>2133821076</td>
-</tr>
-<tr>
-<td>SUNSET STATION POST OFFICE</td>
-<td>1425 NORTH CHEROKEE AVENUE</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90093</td>
-<td>3234604830</td>
-</tr>
-<tr>
-<td>WAGNER BRANCH POST OFFICE</td>
-<td>2200 W. CENTURY BLVD.</td>
-<td>LOS ANGELES</td>
-<td>CA</td>
-<td>90047</td>
-<td>3237567853</td>
-</tr>
-<tr>
-<td>LOS BANOS POST OFFICE</td>
-<td>1135 6TH STREET</td>
-<td>LOS BANOS</td>
-<td>CA</td>
-<td>93635</td>
-<td>2098262591</td>
-</tr>
-<tr>
-<td>LOS GATOS POST OFFICE</td>
-<td>101 S SANTA CRUZ AVE</td>
-<td>LOS GATOS</td>
-<td>CA</td>
-<td>95030</td>
-<td>4083545801</td>
-</tr>
-<tr>
-<td>LOS OLIVOS POST OFFICE</td>
-<td>2880 GRAND AVE</td>
-<td>LOS OLIVOS</td>
-<td>CA</td>
-<td>93441</td>
-<td>8056880849</td>
-</tr>
-<tr>
-<td>LUCERNE VALLEY POST OFFICE</td>
-<td>10418 HIGHLAND AVE</td>
-<td>LUCERNE VALLEY</td>
-<td>CA</td>
-<td>92356</td>
-<td>7602482882</td>
-</tr>
-<tr>
-<td>LYNWOOD PUBLIC LIBRARY</td>
-<td>11320 BULLIS ROAD</td>
-<td>LYNWOOD</td>
-<td>CA</td>
-<td>90262</td>
-<td>3106357121</td>
-</tr>
-<tr>
-<td>MALIBU CITY HALL</td>
-<td>23825 STUART RANCH ROAD</td>
-<td>MALIBU</td>
-<td>CA</td>
-<td>90265</td>
-<td>3104562489</td>
-</tr>
-<tr>
-<td>POINT DUME STATION</td>
-<td>29160 HEATHERCLIFF RD</td>
-<td>MALIBU</td>
-<td>CA</td>
-<td>90265</td>
-<td>3104578617</td>
-</tr>
-<tr>
-<td>MARINA POST OFFICE</td>
-<td>3100 DEFOREST ROAD</td>
-<td>MARINA</td>
-<td>CA</td>
-<td>93933</td>
-<td>8313848472</td>
-</tr>
-<tr>
-<td>MARIPOSA COUNTY CLERK</td>
-<td>4982 10TH STREET</td>
-<td>MARIPOSA</td>
-<td>CA</td>
-<td>95338</td>
-<td>2099662007</td>
-</tr>
-<tr>
-<td>ALPINE COUNTY CLERK</td>
-<td>99 WATER STREET</td>
-<td>MARKLEEVILLE</td>
-<td>CA</td>
-<td>96120</td>
-<td>5306942281</td>
-</tr>
-<tr>
-<td>MARTINEZ POST OFFICE</td>
-<td>4100 ALHAMBRA AVENUE</td>
-<td>MARTINEZ</td>
-<td>CA</td>
-<td>94553</td>
-<td>9252282722</td>
-</tr>
-<tr>
-<td>MCARTHUR POST OFFICE</td>
-<td>44160 STATE HIGHWAY  299 E.</td>
-<td>MCARTHUR</td>
-<td>CA</td>
-<td>96056</td>
-<td>5303365441</td>
-</tr>
-<tr>
-<td>MCFARLAND POST OFFICE</td>
-<td>633 2ND STREET</td>
-<td>MCFARLAND</td>
-<td>CA</td>
-<td>93250</td>
-<td>6617922335</td>
-</tr>
-<tr>
-<td>MECCA POST OFFICE</td>
-<td>91307 2ND ST</td>
-<td>MECCA</td>
-<td>CA</td>
-<td>92254</td>
-<td>7603963214</td>
-</tr>
-<tr>
-<td>MENDOCINO MPO</td>
-<td>10500 FORD STREET</td>
-<td>MENDOCINO</td>
-<td>CA</td>
-<td>95460</td>
-<td>7079375282</td>
-</tr>
-<tr>
-<td>MENTONE POST OFFICE</td>
-<td>1842 MENTONE BLVD</td>
-<td>MENTONE</td>
-<td>CA</td>
-<td>92359</td>
-<td>9097940625</td>
-</tr>
-<tr>
-<td>MERCED COUNTY REGISTRAR OF VOTERS</td>
-<td>2222 M STREET</td>
-<td>MERCED</td>
-<td>CA</td>
-<td>95340</td>
-<td>2093857541</td>
-</tr>
-<tr>
-<td>MILL VALLEY MPO</td>
-<td>751 E. BLITHEDALE AVENUE</td>
-<td>MILL VALLEY</td>
-<td>CA</td>
-<td>94941</td>
-<td>4153888928</td>
-</tr>
-<tr>
-<td>MILLBRAE POST OFFICE</td>
-<td>501 BROADWAY</td>
-<td>MILLBRAE</td>
-<td>CA</td>
-<td>94030</td>
-<td>6506973214</td>
-</tr>
-<tr>
-<td>MILPITAS CITY CLERK</td>
-<td>455 E. CALAVERAS BLVD.</td>
-<td>MILPITAS</td>
-<td>CA</td>
-<td>95035</td>
-<td>4085863005</td>
-</tr>
-<tr>
-<td>MILPITAS LIBRARY</td>
-<td>160 NORTH MAIN STREET</td>
-<td>MILPITAS</td>
-<td>CA</td>
-<td>95035</td>
-<td>4082621171</td>
-</tr>
-<tr>
-<td>MILPITAS MAIN POST OFFICE</td>
-<td>450 SOUTH ABEL ST.</td>
-<td>MILPITAS</td>
-<td>CA</td>
-<td>95035</td>
-<td>4082620860</td>
-</tr>
-<tr>
-<td>MISSION VIEJO LIBRARY</td>
-<td>100 CIVIC CENTER</td>
-<td>MISSION VIEJO</td>
-<td>CA</td>
-<td>92691</td>
-<td>9498307100</td>
-</tr>
-<tr>
-<td>SAN JUAN CAPISTRANO POST OFFICE</td>
-<td>28081 MARGUERITE PARKWAY</td>
-<td>MISSION VIEJO</td>
-<td>CA</td>
-<td>92690</td>
-<td>9493649606</td>
-</tr>
-<tr>
-<td>MODESTO LIBRARY</td>
-<td>1500 I ST.</td>
-<td>MODESTO</td>
-<td>CA</td>
-<td>95354</td>
-<td>2095587861</td>
-</tr>
-<tr>
-<td>MODESTO PARADISE STATION</td>
-<td>1717 PARADISE RD.</td>
-<td>MODESTO</td>
-<td>CA</td>
-<td>95358</td>
-<td>2095740160</td>
-</tr>
-<tr>
-<td>STANISLAUS COUNTY CLERK</td>
-<td>1021 I STREET</td>
-<td>MODESTO</td>
-<td>CA</td>
-<td>95354</td>
-<td>2095255269</td>
-</tr>
-<tr>
-<td>MONROVIA COMMUNITY CENTER</td>
-<td>119 W. PALM AVE</td>
-<td>MONROVIA</td>
-<td>CA</td>
-<td>91016</td>
-<td>6269325598</td>
-</tr>
-<tr>
-<td>MONTCLAIR POST OFFICE</td>
-<td>5186 BENITO STREET</td>
-<td>MONTCLAIR</td>
-<td>CA</td>
-<td>91763</td>
-<td>9096245438</td>
-</tr>
-<tr>
-<td>MONTEBELLO MAIN POST OFFICE</td>
-<td>145 N. 5TH STREET</td>
-<td>MONTEBELLO</td>
-<td>CA</td>
-<td>90640</td>
-<td>3237282249</td>
-</tr>
-<tr>
-<td>MONTEREY POST OFFICE</td>
-<td>565 HARTNELL STREET</td>
-<td>MONTEREY</td>
-<td>CA</td>
-<td>93940</td>
-<td>8313723021</td>
-</tr>
-<tr>
-<td>MONTEREY PARK BRUGGEMEYER LIBRARY</td>
-<td>318 S. RAMONA AVE</td>
-<td>MONTEREY PARK</td>
-<td>CA</td>
-<td>91754</td>
-<td>6263071357</td>
-</tr>
-<tr>
-<td>MONTEREY PARK CITY CLERKS OFFICE</td>
-<td>320 W. NEWMARK AVE</td>
-<td>MONTEREY PARK</td>
-<td>CA</td>
-<td>91754</td>
-<td>6263071361</td>
-</tr>
-<tr>
-<td>MONTEREY PARK POST OFFICE</td>
-<td>245 W. GARVEY AVE</td>
-<td>MONTEREY PARK</td>
-<td>CA</td>
-<td>91754</td>
-<td>6262882764</td>
-</tr>
-<tr>
-<td>MORAGA POST OFFICE</td>
-<td>460 CENTER STREET</td>
-<td>MORAGA</td>
-<td>CA</td>
-<td>94556</td>
-<td>9253207631</td>
-</tr>
-<tr>
-<td>MORENO VALLEY MAIN POST OFFICE</td>
-<td>23580 ALESSANDRO BLVD.</td>
-<td>MORENO VALLEY</td>
-<td>CA</td>
-<td>92553</td>
-<td>9516569720</td>
-</tr>
-<tr>
-<td>MORGAN HILL CITY CLERK</td>
-<td>17575 PEAK AVENUE</td>
-<td>MORGAN HILL</td>
-<td>CA</td>
-<td>95037</td>
-<td>4087797259</td>
-</tr>
-<tr>
-<td>MORGAN HILL POST OFFICE</td>
-<td>16600 MONTEREY ROAD</td>
-<td>MORGAN HILL</td>
-<td>CA</td>
-<td>95037</td>
-<td>4087780644</td>
-</tr>
-<tr>
-<td>MORONGO VALLEY POST OFFICE</td>
-<td>49649 29 PALMS HWY.</td>
-<td>MORONGO VALLEY</td>
-<td>CA</td>
-<td>92256</td>
-<td>7603637354</td>
-</tr>
-<tr>
-<td>MOUNTAIN VIEW POST OFFICE</td>
-<td>211 HOPE STREET</td>
-<td>MOUNTAIN VIEW</td>
-<td>CA</td>
-<td>94041</td>
-<td>6502827940</td>
-</tr>
-<tr>
-<td>CITY OF MURRIETA CITY HALL</td>
-<td>1 TOWN SQUARE</td>
-<td>MURRIETA</td>
-<td>CA</td>
-<td>92562</td>
-<td>9513042489</td>
-</tr>
-<tr>
-<td>MURRIETA CARRIER ANNEX POST OFFICE</td>
-<td>39571 LOS ALAMOS ROAD</td>
-<td>MURRIETA</td>
-<td>CA</td>
-<td>92563</td>
-<td>9513042448</td>
-</tr>
-<tr>
-<td>NAPA POST OFFICE</td>
-<td>1625 TRANCAS STREET</td>
-<td>NAPA</td>
-<td>CA</td>
-<td>94558</td>
-<td>7072550190</td>
-</tr>
-<tr>
-<td>NEEDLES POST OFFICE</td>
-<td>628 3RD STREET</td>
-<td>NEEDLES</td>
-<td>CA</td>
-<td>92363</td>
-<td>7603262696</td>
-</tr>
-<tr>
-<td>NEWARK PO</td>
-<td>6655 CLARK AVENUE</td>
-<td>NEWARK</td>
-<td>CA</td>
-<td>94560</td>
-<td>5107970903</td>
-</tr>
-<tr>
-<td>NEWBERRY SPRINGS POST OFFICE</td>
-<td>31411 NEWBERRY ROAD</td>
-<td>NEWBERRY SPRINGS</td>
-<td>CA</td>
-<td>92365</td>
-<td>7602573264</td>
-</tr>
-<tr>
-<td>NEWPORT BEACH MAIN POST OFFICE</td>
-<td>1133 CAMELBACK STREET</td>
-<td>NEWPORT BEACH</td>
-<td>CA</td>
-<td>92658</td>
-<td>9496444512</td>
-</tr>
-<tr>
-<td>NEWPORT BEACH PUBLIC LIBRARY</td>
-<td>1000 AVOCADO AVE.</td>
-<td>NEWPORT BEACH</td>
-<td>CA</td>
-<td>92660</td>
-<td>9497173831</td>
-</tr>
-<tr>
-<td>NILAND POST OFFICE</td>
-<td>8108 HWY 111</td>
-<td>NILAND</td>
-<td>CA</td>
-<td>92257</td>
-<td>7603593138</td>
-</tr>
-<tr>
-<td>NORCO POST OFFICE</td>
-<td>1801 TOWN AND COUNTRY DRIVE</td>
-<td>NORCO</td>
-<td>CA</td>
-<td>92860</td>
-<td>9518084681</td>
-</tr>
-<tr>
-<td>NORTH PALM SPRINGS POST OFFICE</td>
-<td>64117 DILLON ROAD</td>
-<td>NORTH PALM SPRINGS</td>
-<td>CA</td>
-<td>92258</td>
-<td>7602517569</td>
-</tr>
-<tr>
-<td>NORWALK CITY HALL</td>
-<td>12700 NORWALK BLVD</td>
-<td>NORWALK</td>
-<td>CA</td>
-<td>90650</td>
-<td>5629295720</td>
-</tr>
-<tr>
-<td>NORWALK MAIN POST OFFICE</td>
-<td>14011  CLARKDALE AVE</td>
-<td>NORWALK</td>
-<td>CA</td>
-<td>90650</td>
-<td>5628689408</td>
-</tr>
-<tr>
-<td>NOVATO POST OFFICE</td>
-<td>1537 S NOVATO BLVD.</td>
-<td>NOVATO</td>
-<td>CA</td>
-<td>94947</td>
-<td>4158988799</td>
-</tr>
-<tr>
-<td>NUEVO POST OFFICE</td>
-<td>29245 LAKEVIEW AVE.</td>
-<td>NUEVO</td>
-<td>CA</td>
-<td>92567</td>
-<td>9519284876</td>
-</tr>
-<tr>
-<td>OAKHURST POST OFFICE</td>
-<td>40064 HWY 49</td>
-<td>OAKHURST</td>
-<td>CA</td>
-<td>93644</td>
-<td>5596586862</td>
-</tr>
-<tr>
-<td>AIRPORT POST OFFICE</td>
-<td>8495 PARDEE DR.</td>
-<td>OAKLAND</td>
-<td>CA</td>
-<td>94614</td>
-<td>5102513104</td>
-</tr>
-<tr>
-<td>ALAMEDA COUNTY LAW LIBRARY</td>
-<td>125 12TH ST</td>
-<td>OAKLAND</td>
-<td>CA</td>
-<td>94607</td>
-<td>5102726483</td>
-</tr>
-<tr>
-<td>NORTH OAKLAND POST OFFICE</td>
-<td>4900 SHATTUCK AVE.</td>
-<td>OAKLAND</td>
-<td>CA</td>
-<td>94609</td>
-<td>5109852759</td>
-</tr>
-<tr>
-<td>OAKLAND CIVIC CENTER POST OFFICE</td>
-<td>201 13TH STREET</td>
-<td>OAKLAND</td>
-<td>CA</td>
-<td>94612</td>
-<td>5106227412</td>
-</tr>
-<tr>
-<td>OAKLAND MAIN POST OFFICE</td>
-<td>1675 7TH STREET</td>
-<td>OAKLAND</td>
-<td>CA</td>
-<td>94615</td>
-<td>5108748652</td>
-</tr>
-<tr>
-<td>OFFICE OF THE CITY CLERK, CITY OF OAKLAND</td>
-<td>1 FRANK H. OGAWA PLAZA</td>
-<td>OAKLAND</td>
-<td>CA</td>
-<td>94612</td>
-<td>5102383226</td>
-</tr>
-<tr>
-<td>PIEDMONT POST OFFICE</td>
-<td>195 41ST STREET</td>
-<td>OAKLAND</td>
-<td>CA</td>
-<td>94611</td>
-<td>5102513393</td>
-</tr>
-<tr>
-<td>OAKLEY CITY CLERK</td>
-<td>3231 MAIN STREET</td>
-<td>OAKLEY</td>
-<td>CA</td>
-<td>94561</td>
-<td>9256257000</td>
-</tr>
-<tr>
-<td>OAKLEY POST OFFICE</td>
-<td>400 DEL ANTICO AVE</td>
-<td>OAKLEY</td>
-<td>CA</td>
-<td>94561</td>
-<td>9256257594</td>
-</tr>
-<tr>
-<td>OCEANO POST OFFICE</td>
-<td>1800 BEACH ST</td>
-<td>OCEANO</td>
-<td>CA</td>
-<td>93445</td>
-<td>8054896515</td>
-</tr>
-<tr>
-<td>OCEANSIDE MAIN POST OFFICE</td>
-<td>1895 AVENIDA DEL ORO</td>
-<td>OCEANSIDE</td>
-<td>CA</td>
-<td>92056</td>
-<td>7608063866</td>
-</tr>
-<tr>
-<td>CITY OF ONTARIO CITY HALL</td>
-<td>303 EAST B STREET</td>
-<td>ONTARIO</td>
-<td>CA</td>
-<td>91764</td>
-<td>9093952009</td>
-</tr>
-<tr>
-<td>ONTARIO MAIN POST OFFICE</td>
-<td>1555 E. HOLT BLVD</td>
-<td>ONTARIO</td>
-<td>CA</td>
-<td>91761</td>
-<td>9099333837</td>
-</tr>
-<tr>
-<td>ORANGE CITY CLERKS OFFICE</td>
-<td>300 E. CHAPMAN AVENUE</td>
-<td>ORANGE</td>
-<td>CA</td>
-<td>92866</td>
-<td>7147445510</td>
-</tr>
-<tr>
-<td>ORANGE POST OFFICE</td>
-<td>1075 NORTH TUSTIN STREET</td>
-<td>ORANGE</td>
-<td>CA</td>
-<td>92863</td>
-<td>7149971889</td>
-</tr>
-<tr>
-<td>ORINDA POST OFFICE</td>
-<td>29 ORINDA WAY</td>
-<td>ORINDA</td>
-<td>CA</td>
-<td>94563</td>
-<td>9252546240</td>
-</tr>
-<tr>
-<td>BUTTE COUNTY ELECTIONS OFFICE</td>
-<td>155 NELSON AVE</td>
-<td>OROVILLE</td>
-<td>CA</td>
-<td>95965</td>
-<td>5305523400</td>
-</tr>
-<tr>
-<td>OXNARD POST OFFICE</td>
-<td>1961 N. C STREET</td>
-<td>OXNARD</td>
-<td>CA</td>
-<td>93036</td>
-<td>8052787615</td>
-</tr>
-<tr>
-<td>PACIFIC GROVE POST OFFICE</td>
-<td>680 LIGHTHOUSE AVE</td>
-<td>PACIFIC GROVE</td>
-<td>CA</td>
-<td>93950</td>
-<td>8313732271</td>
-</tr>
-<tr>
-<td>PACIFIC PALISADES POSTAL STORE</td>
-<td>15343 LA CRUZ DRIVE</td>
-<td>PACIFIC PALISADES</td>
-<td>CA</td>
-<td>90272</td>
-<td>3104540956</td>
-</tr>
-<tr>
-<td>PACIFICA POST OFFICE</td>
-<td>50 W. MANOR DR</td>
-<td>PACIFICA</td>
-<td>CA</td>
-<td>94044</td>
-<td>6503551280</td>
-</tr>
-<tr>
-<td>PALM DESERT POST OFFICE (NORTHSIDE STATION)</td>
-<td>74801 HOVLEY LANE E.</td>
-<td>PALM DESERT</td>
-<td>CA</td>
-<td>92260</td>
-<td>7608379525</td>
-</tr>
-<tr>
-<td>PALM SPRINGS MAIN POST OFFICE</td>
-<td>333 E. AMADO ROAD</td>
-<td>PALM SPRINGS</td>
-<td>CA</td>
-<td>92262</td>
-<td>760322411</td>
-</tr>
-<tr>
-<td>PALOS VERDES PENINSULA POST OFFICE</td>
-<td>955 DEEP VALLEY DR</td>
-<td>PALOS VERDES</td>
-<td>CA</td>
-<td>90274</td>
-<td>3105410624</td>
-</tr>
-<tr>
-<td>MALAGA COVE LIBRARY</td>
-<td>2400 VIA CAMPASINA</td>
-<td>PALOS VERDES ESTATES</td>
-<td>CA</td>
-<td>90247</td>
-<td>3103779584</td>
-</tr>
-<tr>
-<td>PARAMOUNT MAIN POST OFFICE</td>
-<td>7200 SOMERSET BLVD.</td>
-<td>PARAMOUNT</td>
-<td>CA</td>
-<td>90723</td>
-<td>5626348097</td>
-</tr>
-<tr>
-<td>PASO ROBLES POST OFFICE</td>
-<td>800 6TH STREET</td>
-<td>PASO ROBLES</td>
-<td>CA</td>
-<td>93446</td>
-<td>8052378342</td>
-</tr>
-<tr>
-<td>PATTON POST OFFICE</td>
-<td>2592 E. HIGHLAND AVENUE</td>
-<td>PATTON</td>
-<td>CA</td>
-<td>92369</td>
-<td>9098631547</td>
-</tr>
-<tr>
-<td>PERRIS POST OFFICE</td>
-<td>778 S REDLANDS BLVD</td>
-<td>PERRIS</td>
-<td>CA</td>
-<td>92570</td>
-<td>9519433535</td>
-</tr>
-<tr>
-<td>NORTH BAY PDC FINANCE STATION</td>
-<td>1150 N. MCDOWELL BLVD.</td>
-<td>PETALUMA</td>
-<td>CA</td>
-<td>94999</td>
-<td>7077785212</td>
-</tr>
-<tr>
-<td>PHELAN POST OFFICE</td>
-<td>9782 CLOVIS ROAD</td>
-<td>PHELAN</td>
-<td>CA</td>
-<td>92371</td>
-<td>8008019801</td>
-</tr>
-<tr>
-<td>PICO RIVERA MAIN POST OFFICE</td>
-<td>6320 PASSONS BLVD.</td>
-<td>PICO RIVERA</td>
-<td>CA</td>
-<td>90660</td>
-<td>5629420168</td>
-</tr>
-<tr>
-<td>PINE VALLEY POST OFFICE</td>
-<td>28858 OLD HIGHWAY 80</td>
-<td>PINE VALLEY</td>
-<td>CA</td>
-<td>91962</td>
-<td>6194738680</td>
-</tr>
-<tr>
-<td>PINOLE POST OFFICE</td>
-<td>2101 PEAR STREET</td>
-<td>PINOLE</td>
-<td>CA</td>
-<td>94564</td>
-<td>5107413056</td>
-</tr>
-<tr>
-<td>PINON HILLS POST OFFICE</td>
-<td>10353 OASIS ROAD</td>
-<td>PINON HILLS</td>
-<td>CA</td>
-<td>92372</td>
-<td>7608683493</td>
-</tr>
-<tr>
-<td>PISMO BEACH POST OFFICE</td>
-<td>100 CREST DRIVE</td>
-<td>PISMO BEACH</td>
-<td>CA</td>
-<td>93449</td>
-<td>8054815971</td>
-</tr>
-<tr>
-<td>PITTSBURG POST OFFICE</td>
-<td>835 RAILROAD AVENUE</td>
-<td>PITTSBURG</td>
-<td>CA</td>
-<td>94565</td>
-<td>9254324079</td>
-</tr>
-<tr>
-<td>PIXLEY POST OFFICE</td>
-<td>570 S. MAIN ST.</td>
-<td>PIXLEY</td>
-<td>CA</td>
-<td>93256</td>
-<td>5597573830</td>
-</tr>
-<tr>
-<td>PLACENTIA LIBRARY DISTRICT</td>
-<td>411 E. CHAPMAN AVE.</td>
-<td>PLACENTIA</td>
-<td>CA</td>
-<td>92870</td>
-<td>7145281906</td>
-</tr>
-<tr>
-<td>PLACENTIA POST OFFICE</td>
-<td>1400 N. KRAEMER BLVD</td>
-<td>PLACENTIA</td>
-<td>CA</td>
-<td>92871</td>
-<td>7149931163</td>
-</tr>
-<tr>
-<td>PLACERVILLE POST OFFICE</td>
-<td>3045 SACRAMENTO ST.</td>
-<td>PLACERVILLE</td>
-<td>CA</td>
-<td>95667</td>
-<td>5306225174</td>
-</tr>
-<tr>
-<td>CITY OF PLEASANTON CITY CLERK</td>
-<td>123 MAIN STREET</td>
-<td>PLEASANTON</td>
-<td>CA</td>
-<td>94566</td>
-<td>9259315027</td>
-</tr>
-<tr>
-<td>PLEASANTON POST OFFICE</td>
-<td>4300 BLACK AVE</td>
-<td>PLEASANTON</td>
-<td>CA</td>
-<td>94566</td>
-<td>9258463254</td>
-</tr>
-<tr>
-<td>CITY OF POMONA - OFFICE OF THE CITY CLERK</td>
-<td>505 S. GAREY AVE</td>
-<td>POMONA</td>
-<td>CA</td>
-<td>91766</td>
-<td>9096202341</td>
-</tr>
-<tr>
-<td>POMONA MAIN POST OFFICE</td>
-<td>580 W. MONTEREY AVE</td>
-<td>POMONA</td>
-<td>CA</td>
-<td>91769</td>
-<td>9098651267</td>
-</tr>
-<tr>
-<td>PORTERVILLE ADMINISTRATIVE SERVICES DEPARTMENT</td>
-<td>291 NORTH MAIN STREET</td>
-<td>PORTERVILLE</td>
-<td>CA</td>
-<td>93257</td>
-<td>5597827441</td>
-</tr>
-<tr>
-<td>PLUMAS COUNTY TREASURER/TAX COLLECTOR</td>
-<td>520 WEST MAIN ST.</td>
-<td>QUINCY</td>
-<td>CA</td>
-<td>95971</td>
-<td>5302836260</td>
-</tr>
-<tr>
-<td>RAMONA POST OFFICE</td>
-<td>1444 MAIN STREET</td>
-<td>RAMONA</td>
-<td>CA</td>
-<td>92065</td>
-<td>7607893118</td>
-</tr>
-<tr>
-<td>ARCHIBALD LIBRARY</td>
-<td>7368 ARCHIBALD AVENUE</td>
-<td>RANCHO CUCAMONGA</td>
-<td>CA</td>
-<td>91730</td>
-<td>9097743987</td>
-</tr>
-<tr>
-<td>PAUL A. BIANE LIBRARY</td>
-<td>12505 CULTURAL CENTER DRIVE</td>
-<td>RANCHO CUCAMONGA</td>
-<td>CA</td>
-<td>91739</td>
-<td>9097743987</td>
-</tr>
-<tr>
-<td>RANCHO CUCAMONGA POST OFFICE</td>
-<td>10950 ARROW ROUTE</td>
-<td>RANCHO CUCAMONGA</td>
-<td>CA</td>
-<td>91730</td>
-<td>9094832184</td>
-</tr>
-<tr>
-<td>RANCHO MIRAGE POST OFFICE</td>
-<td>42222 RANCHO LAS PALMAS DRIVE</td>
-<td>RANCHO MIRAGE</td>
-<td>CA</td>
-<td>92270</td>
-<td>7603467859</td>
-</tr>
-<tr>
-<td>MIRALESTE LIBRARY</td>
-<td>29089 PALOS VERDES DR. EAST</td>
-<td>RANCHO PALOS VERDES</td>
-<td>CA</td>
-<td>90275</td>
-<td>3103779584</td>
-</tr>
-<tr>
-<td>RANCHO SANTA MARGARITA CITY HALL</td>
-<td>22112 EL PASEO</td>
-<td>RANCHO SANTA MARGARITA</td>
-<td>CA</td>
-<td>92688</td>
-<td>9496351819</td>
-</tr>
-<tr>
-<td>SANTA MARGARITA RETAIL STORE</td>
-<td>29862 AVENIDA DE LAS BANDERAS</td>
-<td>RANCHO SANTA MARGARITA</td>
-<td>CA</td>
-<td>92688</td>
-<td>9498881533</td>
-</tr>
-<tr>
-<td>TEHAMA COUNTY ELECTIONS</td>
-<td>633 WASHINGTON ST</td>
-<td>RED BLUFF</td>
-<td>CA</td>
-<td>96080</td>
-<td>5305278190</td>
-</tr>
-<tr>
-<td>REDDING POST OFFICE</td>
-<td>2323 CHURN CREEK ROAD</td>
-<td>REDDING</td>
-<td>CA</td>
-<td>96049</td>
-<td>5302237523</td>
-</tr>
-<tr>
-<td>SHASTA COUNTY CLERK</td>
-<td>1643 MARKET STREET</td>
-<td>REDDING</td>
-<td>CA</td>
-<td>96001</td>
-<td>5302255730</td>
-</tr>
-<tr>
-<td>REDLANDS - LUGONIA STATION POST OFFICE</td>
-<td>404 NEW YORK ST</td>
-<td>REDLANDS</td>
-<td>CA</td>
-<td>92373</td>
-<td>9097938075</td>
-</tr>
-<tr>
-<td>REDLANDS MAIN OFFICE</td>
-<td>201 BROOKSIDE AVE</td>
-<td>REDLANDS</td>
-<td>CA</td>
-<td>92373</td>
-<td>9097938075</td>
-</tr>
-<tr>
-<td>CITY OF REDONDO BEACH COMMUNITY SERVICES</td>
-<td>1922 ARTESIA BLVD</td>
-<td>REDONDO BEACH</td>
-<td>CA</td>
-<td>90278</td>
-<td>3103180610</td>
-</tr>
-<tr>
-<td>REDONDO BEACH MAIN POST OFFICE</td>
-<td>1201 N. CATALINA AVE</td>
-<td>REDONDO BEACH</td>
-<td>CA</td>
-<td>90277</td>
-<td>3103763252</td>
-</tr>
-<tr>
-<td>REDWAY MPO</td>
-<td>3400 REDWOOD DRIVE</td>
-<td>REDWAY</td>
-<td>CA</td>
-<td>95560</td>
-<td>7079233784</td>
-</tr>
-<tr>
-<td>REDWOOD CITY MAIN POST OFFICE</td>
-<td>1100 BROADWAY</td>
-<td>REDWOOD CITY</td>
-<td>CA</td>
-<td>94063</td>
-<td>6503681482</td>
-</tr>
-<tr>
-<td>SAN MATEO COUNTY CLERK</td>
-<td>555 COUNTY CENTER</td>
-<td>REDWOOD CITY</td>
-<td>CA</td>
-<td>94063</td>
-<td>6503634500</td>
-</tr>
-<tr>
-<td>RIALTO CITY CLERKS OFFICE</td>
-<td>290 W. RIALTO AVE</td>
-<td>RIALTO</td>
-<td>CA</td>
-<td>92376</td>
-<td>9098202519</td>
-</tr>
-<tr>
-<td>CITY OF RICHMOND CITY CLERKS OFFICE</td>
-<td>450 CIVIC CENTER PLAZA</td>
-<td>RICHMOND</td>
-<td>CA</td>
-<td>94804</td>
-<td>5106206786</td>
-</tr>
-<tr>
-<td>RICHMOND POST OFFICE</td>
-<td>1025 NEVIN AVE</td>
-<td>RICHMOND</td>
-<td>CA</td>
-<td>94801</td>
-<td>5102323937</td>
-</tr>
-<tr>
-<td>RIO DELL POST OFFICE</td>
-<td>315 WILDWOOD AVE</td>
-<td>RIO DELL</td>
-<td>CA</td>
-<td>95562</td>
-<td>7077643772</td>
-</tr>
-<tr>
-<td>ARLINGTON STATION</td>
-<td>10275 HOLE AVE</td>
-<td>RIVERSIDE</td>
-<td>CA</td>
-<td>92503</td>
-<td>9516890165</td>
-</tr>
-<tr>
-<td>CITY OF RIVERSIDE - CITY CLERKS OFFICE</td>
-<td>3025 MADISON STREET</td>
-<td>RIVERSIDE</td>
-<td>CA</td>
-<td>92504</td>
-<td>9518265557</td>
-</tr>
-<tr>
-<td>DOWNTOWN RIVERSIDE POST OFFICE</td>
-<td>3890 ORANGE STREET</td>
-<td>RIVERSIDE</td>
-<td>CA</td>
-<td>92501</td>
-<td>9516821050</td>
-</tr>
-<tr>
-<td>RIVERSIDE MAIN POST OFFICE</td>
-<td>4150 CHICAGO AVE</td>
-<td>RIVERSIDE</td>
-<td>CA</td>
-<td>92507</td>
-<td>9517884058</td>
-</tr>
-<tr>
-<td>RODEO POST OFFICE</td>
-<td>499 PARKER AVE</td>
-<td>RODEO</td>
-<td>CA</td>
-<td>94572</td>
-<td>5107995015</td>
-</tr>
-<tr>
-<td>ROHNERT PARK POST OFFICE</td>
-<td>150 RALEYS TOWNE CENTER</td>
-<td>ROHNERT PARK</td>
-<td>CA</td>
-<td>94928</td>
-<td>7075865412</td>
-</tr>
-<tr>
-<td>PALOS VERDES LIBRARY DISTRICT</td>
-<td>701 SILVER SPUR ROAD</td>
-<td>ROLLING HILLS ESTATES</td>
-<td>CA</td>
-<td>90274</td>
-<td>3103779584</td>
-</tr>
-<tr>
-<td>CITY OF ROSEMEAD</td>
-<td>8838 E. VALLEY BLVD</td>
-<td>ROSEMEAD</td>
-<td>CA</td>
-<td>91770</td>
-<td>6265692100</td>
-</tr>
-<tr>
-<td>ROSEMEAD POST OFFICE</td>
-<td>8845 E. VALLEY BLVD</td>
-<td>ROSEMEAD</td>
-<td>CA</td>
-<td>91770</td>
-<td>6262863041</td>
-</tr>
-<tr>
-<td>CITY OF ROSEVILLE CITY CLERK</td>
-<td>316 VERNON STREET, SUITE 190</td>
-<td>ROSEVILLE</td>
-<td>CA</td>
-<td>95678</td>
-<td>9167745399</td>
-</tr>
-<tr>
-<td>RUNNING SPRINGS POST OFFICE</td>
-<td>2641 PALO ALTO WAY</td>
-<td>RUNNING SPRINGS</td>
-<td>CA</td>
-<td>92382</td>
-<td>9098677278</td>
-</tr>
-<tr>
-<td>RUTHERFORD POST OFFICE</td>
-<td>1190 RUTHERFORD ROAD</td>
-<td>RUTHERFORD</td>
-<td>CA</td>
-<td>94573</td>
-<td>7079637488</td>
-</tr>
-<tr>
-<td>CALIFORNIA STATE UNIVERSITY, SACRAMENTO</td>
-<td>6000 J STREET</td>
-<td>SACRAMENTO</td>
-<td>CA</td>
-<td>95819</td>
-<td>9162784888</td>
-</tr>
-<tr>
-<td>SACRAMENTO COUNTY PUBLIC LAW LIBRARY</td>
-<td>609 9TH STREET</td>
-<td>SACRAMENTO</td>
-<td>CA</td>
-<td>95814</td>
-<td>9168745625</td>
-</tr>
-<tr>
-<td>SACRAMENTO MAIN POST OFFICE</td>
-<td>2000 ROYAL OAKS DRIVE</td>
-<td>SACRAMENTO</td>
-<td>CA</td>
-<td>95813</td>
-<td>9162637020</td>
-</tr>
-<tr>
-<td>SACRAMENTO PUBLIC LIBRARY</td>
-<td>828 I STREET</td>
-<td>SACRAMENTO</td>
-<td>CA</td>
-<td>95814</td>
-<td>9162642920</td>
-</tr>
-<tr>
-<td>NICK BLOM SALIDA REGIONAL LIBRARY</td>
-<td>4835 SISK RD</td>
-<td>SALIDA</td>
-<td>CA</td>
-<td>95368</td>
-<td>2095437353</td>
-</tr>
-<tr>
-<td>STEINBECK STATION POST OFFICE</td>
-<td>100 WEST ALISAL STREET</td>
-<td>SALINAS</td>
-<td>CA</td>
-<td>93901</td>
-<td>8317589202</td>
-</tr>
-<tr>
-<td>SAN BERNARDINO P DC POST OFFICE</td>
-<td>1900 W. REDLANDS BLVD</td>
-<td>SAN BERNARDINO</td>
-<td>CA</td>
-<td>92403</td>
-<td>9093354462</td>
-</tr>
-<tr>
-<td>SAN BRUNO MPO</td>
-<td>1300 HUNTINGTON AVENUE</td>
-<td>SAN BRUNO</td>
-<td>CA</td>
-<td>94066</td>
-<td>6505881659</td>
-</tr>
-<tr>
-<td>SKYLINE COLLEGE PASSPORT ACCEPTANCE SERVICES</td>
-<td>3300 COLLEGE DRIVE</td>
-<td>SAN BRUNO</td>
-<td>CA</td>
-<td>94066</td>
-<td>6507384252</td>
-</tr>
-<tr>
-<td>SAN CARLOS POST OFFICE</td>
-<td>809 LAUREL STREET</td>
-<td>SAN CARLOS</td>
-<td>CA</td>
-<td>94070</td>
-<td>6502320703</td>
-</tr>
-<tr>
-<td>RANCHO SAN CLEMENTE STATION</td>
-<td>905 CALLE NEGOCIO</td>
-<td>SAN CLEMENTE</td>
-<td>CA</td>
-<td>92673</td>
-<td>9493699392</td>
-</tr>
-<tr>
-<td>SAN CLEMENTE POST OFFICE</td>
-<td>520 E. AVENIDA PICO</td>
-<td>SAN CLEMENTE</td>
-<td>CA</td>
-<td>92672</td>
-<td>9494923965</td>
-</tr>
-<tr>
-<td>CARMEL MOUNTAIN POSTAL STORE</td>
-<td>11251RANCHO CARMEL DR.</td>
-<td>SAN DIEGO</td>
-<td>CA</td>
-<td>92128</td>
-<td>8586740205</td>
-</tr>
-<tr>
-<td>COLLEGE GROVE POSTAL STORE</td>
-<td>3426 COLLEGE AVE</td>
-<td>SAN DIEGO</td>
-<td>CA</td>
-<td>92115</td>
-<td>6195839486</td>
-</tr>
-<tr>
-<td>OTAY MESA CARRIER ANNEX POST OFFICE</td>
-<td>2960 FERN AVENUE</td>
-<td>SAN DIEGO</td>
-<td>CA</td>
-<td>92154</td>
-<td>6194298414</td>
-</tr>
-<tr>
-<td>RANCHO BERNARDO POSTAL STORE</td>
-<td>16767 BERNARDO CENTER DT</td>
-<td>SAN DIEGO</td>
-<td>CA</td>
-<td>92128</td>
-<td>8586744067</td>
-</tr>
-<tr>
-<td>RIVERFRONT CARRIER ANNEX</td>
-<td>2600 CAMINO DEL RIO, NORTH</td>
-<td>SAN DIEGO</td>
-<td>CA</td>
-<td>92108</td>
-<td>6192962661</td>
-</tr>
-<tr>
-<td>SAN DIEGO CITY CLERK</td>
-<td>202 C STREET</td>
-<td>SAN DIEGO</td>
-<td>CA</td>
-<td>92101</td>
-<td>6195334000</td>
-</tr>
-<tr>
-<td>SAN DIEGO CO CLERK OF THE BOARD OF SUPERVISORS</td>
-<td>1600 PACIFIC HIGHWAY ROOM 402</td>
-<td>SAN DIEGO</td>
-<td>CA</td>
-<td>92101</td>
-<td>6195315500</td>
-</tr>
-<tr>
-<td>SDSU INTERNATIONAL STUDENT CENTER - PASSPORT OFFICE</td>
-<td>1261 CANYON CREST DRIVE</td>
-<td>SAN DIEGO</td>
-<td>CA</td>
-<td>92115</td>
-<td>6195943800</td>
-</tr>
-<tr>
-<td>UNIVERSITY CITY FINANCE POST OFF - SAN DIEGO</td>
-<td>3298 GOVERNOR DRIVE</td>
-<td>SAN DIEGO</td>
-<td>CA</td>
-<td>92122</td>
-<td>8584530121</td>
-</tr>
-<tr>
-<td>SAN DIMAS MAIN POST OFFICE</td>
-<td>300 E. BONITA AVE</td>
-<td>SAN DIMAS</td>
-<td>CA</td>
-<td>91773</td>
-<td>9095990651</td>
-</tr>
-<tr>
-<td>EXCELSIOR STATION POST OFFICE</td>
-<td>15 ONONDAGA AVENUE</td>
-<td>SAN FRANCISCO</td>
-<td>CA</td>
-<td>94112</td>
-<td>4153341057</td>
-</tr>
-<tr>
-<td>MARINA STATION</td>
-<td>2055 LOMBARD ST.</td>
-<td>SAN FRANCISCO</td>
-<td>CA</td>
-<td>94123</td>
-<td>4153512186</td>
-</tr>
-<tr>
-<td>NOE VALLEY STATION</td>
-<td>4083 24TH STREET</td>
-<td>SAN FRANCISCO</td>
-<td>CA</td>
-<td>94114</td>
-<td>4158213863</td>
-</tr>
-<tr>
-<td>SAN FRANCISCO P/DC FINANCE</td>
-<td>1300 EVANS LN.</td>
-<td>SAN FRANCISCO</td>
-<td>CA</td>
-<td>94188</td>
-<td>4155505245</td>
-</tr>
-<tr>
-<td>CITY OF SAN GABRIEL - COMMUNITY SERVICES DEPARTMENT</td>
-<td>250 S. MISSION DRIVE</td>
-<td>SAN GABRIEL</td>
-<td>CA</td>
-<td>91776</td>
-<td>6263082875</td>
-</tr>
-<tr>
-<td>SAN GABRIEL POST OFFICE</td>
-<td>120 S. DEL MAR AVE</td>
-<td>SAN GABRIEL</td>
-<td>CA</td>
-<td>91778</td>
-<td>6262877014</td>
-</tr>
-<tr>
-<td>SAN JACINTO POST OFFICE</td>
-<td>315 E. ESPLANADE AVE</td>
-<td>SAN JACINTO</td>
-<td>CA</td>
-<td>92583</td>
-<td>9516540851</td>
-</tr>
-<tr>
-<td>EASTRIDGE STATION</td>
-<td>2200 EASTRIDGE LOOP</td>
-<td>SAN JOSE</td>
-<td>CA</td>
-<td>95122</td>
-<td>4082702368</td>
-</tr>
-<tr>
-<td>ROBERTSVILLE STATION POST OFFICE</td>
-<td>1175 BRANHAM LANE</td>
-<td>SAN JOSE</td>
-<td>CA</td>
-<td>95118</td>
-<td>4082649317</td>
-</tr>
-<tr>
-<td>SANTA CLARA COUNTY CLERK-RECORDER S OFFICE</td>
-<td>70 WEST HEDDING ST</td>
-<td>SAN JOSE</td>
-<td>CA</td>
-<td>95110</td>
-<td>4082995688</td>
-</tr>
-<tr>
-<td>WILLOW GLEN STATION</td>
-<td>1750 MERIDIAN AVE</td>
-<td>SAN JOSE</td>
-<td>CA</td>
-<td>95125</td>
-<td>4087236145</td>
-</tr>
-<tr>
-<td>SAN LEANDRO POST OFFICE</td>
-<td>1777 ABRAMS CT</td>
-<td>SAN LEANDRO</td>
-<td>CA</td>
-<td>94577</td>
-<td>5104832785</td>
-</tr>
-<tr>
-<td>SAN LUIS OBISPO POST OFFICE</td>
-<td>1655 DALIDIO DRIVE</td>
-<td>SAN LUIS OBISPO</td>
-<td>CA</td>
-<td>93401</td>
-<td>8055432605</td>
-</tr>
-<tr>
-<td>SAN LUIS OBISPO PUBLIC LIBRARY</td>
-<td>995 PALM STREET</td>
-<td>SAN LUIS OBISPO</td>
-<td>CA</td>
-<td>93401</td>
-<td>8057815991</td>
-</tr>
-<tr>
-<td>SAN MARCOS POST OFFICE</td>
-<td>420 N. TWIN OAKS VALLEY RD</td>
-<td>SAN MARCOS</td>
-<td>CA</td>
-<td>92069</td>
-<td>7607442998</td>
-</tr>
-<tr>
-<td>CROWELL PUBLIC LIBRARY</td>
-<td>1890 HUNTINGTON DRIVE</td>
-<td>SAN MARINO</td>
-<td>CA</td>
-<td>91108</td>
-<td>6263000777</td>
-</tr>
-<tr>
-<td>SAN MATEO POST OFFICE</td>
-<td>1630 SOUTH DELAWARE STREET</td>
-<td>SAN MATEO</td>
-<td>CA</td>
-<td>94402</td>
-<td>6503588490</td>
-</tr>
-<tr>
-<td>SAN MATEO PUBLIC LIBRARY</td>
-<td>55 WEST 3RD AVENUE</td>
-<td>SAN MATEO</td>
-<td>CA</td>
-<td>94402</td>
-<td>6505227868</td>
-</tr>
-<tr>
-<td>SAN PEDRO MAIN OFFICE</td>
-<td>839 S. BEACON</td>
-<td>SAN PEDRO</td>
-<td>CA</td>
-<td>90731</td>
-<td>3108310264</td>
-</tr>
-<tr>
-<td>SAN RAFAEL POST OFFICE</td>
-<td>40 BELLAM BLVD</td>
-<td>SAN RAFAEL</td>
-<td>CA</td>
-<td>94901</td>
-<td>4154571945</td>
-</tr>
-<tr>
-<td>SAN RAMON CITY CLERK</td>
-<td>7000 BOLLINGER CANYON RD</td>
-<td>SAN RAMON</td>
-<td>CA</td>
-<td>94583</td>
-<td>9259732539</td>
-</tr>
-<tr>
-<td>SAN RAMON POST OFFICE</td>
-<td>12935 ALCOSTA BLVD.</td>
-<td>SAN RAMON</td>
-<td>CA</td>
-<td>94583</td>
-<td>9252771081</td>
-</tr>
-<tr>
-<td>NORTH GRAND POST OFFICE</td>
-<td>2201 N. GRAND AVE</td>
-<td>SANTA ANA</td>
-<td>CA</td>
-<td>92711</td>
-<td>7146676734</td>
-</tr>
-<tr>
-<td>ORANGE COUNTY CLERKS OFFICE</td>
-<td>211 W. SANTA ANA BLVD</td>
-<td>SANTA ANA</td>
-<td>CA</td>
-<td>92702</td>
-<td>7148342588</td>
-</tr>
-<tr>
-<td>SANTA ANA P AND DC CENTER POST OFFICE</td>
-<td>3101 W. SUNFLOWER AVE</td>
-<td>SANTA ANA</td>
-<td>CA</td>
-<td>92799</td>
-<td>7146626474</td>
-</tr>
-<tr>
-<td>SPURGEON STATION POST OFFICE</td>
-<td>615 N. BUSH STREET</td>
-<td>SANTA ANA</td>
-<td>CA</td>
-<td>92701</td>
-<td>7149737721</td>
-</tr>
-<tr>
-<td>SANTA BARBARA MAIN POST OFFICE</td>
-<td>836 ANACAPA STREET</td>
-<td>SANTA BARBARA</td>
-<td>CA</td>
-<td>93102</td>
-<td>8055642270</td>
-</tr>
-<tr>
-<td>UCSB DEPARTMENT OF RECREATION</td>
-<td>516 OCEAN ROAD</td>
-<td>SANTA BARBARA</td>
-<td>CA</td>
-<td>93117</td>
-<td>8058933552</td>
-</tr>
-<tr>
-<td>MISSION STATION POST OFFICE</td>
-<td>1050 KIELY BLVD</td>
-<td>SANTA CLARA</td>
-<td>CA</td>
-<td>95051</td>
-<td>4082430128</td>
-</tr>
-<tr>
-<td>SANTA CLARA POST OFFICE AGNEW STATION</td>
-<td>4601 LAFAYETTE STREET</td>
-<td>SANTA CLARA</td>
-<td>CA</td>
-<td>95054</td>
-<td>4089886477</td>
-</tr>
-<tr>
-<td>CASTAIC PASSPORT MEGA SITE</td>
-<td>28201 FRANKLIN PARKWAY</td>
-<td>SANTA CLARITA</td>
-<td>CA</td>
-<td>91383</td>
-<td>6617757171</td>
-</tr>
-<tr>
-<td>SANTA CLARITA LIBRARY - CANYON COUNTRY JO ANNE DARCY LIBRARY</td>
-<td>18601 SOLEDAD CANYON RD</td>
-<td>SANTA CLARITA</td>
-<td>CA</td>
-<td>91351</td>
-<td>6612590750</td>
-</tr>
-<tr>
-<td>SANTA CLARITA OLD TOWN NEWHALL LIBRARY</td>
-<td>24500 MAIN ST.</td>
-<td>SANTA CLARITA</td>
-<td>CA</td>
-<td>91321</td>
-<td>6612590750</td>
-</tr>
-<tr>
-<td>BAY TREE BOOKSTORE - UCSC</td>
-<td>1156 HIGH STREET</td>
-<td>SANTA CRUZ</td>
-<td>CA</td>
-<td>95064</td>
-<td>8314594544</td>
-</tr>
-<tr>
-<td>SANTA CRUZ COUNTY CLERK</td>
-<td>701 OCEAN STREET</td>
-<td>SANTA CRUZ</td>
-<td>CA</td>
-<td>95060</td>
-<td>8314542060</td>
-</tr>
-<tr>
-<td>SANTA CRUZ POST OFFICE</td>
-<td>850 FRONT STREET</td>
-<td>SANTA CRUZ</td>
-<td>CA</td>
-<td>95060</td>
-<td>8314260144</td>
-</tr>
-<tr>
-<td>SANTA FE SPRINGS POST OFFICE</td>
-<td>11760 TELEGRAPH RD</td>
-<td>SANTA FE SPRINGS</td>
-<td>CA</td>
-<td>90670</td>
-<td>5628680951</td>
-</tr>
-<tr>
-<td>SANTA MARGARITA POST OFFICE</td>
-<td>22360 EL CAMINO REAL</td>
-<td>SANTA MARGARITA</td>
-<td>CA</td>
-<td>93453</td>
-<td>8054383950</td>
-</tr>
-<tr>
-<td>CITY OF SANTA MARIA PUBLIC LIBRARY</td>
-<td>421 S. MCCLELLAND STREET</td>
-<td>SANTA MARIA</td>
-<td>CA</td>
-<td>93454</td>
-<td>8059250994</td>
-</tr>
-<tr>
-<td>SANTA MARIA MAIN POST OFFICE</td>
-<td>201 E. BATTLES ROAD</td>
-<td>SANTA MARIA</td>
-<td>CA</td>
-<td>93454</td>
-<td>8059220321</td>
-</tr>
-<tr>
-<td>SANTA MONICA CITY CLERKS OFFICE</td>
-<td>1685 MAIN ST.</td>
-<td>SANTA MONICA</td>
-<td>CA</td>
-<td>90401</td>
-<td>3104588211</td>
-</tr>
-<tr>
-<td>SANTA MONICA MAIN POST OFFICE</td>
-<td>1653 7TH STREET</td>
-<td>SANTA MONICA</td>
-<td>CA</td>
-<td>90401</td>
-<td>3102550446</td>
-</tr>
-<tr>
-<td>SANTA ROSA POST OFFICE</td>
-<td>730 2ND STREET</td>
-<td>SANTA ROSA</td>
-<td>CA</td>
-<td>95404</td>
-<td>7075288768</td>
-</tr>
-<tr>
-<td>SONOMA COUNTY PUBLIC LAW LIBRARY</td>
-<td>2604 VENTURA AVE</td>
-<td>SANTA ROSA</td>
-<td>CA</td>
-<td>95403</td>
-<td>7075652668</td>
-</tr>
-<tr>
-<td>CITY OF SANTEE, CITY CLERKS OFFICE</td>
-<td>10601 MAGNOLIA AVENUE</td>
-<td>SANTEE</td>
-<td>CA</td>
-<td>92071</td>
-<td>6192584100</td>
-</tr>
-<tr>
-<td>SARATOGA POST OFFICE</td>
-<td>19630 ALLENDALE AVE</td>
-<td>SARATOGA</td>
-<td>CA</td>
-<td>95070</td>
-<td>4088673950</td>
-</tr>
-<tr>
-<td>SAUSALITO POST OFFICE</td>
-<td>150 HARBOR DR.</td>
-<td>SAUSALITO</td>
-<td>CA</td>
-<td>94965</td>
-<td>4153320227</td>
-</tr>
-<tr>
-<td>SEASIDE POST OFFICE</td>
-<td>1093 BROADWAY AVE</td>
-<td>SEASIDE</td>
-<td>CA</td>
-<td>93955</td>
-<td>8313946329</td>
-</tr>
-<tr>
-<td>SEBASTOPOL POST OFFICE</td>
-<td>290 S. MAIN STREET</td>
-<td>SEBASTOPOL</td>
-<td>CA</td>
-<td>95472</td>
-<td>7078231427</td>
-</tr>
-<tr>
-<td>SEELEY POST OFFICE</td>
-<td>1801 W. PARK STREET</td>
-<td>SEELEY</td>
-<td>CA</td>
-<td>92273</td>
-<td>7603531065</td>
-</tr>
-<tr>
-<td>SIERRA MADRE POST OFFICE</td>
-<td>61 S. BALDWIN AVENUE</td>
-<td>SIERRA MADRE</td>
-<td>CA</td>
-<td>91024</td>
-<td>6268363596</td>
-</tr>
-<tr>
-<td>SMITH RIVER POST OFFICE</td>
-<td>291 N. FRED D HAIGHT DR.</td>
-<td>SMITH RIVER</td>
-<td>CA</td>
-<td>95567</td>
-<td>7074872895</td>
-</tr>
-<tr>
-<td>SOLANA BEACH POST OFFICE</td>
-<td>153 S SIERRA AVE</td>
-<td>SOLANA BEACH</td>
-<td>CA</td>
-<td>92075</td>
-<td>8587931667</td>
-</tr>
-<tr>
-<td>SONOMA POST OFFICE</td>
-<td>617 BROADWAY</td>
-<td>SONOMA</td>
-<td>CA</td>
-<td>95476</td>
-<td>7079969311</td>
-</tr>
-<tr>
-<td>TUOLUMNE COUNTY CLERK OFFICE</td>
-<td>2 SOUTH GREEN ST</td>
-<td>SONORA</td>
-<td>CA</td>
-<td>95370</td>
-<td>2095335573</td>
-</tr>
-<tr>
-<td>CITY OF SOUTH GATE- OFFICE OF THE CITY CLERK</td>
-<td>8650 CALIFORNIA AVE</td>
-<td>SOUTH GATE</td>
-<td>CA</td>
-<td>90280</td>
-<td> </td>
-</tr>
-<tr>
-<td>SOUTH GATE MAIN POST OFFICE</td>
-<td>10120 WRIGHT ROAD</td>
-<td>SOUTH GATE</td>
-<td>CA</td>
-<td>90280</td>
-<td>3235663715</td>
-</tr>
-<tr>
-<td>SOUTH PASADENA PUBLIC LIBRARY</td>
-<td>1100 OXLEY ST</td>
-<td>SOUTH PASADENA</td>
-<td>CA</td>
-<td>91030</td>
-<td>6264037330</td>
-</tr>
-<tr>
-<td>SOUTH SAN FRANCISCO CITY CLERK</td>
-<td>400 GRAND AVE.</td>
-<td>SOUTH SAN FRANCISCO</td>
-<td>CA</td>
-<td>94080</td>
-<td>6508296646</td>
-</tr>
-<tr>
-<td>LA MESA - SPRING VALLEY POST OFFICE</td>
-<td>10174 AUSTIN DRIVE</td>
-<td>SPRING VALLEY</td>
-<td>CA</td>
-<td>91977</td>
-<td>6196605728</td>
-</tr>
-<tr>
-<td>SPRINGVILLE POST OFFICE</td>
-<td>35701 HWY 190</td>
-<td>SPRINGVILLE</td>
-<td>CA</td>
-<td>93265</td>
-<td>5595396000</td>
-</tr>
-<tr>
-<td>STANFORD BRANCH POST OFFICE</td>
-<td>531 LASUEN MALL</td>
-<td>STANFORD</td>
-<td>CA</td>
-<td>94305</td>
-<td>6503214239</td>
-</tr>
-<tr>
-<td>STANTON POST OFFICE</td>
-<td>10440 BEACH BLVD</td>
-<td>STANTON</td>
-<td>CA</td>
-<td>90680</td>
-<td>7148268830</td>
-</tr>
-<tr>
-<td>STOCKTON MAIN POST OFFICE</td>
-<td>4245 WEST LANE</td>
-<td>STOCKTON</td>
-<td>CA</td>
-<td>95208</td>
-<td>2094603621</td>
-</tr>
-<tr>
-<td>STRATHMORE POST OFFICE</td>
-<td>19708 ORANGE BELT</td>
-<td>STRATHMORE</td>
-<td>CA</td>
-<td>93267</td>
-<td>5595680576</td>
-</tr>
-<tr>
-<td>SUISUN CITY POST OFFICE</td>
-<td>325 MERGANSER DRIVE</td>
-<td>SUISUN CITY</td>
-<td>CA</td>
-<td>94585</td>
-<td>7074255449</td>
-</tr>
-<tr>
-<td>SUNNYVALE POST OFFICE</td>
-<td>209 E. JAVA DR.</td>
-<td>SUNNYVALE</td>
-<td>CA</td>
-<td>94089</td>
-<td>4087470803</td>
-</tr>
-<tr>
-<td>SUNOL POST OFFICE</td>
-<td>11925 MAIN STREET</td>
-<td>SUNOL</td>
-<td>CA</td>
-<td>94586</td>
-<td>9258622130</td>
-</tr>
-<tr>
-<td>LASSEN COUNTY TREASURER - TAX COLLECTOR DEPT</td>
-<td>220 S. LASSEN ST.</td>
-<td>SUSANVILLE</td>
-<td>CA</td>
-<td>96130</td>
-<td>5302518221</td>
-</tr>
-<tr>
-<td>TAFT POST OFFICE</td>
-<td>427 NORTH STREET</td>
-<td>TAFT</td>
-<td>CA</td>
-<td>93268</td>
-<td>6617633342</td>
-</tr>
-<tr>
-<td>TAHOE CITY POST OFFICE</td>
-<td>950 N. LAKE BLVD</td>
-<td>TAHOE CITY</td>
-<td>CA</td>
-<td>96145</td>
-<td>5305834900</td>
-</tr>
-<tr>
-<td>TECATE POST OFFICE</td>
-<td>441 TECATE ROAD</td>
-<td>TECATE</td>
-<td>CA</td>
-<td>91980</td>
-<td>6194785819</td>
-</tr>
-<tr>
-<td>TEHACHAPI CITY CLERKS OFFICE</td>
-<td>115 S. ROBINSON ST</td>
-<td>TEHACHAPI</td>
-<td>CA</td>
-<td>93561</td>
-<td>6618222200</td>
-</tr>
-<tr>
-<td>TEMECULA MAIN POST OFFICE</td>
-<td>30777 RANCHO CALIFORNIA ROAD</td>
-<td>TEMECULA</td>
-<td>CA</td>
-<td>92591</td>
-<td>9516951301</td>
-</tr>
-<tr>
-<td>TEMPLE CITY POST OFFICE</td>
-<td>5940 N. OAK AVENUE</td>
-<td>TEMPLE CITY</td>
-<td>CA</td>
-<td>91780</td>
-<td>6262874243</td>
-</tr>
-<tr>
-<td>TERRA BELLA POST OFFICE</td>
-<td>9622 ROAD 236</td>
-<td>TERRA BELLA</td>
-<td>CA</td>
-<td>93270</td>
-<td>5595357603</td>
-</tr>
-<tr>
-<td>THERMAL POST OFFICE</td>
-<td>87200 AIRPORT BLVD</td>
-<td>THERMAL</td>
-<td>CA</td>
-<td>92274</td>
-<td>7603991734</td>
-</tr>
-<tr>
-<td>THOUSAND OAKS LIBRARY</td>
-<td>1401 E JANSS RD</td>
-<td>THOUSAND OAKS</td>
-<td>CA</td>
-<td>91362</td>
-<td>8054492660</td>
-</tr>
-<tr>
-<td>THOUSAND PALMS POST OFFICE</td>
-<td>72630 RAMON ROAD</td>
-<td>THOUSAND PALMS</td>
-<td>CA</td>
-<td>92276</td>
-<td>7603433428</td>
-</tr>
-<tr>
-<td>THREE RIVERS POST OFFICE</td>
-<td>40857 SIERRA DR.</td>
-<td>THREE RIVERS</td>
-<td>CA</td>
-<td>93271</td>
-<td>5595614261</td>
-</tr>
-<tr>
-<td>BELVEDERE - TIBURON POST OFFICE</td>
-<td>6 BEACH ROAD</td>
-<td>TIBURON</td>
-<td>CA</td>
-<td>94920</td>
-<td>4154355004</td>
-</tr>
-<tr>
-<td>TORRANCE MAIN POST OFFICE</td>
-<td>2510 MONTEREY STREET</td>
-<td>TORRANCE</td>
-<td>CA</td>
-<td>90503</td>
-<td>3102225902</td>
-</tr>
-<tr>
-<td>TRUCKEE MAIN POST OFFICE</td>
-<td>10050 BRIDGE ST</td>
-<td>TRUCKEE</td>
-<td>CA</td>
-<td>96161</td>
-<td>5305877158</td>
-</tr>
-<tr>
-<td>TULARE PUBLIC LIBRARY</td>
-<td>475 NORTH M ST</td>
-<td>TULARE</td>
-<td>CA</td>
-<td>93274</td>
-<td>5596854500</td>
-</tr>
-<tr>
-<td>TUSTIN POST OFFICE</td>
-<td>340 E 1ST STREET</td>
-<td>TUSTIN</td>
-<td>CA</td>
-<td>92781</td>
-<td>7145442258</td>
-</tr>
-<tr>
-<td>TWENTY - NINE PALMS POST OFFICE</td>
-<td>73839 GORGONIO DRIVE</td>
-<td>TWENTY-NINE PALMS</td>
-<td>CA</td>
-<td>92277</td>
-<td>8008019801</td>
-</tr>
-<tr>
-<td>UKIAH POST OFFICE</td>
-<td>671 S. ORCHARD AVE.</td>
-<td>UKIAH</td>
-<td>CA</td>
-<td>95482</td>
-<td>7074623231</td>
-</tr>
-<tr>
-<td>UNION CITY MAIN POST OFFICE</td>
-<td>33170 ALVARADO NILES ROAD</td>
-<td>UNION CITY</td>
-<td>CA</td>
-<td>94587</td>
-<td>5104711180</td>
-</tr>
-<tr>
-<td>CITY OF UPLAND</td>
-<td>250 N. 3RD AVENUE</td>
-<td>UPLAND</td>
-<td>CA</td>
-<td>91786</td>
-<td>9099814501</td>
-</tr>
-<tr>
-<td>UPLAND POST OFFICE</td>
-<td>333 E. ARROW HIGHWAY</td>
-<td>UPLAND</td>
-<td>CA</td>
-<td>91785</td>
-<td>9099460910</td>
-</tr>
-<tr>
-<td>VALENCIA PUBLIC LIBRARY</td>
-<td>23743 VALENCIA BLVD</td>
-<td>VALENCIA</td>
-<td>CA</td>
-<td>91355</td>
-<td>6612590750</td>
-</tr>
-<tr>
-<td>VALLEJO POST OFFICE</td>
-<td>2635 NAPA ST.</td>
-<td>VALLEJO</td>
-<td>CA</td>
-<td>94590</td>
-<td>7076423071</td>
-</tr>
-<tr>
-<td>VALLEY CENTER POST OFFICE</td>
-<td>28588 COLE GRADE ROAD</td>
-<td>VALLEY CENTER</td>
-<td>CA</td>
-<td>92082</td>
-<td>7607496359</td>
-</tr>
-<tr>
-<td>VALLEY SPRINGS POST OFFICE</td>
-<td>200 E. HWY 12</td>
-<td>VALLEY SPRINGS</td>
-<td>CA</td>
-<td>95252</td>
-<td>2097721560</td>
-</tr>
-<tr>
-<td>VAN NUYS MEGA PASSPORT OFFICE</td>
-<td>15701 SHERMAN WAY</td>
-<td>VAN NUYS</td>
-<td>CA</td>
-<td>91406</td>
-<td>8183745638</td>
-</tr>
-<tr>
-<td>VICTORVILLE CITY LIBRARY</td>
-<td>15011 CIRCLE DR</td>
-<td>VICTORVILLE</td>
-<td>CA</td>
-<td>92395</td>
-<td>7602454222</td>
-</tr>
-<tr>
-<td>VICTORVILLE POST OFFICE</td>
-<td>16333 GREEN TREE BLVD</td>
-<td>VICTORVILLE</td>
-<td>CA</td>
-<td>92395</td>
-<td>7602414433</td>
-</tr>
-<tr>
-<td>CITY OF VILLA PARK</td>
-<td>17855 SANTIAGO BLVD.</td>
-<td>VILLA PARK</td>
-<td>CA</td>
-<td>92861</td>
-<td>7149981500</td>
-</tr>
-<tr>
-<td>CITY OF VISALIA - CITY HALL</td>
-<td>707 W. ACEQUIA AVE.</td>
-<td>VISALIA</td>
-<td>CA</td>
-<td>93291</td>
-<td>5597134385</td>
-</tr>
-<tr>
-<td>VISALIA MAIN POST OFFICE</td>
-<td>2345 W BEECH AVE</td>
-<td>VISALIA</td>
-<td>CA</td>
-<td>93277</td>
-<td>5597322237</td>
-</tr>
-<tr>
-<td>PALA VISTA ANNEX POST OFFICE</td>
-<td>1525 E VISTA WAY</td>
-<td>VISTA</td>
-<td>CA</td>
-<td>92084</td>
-<td>7604149710</td>
-</tr>
-<tr>
-<td>CITY OF WALNUT</td>
-<td>21201 LA PUENTE RD</td>
-<td>WALNUT</td>
-<td>CA</td>
-<td>91789</td>
-<td>9095957543</td>
-</tr>
-<tr>
-<td>WALNUT CREEK POST OFFICE</td>
-<td>2070 NORTH BROADWAY</td>
-<td>WALNUT CREEK</td>
-<td>CA</td>
-<td>94596</td>
-<td>9259350256</td>
-</tr>
-<tr>
-<td>WASCO POST OFFICE</td>
-<td>800 E STREET</td>
-<td>WASCO</td>
-<td>CA</td>
-<td>93280</td>
-<td>6617585697</td>
-</tr>
-<tr>
-<td>WATSONVILLE POST OFFICE</td>
-<td>225 MAIN ST.</td>
-<td>WATSONVILLE</td>
-<td>CA</td>
-<td>95076</td>
-<td>8317248414</td>
-</tr>
-<tr>
-<td>WEAVERVILLE POST OFFICE</td>
-<td>50 S. MINER ST.</td>
-<td>WEAVERVILLE</td>
-<td>CA</td>
-<td>96093</td>
-<td>5306236145</td>
-</tr>
-<tr>
-<td>CAMERON COMMUNITY CENTER</td>
-<td>1305 E. CAMERON AVE</td>
-<td>WEST COVINA</td>
-<td>CA</td>
-<td>91790</td>
-<td>6269398857</td>
-</tr>
-<tr>
-<td>WEST COVINA POST OFFICE</td>
-<td>396 S. CALIFORNIA AVE.</td>
-<td>WEST COVINA</td>
-<td>CA</td>
-<td>91793</td>
-<td>6269627491</td>
-</tr>
-<tr>
-<td>WEST HOLLYWOOD LIBRARY</td>
-<td>625 N. SAN VICENTE BLVD.</td>
-<td>WEST HOLLYWOOD</td>
-<td>CA</td>
-<td>90069</td>
-<td>3106525340</td>
-</tr>
-<tr>
-<td>WEST SACRAMENTO INDUSTRIAL STATION POST OFFICE</td>
-<td>3775 INDUSTRIAL BLVD.</td>
-<td>WEST SACRAMENTO</td>
-<td>CA</td>
-<td>95691</td>
-<td>9163738421</td>
-</tr>
-<tr>
-<td>ORANGE COUNTY CLERK-RECORDER, WESTMINSTER</td>
-<td>15460 MAGNOLIA ST.</td>
-<td>WESTMINSTER</td>
-<td>CA</td>
-<td>92683</td>
-<td>7148891481</td>
-</tr>
-<tr>
-<td>WESTMINSTER POST OFFICE</td>
-<td>15030 GOLDENWEST CIRCLE</td>
-<td>WESTMINSTER</td>
-<td>CA</td>
-<td>92685</td>
-<td>7148923232</td>
-</tr>
-<tr>
-<td>WESTMORLAND POST OFFICE</td>
-<td>199 S. CENTER STREET</td>
-<td>WESTMORLAND</td>
-<td>CA</td>
-<td>92281</td>
-<td>7603443092</td>
-</tr>
-<tr>
-<td>WHITTIER MAIN POST OFFICE</td>
-<td>8520 MICHIGAN AVE</td>
-<td>WHITTIER</td>
-<td>CA</td>
-<td>90605</td>
-<td>5626939561</td>
-</tr>
-<tr>
-<td>WHITTIER PUBLIC LIBRARY</td>
-<td>7344 S. WASHINGTON AVENUE</td>
-<td>WHITTIER</td>
-<td>CA</td>
-<td>90602</td>
-<td>5625679900</td>
-</tr>
-<tr>
-<td>WHITTWOOD BRANCH LIBRARY</td>
-<td>10537 SANTA GERTRUDES</td>
-<td>WHITTIER</td>
-<td>CA</td>
-<td>90603</td>
-<td>5625679950</td>
-</tr>
-<tr>
-<td>WILDOMAR POST OFFICE</td>
-<td>21392 PALOMAR ST.</td>
-<td>WILDOMAR</td>
-<td>CA</td>
-<td>92595</td>
-<td>9516789610</td>
-</tr>
-<tr>
-<td>WILLIAMS POST OFFICE</td>
-<td>801 E ST.</td>
-<td>WILLIAMS</td>
-<td>CA</td>
-<td>95987</td>
-<td>5304732472</td>
-</tr>
-<tr>
-<td>WILLITS MPO</td>
-<td>315 S. MAIN STREET</td>
-<td>WILLITS</td>
-<td>CA</td>
-<td>95490</td>
-<td>7074595255</td>
-</tr>
-<tr>
-<td>WINCHESTER POST OFFICE</td>
-<td>28453 WINCHESTER ROAD</td>
-<td>WINCHESTER</td>
-<td>CA</td>
-<td>92596</td>
-<td>9519265381</td>
-</tr>
-<tr>
-<td>WINTERHAVEN POST OFFICE</td>
-<td>2127 WINTERHAVEN DRIVE</td>
-<td>WINTERHAVEN</td>
-<td>CA</td>
-<td>92283</td>
-<td>7605720471</td>
-</tr>
-<tr>
-<td>WOODLAKE POST OFFICE</td>
-<td>310 N. VALENCIA BLVD.</td>
-<td>WOODLAKE</td>
-<td>CA</td>
-<td>93286</td>
-<td>5595645418</td>
-</tr>
-<tr>
-<td>WRIGHTWOOD POST OFFICE</td>
-<td>1440 STATE HIGHWAY 2</td>
-<td>WRIGHTWOOD</td>
-<td>CA</td>
-<td>92397</td>
-<td>7602498882</td>
-</tr>
-<tr>
-<td>YERMO POST OFFICE</td>
-<td>485 W. YERMO ROAD</td>
-<td>YERMO</td>
-<td>CA</td>
-<td>92398</td>
-<td>7602542315</td>
-</tr>
-<tr>
-<td>YORBA LINDA POST OFFICE</td>
-<td>4770 EUREKA AVE</td>
-<td>YORBA LINDA</td>
-<td>CA</td>
-<td>92885</td>
-<td>7145287052</td>
-</tr>
-<tr>
-<td>YORBA LINDA PUBLIC LIBRARY</td>
-<td>18181 IMPERIAL HWY</td>
-<td>YORBA LINDA</td>
-<td>CA</td>
-<td>92886</td>
-<td>7147772873</td>
-</tr>
-<tr>
-<td>SISKIYOU COUNTY CLERK</td>
-<td>510 NORTH MAIN ST</td>
-<td>YREKA</td>
-<td>CA</td>
-<td>96097</td>
-<td>5308428084</td>
-</tr>
-<tr>
-<td>YREKA POST OFFICE</td>
-<td>401 SOUTH BROADWAY STREET</td>
-<td>YREKA</td>
-<td>CA</td>
-<td>96097</td>
-<td>5308429372</td>
-</tr>
-<tr>
-<td>SUTTER COUNTY CLERK RECORDER</td>
-<td>433 SECOND STREET</td>
-<td>YUBA CITY</td>
-<td>CA</td>
-<td>95991</td>
-<td>5308227134</td>
-</tr>
-<tr>
-<td>YUCAIPA POST OFFICE</td>
-<td>12460 CALIFORNIA STREET</td>
-<td>YUCAIPA</td>
-<td>CA</td>
-<td>92399</td>
-<td>8008019801</td>
-</tr>
-<tr>
-<td>YUCCA VALLEY POST OFFICE</td>
-<td>57280 YUCCA TRAIL</td>
-<td>YUCCA VALLEY</td>
-<td>CA</td>
-<td>92284</td>
-<td>7603650725</td>
-</tr>
-<tr>
-<td>YUCCA VALLEY TOWN CLERKS OFFICE</td>
-<td>57090 TWENTYNINE PALMS HIGHWAY</td>
-<td>YUCCA VALLEY</td>
-<td>CA</td>
-<td>92284</td>
-<td>7603697207</td>
-</tr>
-</tbody>
-</table>

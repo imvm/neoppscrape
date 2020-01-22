@@ -1,742 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>MONROE COUNTY CHANCERY CLERK OF COURT</td>
-<td>201 W COMMERCE ST</td>
-<td>ABERDEEN</td>
-<td>MS</td>
-<td>39730</td>
-<td>6623698143</td>
-</tr>
-<tr>
-<td>CHOCTAW COUNTY CHANCERY CLERK OFFICE</td>
-<td>22 E. QUINN STREET</td>
-<td>ACKERMAN</td>
-<td>MS</td>
-<td>39735</td>
-<td>6622856329</td>
-</tr>
-<tr>
-<td>BATESVILLE POST OFFICE</td>
-<td>375 LAKEWOOD DR</td>
-<td>BATESVILLE</td>
-<td>MS</td>
-<td>38606</td>
-<td>6625634001</td>
-</tr>
-<tr>
-<td>JASPER COUNTY CIRCUIT CLERK</td>
-<td>27 WEST 8TH AVE</td>
-<td>BAY SPRINGS</td>
-<td>MS</td>
-<td>39422</td>
-<td>6017642245</td>
-</tr>
-<tr>
-<td>BAY ST LOUIS MAIN POST OFFICE</td>
-<td>1200 HWY 90</td>
-<td>BAY ST LOUIS</td>
-<td>MS</td>
-<td>39520</td>
-<td>2284677720</td>
-</tr>
-<tr>
-<td>HANCOCK COUNTY CHANCERY CLERK</td>
-<td>854 HWY 90 STE B</td>
-<td>BAY ST LOUIS</td>
-<td>MS</td>
-<td>39520</td>
-<td>2284675404</td>
-</tr>
-<tr>
-<td>BILOXI MAIN POST OFFICE</td>
-<td>135 MAIN ST</td>
-<td>BILOXI</td>
-<td>MS</td>
-<td>39530</td>
-<td>2283746386</td>
-</tr>
-<tr>
-<td>HARRISON COUNTY CHANCERY CLERK</td>
-<td>730 DR MARTIN LUTHER KING JR BLVD</td>
-<td>BILOXI</td>
-<td>MS</td>
-<td>39530</td>
-<td>2284358220</td>
-</tr>
-<tr>
-<td>PRENTISS COUNTY CHANCERY CLERKS OFFICE</td>
-<td>100 NORTH MAIN ST.</td>
-<td>BOONEVILLE</td>
-<td>MS</td>
-<td>38829</td>
-<td>6627288151</td>
-</tr>
-<tr>
-<td>BRANDON MAIN POST OFFICE</td>
-<td>1252 W GOVERNMENT ST</td>
-<td>BRANDON</td>
-<td>MS</td>
-<td>39042</td>
-<td>6018250564</td>
-</tr>
-<tr>
-<td>BRANDON RESERVOIR POST OFFICE</td>
-<td>610 GRANTS FERRY RD</td>
-<td>BRANDON</td>
-<td>MS</td>
-<td>39047</td>
-<td>6019926874</td>
-</tr>
-<tr>
-<td>RANKIN COUNTY CHANCERY CLERKS OFFICE</td>
-<td>211 EAST GOVERNMENT ST</td>
-<td>BRANDON</td>
-<td>MS</td>
-<td>39042</td>
-<td>6018251469</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT LINCOLN COUNTY</td>
-<td>301 SOUTH FIRST ST</td>
-<td>BROOKHAVEN</td>
-<td>MS</td>
-<td>39601</td>
-<td>6018353435</td>
-</tr>
-<tr>
-<td>MADISON COUNTY CHANCERY CLERK</td>
-<td>146 W CENTER ST</td>
-<td>CANTON</td>
-<td>MS</td>
-<td>39046</td>
-<td>6018555609</td>
-</tr>
-<tr>
-<td>CLERK OF CHANCERY COURT COAHOMA COUNTY</td>
-<td>115 FIRST ST</td>
-<td>CLARKSDALE</td>
-<td>MS</td>
-<td>38614</td>
-<td>6626243000</td>
-</tr>
-<tr>
-<td>CLEVELAND POST OFFICE</td>
-<td>210 S CHRISMAN AVE</td>
-<td>CLEVELAND</td>
-<td>MS</td>
-<td>38732</td>
-<td>6628434031</td>
-</tr>
-<tr>
-<td>COLLINS MAIN POST OFFICE</td>
-<td>304 S DOGWOOD AVE</td>
-<td>COLLINS</td>
-<td>MS</td>
-<td>39428</td>
-<td>6017654281</td>
-</tr>
-<tr>
-<td>COLUMBIA POST OFFICE</td>
-<td>815 MAIN ST</td>
-<td>COLUMBIA</td>
-<td>MS</td>
-<td>39429</td>
-<td>6017364653</td>
-</tr>
-<tr>
-<td>CLERK OF CHANCERY COURT LOWNDES COUNTY</td>
-<td>515 2ND AVE N</td>
-<td>COLUMBUS</td>
-<td>MS</td>
-<td>39703</td>
-<td>6623295800</td>
-</tr>
-<tr>
-<td>COLUMBUS MAIN POST OFFICE</td>
-<td>3202 BLUECUTT ROAD</td>
-<td>COLUMBUS</td>
-<td>MS</td>
-<td>39705</td>
-<td>6622450247</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT ALCORN COUNTY</td>
-<td>600 E WALDRON ST</td>
-<td>CORINTH</td>
-<td>MS</td>
-<td>38834</td>
-<td>6622867740</td>
-</tr>
-<tr>
-<td>CORINTH MAIN POST OFFICE</td>
-<td>500 N MADISON ST</td>
-<td>CORINTH</td>
-<td>MS</td>
-<td>38834</td>
-<td>6622871411</td>
-</tr>
-<tr>
-<td>NEWTON COUNTY CHANCERY CLERK</td>
-<td>92 WEST BROAD ST</td>
-<td>DECATUR</td>
-<td>MS</td>
-<td>39327</td>
-<td>6016352367</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT JONES COUNTY 1ST JUDICIAL</td>
-<td>110 COURT ST SUITE B</td>
-<td>ELLISVILLE</td>
-<td>MS</td>
-<td>39437</td>
-<td>6014778538</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT JEFFERSON COUNTY</td>
-<td>1483 MAIN ST</td>
-<td>FAYETTE</td>
-<td>MS</td>
-<td>39069</td>
-<td>6017863422</td>
-</tr>
-<tr>
-<td>SCOTT COUNTY COURTHOUSE</td>
-<td>100 MAIN STREET</td>
-<td>FOREST</td>
-<td>MS</td>
-<td>39074</td>
-<td>6014691922</td>
-</tr>
-<tr>
-<td>FULTON POST OFFICE</td>
-<td>103 E MAIN ST</td>
-<td>FULTON</td>
-<td>MS</td>
-<td>38843</td>
-<td>6628624437</td>
-</tr>
-<tr>
-<td>GREENVILLE MAIN POST OFFICE</td>
-<td>305 MAIN ST</td>
-<td>GREENVILLE</td>
-<td>MS</td>
-<td>38701</td>
-<td>6623354523</td>
-</tr>
-<tr>
-<td>CLERK OF CHANCERY COURT LEFLORE COUNTY</td>
-<td>310 W MARKET ST</td>
-<td>GREENWOOD</td>
-<td>MS</td>
-<td>38930</td>
-<td>6624536203</td>
-</tr>
-<tr>
-<td>GREENWOOD MAIN POST OFFICE</td>
-<td>200 E WASHINGTON ST</td>
-<td>GREENWOOD</td>
-<td>MS</td>
-<td>38930</td>
-<td>6624533242</td>
-</tr>
-<tr>
-<td>GRENADA POST OFFICE</td>
-<td>2500 GATEWAY ST</td>
-<td>GRENADA</td>
-<td>MS</td>
-<td>38901</td>
-<td>6622265515</td>
-</tr>
-<tr>
-<td>GULFPORT POST OFFICE</td>
-<td>11110 HWY 49</td>
-<td>GULFPORT</td>
-<td>MS</td>
-<td>39503</td>
-<td>2288315470</td>
-</tr>
-<tr>
-<td>HARRISON COUNTY CHANCERY CLERK</td>
-<td>1801 23RD AVE</td>
-<td>GULFPORT</td>
-<td>MS</td>
-<td>39501</td>
-<td>2288654036</td>
-</tr>
-<tr>
-<td>HATTIESBURG GENERAL MAIL FACILITY</td>
-<td>220 S 40TH AVE</td>
-<td>HATTIESBURG</td>
-<td>MS</td>
-<td>39402</td>
-<td>6012717010</td>
-</tr>
-<tr>
-<td>COPIAH COUNTY CIRCUIT CLERK</td>
-<td>100 CALDWELL DR</td>
-<td>HAZLEHURST</td>
-<td>MS</td>
-<td>39083</td>
-<td>6018941241</td>
-</tr>
-<tr>
-<td>DESOTO COUNTY CHANCERY COURT CLERK</td>
-<td>2535 HWY 51 SOUTH</td>
-<td>HERNANDO</td>
-<td>MS</td>
-<td>38632</td>
-<td>6624698006</td>
-</tr>
-<tr>
-<td>HERNANDO POST OFFICE</td>
-<td>12 W COMMERCE ST</td>
-<td>HERNANDO</td>
-<td>MS</td>
-<td>38632</td>
-<td>6624292481</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT MARSHALL COUNTY</td>
-<td>128 E VAN DORN AVE</td>
-<td>HOLLY SPRINGS</td>
-<td>MS</td>
-<td>38635</td>
-<td>6622523434</td>
-</tr>
-<tr>
-<td>CLERK OF COURT SUNFLOWER COUNTY</td>
-<td>200 MAIN STREET</td>
-<td>INDIANOLA</td>
-<td>MS</td>
-<td>38751</td>
-<td>6628871252</td>
-</tr>
-<tr>
-<td>ITTA BENA POST OFFICE</td>
-<td>100 DEWEY ST</td>
-<td>ITTA BENA</td>
-<td>MS</td>
-<td>38941</td>
-<td>6622549112</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT TISHOMINGO COUNTY</td>
-<td>1008 BATTLEGROUND DR  RM 204</td>
-<td>IUKA</td>
-<td>MS</td>
-<td>38852</td>
-<td>6624237026</td>
-</tr>
-<tr>
-<td>JACKSON GENERAL MAIL FACILITY</td>
-<td>401 E SOUTH ST</td>
-<td>JACKSON</td>
-<td>MS</td>
-<td>39201</td>
-<td>6013517120</td>
-</tr>
-<tr>
-<td>JACKSON POST OFFICE - NORTH STATION</td>
-<td>4040 NORTHVIEW DR</td>
-<td>JACKSON</td>
-<td>MS</td>
-<td>39206</td>
-<td>6013625499</td>
-</tr>
-<tr>
-<td>ATTALA COUNTY CIRCUIT CLERK OF COURT</td>
-<td>100 COURTHOUSE STE 1</td>
-<td>KOSCIUSKO</td>
-<td>MS</td>
-<td>39090</td>
-<td>6622891471</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT JONES COUNTY</td>
-<td>405 N 5TH AVE</td>
-<td>LAUREL</td>
-<td>MS</td>
-<td>39440</td>
-<td>6014252556</td>
-</tr>
-<tr>
-<td>LAUREL MAIN POST OFFICE</td>
-<td>315 SAWMILL ROAD</td>
-<td>LAUREL</td>
-<td>MS</td>
-<td>39440</td>
-<td>6014251408</td>
-</tr>
-<tr>
-<td>AMITE COUNTY CIRCUIT CLERK OFFICE</td>
-<td>243 W MAIN ST</td>
-<td>LIBERTY</td>
-<td>MS</td>
-<td>39645</td>
-<td>6016578932</td>
-</tr>
-<tr>
-<td>LONG BEACH POST OFFICE</td>
-<td>200 KLONDYKE DR</td>
-<td>LONG BEACH</td>
-<td>MS</td>
-<td>39560</td>
-<td>2288685419</td>
-</tr>
-<tr>
-<td>WINSTON COUNTY CIRCUIT COURT CLERK</td>
-<td>16540 WEST MAIN ST</td>
-<td>LOUISVILLE</td>
-<td>MS</td>
-<td>39339</td>
-<td>6627733581</td>
-</tr>
-<tr>
-<td>LUCEDALE POST OFFICE</td>
-<td>209 COX ST</td>
-<td>LUCEDALE</td>
-<td>MS</td>
-<td>39452</td>
-<td>6019472719</td>
-</tr>
-<tr>
-<td>MAGEE POST OFFICE</td>
-<td>701 3RD ST SW</td>
-<td>MAGEE</td>
-<td>MS</td>
-<td>39111</td>
-<td>6018493445</td>
-</tr>
-<tr>
-<td>PIKE COUNTY CIRCUIT CLERKS OFFICE</td>
-<td>200 EAST BAY STREET</td>
-<td>MAGNOLIA</td>
-<td>MS</td>
-<td>39652</td>
-<td>6017832581</td>
-</tr>
-<tr>
-<td>MARKS POST OFFICE</td>
-<td>423 POPLAR ST</td>
-<td>MARKS</td>
-<td>MS</td>
-<td>38646</td>
-<td>6623265881</td>
-</tr>
-<tr>
-<td>MCCOMB POST OFFICE</td>
-<td>530 DELAWARE AVE</td>
-<td>MCCOMB</td>
-<td>MS</td>
-<td>39648</td>
-<td>6016841931</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT FRANKLIN COUNTY</td>
-<td>36 MAIN ST EAST</td>
-<td>MEADVILLE</td>
-<td>MS</td>
-<td>39653</td>
-<td>6013842320</td>
-</tr>
-<tr>
-<td>MERIDIAN MAIN POST OFFICE</td>
-<td>2100 9TH STREET</td>
-<td>MERIDIAN</td>
-<td>MS</td>
-<td>39301</td>
-<td>6016932581</td>
-</tr>
-<tr>
-<td>INTERNATIONAL INSTITUTE, MISSISSIPPI STATE UNIVERSITY</td>
-<td>175 PRESIDENTS CIRCLE</td>
-<td>MISSISSIPPI STATE</td>
-<td>MS</td>
-<td>39762</td>
-<td>6623258929</td>
-</tr>
-<tr>
-<td>MISSISSIPPI STATE POST OFFICE</td>
-<td>414 LEE BLVD</td>
-<td>MISSISSIPPI STATE</td>
-<td>MS</td>
-<td>39762</td>
-<td>6623235772</td>
-</tr>
-<tr>
-<td>CLERK OF COURT LAWRENCE COUNTY</td>
-<td>517 EAST BROAD ST</td>
-<td>MONTICELLO</td>
-<td>MS</td>
-<td>39654</td>
-<td>6015874791</td>
-</tr>
-<tr>
-<td>MOSS POINT POST OFFICE</td>
-<td>4537 BOWEN ST</td>
-<td>MOSS POINT</td>
-<td>MS</td>
-<td>39563</td>
-<td>2284755621</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT ADAMS COUNTY</td>
-<td>115 S WALL ST</td>
-<td>NATCHEZ</td>
-<td>MS</td>
-<td>39120</td>
-<td>6014466326</td>
-</tr>
-<tr>
-<td>NATCHEZ MAIN POST OFFICE</td>
-<td>214 N CANAL ST</td>
-<td>NATCHEZ</td>
-<td>MS</td>
-<td>39120</td>
-<td>6014424361</td>
-</tr>
-<tr>
-<td>UNION COUNTY CIRCUIT CLERK</td>
-<td>114 E BANKHEAD ST</td>
-<td>NEW ALBANY</td>
-<td>MS</td>
-<td>38652</td>
-<td>6625341910</td>
-</tr>
-<tr>
-<td>OLIVE BRANCH MAIN POST OFFICE</td>
-<td>8850 MID SOUTH AVE</td>
-<td>OLIVE BRANCH</td>
-<td>MS</td>
-<td>38654</td>
-<td>6628955966</td>
-</tr>
-<tr>
-<td>LAFAYETTE COUNTY CHANCERY CLERK</td>
-<td>300 N LAMAR BLVD</td>
-<td>OXFORD</td>
-<td>MS</td>
-<td>38655</td>
-<td>6622342131</td>
-</tr>
-<tr>
-<td>OXFORD POST OFFICE</td>
-<td>401 MCELROY DR.</td>
-<td>OXFORD</td>
-<td>MS</td>
-<td>38655</td>
-<td>6622345615</td>
-</tr>
-<tr>
-<td>JACKSON COUNTY CHANCERY CLERK</td>
-<td>2915 CANTY STREET, SUITE R</td>
-<td>PASCAGOULA</td>
-<td>MS</td>
-<td>39567</td>
-<td>2287693131</td>
-</tr>
-<tr>
-<td>PETAL POST OFFICE</td>
-<td>121 MORRIS ST</td>
-<td>PETAL</td>
-<td>MS</td>
-<td>39465</td>
-<td>6015823618</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT NESHOBA COUNTY</td>
-<td>401 E BEACON ST STE 110</td>
-<td>PHILADELPHIA</td>
-<td>MS</td>
-<td>39350</td>
-<td>6016564781</td>
-</tr>
-<tr>
-<td>PHILADELPHIA POST OFFICE</td>
-<td>1 GOVERNMENT ST</td>
-<td>PHILADELPHIA</td>
-<td>MS</td>
-<td>39350</td>
-<td>6013894837</td>
-</tr>
-<tr>
-<td>PICAYUNE ANNEX US POST OFFICE</td>
-<td>6342 HWY 11 N</td>
-<td>PICAYUNE</td>
-<td>MS</td>
-<td>39466</td>
-<td>6017982876</td>
-</tr>
-<tr>
-<td>CALHOUN COUNTY CIRCUIT COURT</td>
-<td>103 W MAIN ST</td>
-<td>PITTSBORO</td>
-<td>MS</td>
-<td>38951</td>
-<td>6624123101</td>
-</tr>
-<tr>
-<td>PEARL RIVER COUNTY CIRCUIT CLERK OFFICE</td>
-<td>200 S. MAIN STREET</td>
-<td>POPLARVILLE</td>
-<td>MS</td>
-<td>39470</td>
-<td>6014032328</td>
-</tr>
-<tr>
-<td>JEFFERSON DAVIS COUNTY CIRCUIT CLERK OF COURT</td>
-<td>1025 THIRD ST</td>
-<td>PRENTISS</td>
-<td>MS</td>
-<td>39474</td>
-<td>6017924231</td>
-</tr>
-<tr>
-<td>LAMAR COUNTY CIRCUIT CLERK</td>
-<td>203 MAIN ST</td>
-<td>PURVIS</td>
-<td>MS</td>
-<td>39475</td>
-<td>6017948504</td>
-</tr>
-<tr>
-<td>RIDGELAND POST OFFICE</td>
-<td>611 S PEAR ORCHARD RD</td>
-<td>RIDGELAND</td>
-<td>MS</td>
-<td>39157</td>
-<td>6019910249</td>
-</tr>
-<tr>
-<td>TIPPAH COUNTY CHANCERY CLERK</td>
-<td>CHANCERY BUILDING</td>
-<td>RIPLEY</td>
-<td>MS</td>
-<td>38663</td>
-<td>6628377374</td>
-</tr>
-<tr>
-<td>SENATOBIA MAIN POST OFFICE</td>
-<td>100 W MAIN ST</td>
-<td>SENATOBIA</td>
-<td>MS</td>
-<td>38668</td>
-<td>6625628766</td>
-</tr>
-<tr>
-<td>SOUTHAVEN POST OFFICE</td>
-<td>7550 AIRWAYS BLVD</td>
-<td>SOUTHAVEN</td>
-<td>MS</td>
-<td>38671</td>
-<td>6623498571</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT OKTIBBEHA COUNTY</td>
-<td>108 WEST MAIN STREET SUITE 118</td>
-<td>STARKVILLE</td>
-<td>MS</td>
-<td>39759</td>
-<td>6623231356</td>
-</tr>
-<tr>
-<td>CLERK OF CHANCERY COURT LEE COUNTY</td>
-<td>200 W JEFFERSON ST</td>
-<td>TUPELO</td>
-<td>MS</td>
-<td>38804</td>
-<td>6624322100</td>
-</tr>
-<tr>
-<td>TUPELO MAIN POST OFFICE</td>
-<td>362 S THOMAS ST</td>
-<td>TUPELO</td>
-<td>MS</td>
-<td>38801</td>
-<td>6627918407</td>
-</tr>
-<tr>
-<td>UNIVERSITY OF MISSISSIPPI</td>
-<td>617 ALL AMERICAN DR</td>
-<td>UNIVERSITY</td>
-<td>MS</td>
-<td>38677</td>
-<td>6629151508</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT CARROLL COUNTY</td>
-<td>803 FRONT ST</td>
-<td>VAIDEN</td>
-<td>MS</td>
-<td>39176</td>
-<td>6624645476</td>
-</tr>
-<tr>
-<td>VERONA POST OFFICE</td>
-<td>5107 RAYMOND AVE</td>
-<td>VERONA</td>
-<td>MS</td>
-<td>38879</td>
-<td>6625662442</td>
-</tr>
-<tr>
-<td>VICKSBURG MAIN POST OFFICE</td>
-<td>3415 PEMBERTON SQ BLVD</td>
-<td>VICKSBURG</td>
-<td>MS</td>
-<td>39180</td>
-<td>6016361022</td>
-</tr>
-<tr>
-<td>WAYNESBORO POST OFFICE</td>
-<td>704 AZALEA DR</td>
-<td>WAYNESBORO</td>
-<td>MS</td>
-<td>39367</td>
-<td>6017354417</td>
-</tr>
-<tr>
-<td>CLERK OF CHANCERY COURT CLAY COUNTY</td>
-<td>365 COURT ST</td>
-<td>WEST POINT</td>
-<td>MS</td>
-<td>39773</td>
-<td>6624943124</td>
-</tr>
-<tr>
-<td>WIGGINS POST OFFICE</td>
-<td>125 BORDER AVE W</td>
-<td>WIGGINS</td>
-<td>MS</td>
-<td>39577</td>
-<td>6019283964</td>
-</tr>
-<tr>
-<td>WOODVILLE POST OFFICE</td>
-<td>381 MAIN ST</td>
-<td>WOODVILLE</td>
-<td>MS</td>
-<td>39669</td>
-<td>6018884651</td>
-</tr>
-<tr>
-<td>YAZOO CITY POST OFFICE</td>
-<td>341 N MAIN ST</td>
-<td>YAZOO CITY</td>
-<td>MS</td>
-<td>39194</td>
-<td>6627465733</td>
-</tr>
-</tbody>
-</table>

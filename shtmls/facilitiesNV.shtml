@@ -1,390 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>BATTLE MOUNTAIN POST OFFICE</td>
-<td>810 SUNSET DR</td>
-<td>BATTLE MOUNTAIN</td>
-<td>NV</td>
-<td>89820</td>
-<td>7756352705</td>
-</tr>
-<tr>
-<td>BOULDER CITY CLERKS OFFICE</td>
-<td>401 CALIFORNIA AVE.</td>
-<td>BOULDER CITY</td>
-<td>NV</td>
-<td>89005</td>
-<td>7022939208</td>
-</tr>
-<tr>
-<td>BOULDER CITY POST OFFICE</td>
-<td>1101 COLORADO ST</td>
-<td>BOULDER CITY</td>
-<td>NV</td>
-<td>89005</td>
-<td>7022932740</td>
-</tr>
-<tr>
-<td>CARSON CITY MAIN POST OFFICE</td>
-<td>1111 S. ROOP ST</td>
-<td>CARSON CITY</td>
-<td>NV</td>
-<td>89701</td>
-<td>7758842300</td>
-</tr>
-<tr>
-<td>CRYSTAL BAY POST OFFICE</td>
-<td>26 STATE ROUTE 28</td>
-<td>CRYSTAL BAY</td>
-<td>NV</td>
-<td>89402</td>
-<td>7758319017</td>
-</tr>
-<tr>
-<td>ELKO MAIN POST OFFICE</td>
-<td>275 3RD STREET</td>
-<td>ELKO</td>
-<td>NV</td>
-<td>89803</td>
-<td>7757779803</td>
-</tr>
-<tr>
-<td>ELY MAIN POST OFFICE</td>
-<td>2600 BRISTLECONE AVE</td>
-<td>ELY</td>
-<td>NV</td>
-<td>89301</td>
-<td>7752899276</td>
-</tr>
-<tr>
-<td>EUREKA COUNTY CLERK RECORDERS OFFICE</td>
-<td>10 S. MAIN ST</td>
-<td>EUREKA</td>
-<td>NV</td>
-<td>89316</td>
-<td>7752375263</td>
-</tr>
-<tr>
-<td>FALLON POST OFFICE</td>
-<td>120 N. MAINE ST</td>
-<td>FALLON</td>
-<td>NV</td>
-<td>89406</td>
-<td>7754282906</td>
-</tr>
-<tr>
-<td>FERNLEY CITY CLERKS OFFICE</td>
-<td>595 SILVERLACE BLVD</td>
-<td>FERNLEY</td>
-<td>NV</td>
-<td>89408</td>
-<td>7757849830</td>
-</tr>
-<tr>
-<td>HENDERSON CITY CLERKS OFFICE</td>
-<td>240 S WATER STREET</td>
-<td>HENDERSON</td>
-<td>NV</td>
-<td>89015</td>
-<td>7022671400</td>
-</tr>
-<tr>
-<td>HENDERSON MAIN POST OFFICE</td>
-<td>404 S. BOULDER HWY</td>
-<td>HENDERSON</td>
-<td>NV</td>
-<td>89015</td>
-<td>7025587463</td>
-</tr>
-<tr>
-<td>HENDERSON VALLE VERDE STATION</td>
-<td>1575 W. HORIZON RIDGE PKWY</td>
-<td>HENDERSON</td>
-<td>NV</td>
-<td>89012</td>
-<td>7028371624</td>
-</tr>
-<tr>
-<td>INDIAN SPRINGS POST OFFICE</td>
-<td>185 HWY 95 NORTH</td>
-<td>INDIAN SPRINGS</td>
-<td>NV</td>
-<td>89018</td>
-<td>7028793289</td>
-</tr>
-<tr>
-<td>JACKPOT POST OFFICE</td>
-<td>1925 GURLEY DR</td>
-<td>JACKPOT</td>
-<td>NV</td>
-<td>89825</td>
-<td>7757552252</td>
-</tr>
-<tr>
-<td>JEAN POST OFFICE</td>
-<td>18500 LAS VEGAS BLVD SOUTH</td>
-<td>JEAN</td>
-<td>NV</td>
-<td>89019</td>
-<td>7028741327</td>
-</tr>
-<tr>
-<td>CLARK COUNTY CLERK - COMMISSION DIVISION</td>
-<td>500 S. GRAND CENTRAL PARKWAY</td>
-<td>LAS VEGAS</td>
-<td>NV</td>
-<td>89101</td>
-<td>7026710500</td>
-</tr>
-<tr>
-<td>CROSSROADS STATION PO - LAS VEGAS</td>
-<td>6210 N. JONES BLVD</td>
-<td>LAS VEGAS</td>
-<td>NV</td>
-<td>89130</td>
-<td>7028394471</td>
-</tr>
-<tr>
-<td>JAMES C BROWN JR POST OFFICE</td>
-<td>1001 E. SUNSET RD</td>
-<td>LAS VEGAS</td>
-<td>NV</td>
-<td>89199</td>
-<td>7023619201</td>
-</tr>
-<tr>
-<td>SOUTHERN NEVADA HEALTH DISTRICT</td>
-<td>280 S. DECATUR</td>
-<td>LAS VEGAS</td>
-<td>NV</td>
-<td>89107</td>
-<td>7027590904</td>
-</tr>
-<tr>
-<td>SUMMERLIN STATION PO - LAS VEGAS</td>
-<td>1611 SPRING GATE LANE</td>
-<td>LAS VEGAS</td>
-<td>NV</td>
-<td>89134</td>
-<td>7028698647</td>
-</tr>
-<tr>
-<td>UNIVERSITY LAS VEGAS RETAIL UNIT PO - LAS VEGAS</td>
-<td>4632 S. MARYLAND PARKWAY</td>
-<td>LAS VEGAS</td>
-<td>NV</td>
-<td>89170</td>
-<td>7023619209</td>
-</tr>
-<tr>
-<td>UNIVERSITY NEVADA LAS VEGAS (UNLV)</td>
-<td>4632 S. MARYLAND PKWY</td>
-<td>LAS VEGAS</td>
-<td>NV</td>
-<td>89119</td>
-<td>7028954451</td>
-</tr>
-<tr>
-<td>WINDMILL LIBRARY</td>
-<td>7060 W. WINDMILL LANE</td>
-<td>LAS VEGAS</td>
-<td>NV</td>
-<td>89113</td>
-<td>7025076036</td>
-</tr>
-<tr>
-<td>WINTERWOOD STATION POST OFFICE</td>
-<td>5070 VEGAS VALLEY DRIVE</td>
-<td>LAS VEGAS</td>
-<td>NV</td>
-<td>89122</td>
-<td>7024312539</td>
-</tr>
-<tr>
-<td>LAUGHLIN POST OFFICE</td>
-<td>2850  S. NEEDLES HWY</td>
-<td>LAUGHLIN</td>
-<td>NV</td>
-<td>89029</td>
-<td>7022986161</td>
-</tr>
-<tr>
-<td>LOGANDALE POST OFFICE</td>
-<td>3145 N. MOAPA VALLEY BLVD.</td>
-<td>LOGANDALE</td>
-<td>NV</td>
-<td>89021</td>
-<td>7023983405</td>
-</tr>
-<tr>
-<td>PERSHING COUNTY CLERK</td>
-<td>400 MAIN STREET</td>
-<td>LOVELOCK</td>
-<td>NV</td>
-<td>89419</td>
-<td>7752732410</td>
-</tr>
-<tr>
-<td>MESQUITE POST OFFICE</td>
-<td>510 W. MESQUITE BLVD</td>
-<td>MESQUITE</td>
-<td>NV</td>
-<td>89027</td>
-<td>7023468149</td>
-</tr>
-<tr>
-<td>DOUGLAS COUNTY CLERKS OFFICE</td>
-<td>1616 8TH STREET</td>
-<td>MINDEN</td>
-<td>NV</td>
-<td>89423</td>
-<td>7757829014</td>
-</tr>
-<tr>
-<td>MINDEN POST OFFICE</td>
-<td>1640 US HIGHWAY 395</td>
-<td>MINDEN</td>
-<td>NV</td>
-<td>89423</td>
-<td>7757822944</td>
-</tr>
-<tr>
-<td>MOAPA POST OFFICE</td>
-<td>1800 E. STATE HIGHWAY 168</td>
-<td>MOAPA</td>
-<td>NV</td>
-<td>89025</td>
-<td>7023983405</td>
-</tr>
-<tr>
-<td>MEADOW MESA STATION POST OFFICE</td>
-<td>4904 CAMINO AL NORTE</td>
-<td>NORTH LAS VEGAS</td>
-<td>NV</td>
-<td>89031</td>
-<td>7026576888</td>
-</tr>
-<tr>
-<td>NORTH LAS VEGAS MAIN POST OFFICE</td>
-<td>1414 E. LAKE MEAD BLVD</td>
-<td>NORTH LAS VEGAS</td>
-<td>NV</td>
-<td>89030</td>
-<td>7026491871</td>
-</tr>
-<tr>
-<td>OVERTON POST OFFICE</td>
-<td>275 MOAPA VALLEY BLVD</td>
-<td>OVERTON</td>
-<td>NV</td>
-<td>89040</td>
-<td>7023972140</td>
-</tr>
-<tr>
-<td>PAHRUMP POST OFFICE</td>
-<td>2300 E. POSTAL RD</td>
-<td>PAHRUMP</td>
-<td>NV</td>
-<td>89041</td>
-<td>7757277976</td>
-</tr>
-<tr>
-<td>PEAVINE STATION POST OFFICE</td>
-<td>1580 GRAND POINT WAY</td>
-<td>RENO</td>
-<td>NV</td>
-<td>89523</td>
-<td>7757464247</td>
-</tr>
-<tr>
-<td>RENO MAIN POST OFFICE</td>
-<td>2000 VASSAR ST.</td>
-<td>RENO</td>
-<td>NV</td>
-<td>89510</td>
-<td>7757880725</td>
-</tr>
-<tr>
-<td>STEAMBOAT STATION</td>
-<td>75 MCCABE DR</td>
-<td>RENO</td>
-<td>NV</td>
-<td>89511</td>
-<td>7758532615</td>
-</tr>
-<tr>
-<td>UNIVERSITY OF NEVADA-RENO, NEVADA WOLF SHOP</td>
-<td>87 W. STADIUM WAY</td>
-<td>RENO</td>
-<td>NV</td>
-<td>89557</td>
-<td>7757846597</td>
-</tr>
-<tr>
-<td>CITY OF SPARKS CUSTOMER SERVICE DEPARTMENT</td>
-<td>431 PRATER WAY</td>
-<td>SPARKS</td>
-<td>NV</td>
-<td>89431</td>
-<td>7753535555</td>
-</tr>
-<tr>
-<td>SPARKS MAIN POST OFFICE</td>
-<td>750 4TH STREET</td>
-<td>SPARKS</td>
-<td>NV</td>
-<td>89431</td>
-<td>7753591043</td>
-</tr>
-<tr>
-<td>TAHOE GENERAL SERVICES</td>
-<td>175 HIGHWAY 50 2ND FLOOR</td>
-<td>STATELINE</td>
-<td>NV</td>
-<td>89449</td>
-<td>7755867270</td>
-</tr>
-<tr>
-<td>TONOPAH POST OFFICE</td>
-<td>201 ERIE MAIN STREET</td>
-<td>TONOPAH</td>
-<td>NV</td>
-<td>89049</td>
-<td>7754823359</td>
-</tr>
-<tr>
-<td>WEST WENDOVER POST OFFICE</td>
-<td>810 ALPINE STREET</td>
-<td>WEST WENDOVER</td>
-<td>NV</td>
-<td>89883</td>
-<td>7756642929</td>
-</tr>
-<tr>
-<td>WINNEMUCCA POST OFFICE</td>
-<td>850 HANSON STREET</td>
-<td>WINNEMUCCA</td>
-<td>NV</td>
-<td>89445</td>
-<td>7756232456</td>
-</tr>
-<tr>
-<td>YERINGTON POST OFFICE</td>
-<td>26 N. MAIN STREET</td>
-<td>YERINGTON</td>
-<td>NV</td>
-<td>89447</td>
-<td>7754639087</td>
-</tr>
-</tbody>
-</table>

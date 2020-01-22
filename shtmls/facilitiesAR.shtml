@@ -1,542 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ARKADELPHIA MAIN POST OFFICE</td>
-<td>615 CRITTENDEN ST.</td>
-<td>ARKADELPHIA</td>
-<td>AR</td>
-<td>71923</td>
-<td>8702466715</td>
-</tr>
-<tr>
-<td>BATESVILLE MAIN POST OFFICE</td>
-<td>490 E COLLEGE ST</td>
-<td>BATESVILLE</td>
-<td>AR</td>
-<td>72501</td>
-<td>8707936828</td>
-</tr>
-<tr>
-<td>BENTON POST OFFICE</td>
-<td>1425 MILITARY RD</td>
-<td>BENTON</td>
-<td>AR</td>
-<td>72015</td>
-<td>5013152950</td>
-</tr>
-<tr>
-<td>BOB HERZFELD MEMORIAL LIBRARY</td>
-<td>1800 SMITHERS DR</td>
-<td>BENTON</td>
-<td>AR</td>
-<td>72015</td>
-<td>5017784766</td>
-</tr>
-<tr>
-<td>SALINE COUNTY CIRCUIT CLERK</td>
-<td>200 NORTH MAIN</td>
-<td>BENTON</td>
-<td>AR</td>
-<td>72015</td>
-<td>5013035615</td>
-</tr>
-<tr>
-<td>BENTONVILLE POST OFFICE</td>
-<td>1706 S. WALTON BLVD.</td>
-<td>BENTONVILLE</td>
-<td>AR</td>
-<td>72712</td>
-<td>4792732722</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT BENTON COUNTY</td>
-<td>105 NE A ST</td>
-<td>BENTONVILLE</td>
-<td>AR</td>
-<td>72712</td>
-<td>4792711015</td>
-</tr>
-<tr>
-<td>CARROLL COUNTY CLERK</td>
-<td>210 WEST CHURCH ST</td>
-<td>BERRYVILLE</td>
-<td>AR</td>
-<td>72616</td>
-<td>8704232022</td>
-</tr>
-<tr>
-<td>BLYTHEVILLE POST OFFICE</td>
-<td>600 N. BROADWAY ST.</td>
-<td>BLYTHEVILLE</td>
-<td>AR</td>
-<td>72315</td>
-<td>8707633690</td>
-</tr>
-<tr>
-<td>MABEL BOSWELL MEMORIAL LIBRARY</td>
-<td>201 PRICKETT RD</td>
-<td>BRYANT</td>
-<td>AR</td>
-<td>72022</td>
-<td>5018472166</td>
-</tr>
-<tr>
-<td>CABOT POST OFFICE</td>
-<td>200 E MAIN ST</td>
-<td>CABOT</td>
-<td>AR</td>
-<td>72023</td>
-<td>5019412531</td>
-</tr>
-<tr>
-<td>CAMDEN MAIN POST OFFICE</td>
-<td>351 W WASHINGTON ST SUITE 100</td>
-<td>CAMDEN</td>
-<td>AR</td>
-<td>71701</td>
-<td>8708368146</td>
-</tr>
-<tr>
-<td>CLARKSVILLE POST OFFICE</td>
-<td>200 W. SEVIER ST.</td>
-<td>CLARKSVILLE</td>
-<td>AR</td>
-<td>72830</td>
-<td>4797542205</td>
-</tr>
-<tr>
-<td>CLINTON POST OFFICE</td>
-<td>145 VOLUNTEER PKWY.</td>
-<td>CLINTON</td>
-<td>AR</td>
-<td>72031</td>
-<td>5017452171</td>
-</tr>
-<tr>
-<td>CONWAY POST OFFICE</td>
-<td>1060 HOGAN LN</td>
-<td>CONWAY</td>
-<td>AR</td>
-<td>72034</td>
-<td>5017300351</td>
-</tr>
-<tr>
-<td>FAULKNER COUNTY CLERK</td>
-<td>801 LOCUST AVE</td>
-<td>CONWAY</td>
-<td>AR</td>
-<td>72034</td>
-<td>5014504909</td>
-</tr>
-<tr>
-<td>DANVILLE POST OFFICE</td>
-<td>407 E. 8TH STREET</td>
-<td>DANVILLE</td>
-<td>AR</td>
-<td>72833</td>
-<td>4794952820</td>
-</tr>
-<tr>
-<td>DEQUEEN POST OFFICE</td>
-<td>105 N. 4TH ST.</td>
-<td>DEQUEEN</td>
-<td>AR</td>
-<td>71832</td>
-<td>8705843234</td>
-</tr>
-<tr>
-<td>DEWITT POST OFFICE</td>
-<td>221 W. CROSS ST.</td>
-<td>DEWITT</td>
-<td>AR</td>
-<td>72042</td>
-<td>8709464356</td>
-</tr>
-<tr>
-<td>EL DORADO MAIN POST OFFICE</td>
-<td>550 S. TIMBERLANE DR.</td>
-<td>EL DORADO</td>
-<td>AR</td>
-<td>71730</td>
-<td>8708637571</td>
-</tr>
-<tr>
-<td>FARMINGTON MAIN POST OFFICE</td>
-<td>190 W. CIMARRON PL.</td>
-<td>FARMINGTON</td>
-<td>AR</td>
-<td>72730</td>
-<td>4792673787</td>
-</tr>
-<tr>
-<td>CRAFT STATION POST OFFICE</td>
-<td>1590 E JOYCE BLVD</td>
-<td>FAYETTEVILLE</td>
-<td>AR</td>
-<td>72703</td>
-<td>4799730875</td>
-</tr>
-<tr>
-<td>FAYETTEVILLE MAIN POST OFFICE</td>
-<td>12 W. DICKSON STREET</td>
-<td>FAYETTEVILLE</td>
-<td>AR</td>
-<td>72701</td>
-<td>4794428286</td>
-</tr>
-<tr>
-<td>UNIVERSITY OF ARKANSAS - STUDENT UNION</td>
-<td>435 N GARLAND AVE</td>
-<td>FAYETTEVILLE</td>
-<td>AR</td>
-<td>72701</td>
-<td>4795755649</td>
-</tr>
-<tr>
-<td>FORREST CITY MAIN POST OFFICE</td>
-<td>621 EAST BROADWAY</td>
-<td>FORREST CITY</td>
-<td>AR</td>
-<td>72335</td>
-<td>8706334238</td>
-</tr>
-<tr>
-<td>FORT SMITH MAIN POST OFFICE</td>
-<td>3318 S. 74TH STREET</td>
-<td>FORT SMITH</td>
-<td>AR</td>
-<td>72903</td>
-<td>4794846431</td>
-</tr>
-<tr>
-<td>GENTRY MAIN POST OFFICE</td>
-<td>899 W. MAIN ST.</td>
-<td>GENTRY</td>
-<td>AR</td>
-<td>72734</td>
-<td>4797362332</td>
-</tr>
-<tr>
-<td>GREENWOOD POST OFFICE</td>
-<td>450 E ATLANTA ST</td>
-<td>GREENWOOD</td>
-<td>AR</td>
-<td>72936</td>
-<td>4799964269</td>
-</tr>
-<tr>
-<td>ASHLEY COUNTY CIRCUIT CLERKS OFFICE</td>
-<td>205 E. JEFFERSON</td>
-<td>HAMBURG</td>
-<td>AR</td>
-<td>71646</td>
-<td>8708532030</td>
-</tr>
-<tr>
-<td>HARDY POST OFFICE</td>
-<td>300 HWY 63 N.</td>
-<td>HARDY</td>
-<td>AR</td>
-<td>72542</td>
-<td>8708563720</td>
-</tr>
-<tr>
-<td>HARRISON POST OFFICE</td>
-<td>215 W INDUSTRIAL PARK RD</td>
-<td>HARRISON</td>
-<td>AR</td>
-<td>72601</td>
-<td>8707413473</td>
-</tr>
-<tr>
-<td>CLEBURNE COUNTY CIRCUIT CLERK</td>
-<td>301 W MAIN ST</td>
-<td>HEBER SPRINGS</td>
-<td>AR</td>
-<td>72543</td>
-<td>5013628149</td>
-</tr>
-<tr>
-<td>HELENA POST OFFICE</td>
-<td>617 WALNUT ST.103</td>
-<td>HELENA</td>
-<td>AR</td>
-<td>72342</td>
-<td>8703387821</td>
-</tr>
-<tr>
-<td>HOPE POST OFFICE</td>
-<td>121 S LAUREL ST</td>
-<td>HOPE</td>
-<td>AR</td>
-<td>71801</td>
-<td>8707773580</td>
-</tr>
-<tr>
-<td>HOT SPRINGS MAIN POST OFFICE</td>
-<td>335 SECTION LINE RD</td>
-<td>HOT SPRINGS</td>
-<td>AR</td>
-<td>71913</td>
-<td>5015250558</td>
-</tr>
-<tr>
-<td>JACKSONVILLE POST OFFICE</td>
-<td>1205 WEST MAIN ST.</td>
-<td>JACKSONVILLE</td>
-<td>AR</td>
-<td>72076</td>
-<td>5019823076</td>
-</tr>
-<tr>
-<td>HATTIE W. CARAWAY STATION</td>
-<td>2404 RACE STREET</td>
-<td>JONESBORO</td>
-<td>AR</td>
-<td>72401</td>
-<td>8709720275</td>
-</tr>
-<tr>
-<td>LAKE VILLAGE POST OFFICE</td>
-<td>206 S COKLEY ST</td>
-<td>LAKE VILLAGE</td>
-<td>AR</td>
-<td>71653</td>
-<td>8702652838</td>
-</tr>
-<tr>
-<td>LAFAYETTE COUNTY CIRCUIT CLERK</td>
-<td>116 E. THIRD ST</td>
-<td>LEWISVILLE</td>
-<td>AR</td>
-<td>71845</td>
-<td>8709214878</td>
-</tr>
-<tr>
-<td>LITTLE ROCK MAIN POST OFFICE</td>
-<td>600 E CAPITOL AVE</td>
-<td>LITTLE ROCK</td>
-<td>AR</td>
-<td>72202</td>
-<td>5013752644</td>
-</tr>
-<tr>
-<td>MABELVALE POST OFFICE</td>
-<td>10715 MABELVALE  WEST RD.</td>
-<td>MABELVALE</td>
-<td>AR</td>
-<td>72103</td>
-<td>5014552318</td>
-</tr>
-<tr>
-<td>MAGNOLIA POST OFFICE</td>
-<td>120 N PINE ST</td>
-<td>MAGNOLIA</td>
-<td>AR</td>
-<td>71753</td>
-<td>8702342900</td>
-</tr>
-<tr>
-<td>MCCRORY POST OFFICE</td>
-<td>203 N. EDMONDS</td>
-<td>MCCRORY</td>
-<td>AR</td>
-<td>72101</td>
-<td>8707312771</td>
-</tr>
-<tr>
-<td>MENA MAIN POST OFFICE</td>
-<td>400 S. MORROW</td>
-<td>MENA</td>
-<td>AR</td>
-<td>71953</td>
-<td>4793942884</td>
-</tr>
-<tr>
-<td>MOUNTAIN HOME MAIN POST OFFICE</td>
-<td>975 COLEY DR.</td>
-<td>MOUNTAIN HOME</td>
-<td>AR</td>
-<td>72653</td>
-<td>8704253262</td>
-</tr>
-<tr>
-<td>MOUNTAIN VIEW POST OFFICE</td>
-<td>802 SYLAMORE AVE.</td>
-<td>MOUNTAIN VIEW</td>
-<td>AR</td>
-<td>72560</td>
-<td>8702693520</td>
-</tr>
-<tr>
-<td>NASHVILLE POST OFFICE</td>
-<td>220 N. MAIN ST.</td>
-<td>NASHVILLE</td>
-<td>AR</td>
-<td>71852</td>
-<td>8708454040</td>
-</tr>
-<tr>
-<td>NEWPORT POST OFFICE</td>
-<td>110 LAUREL ST.</td>
-<td>NEWPORT</td>
-<td>AR</td>
-<td>72112</td>
-<td>8705232271</td>
-</tr>
-<tr>
-<td>NORTH LITTLE ROCK MAIN POST OFFICE</td>
-<td>300 WEST PERSHING BLVD</td>
-<td>NORTH LITTLE ROCK</td>
-<td>AR</td>
-<td>72114</td>
-<td>5017583290</td>
-</tr>
-<tr>
-<td>WILLIAM F LAMAN PUBLIC LIBRARY</td>
-<td>2801 ORANGE ST</td>
-<td>NORTH LITTLE ROCK</td>
-<td>AR</td>
-<td>72114</td>
-<td>5014042937</td>
-</tr>
-<tr>
-<td>MISSISSIPPI CO LIBRARY SYSTEM - OSCEOLA BRANCH</td>
-<td>320 WEST HALE AVE</td>
-<td>OSCEOLA</td>
-<td>AR</td>
-<td>72370</td>
-<td>8705632721</td>
-</tr>
-<tr>
-<td>PARAGOULD POST OFFICE</td>
-<td>201 WEST COURT ST.</td>
-<td>PARAGOULD</td>
-<td>AR</td>
-<td>72450</td>
-<td>8702367636</td>
-</tr>
-<tr>
-<td>PEA RIDGE POST OFFICE</td>
-<td>468 N CURTIS AVE</td>
-<td>PEA RIDGE</td>
-<td>AR</td>
-<td>72751</td>
-<td>4794511636</td>
-</tr>
-<tr>
-<td>PINE BLUFF MAIN POST OFFICE</td>
-<td>100 EAST 8TH AVE.</td>
-<td>PINE BLUFF</td>
-<td>AR</td>
-<td>71601</td>
-<td>8705363535</td>
-</tr>
-<tr>
-<td>ROGERS POST OFFICE</td>
-<td>401 N. 8TH ST.</td>
-<td>ROGERS</td>
-<td>AR</td>
-<td>72756</td>
-<td>4796363301</td>
-</tr>
-<tr>
-<td>POPE COUNTY CIRCUIT CLERK</td>
-<td>100 WEST MAIN ST</td>
-<td>RUSSELLVILLE</td>
-<td>AR</td>
-<td>72802</td>
-<td>4799687499</td>
-</tr>
-<tr>
-<td>RUSSELLVILLE MAIN POST OFFICE</td>
-<td>203 SOUTH BOSTON AVE.</td>
-<td>RUSSELLVILLE</td>
-<td>AR</td>
-<td>72801</td>
-<td>4799684112</td>
-</tr>
-<tr>
-<td>SEARCY MAIN POST OFFICE</td>
-<td>600 WEST ACADEMY AVE</td>
-<td>SEARCY</td>
-<td>AR</td>
-<td>72143</td>
-<td>5012683840</td>
-</tr>
-<tr>
-<td>SILOAM SPRINGS POST OFFICE</td>
-<td>828 S. CARL ST.</td>
-<td>SILOAM SPRINGS</td>
-<td>AR</td>
-<td>72761</td>
-<td>4795243431</td>
-</tr>
-<tr>
-<td>SPRINGDALE MAIN POST OFFICE</td>
-<td>2811 SPRINGDALE AVE</td>
-<td>SPRINGDALE</td>
-<td>AR</td>
-<td>72764</td>
-<td>4797514441</td>
-</tr>
-<tr>
-<td>TRUMANN POST OFFICE</td>
-<td>301 HWY 463 S</td>
-<td>TRUMANN</td>
-<td>AR</td>
-<td>72472</td>
-<td>8704835911</td>
-</tr>
-<tr>
-<td>CRAWFORD COUNTY CIRCUIT CLERK</td>
-<td>317 MAIN ST</td>
-<td>VAN BUREN</td>
-<td>AR</td>
-<td>72956</td>
-<td>4794741821</td>
-</tr>
-<tr>
-<td>VAN BUREN MAIN POST OFFICE</td>
-<td>2741 FAYETTEVILLE RD</td>
-<td>VAN BUREN</td>
-<td>AR</td>
-<td>72956</td>
-<td>4794710281</td>
-</tr>
-<tr>
-<td>WALDRON MAIN OFFICE</td>
-<td>368 WASHINGTON ST</td>
-<td>WALDRON</td>
-<td>AR</td>
-<td>72958</td>
-<td>4796373287</td>
-</tr>
-<tr>
-<td>WEST MEMPHIS POST OFFICE</td>
-<td>615 E COOPER AVE</td>
-<td>WEST MEMPHIS</td>
-<td>AR</td>
-<td>72301</td>
-<td>8707350854</td>
-</tr>
-<tr>
-<td>WYNNE POST OFFICE</td>
-<td>402 MERRIMAN AVE E</td>
-<td>WYNNE</td>
-<td>AR</td>
-<td>72396</td>
-<td>8702382131</td>
-</tr>
-</tbody>
-</table>

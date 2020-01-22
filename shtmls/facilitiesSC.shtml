@@ -1,854 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ABBEVILLE POST OFFICE</td>
-<td>1503 N MAIN ST</td>
-<td>ABBEVILLE</td>
-<td>SC</td>
-<td>29620</td>
-<td>8644594447</td>
-</tr>
-<tr>
-<td>AIKEN POST OFFICE</td>
-<td>307 LAURENS ST NW</td>
-<td>AIKEN</td>
-<td>SC</td>
-<td>29801</td>
-<td>8036499211</td>
-</tr>
-<tr>
-<td>ANDERSON POST OFFICE</td>
-<td>1900-B  N. MAIN ST</td>
-<td>ANDERSON</td>
-<td>SC</td>
-<td>29621</td>
-<td>8642261595</td>
-</tr>
-<tr>
-<td>BARNWELL POST OFFICE</td>
-<td>221 MAIN ST</td>
-<td>BARNWELL</td>
-<td>SC</td>
-<td>29812</td>
-<td>8032593195</td>
-</tr>
-<tr>
-<td>BEAUFORT MAIN POST OFFICE</td>
-<td>501 CHARLES STREET</td>
-<td>BEAUFORT</td>
-<td>SC</td>
-<td>29902</td>
-<td>8435248780</td>
-</tr>
-<tr>
-<td>BLUFFTON POST OFFICE</td>
-<td>25 THURMOND WAY</td>
-<td>BLUFFTON</td>
-<td>SC</td>
-<td>29910</td>
-<td>8437575857</td>
-</tr>
-<tr>
-<td>CAMPOBELLO POST OFFICE</td>
-<td>30 S MAIN ST</td>
-<td>CAMPOBELLO</td>
-<td>SC</td>
-<td>29322</td>
-<td>8644684585</td>
-</tr>
-<tr>
-<td>CENTRAL POST OFFICE</td>
-<td>1205 W MAIN ST</td>
-<td>CENTRAL</td>
-<td>SC</td>
-<td>29630</td>
-<td>8646392814</td>
-</tr>
-<tr>
-<td>COLLEGE OF CHARLESTON</td>
-<td>89 ST PHILIP ST</td>
-<td>CHARLESTON</td>
-<td>SC</td>
-<td>29424</td>
-<td>8439535534</td>
-</tr>
-<tr>
-<td>EAST BAY STATION</td>
-<td>557 E BAY ST</td>
-<td>CHARLESTON</td>
-<td>SC</td>
-<td>29403</td>
-<td>8437271129</td>
-</tr>
-<tr>
-<td>CLERK OF COURT CHESTERFIELD COUNTY SC</td>
-<td>200 W MAIN ST</td>
-<td>CHESTERFIELD</td>
-<td>SC</td>
-<td>29709</td>
-<td>8436232574</td>
-</tr>
-<tr>
-<td>CLEMSON POST OFFICE</td>
-<td>519 COLLEGE AVE</td>
-<td>CLEMSON</td>
-<td>SC</td>
-<td>29631</td>
-<td>8646542531</td>
-</tr>
-<tr>
-<td>CLEVELAND POST OFFICE</td>
-<td>4031 GEER HWY</td>
-<td>CLEVELAND</td>
-<td>SC</td>
-<td>29635</td>
-<td>8648368378</td>
-</tr>
-<tr>
-<td>COLUMBIA MAIN POST OFFICE</td>
-<td>1601 ASSEMBLY ST</td>
-<td>COLUMBIA</td>
-<td>SC</td>
-<td>29201</td>
-<td>8037334643</td>
-</tr>
-<tr>
-<td>SANDHILLS POST OFFICE</td>
-<td>1805 CLEMSON RD</td>
-<td>COLUMBIA</td>
-<td>SC</td>
-<td>29229</td>
-<td>8038658833</td>
-</tr>
-<tr>
-<td>USC POSTAL SERVICES</td>
-<td>1600 HAMPTON STREET</td>
-<td>COLUMBIA</td>
-<td>SC</td>
-<td>29208</td>
-<td>8037773168</td>
-</tr>
-<tr>
-<td>USC STUDENT MAIL CENTER</td>
-<td>1400 GREENE STREET</td>
-<td>COLUMBIA</td>
-<td>SC</td>
-<td>29225</td>
-<td>8037774109</td>
-</tr>
-<tr>
-<td>COASTAL CAROLINA UNIVERSITY</td>
-<td>107 FOUNDERS DRIVE</td>
-<td>CONWAY</td>
-<td>SC</td>
-<td>29579</td>
-<td>8433492156</td>
-</tr>
-<tr>
-<td>HORRY COUNTY COURTHOUSE CLERK OF COURT</td>
-<td>1301 2ND  AVE</td>
-<td>CONWAY</td>
-<td>SC</td>
-<td>29526</td>
-<td>8439155080</td>
-</tr>
-<tr>
-<td>DARLINGTON POST OFFICE</td>
-<td>115 E SMITH AVE</td>
-<td>DARLINGTON</td>
-<td>SC</td>
-<td>29532</td>
-<td>8433933223</td>
-</tr>
-<tr>
-<td>DILLON POST OFFICE</td>
-<td>300 W MAIN ST</td>
-<td>DILLON</td>
-<td>SC</td>
-<td>29536</td>
-<td>8437749481</td>
-</tr>
-<tr>
-<td>DONALDS POST OFFICE</td>
-<td>119 W MAIN ST</td>
-<td>DONALDS</td>
-<td>SC</td>
-<td>29638</td>
-<td>8643792302</td>
-</tr>
-<tr>
-<td>DRAYTON POST OFFICE</td>
-<td>1955 DRAYTON RD</td>
-<td>DRAYTON</td>
-<td>SC</td>
-<td>29333</td>
-<td>8645827138</td>
-</tr>
-<tr>
-<td>DUNCAN POST OFFICE</td>
-<td>131 W MAIN ST</td>
-<td>DUNCAN</td>
-<td>SC</td>
-<td>29334</td>
-<td>8644393920</td>
-</tr>
-<tr>
-<td>EASLEY POST OFFICE</td>
-<td>810 SOUTH PENDLETON STREET</td>
-<td>EASLEY</td>
-<td>SC</td>
-<td>29640</td>
-<td>8648599411</td>
-</tr>
-<tr>
-<td>EFFINGHAM POST OFFICE</td>
-<td>5913 S. IRBY STREET</td>
-<td>EFFINGHAM</td>
-<td>SC</td>
-<td>29541</td>
-<td>8436625854</td>
-</tr>
-<tr>
-<td>ELGIN POST OFFICE</td>
-<td>1100 CHURCH ST</td>
-<td>ELGIN</td>
-<td>SC</td>
-<td>29045</td>
-<td>8034383536</td>
-</tr>
-<tr>
-<td>ELLOREE POST OFFICE</td>
-<td>6417 OLD NUMBER SIX HIGHWAY</td>
-<td>ELLOREE</td>
-<td>SC</td>
-<td>29047</td>
-<td>8038972333</td>
-</tr>
-<tr>
-<td>EUTAWVILLE POST OFFICE</td>
-<td>313 PORCHER AVE</td>
-<td>EUTAWVILLE</td>
-<td>SC</td>
-<td>29048</td>
-<td>8034927451</td>
-</tr>
-<tr>
-<td>FLORENCE POST OFFICE</td>
-<td>1901 W EVANS ST</td>
-<td>FLORENCE</td>
-<td>SC</td>
-<td>29501</td>
-<td>8436792445</td>
-</tr>
-<tr>
-<td>GEORGETOWN MAIN POST OFFICE</td>
-<td>1101 CHARLOTTE ST</td>
-<td>GEORGETOWN</td>
-<td>SC</td>
-<td>29440</td>
-<td>8435465515</td>
-</tr>
-<tr>
-<td>GOOSE CREEK POST OFFICE</td>
-<td>307 GOOSE CREEK BLVD</td>
-<td>GOOSE CREEK</td>
-<td>SC</td>
-<td>29445</td>
-<td>8435530321</td>
-</tr>
-<tr>
-<td>GREENVILLE COUNTY REGISTER OF DEEDS</td>
-<td>301 UNIVERSITY RIDGE, STE 5550</td>
-<td>GREENVILLE</td>
-<td>SC</td>
-<td>29601</td>
-<td>8644677391</td>
-</tr>
-<tr>
-<td>GREENVILLE MAIN POST OFFICE</td>
-<td>600 W WASHINGTON ST</td>
-<td>GREENVILLE</td>
-<td>SC</td>
-<td>29602</td>
-<td>8642828422</td>
-</tr>
-<tr>
-<td>KEITH OGLESBY STATION</td>
-<td>100 ORCHARD PARK DR</td>
-<td>GREENVILLE</td>
-<td>SC</td>
-<td>29616</td>
-<td>8642885207</td>
-</tr>
-<tr>
-<td>GREENWOOD POST OFFICE</td>
-<td>240 NORTH CREEK BLVD</td>
-<td>GREENWOOD</td>
-<td>SC</td>
-<td>29649</td>
-<td>8642296072</td>
-</tr>
-<tr>
-<td>HARTSVILLE MEMORIAL LIBRARY</td>
-<td>147 WEST COLLEGE AVENUE</td>
-<td>HARTSVILLE</td>
-<td>SC</td>
-<td>29550</td>
-<td>8433325115</td>
-</tr>
-<tr>
-<td>HARTSVILLE POST OFFICE</td>
-<td>500 SOUTH 4TH ST</td>
-<td>HARTSVILLE</td>
-<td>SC</td>
-<td>29550</td>
-<td>8433329611</td>
-</tr>
-<tr>
-<td>HEATH SPRINGS POST OFFICE</td>
-<td>101 N MAIN ST</td>
-<td>HEATH SPRINGS</td>
-<td>SC</td>
-<td>29058</td>
-<td>8032734855</td>
-</tr>
-<tr>
-<td>HILTON HEAD POST OFFICE</td>
-<td>10 BOW CIRCLE</td>
-<td>HILTON HEAD ISLAND</td>
-<td>SC</td>
-<td>29928</td>
-<td>8437857002</td>
-</tr>
-<tr>
-<td>HOLLY HILL POST OFFICE</td>
-<td>525 GARDNER BLVD</td>
-<td>HOLLY HILL</td>
-<td>SC</td>
-<td>29059</td>
-<td>8034963910</td>
-</tr>
-<tr>
-<td>HOLLYWOOD POST OFFICE</td>
-<td>6349 HIGHWAY 162</td>
-<td>HOLLYWOOD</td>
-<td>SC</td>
-<td>29449</td>
-<td>8438892624</td>
-</tr>
-<tr>
-<td>HONEA PATH POST OFFICE</td>
-<td>312 N SHIRLEY AVE</td>
-<td>HONEA PATH</td>
-<td>SC</td>
-<td>29654</td>
-<td>8643697743</td>
-</tr>
-<tr>
-<td>HUGER POST OFFICE</td>
-<td>3282 HWY 41</td>
-<td>HUGER</td>
-<td>SC</td>
-<td>29450</td>
-<td>8433363846</td>
-</tr>
-<tr>
-<td>INMAN POST OFFICE</td>
-<td>14 BLACKSTOCK ROAD</td>
-<td>INMAN</td>
-<td>SC</td>
-<td>29349</td>
-<td>8644728401</td>
-</tr>
-<tr>
-<td>ISLE OF PALMS POST OFFICE</td>
-<td>1000 PALM BLVD</td>
-<td>ISLE OF PALMS</td>
-<td>SC</td>
-<td>29451</td>
-<td>8438866536</td>
-</tr>
-<tr>
-<td>IVA POST OFFICE</td>
-<td>150 E GREEN ST</td>
-<td>IVA</td>
-<td>SC</td>
-<td>29655</td>
-<td>8643487555</td>
-</tr>
-<tr>
-<td>JACKSON POST OFFICE</td>
-<td>100 MAIN ST</td>
-<td>JACKSON</td>
-<td>SC</td>
-<td>29831</td>
-<td>8034713294</td>
-</tr>
-<tr>
-<td>JEFFERSON POST OFFICE</td>
-<td>108 S MAIN ST</td>
-<td>JEFFERSON</td>
-<td>SC</td>
-<td>29718</td>
-<td>8436583126</td>
-</tr>
-<tr>
-<td>JOHNS ISLAND POST OFFICE</td>
-<td>2860 MAYBANK HWY</td>
-<td>JOHNS ISLAND</td>
-<td>SC</td>
-<td>29455</td>
-<td>8435590622</td>
-</tr>
-<tr>
-<td>JOHNSONVILLE POST OFFICE</td>
-<td>417 N GEORGETOWN HWY</td>
-<td>JOHNSONVILLE</td>
-<td>SC</td>
-<td>29555</td>
-<td>8433862031</td>
-</tr>
-<tr>
-<td>KINGSTREE POST OFFICE</td>
-<td>129 W MILL ST</td>
-<td>KINGSTREE</td>
-<td>SC</td>
-<td>29556</td>
-<td>8433547076</td>
-</tr>
-<tr>
-<td>LAKE CITY POST OFFICE</td>
-<td>226 W MAIN ST</td>
-<td>LAKE CITY</td>
-<td>SC</td>
-<td>29560</td>
-<td>8433942421</td>
-</tr>
-<tr>
-<td>LAMAR POST OFFICE</td>
-<td>110 MAIN STREET</td>
-<td>LAMAR</td>
-<td>SC</td>
-<td>29069</td>
-<td>8433265211</td>
-</tr>
-<tr>
-<td>LANCASTER COUNTY SC</td>
-<td>101 N. MAIN ST.</td>
-<td>LANCASTER</td>
-<td>SC</td>
-<td>29720</td>
-<td>8034169432</td>
-</tr>
-<tr>
-<td>LAURENS MAIN POST OFFICE</td>
-<td>302 N HARPER STREET</td>
-<td>LAURENS</td>
-<td>SC</td>
-<td>29360</td>
-<td>8649843518</td>
-</tr>
-<tr>
-<td>BATESBURG LEESVILLE POST OFFICE</td>
-<td>110 E CHURCH ST</td>
-<td>LEESVILLE</td>
-<td>SC</td>
-<td>29070</td>
-<td>8035323766</td>
-</tr>
-<tr>
-<td>FLOYD D SPENCE POST OFFICE</td>
-<td>1830 S LAKE DR</td>
-<td>LEXINGTON</td>
-<td>SC</td>
-<td>29073</td>
-<td>8033599355</td>
-</tr>
-<tr>
-<td>LEXINGTON COUNTY CLERK OF COURT</td>
-<td>205 E. MAIN ST.</td>
-<td>LEXINGTON</td>
-<td>SC</td>
-<td>29072</td>
-<td>8037858393</td>
-</tr>
-<tr>
-<td>LYMAN POST OFFICE</td>
-<td>12490 GREENVILLE HWY</td>
-<td>LYMAN</td>
-<td>SC</td>
-<td>29365</td>
-<td>8644392476</td>
-</tr>
-<tr>
-<td>MANNING MAIN POST OFFICE</td>
-<td>10 W KEITT STREET</td>
-<td>MANNING</td>
-<td>SC</td>
-<td>29102</td>
-<td>8034358367</td>
-</tr>
-<tr>
-<td>MARION POST OFFICE</td>
-<td>201 S MAIN ST</td>
-<td>MARION</td>
-<td>SC</td>
-<td>29571</td>
-<td>8434233522</td>
-</tr>
-<tr>
-<td>MOORE POST OFFICE</td>
-<td>1129 CENTER POINT DR</td>
-<td>MOORE</td>
-<td>SC</td>
-<td>29369</td>
-<td>8645743242</td>
-</tr>
-<tr>
-<td>MOUNT PLEASANT MAIN POST OFFICE</td>
-<td>1050 JOHNNIE DODDS BLVD</td>
-<td>MOUNT PLEASANT</td>
-<td>SC</td>
-<td>29464</td>
-<td>8438847575</td>
-</tr>
-<tr>
-<td>HORRY COUNTY CLERK OF COURT</td>
-<td>9630 SCIPIO LANE</td>
-<td>MYRTLE BEACH</td>
-<td>SC</td>
-<td>29588</td>
-<td>8439155082</td>
-</tr>
-<tr>
-<td>MYRTLE BEACH MAIN POST OFFICE</td>
-<td>505 N KINGS HWY</td>
-<td>MYRTLE BEACH</td>
-<td>SC</td>
-<td>29577</td>
-<td>8436264426</td>
-</tr>
-<tr>
-<td>SOCASTEE POST OFFICE</td>
-<td>7140 HWY 707</td>
-<td>MYRTLE BEACH</td>
-<td>SC</td>
-<td>29588</td>
-<td>8436509059</td>
-</tr>
-<tr>
-<td>NINETY SIX POST OFFICE</td>
-<td>201 NORTH CAMBRIDGE ST</td>
-<td>NINETY SIX</td>
-<td>SC</td>
-<td>29666</td>
-<td>8645432920</td>
-</tr>
-<tr>
-<td>NORTH AUGUSTA POST OFFICE</td>
-<td>1450 GEORGIA AVE.</td>
-<td>NORTH AUGUSTA</td>
-<td>SC</td>
-<td>29841</td>
-<td>8032790744</td>
-</tr>
-<tr>
-<td>CROSS COUNTY POST OFFICE</td>
-<td>7075 CROSS COUNTY RD</td>
-<td>NORTH CHARLESTON</td>
-<td>SC</td>
-<td>29418</td>
-<td>8437605331</td>
-</tr>
-<tr>
-<td>ORANGEBURG POST OFFICE</td>
-<td>1550 MIDDLETON STREET</td>
-<td>ORANGEBURG</td>
-<td>SC</td>
-<td>29115</td>
-<td>8035361720</td>
-</tr>
-<tr>
-<td>PICKENS POST OFFICE</td>
-<td>110 JOHNSON ST</td>
-<td>PICKENS</td>
-<td>SC</td>
-<td>29671</td>
-<td>8648789513</td>
-</tr>
-<tr>
-<td>PORT ROYAL POST OFFICE</td>
-<td>1625 PARIS AVE</td>
-<td>PORT ROYAL</td>
-<td>SC</td>
-<td>29935</td>
-<td>8435247457</td>
-</tr>
-<tr>
-<td>PROSPERITY POST OFFICE</td>
-<td>155 N MAIN ST</td>
-<td>PROSPERITY</td>
-<td>SC</td>
-<td>29127</td>
-<td>8033642325</td>
-</tr>
-<tr>
-<td>JASPER COUNTY CLERK OF COURT</td>
-<td>265 RUSSELL STREET</td>
-<td>RIDGELAND</td>
-<td>SC</td>
-<td>29936</td>
-<td>8437267710</td>
-</tr>
-<tr>
-<td>RIDGELAND POST OFFICE</td>
-<td>7554 W MAIN STREET</td>
-<td>RIDGELAND</td>
-<td>SC</td>
-<td>29936</td>
-<td>8437266646</td>
-</tr>
-<tr>
-<td>RIDGEVILLE POST OFFICE</td>
-<td>185 CHURCH ST</td>
-<td>RIDGEVILLE</td>
-<td>SC</td>
-<td>29472</td>
-<td>8438733512</td>
-</tr>
-<tr>
-<td>YORK COUNTY CLERK OF COURT</td>
-<td>933 HECKLE BLVD, STE 101</td>
-<td>ROCK HILL</td>
-<td>SC</td>
-<td>29732</td>
-<td>8039091892</td>
-</tr>
-<tr>
-<td>SALUDA POST OFFICE</td>
-<td>424 TRAVIS AVE.</td>
-<td>SALUDA</td>
-<td>SC</td>
-<td>29138</td>
-<td>8644457411</td>
-</tr>
-<tr>
-<td>SANDY SPRINGS POST OFFICE</td>
-<td>5410 CLEMSON BLVD</td>
-<td>SANDY SPRINGS</td>
-<td>SC</td>
-<td>29677</td>
-<td>8642618585</td>
-</tr>
-<tr>
-<td>SANTEE POST OFFICE</td>
-<td>689 BASS DRIVE</td>
-<td>SANTEE</td>
-<td>SC</td>
-<td>29142</td>
-<td>8038542154</td>
-</tr>
-<tr>
-<td>SCRANTON POST OFFICE</td>
-<td>1810 US HWY 52</td>
-<td>SCRANTON</td>
-<td>SC</td>
-<td>29591</td>
-<td>8433894500</td>
-</tr>
-<tr>
-<td>SENECA POST OFFICE</td>
-<td>508 E MAIN ST</td>
-<td>SENECA</td>
-<td>SC</td>
-<td>29678</td>
-<td>8648828422</td>
-</tr>
-<tr>
-<td>SHAW AFB POST OFFICE</td>
-<td>510 NELSON AVENUE</td>
-<td>SHAW AFB</td>
-<td>SC</td>
-<td>29152</td>
-<td>8036662153</td>
-</tr>
-<tr>
-<td>SIMPSONVILLE MAIN POST OFFICE</td>
-<td>634 NE MAIN ST</td>
-<td>SIMPSONVILLE</td>
-<td>SC</td>
-<td>29681</td>
-<td>8649635909</td>
-</tr>
-<tr>
-<td>SPARTANBURG COUNTY PUBLIC LIBRARY</td>
-<td>151 S CHURCH STREET</td>
-<td>SPARTANBURG</td>
-<td>SC</td>
-<td>29306</td>
-<td>8645963505</td>
-</tr>
-<tr>
-<td>SPARTANBURG POST OFFICE</td>
-<td>250 S CHURCH ST</td>
-<td>SPARTANBURG</td>
-<td>SC</td>
-<td>29306</td>
-<td>8645850304</td>
-</tr>
-<tr>
-<td>CALHOUN COUNTY LIBRARY</td>
-<td>900 F R HUFF DRIVE</td>
-<td>ST MATTHEWS</td>
-<td>SC</td>
-<td>29135</td>
-<td>8038743389</td>
-</tr>
-<tr>
-<td>ST STEPHEN MAIN POST OFFICE</td>
-<td>3981 BRYNES DR</td>
-<td>ST STEPHEN</td>
-<td>SC</td>
-<td>29479</td>
-<td>8435672247</td>
-</tr>
-<tr>
-<td>ST GEORGE POST OFFICE</td>
-<td>5988 WEST JIM BILTON BLVD</td>
-<td>ST. GEORGE</td>
-<td>SC</td>
-<td>29477</td>
-<td>8435633551</td>
-</tr>
-<tr>
-<td>SUMMERTON POST OFFICE</td>
-<td>4 LARRY KING HWY</td>
-<td>SUMMERTON</td>
-<td>SC</td>
-<td>29148</td>
-<td>8034854533</td>
-</tr>
-<tr>
-<td>SUMTER POST OFFICE</td>
-<td>311 N MAIN ST</td>
-<td>SUMTER</td>
-<td>SC</td>
-<td>29150</td>
-<td>8037737312</td>
-</tr>
-<tr>
-<td>SWANSEA POST OFFICE</td>
-<td>295 S CHURCH STREET</td>
-<td>SWANSEA</td>
-<td>SC</td>
-<td>29160</td>
-<td>8035682837</td>
-</tr>
-<tr>
-<td>TAYLORS POST OFFICE</td>
-<td>4359 WADE HAMPTON</td>
-<td>TAYLORS</td>
-<td>SC</td>
-<td>29687</td>
-<td>8642441896</td>
-</tr>
-<tr>
-<td>UNION POST OFFICE</td>
-<td>804 INDUSTRIAL PARK RD</td>
-<td>UNION</td>
-<td>SC</td>
-<td>29379</td>
-<td>8644277638</td>
-</tr>
-<tr>
-<td>WAGENER POST OFFICE</td>
-<td>171 PARK ST NE</td>
-<td>WAGENER</td>
-<td>SC</td>
-<td>29164</td>
-<td>8035645781</td>
-</tr>
-<tr>
-<td>WALHALLA POST OFFICE</td>
-<td>208 W NORTH BROAD STREET</td>
-<td>WALHALLA</td>
-<td>SC</td>
-<td>29691</td>
-<td>8646383523</td>
-</tr>
-<tr>
-<td>COLLETON COUNTY CLERK OF COURT</td>
-<td>101 HAMPTON STREET</td>
-<td>WALTERBORO</td>
-<td>SC</td>
-<td>29488</td>
-<td>8435495791</td>
-</tr>
-<tr>
-<td>WELLFORD POST OFFICE</td>
-<td>1003 MAIN STREET</td>
-<td>WELLFORD</td>
-<td>SC</td>
-<td>29385</td>
-<td>8644399214</td>
-</tr>
-<tr>
-<td>CAYCE - WEST COLUMBIA POST OFFICE</td>
-<td>1535 PLATT SPRINGS RD</td>
-<td>WEST COLUMBIA</td>
-<td>SC</td>
-<td>29169</td>
-<td>8037960455</td>
-</tr>
-<tr>
-<td>WHITE ROCK POST OFFICE</td>
-<td>1947 DUTCH FORK RD</td>
-<td>WHITE ROCK</td>
-<td>SC</td>
-<td>29177</td>
-<td>8037819380</td>
-</tr>
-<tr>
-<td>WHITMIRE POST OFFICE</td>
-<td>205 MAIN STREET</td>
-<td>WHITMIRE</td>
-<td>SC</td>
-<td>29178</td>
-<td>8036943612</td>
-</tr>
-<tr>
-<td>WINNSBORO POST OFFICE</td>
-<td>144 N CONGRESS ST</td>
-<td>WINNSBORO</td>
-<td>SC</td>
-<td>29180</td>
-<td>8036359486</td>
-</tr>
-<tr>
-<td>WOODRUFF POST OFFICE</td>
-<td>955 N MAIN ST</td>
-<td>WOODRUFF</td>
-<td>SC</td>
-<td>29388</td>
-<td>8644762221</td>
-</tr>
-<tr>
-<td>YEMASSEE MAIN OFFICE</td>
-<td>27 SALKAHATCHIE ROAD</td>
-<td>YEMASSEE</td>
-<td>SC</td>
-<td>29945</td>
-<td>8435892831</td>
-</tr>
-</tbody>
-</table>

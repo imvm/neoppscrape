@@ -1,174 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>U.S. EMBASSY MANILA</td>
-<td>AMERICAN CITIZEN SERVICES, CONSULAR SECTION</td>
-<td>1001 MANILA, THE PHILIPPINES</td>
-<td>DC</td>
-<td>99999</td>
-<td>6323012000</td>
-</tr>
-<tr>
-<td>GENERIC FACILITY FOR SIA WORK (DS-11s)</td>
-<td>123 ANY STREET</td>
-<td>ANYWHERE</td>
-<td>DC</td>
-<td>88888</td>
-<td> </td>
-</tr>
-<tr>
-<td>22ND ST. RETAIL (FORMERLY USPS TWENTIETH STREET STATION)</td>
-<td>1255 22ND ST. NW</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20036</td>
-<td>2024661972</td>
-</tr>
-<tr>
-<td>FORD POST OFFICE</td>
-<td>441 2ND ST SW</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20515</td>
-<td>2022265426</td>
-</tr>
-<tr>
-<td>LAMOND RIGGS - RECYCLED NUMBERS</td>
-<td>6200 NORTH CAPITAL ST NW</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20011</td>
-<td>2025232038</td>
-</tr>
-<tr>
-<td>LONGWORTH POST OFFICE</td>
-<td>15 INDEPENDENCE AVE RM B202</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20515</td>
-<td>2022265426</td>
-</tr>
-<tr>
-<td>MARTIN LUTHER KING MEMORIAL LIBRARY</td>
-<td>2000 14TH ST NW</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20009</td>
-<td>2027273257</td>
-</tr>
-<tr>
-<td>U.S. CONSULATE GENERAL BELFAST</td>
-<td>5360 BELFAST PLACE</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>99999</td>
-<td>4402890386100</td>
-</tr>
-<tr>
-<td>U.S. CONSULATE GENERAL EDINBURGH</td>
-<td>5370 EDINBURGH PLACE</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>99999</td>
-<td>441315568315</td>
-</tr>
-<tr>
-<td>U.S. CONSULATE GENERAL GUADALAJARA</td>
-<td>3280 GUADALAJARA PL</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>99999</td>
-<td>11523332682100</td>
-</tr>
-<tr>
-<td>U.S. EMBASSY IN MEXICO CITY</td>
-<td>U.S. EMBASSY MEXICO CITY</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>99999</td>
-<td>11525550802000</td>
-</tr>
-<tr>
-<td>U.S. EMBASSY LONDON</td>
-<td>8400 LONDON PL</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>99999</td>
-<td>442074999000</td>
-</tr>
-<tr>
-<td>USPS BEN FRANKLIN POST OFFICE</td>
-<td>1200 PENNSYLVANIA AVENUE NW</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20004</td>
-<td>2025232386</td>
-</tr>
-<tr>
-<td>USPS CLEVELAND PARK POST OFFICE</td>
-<td>3430 CONNECTICUT AVENUE NW</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20008</td>
-<td>2025232396</td>
-</tr>
-<tr>
-<td>USPS FRIENDSHIP POST OFFICE</td>
-<td>4005 WISCONSIN AVENUE NW</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20016</td>
-<td>2025232130</td>
-</tr>
-<tr>
-<td>USPS JOSEPH CURESEEN - THOMAS MORRIS P AND DC</td>
-<td>900 BRENTWOOD ROAD  NE</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20066</td>
-<td>2026362132</td>
-</tr>
-<tr>
-<td>USPS NATIONAL CAPITOL  DOROTHY HEIGHTS STATION</td>
-<td>2 MASSACHUSETTS AVENUE</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20002</td>
-<td>2025232284</td>
-</tr>
-<tr>
-<td>USPS SOUTHEAST STATION</td>
-<td>600 PENNSYLVANIA AVE SE</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20003</td>
-<td>2025232174</td>
-</tr>
-<tr>
-<td>USPS SOUTHWEST STATION</td>
-<td>45 L STREET SW</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20024</td>
-<td>2025232590</td>
-</tr>
-<tr>
-<td>USPS WASHINGTON SQUARE STATION</td>
-<td>1050 CONNECTICUT AVENUE NW</td>
-<td>WASHINGTON</td>
-<td>DC</td>
-<td>20035</td>
-<td>2025233632</td>
-</tr>
-</tbody>
-</table>

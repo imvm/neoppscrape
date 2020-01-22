@@ -1,926 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ALEXANDRIA POST OFFICE</td>
-<td>6933 ALEXANDRIA PIKE</td>
-<td>ALEXANDRIA</td>
-<td>KY</td>
-<td>41001</td>
-<td>8596352957</td>
-</tr>
-<tr>
-<td>ASHLAND POST OFFICE</td>
-<td>1140 CARTER AVE</td>
-<td>ASHLAND</td>
-<td>KY</td>
-<td>41101</td>
-<td>6063272117</td>
-</tr>
-<tr>
-<td>BARBOURVILLE POST OFFICE</td>
-<td>122 N ALLISON AVE</td>
-<td>BARBOURVILLE</td>
-<td>KY</td>
-<td>40906</td>
-<td>6065463777</td>
-</tr>
-<tr>
-<td>BEAVER DAM CLERK OFFICE</td>
-<td>309 W 2ND ST</td>
-<td>BEAVER DAM</td>
-<td>KY</td>
-<td>42320</td>
-<td>2702747106</td>
-</tr>
-<tr>
-<td>BENTON POST OFFICE</td>
-<td>219 W 5TH ST</td>
-<td>BENTON</td>
-<td>KY</td>
-<td>42025</td>
-<td>2705273933</td>
-</tr>
-<tr>
-<td>BEREA POST OFFICE</td>
-<td>222 GLADES RD</td>
-<td>BEREA</td>
-<td>KY</td>
-<td>40403</td>
-<td>8599863941</td>
-</tr>
-<tr>
-<td>BOWLING GREEN POST OFFICE</td>
-<td>5300 SCOTTSVILLE RD</td>
-<td>BOWLING GREEN</td>
-<td>KY</td>
-<td>42104</td>
-<td>2707964035</td>
-</tr>
-<tr>
-<td>WKU PASSPORT SERVICES</td>
-<td>1906 COLLEGE HEIGHTS BLVD. #11048</td>
-<td>BOWLING GREEN</td>
-<td>KY</td>
-<td>42101</td>
-<td>2707454658</td>
-</tr>
-<tr>
-<td>MEADE COUNTY CLERKS OFFICE</td>
-<td>516 HILLCREST DR</td>
-<td>BRANDENBURG</td>
-<td>KY</td>
-<td>40108</td>
-<td>2704222152</td>
-</tr>
-<tr>
-<td>BROWNSVILLE POST OFFICE</td>
-<td>535 S MAIN STREET</td>
-<td>BROWNSVILLE</td>
-<td>KY</td>
-<td>42210</td>
-<td>2705972121</td>
-</tr>
-<tr>
-<td>CALHOUN POST OFFICE</td>
-<td>310 W 2ND ST</td>
-<td>CALHOUN</td>
-<td>KY</td>
-<td>42327</td>
-<td>2702733729</td>
-</tr>
-<tr>
-<td>CAMPBELLSVILLE POST OFFICE</td>
-<td>1410 E BROADWAY</td>
-<td>CAMPBELLSVILLE</td>
-<td>KY</td>
-<td>42718</td>
-<td>2704654251</td>
-</tr>
-<tr>
-<td>CAMPTON POST OFFICE</td>
-<td>175 MOUNTAIN PARKWAY SPUR</td>
-<td>CAMPTON</td>
-<td>KY</td>
-<td>41301</td>
-<td>6066686395</td>
-</tr>
-<tr>
-<td>CARROLL COUNTY PUBLIC LIBRARY</td>
-<td>136 COURT ST</td>
-<td>CARROLLTON</td>
-<td>KY</td>
-<td>41008</td>
-<td>5027327020</td>
-</tr>
-<tr>
-<td>BOYD COUNTY CLERKS OFFICE</td>
-<td>2800 LOUISA STREET</td>
-<td>CATLETTSBURG</td>
-<td>KY</td>
-<td>41129</td>
-<td>6067395116</td>
-</tr>
-<tr>
-<td>COLUMBIA KY POST OFFICE</td>
-<td>800 BURKESVILLE STREET</td>
-<td>COLUMBIA</td>
-<td>KY</td>
-<td>42728</td>
-<td>2703843206</td>
-</tr>
-<tr>
-<td>CORBIN POST OFFICE</td>
-<td>301 ROY KIDD AVE</td>
-<td>CORBIN</td>
-<td>KY</td>
-<td>40701</td>
-<td>6065283912</td>
-</tr>
-<tr>
-<td>COVINGTON POST OFFICE</td>
-<td>700 SCOTT ST</td>
-<td>COVINGTON</td>
-<td>KY</td>
-<td>41011</td>
-<td>8592610809</td>
-</tr>
-<tr>
-<td>CYNTHIANA POST OFFICE</td>
-<td>108 LADISH RD</td>
-<td>CYNTHIANA</td>
-<td>KY</td>
-<td>41031</td>
-<td>8592344632</td>
-</tr>
-<tr>
-<td>DANVILLE POST OFFICE</td>
-<td>200 E MAIN ST</td>
-<td>DANVILLE</td>
-<td>KY</td>
-<td>40422</td>
-<td>8592366334</td>
-</tr>
-<tr>
-<td>ELIZABETHTOWN POST OFFICE</td>
-<td>2934 DOLPHIN DR</td>
-<td>ELIZABETHTOWN</td>
-<td>KY</td>
-<td>42701</td>
-<td>2707657230</td>
-</tr>
-<tr>
-<td>HARDIN COUNTY CLERKS OFFICE</td>
-<td>150 N PROVIDENT WAY, STE 103</td>
-<td>ELIZABETHTOWN</td>
-<td>KY</td>
-<td>42701</td>
-<td>2707652171</td>
-</tr>
-<tr>
-<td>EMINENCE KY  POST OFFICE</td>
-<td>4827 N MAIN STREET</td>
-<td>EMINENCE</td>
-<td>KY</td>
-<td>40019</td>
-<td>5028454124</td>
-</tr>
-<tr>
-<td>CITY OF ERLANGER KY</td>
-<td>505 COMMONWEALTH AVENUE</td>
-<td>ERLANGER</td>
-<td>KY</td>
-<td>41018</td>
-<td>8597272525</td>
-</tr>
-<tr>
-<td>FALMOUTH POST OFFICE</td>
-<td>201 W SHELBY ST</td>
-<td>FALMOUTH</td>
-<td>KY</td>
-<td>41040</td>
-<td>8596541431</td>
-</tr>
-<tr>
-<td>FLEMINGSBURG POST OFFICE</td>
-<td>131 E WATER ST</td>
-<td>FLEMINGSBURG</td>
-<td>KY</td>
-<td>41041</td>
-<td>6068457601</td>
-</tr>
-<tr>
-<td>FLORENCE POST OFFICE</td>
-<td>7101 TURFWAY ROAD</td>
-<td>FLORENCE</td>
-<td>KY</td>
-<td>41042</td>
-<td>8596475484</td>
-</tr>
-<tr>
-<td>FORT CAMPBELL POST OFFICE</td>
-<td>91 MICHIGAN AVE</td>
-<td>FORT CAMPBELL</td>
-<td>KY</td>
-<td>42223</td>
-<td>2704394114</td>
-</tr>
-<tr>
-<td>FORT KNOX MAIN POST OFFICE</td>
-<td>120 N KNOX ST.</td>
-<td>FORT KNOX</td>
-<td>KY</td>
-<td>40121</td>
-<td>5029421244</td>
-</tr>
-<tr>
-<td>FRANKFORT POST OFFICE</td>
-<td>1210 WILKINSON BLVD</td>
-<td>FRANKFORT</td>
-<td>KY</td>
-<td>40601</td>
-<td>5022233447</td>
-</tr>
-<tr>
-<td>FRANKLIN COUNTY CLERKS OFFICE</td>
-<td>315 W MAIN ST</td>
-<td>FRANKFORT</td>
-<td>KY</td>
-<td>40601</td>
-<td>5028758702</td>
-</tr>
-<tr>
-<td>SIMPSON COUNTY CLERKS OFFICE</td>
-<td>103 W. CEDAR ST</td>
-<td>FRANKLIN</td>
-<td>KY</td>
-<td>42134</td>
-<td>2705868161</td>
-</tr>
-<tr>
-<td>GEORGETOWN POST OFFICE</td>
-<td>101 N BRADFORD LANE</td>
-<td>GEORGETOWN</td>
-<td>KY</td>
-<td>40324</td>
-<td>5028633875</td>
-</tr>
-<tr>
-<td>SCOTT COUNTY CLERK</td>
-<td>101 E MAIN ST</td>
-<td>GEORGETOWN</td>
-<td>KY</td>
-<td>40324</td>
-<td>5028637875</td>
-</tr>
-<tr>
-<td>BARREN COUNTY CLERKS OFFICE</td>
-<td>117 NORTH PUBLIC SPUARE, STE 1A</td>
-<td>GLASGOW</td>
-<td>KY</td>
-<td>42141</td>
-<td>2706513783</td>
-</tr>
-<tr>
-<td>GLASGOW POST OFFICE</td>
-<td>445 W MAIN ST</td>
-<td>GLASGOW</td>
-<td>KY</td>
-<td>42141</td>
-<td>2706518758</td>
-</tr>
-<tr>
-<td>GOSHEN POST OFFICE</td>
-<td>12340 W HWY 42</td>
-<td>GOSHEN</td>
-<td>KY</td>
-<td>40026</td>
-<td>5022280966</td>
-</tr>
-<tr>
-<td>GRAYSON POST OFFICE</td>
-<td>390 S CAROL MALONE BLVD</td>
-<td>GRAYSON</td>
-<td>KY</td>
-<td>41143</td>
-<td>6064746366</td>
-</tr>
-<tr>
-<td>GREENSBURG POST OFFICE</td>
-<td>45 TUNNELL LANE</td>
-<td>GREENSBURG</td>
-<td>KY</td>
-<td>42743</td>
-<td>2709325371</td>
-</tr>
-<tr>
-<td>MUHLENBERG COUNTY CLERK</td>
-<td>100 S MAIN ST</td>
-<td>GREENVILLE</td>
-<td>KY</td>
-<td>42345</td>
-<td>2703381441</td>
-</tr>
-<tr>
-<td>HARDINSBURG POST OFFICE</td>
-<td>234 S MAIN ST</td>
-<td>HARDINSBURG</td>
-<td>KY</td>
-<td>40143</td>
-<td>2707562119</td>
-</tr>
-<tr>
-<td>HARLAN POST OFFICE</td>
-<td>111 N 1ST ST</td>
-<td>HARLAN</td>
-<td>KY</td>
-<td>40831</td>
-<td>6065732800</td>
-</tr>
-<tr>
-<td>HARRODSBURG POST OFFICE</td>
-<td>105 NORTH MAIN ST</td>
-<td>HARRODSBURG</td>
-<td>KY</td>
-<td>40330</td>
-<td>8597342568</td>
-</tr>
-<tr>
-<td>HARTFORD POST OFFICE</td>
-<td>1101 S MAIN ST</td>
-<td>HARTFORD</td>
-<td>KY</td>
-<td>42347</td>
-<td>2702983550</td>
-</tr>
-<tr>
-<td>HAZARD MPO</td>
-<td>201 BLACK GOLD BLVD</td>
-<td>HAZARD</td>
-<td>KY</td>
-<td>41701</td>
-<td>6064363188</td>
-</tr>
-<tr>
-<td>HENDERSON COUNTY PUBLIC LIBRARY</td>
-<td>101 S MAIN ST</td>
-<td>HENDERSON</td>
-<td>KY</td>
-<td>42420</td>
-<td>2708263712</td>
-</tr>
-<tr>
-<td>CHRISTIAN COUNTY CLERK</td>
-<td>511 S MAIN ST</td>
-<td>HOPKINSVILLE</td>
-<td>KY</td>
-<td>42240</td>
-<td>2708874107</td>
-</tr>
-<tr>
-<td>HOPKINSVILLE POST OFFICE</td>
-<td>105 S MAIN STREET</td>
-<td>HOPKINSVILLE</td>
-<td>KY</td>
-<td>42240</td>
-<td>2708865250</td>
-</tr>
-<tr>
-<td>HOPKINSVILLE-CHRISTIAN COUNTY PUBLIC LIBRARY</td>
-<td>1101 BETHEL STREET</td>
-<td>HOPKINSVILLE</td>
-<td>KY</td>
-<td>42240</td>
-<td>2708874262</td>
-</tr>
-<tr>
-<td>CITY OF INDEPENDENCE</td>
-<td>5409 MADISON PIKE</td>
-<td>INDEPENDENCE</td>
-<td>KY</td>
-<td>41051</td>
-<td>8593565302</td>
-</tr>
-<tr>
-<td>IRVINE POST OFFICE</td>
-<td>230 MAIN STREET</td>
-<td>IRVINE</td>
-<td>KY</td>
-<td>40336</td>
-<td>6067234246</td>
-</tr>
-<tr>
-<td>LAGRANGE POST OFFICE</td>
-<td>108 W CRYSTAL DR</td>
-<td>LAGRANGE</td>
-<td>KY</td>
-<td>40031</td>
-<td>5022229625</td>
-</tr>
-<tr>
-<td>OLDHAM COUNTY CLERKS OFFICE</td>
-<td>100 WEST JEFFERSON STREET SUITE #1</td>
-<td>LAGRANGE</td>
-<td>KY</td>
-<td>40031</td>
-<td>5022229311</td>
-</tr>
-<tr>
-<td>ANDERSON COUNTY CLERKS OFFICE</td>
-<td>100 S MAIN ST</td>
-<td>LAWRENCEBURG</td>
-<td>KY</td>
-<td>40342</td>
-<td>5028393041</td>
-</tr>
-<tr>
-<td>LAWRENCEBURG MAIN POST OFFICE</td>
-<td>1269 FOX CREEK RD</td>
-<td>LAWRENCEBURG</td>
-<td>KY</td>
-<td>40342</td>
-<td>5028393385</td>
-</tr>
-<tr>
-<td>LEITCHFIELD POST OFFICE</td>
-<td>210 SOUTH MAIN ST</td>
-<td>LEITCHFIELD</td>
-<td>KY</td>
-<td>42754</td>
-<td>2702593087</td>
-</tr>
-<tr>
-<td>LEXINGTON MAIN POST OFFICE</td>
-<td>1088 NANDINO BLVD</td>
-<td>LEXINGTON</td>
-<td>KY</td>
-<td>40511</td>
-<td>8592316843</td>
-</tr>
-<tr>
-<td>WILDCAT PASSPORT ACCEPTANCE FACILITY</td>
-<td>160 AVENUE OF CHAMPIONS</td>
-<td>LEXINGTON</td>
-<td>KY</td>
-<td>40506</td>
-<td>8592572619</td>
-</tr>
-<tr>
-<td>LONDON POST OFFICE</td>
-<td>1760 HWY 192 W</td>
-<td>LONDON</td>
-<td>KY</td>
-<td>40741</td>
-<td>6068641722</td>
-</tr>
-<tr>
-<td>LAWRENCE COUNTY CLERK</td>
-<td>122 S. MAIN CROSS ST.</td>
-<td>LOUISA</td>
-<td>KY</td>
-<td>41230</td>
-<td>6066384108</td>
-</tr>
-<tr>
-<td>DOWNTOWN STATION</td>
-<td>835 S 7TH ST</td>
-<td>LOUISVILLE</td>
-<td>KY</td>
-<td>40203</td>
-<td>5025878546</td>
-</tr>
-<tr>
-<td>HIKES POINT POST OFFICE</td>
-<td>3050 HUNSINGER LN</td>
-<td>LOUISVILLE</td>
-<td>KY</td>
-<td>40220</td>
-<td>5024564557</td>
-</tr>
-<tr>
-<td>JEFFERSONTOWN POST OFFICE</td>
-<td>3801 BILLTOWN RD.</td>
-<td>LOUISVILLE</td>
-<td>KY</td>
-<td>40299</td>
-<td>5022665844</td>
-</tr>
-<tr>
-<td>LOUISVILLE MAIN POST OFFICE</td>
-<td>1420 GARDINER LANE</td>
-<td>LOUISVILLE</td>
-<td>KY</td>
-<td>40231</td>
-<td>5024541763</td>
-</tr>
-<tr>
-<td>LOUISVILLE MIDDLETOWN POST OFFICE</td>
-<td>119 EVERGREEN RD.</td>
-<td>LOUISVILLE</td>
-<td>KY</td>
-<td>40243</td>
-<td>5022444783</td>
-</tr>
-<tr>
-<td>LYNDON POST OFFICE</td>
-<td>8127 LAGRANGE RD.</td>
-<td>LOUISVILLE</td>
-<td>KY</td>
-<td>40222</td>
-<td>5024254547</td>
-</tr>
-<tr>
-<td>OKOLONA POST OFFICE</td>
-<td>7400 JEFFERSON BLVD</td>
-<td>LOUISVILLE</td>
-<td>KY</td>
-<td>40219</td>
-<td>5029668049</td>
-</tr>
-<tr>
-<td>SHIVELY POST OFFICE</td>
-<td>3131 CRUMS LANE</td>
-<td>LOUISVILLE</td>
-<td>KY</td>
-<td>40216</td>
-<td>5024492657</td>
-</tr>
-<tr>
-<td>ST MATTHEWS POST OFFICE</td>
-<td>4600 SHELBYVILLE RD</td>
-<td>LOUISVILLE</td>
-<td>KY</td>
-<td>40207</td>
-<td>5028933546</td>
-</tr>
-<tr>
-<td>STANDIFORD POST OFFICE</td>
-<td>4440 CRITTENDEN DR</td>
-<td>LOUISVILLE</td>
-<td>KY</td>
-<td>40221</td>
-<td>5023755890</td>
-</tr>
-<tr>
-<td>HOPKINS COUNTY CLERKS OFFICE</td>
-<td>24 UNION STREET</td>
-<td>MADISONVILLE</td>
-<td>KY</td>
-<td>42431</td>
-<td>2708217361</td>
-</tr>
-<tr>
-<td>MAYFIELD POST OFFICE</td>
-<td>225 W BROADWAY</td>
-<td>MAYFIELD</td>
-<td>KY</td>
-<td>42066</td>
-<td>2702471305</td>
-</tr>
-<tr>
-<td>MAYSVILLE POST OFFICE</td>
-<td>131 E 3RD ST</td>
-<td>MAYSVILLE</td>
-<td>KY</td>
-<td>41056</td>
-<td>6065643461</td>
-</tr>
-<tr>
-<td>MIDDLESBORO POST OFFICE</td>
-<td>201 NORTH 20TH ST</td>
-<td>MIDDLESBORO</td>
-<td>KY</td>
-<td>40965</td>
-<td>6062483690</td>
-</tr>
-<tr>
-<td>MONTICELLO POST OFFICE</td>
-<td>65 BARNES DR</td>
-<td>MONTICELLO</td>
-<td>KY</td>
-<td>42633</td>
-<td>6063485291</td>
-</tr>
-<tr>
-<td>MOREHEAD POST OFFICE</td>
-<td>700 W FIRST ST</td>
-<td>MOREHEAD</td>
-<td>KY</td>
-<td>40351</td>
-<td>6067845556</td>
-</tr>
-<tr>
-<td>MOUNT STERLING POST OFFICE</td>
-<td>108 WEST LOCUST STREET</td>
-<td>MOUNT STERLING</td>
-<td>KY</td>
-<td>40353</td>
-<td>8594982258</td>
-</tr>
-<tr>
-<td>MT VERNON POST OFFICE</td>
-<td>380 RICHMOND ST</td>
-<td>MT. VERNON</td>
-<td>KY</td>
-<td>40456</td>
-<td>6062562717</td>
-</tr>
-<tr>
-<td>MUNFORDVILLE POST OFFICE</td>
-<td>215 S WASHINGTON STREET</td>
-<td>MUNFORDVILLE</td>
-<td>KY</td>
-<td>42765</td>
-<td>2705245500</td>
-</tr>
-<tr>
-<td>CALLOWAY COUNTY PUBLIC LIBRARY</td>
-<td>710 MAIN STREET</td>
-<td>MURRAY</td>
-<td>KY</td>
-<td>42071</td>
-<td>2707532288</td>
-</tr>
-<tr>
-<td>NAZARETH POST OFFICE</td>
-<td>85 VILLAGE DR</td>
-<td>NAZARETH</td>
-<td>KY</td>
-<td>40048</td>
-<td>5023483751</td>
-</tr>
-<tr>
-<td>NEWPORT CLERK OFFICE</td>
-<td>998 MONMOUTH ST</td>
-<td>NEWPORT</td>
-<td>KY</td>
-<td>41071</td>
-<td>8592923666</td>
-</tr>
-<tr>
-<td>NICHOLASVILLE POST OFFICE</td>
-<td>410 S MAIN ST</td>
-<td>NICHOLASVILLE</td>
-<td>KY</td>
-<td>40356</td>
-<td>8598875666</td>
-</tr>
-<tr>
-<td>DAVIESS COUNTY CLERKS OFFICE</td>
-<td>212 ST ANN STREET, ROOM 104</td>
-<td>OWENSBORO</td>
-<td>KY</td>
-<td>42303</td>
-<td>2706858434</td>
-</tr>
-<tr>
-<td>OWENSBORO POST OFFICE</td>
-<td>54 BON HARBOR HILLS</td>
-<td>OWENSBORO</td>
-<td>KY</td>
-<td>42301</td>
-<td>2706891838</td>
-</tr>
-<tr>
-<td>OWEN COUNTY CLERK</td>
-<td>136 W BRYAN ST</td>
-<td>OWENTON</td>
-<td>KY</td>
-<td>40359</td>
-<td>5024842213</td>
-</tr>
-<tr>
-<td>OWENTON MAIN POST OFFICE</td>
-<td>1065 HIGHWAY 127 N</td>
-<td>OWENTON</td>
-<td>KY</td>
-<td>40359</td>
-<td>5024842745</td>
-</tr>
-<tr>
-<td>OWINGSVILLE POST OFFICE</td>
-<td>95 E MAIN STREET</td>
-<td>OWINGSVILLE</td>
-<td>KY</td>
-<td>40360</td>
-<td>6066742821</td>
-</tr>
-<tr>
-<td>PADUCAH MAIN POST OFFICE</td>
-<td>300 S 4TH STREET</td>
-<td>PADUCAH</td>
-<td>KY</td>
-<td>42003</td>
-<td>2704445348</td>
-</tr>
-<tr>
-<td>JOHNSON COUNTY COURT CLERK</td>
-<td>230 COURT ST STE 124</td>
-<td>PAINTSVILLE</td>
-<td>KY</td>
-<td>41240</td>
-<td>6067892557</td>
-</tr>
-<tr>
-<td>BOURBON COUNTY CLERK</td>
-<td>301 MAIN ST</td>
-<td>PARIS</td>
-<td>KY</td>
-<td>40361</td>
-<td>8599872142</td>
-</tr>
-<tr>
-<td>PARIS POST OFFICE</td>
-<td>201 W 8TH ST</td>
-<td>PARIS</td>
-<td>KY</td>
-<td>40361</td>
-<td>8599874500</td>
-</tr>
-<tr>
-<td>PIKEVILLE MAIN POST OFFICE</td>
-<td>281 THOMPSON ROAD</td>
-<td>PIKEVILLE</td>
-<td>KY</td>
-<td>41501</td>
-<td>6064322146</td>
-</tr>
-<tr>
-<td>PROSPECT POST OFFICE</td>
-<td>9523 US HIGHWAY 42</td>
-<td>PROSPECT</td>
-<td>KY</td>
-<td>40059</td>
-<td>5022281921</td>
-</tr>
-<tr>
-<td>MADISON COUNTY CLERKS OFFICE</td>
-<td>101 W. MAIN STREET</td>
-<td>RICHMOND</td>
-<td>KY</td>
-<td>40475</td>
-<td>8596244703</td>
-</tr>
-<tr>
-<td>RICHMOND  POSTAL STORE</td>
-<td>140 N MADISON AVE</td>
-<td>RICHMOND</td>
-<td>KY</td>
-<td>40475</td>
-<td>8596235449</td>
-</tr>
-<tr>
-<td>RUSSELL SPRINGS POST OFFICE</td>
-<td>414 MAIN STREET</td>
-<td>RUSSELL SPRINGS</td>
-<td>KY</td>
-<td>42642</td>
-<td>2708665527</td>
-</tr>
-<tr>
-<td>RUSSELLVILLE MAIN POST OFFICE</td>
-<td>205 WEST 4TH ST</td>
-<td>RUSSELLVILLE</td>
-<td>KY</td>
-<td>42276</td>
-<td>2707266335</td>
-</tr>
-<tr>
-<td>SALEM POST OFFICE</td>
-<td>155 E MAIN STREET</td>
-<td>SALEM</td>
-<td>KY</td>
-<td>42078</td>
-<td>2709882800</td>
-</tr>
-<tr>
-<td>MAGOFFIN COUNTY CLERK</td>
-<td>56 EAST MAPLE STREET</td>
-<td>SALYERSVILLE</td>
-<td>KY</td>
-<td>41465</td>
-<td>6063492216</td>
-</tr>
-<tr>
-<td>SALYERSVILLE POST OFFICE</td>
-<td>330 E MAPLE STREET</td>
-<td>SALYERSVILLE</td>
-<td>KY</td>
-<td>41465</td>
-<td>6063493400</td>
-</tr>
-<tr>
-<td>BULLITT COUNTY CLERKS OFFICE</td>
-<td>149 NORTH WALNUT STREET</td>
-<td>SHEPHERDSVILLE</td>
-<td>KY</td>
-<td>40165</td>
-<td>5025432513</td>
-</tr>
-<tr>
-<td>PULASKI COUNTY PUBLIC LIBRARY</td>
-<td>304 SOUTH MAIN ST</td>
-<td>SOMERSET</td>
-<td>KY</td>
-<td>42501</td>
-<td>6066798401</td>
-</tr>
-<tr>
-<td>SOMERSET POST OFFICE</td>
-<td>119 NORTH MAPLE ST</td>
-<td>SOMERSET</td>
-<td>KY</td>
-<td>42501</td>
-<td>6066785712</td>
-</tr>
-<tr>
-<td>TAYLORSVILLE POST OFFICE</td>
-<td>800 TAYLORSVILLE RD</td>
-<td>TAYLORSVILLE</td>
-<td>KY</td>
-<td>40071</td>
-<td>5024778494</td>
-</tr>
-<tr>
-<td>BOONE COUNTY PUBLIC LIBRARY SCHEBEN BRANCH</td>
-<td>8899 U. S. HIGHWAY 42</td>
-<td>UNION</td>
-<td>KY</td>
-<td>41091</td>
-<td>8593422665</td>
-</tr>
-<tr>
-<td>VERSAILLES POST OFFICE</td>
-<td>149 FIELDVIEW DRIVE</td>
-<td>VERSAILLES</td>
-<td>KY</td>
-<td>40383</td>
-<td>8598733241</td>
-</tr>
-<tr>
-<td>CITY OF VILLA HILLS</td>
-<td>720 ROGERS RD</td>
-<td>VILLA HILLS</td>
-<td>KY</td>
-<td>41017</td>
-<td>8593411515</td>
-</tr>
-<tr>
-<td>WEST LIBERTY POST OFFICE</td>
-<td>398 GLENN AVE</td>
-<td>WEST LIBERTY</td>
-<td>KY</td>
-<td>41472</td>
-<td>6067434380</td>
-</tr>
-<tr>
-<td>WHITESBURG POST OFFICE</td>
-<td>71 HIGHWAY 119 S</td>
-<td>WHITESBURG</td>
-<td>KY</td>
-<td>41858</td>
-<td>6066332955</td>
-</tr>
-<tr>
-<td>WHITLEY CITY POST OFFICE</td>
-<td>1387 N  HWY 27</td>
-<td>WHITLEY</td>
-<td>KY</td>
-<td>42653</td>
-<td>6063765342</td>
-</tr>
-<tr>
-<td>WILLIAMSBURG POST OFFICE</td>
-<td>1000 N HIGHWAY 25 W</td>
-<td>WILLIAMSBURG</td>
-<td>KY</td>
-<td>40769</td>
-<td>6065491250</td>
-</tr>
-<tr>
-<td>WILMORE MAIN POST OFFICE</td>
-<td>301 E MAIN ST</td>
-<td>WILMORE</td>
-<td>KY</td>
-<td>40390</td>
-<td>8598583548</td>
-</tr>
-<tr>
-<td>WINCHESTER POST OFFICE</td>
-<td>120 N MAIN ST</td>
-<td>WINCHESTER</td>
-<td>KY</td>
-<td>40391</td>
-<td>8597446186</td>
-</tr>
-</tbody>
-</table>

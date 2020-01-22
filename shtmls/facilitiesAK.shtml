@@ -1,334 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ANCHORAGE PUBLIC LIBRARY, LOUSSAC BRANCH</td>
-<td>3600 DENALI ST</td>
-<td>ANCHORAGE</td>
-<td>AK</td>
-<td>99503</td>
-<td>9073432975</td>
-</tr>
-<tr>
-<td>ANCHORAGE PUBLIC LIBRARY, MOUNTAIN VIEW BRANCH</td>
-<td>120 BRAGAW ST</td>
-<td>ANCHORAGE</td>
-<td>AK</td>
-<td>99508</td>
-<td>9073432818</td>
-</tr>
-<tr>
-<td>ANCHORAGE PUBLIC LIBRARY, MULDOON BRANCH</td>
-<td>1251 MULDOON RD #158</td>
-<td>ANCHORAGE</td>
-<td>AK</td>
-<td>99504</td>
-<td>9073434032</td>
-</tr>
-<tr>
-<td>USPO - ANCHORAGE</td>
-<td>4141 POSTMARK DR.</td>
-<td>ANCHORAGE</td>
-<td>AK</td>
-<td>99519</td>
-<td>9072663266</td>
-</tr>
-<tr>
-<td>USPO - ANIAK</td>
-<td>101 BOUNDARY AVE.</td>
-<td>ANIAK</td>
-<td>AK</td>
-<td>99557</td>
-<td>9076754314</td>
-</tr>
-<tr>
-<td>CITY OF BETHEL - CITY CLERKS OFFICE</td>
-<td>300 STATE HIGHWAY</td>
-<td>BETHEL</td>
-<td>AK</td>
-<td>99559</td>
-<td>9075431384</td>
-</tr>
-<tr>
-<td>ALASKA COURT SYSTEM - STATE OFFICE</td>
-<td>500 WATER ST.</td>
-<td>CORDOVA</td>
-<td>AK</td>
-<td>99574</td>
-<td>9074243378</td>
-</tr>
-<tr>
-<td>CITY HALL OF DELTA JUNCTION</td>
-<td>2288 DEBORAH STREET</td>
-<td>DELTA JUNCTION</td>
-<td>AK</td>
-<td>99737</td>
-<td>9078954656</td>
-</tr>
-<tr>
-<td>UNIVERSITY OF ALASKA - BRISTOL BAY CAMPUS</td>
-<td>527 SEWARD ST.</td>
-<td>DILLINGHAM</td>
-<td>AK</td>
-<td>99576</td>
-<td>9078425109</td>
-</tr>
-<tr>
-<td>USPO - EAGLE RIVER</td>
-<td>11471 BUSINESS BLVD.</td>
-<td>EAGLE RIVER</td>
-<td>AK</td>
-<td>99577</td>
-<td>9076942732</td>
-</tr>
-<tr>
-<td>USPO - FAIRBANKS DOWNTOWN STATION</td>
-<td>315 BARNETTE ST.</td>
-<td>FAIRBANKS</td>
-<td>AK</td>
-<td>99701</td>
-<td>9074523237</td>
-</tr>
-<tr>
-<td>USPO - GIRDWOOD</td>
-<td>118 LINDBLAD AVE.</td>
-<td>GIRDWOOD</td>
-<td>AK</td>
-<td>99587</td>
-<td>9077832922</td>
-</tr>
-<tr>
-<td>HAINES BOROUGH ADMINISTRATION</td>
-<td>103 THIRD AVE S</td>
-<td>HAINES</td>
-<td>AK</td>
-<td>99827</td>
-<td>9077666400</td>
-</tr>
-<tr>
-<td>DENALI BOROUGH</td>
-<td>MILE .5 HEALY SPUR ROAD</td>
-<td>HEALY</td>
-<td>AK</td>
-<td>99743</td>
-<td>9076831330</td>
-</tr>
-<tr>
-<td>USPO - HOMER</td>
-<td>3658 HEATH STREET</td>
-<td>HOMER</td>
-<td>AK</td>
-<td>99603</td>
-<td>9072356129</td>
-</tr>
-<tr>
-<td>USPO - HYDER</td>
-<td>100 HYDER AVENUE</td>
-<td>HYDER</td>
-<td>AK</td>
-<td>99923</td>
-<td>2506362662</td>
-</tr>
-<tr>
-<td>USPO - FEDERAL BUILDING STATION</td>
-<td>709 W. 9TH ST.</td>
-<td>JUNEAU</td>
-<td>AK</td>
-<td>99801</td>
-<td>9075867155</td>
-</tr>
-<tr>
-<td>USPO - MENDENHALL STATION</td>
-<td>9491 VINTAGE BLVD.</td>
-<td>JUNEAU</td>
-<td>AK</td>
-<td>99801</td>
-<td>9077890934</td>
-</tr>
-<tr>
-<td>USPO - KENAI</td>
-<td>140 BIDARKA ST</td>
-<td>KENAI</td>
-<td>AK</td>
-<td>99611</td>
-<td>9072837771</td>
-</tr>
-<tr>
-<td>USPO - KETCHIKAN</td>
-<td>3609 TONGASS AVE.</td>
-<td>KETCHIKAN</td>
-<td>AK</td>
-<td>99901</td>
-<td>9072259602</td>
-</tr>
-<tr>
-<td>CITY OF KING COVE</td>
-<td>289 RAM CREEK DRIVE</td>
-<td>KING COVE</td>
-<td>AK</td>
-<td>99612</td>
-<td>9074972210</td>
-</tr>
-<tr>
-<td>USPO - KLAWOCK</td>
-<td>6488 KLW/HOLLIS HWY #1</td>
-<td>KLAWOCK</td>
-<td>AK</td>
-<td>99925</td>
-<td>9077552977</td>
-</tr>
-<tr>
-<td>USPO - KODIAK</td>
-<td>419 LOWER MILL BAY ROAD</td>
-<td>KODIAK</td>
-<td>AK</td>
-<td>99615</td>
-<td>9074864721</td>
-</tr>
-<tr>
-<td>USPO - KOTZEBUE</td>
-<td>333 SHORE AVE.</td>
-<td>KOTZEBUE</td>
-<td>AK</td>
-<td>99752</td>
-<td>9074423291</td>
-</tr>
-<tr>
-<td>USPO - NOME</td>
-<td>113  W. FRONT STREET</td>
-<td>NOME</td>
-<td>AK</td>
-<td>99762</td>
-<td>9074432401</td>
-</tr>
-<tr>
-<td>COLONY HIGH SCHOOL LIBRARY</td>
-<td>9550 E BOGARD ROAD</td>
-<td>PALMER</td>
-<td>AK</td>
-<td>99645</td>
-<td>9078615538</td>
-</tr>
-<tr>
-<td>USPO - PALMER</td>
-<td>500 SOUTH COBB ST.</td>
-<td>PALMER</td>
-<td>AK</td>
-<td>99645</td>
-<td>9077455051</td>
-</tr>
-<tr>
-<td>PETERSBURG PUBLIC LIBRARY</td>
-<td>14 S. 2ND ST</td>
-<td>PETERSBURG</td>
-<td>AK</td>
-<td>99833</td>
-<td>9077723349</td>
-</tr>
-<tr>
-<td>USPO - SAND POINT</td>
-<td>9998 MAIN ST.</td>
-<td>SAND POINT</td>
-<td>AK</td>
-<td>99661</td>
-<td>9073832955</td>
-</tr>
-<tr>
-<td>SEWARD COMMUNITY LIBRARY</td>
-<td>239 - 6TH AVE.</td>
-<td>SEWARD</td>
-<td>AK</td>
-<td>99664</td>
-<td>9072244082</td>
-</tr>
-<tr>
-<td>USPO - SITKA</td>
-<td>1207 SAWMILL CREEK RD</td>
-<td>SITKA</td>
-<td>AK</td>
-<td>99835</td>
-<td>9077473381</td>
-</tr>
-<tr>
-<td>SKAGWAY PUBLIC LIBRARY</td>
-<td>769 STATE ST</td>
-<td>SKAGWAY</td>
-<td>AK</td>
-<td>99840</td>
-<td>9079832665</td>
-</tr>
-<tr>
-<td>CITY OF THORNE BAY</td>
-<td>120 FREEMAN DR</td>
-<td>THORNE BAY</td>
-<td>AK</td>
-<td>99919</td>
-<td>9078283380</td>
-</tr>
-<tr>
-<td>USPO - TOK</td>
-<td>HC63 MILE 1314.3 ALASKA HWY.</td>
-<td>TOK</td>
-<td>AK</td>
-<td>99780</td>
-<td>9078835880</td>
-</tr>
-<tr>
-<td>DISTRICT COURT - UNALAKLEET</td>
-<td>250 UVEC WAY</td>
-<td>UNALAKLEET</td>
-<td>AK</td>
-<td>99684</td>
-<td>9076243015</td>
-</tr>
-<tr>
-<td>CITY OF UNALASKA - PUBLIC LIBRARY</td>
-<td>64 ELEANOR DRIVE</td>
-<td>UNALASKA</td>
-<td>AK</td>
-<td>99685</td>
-<td>9075815060</td>
-</tr>
-<tr>
-<td>PRINCE WILLIAM SOUND COMMUNITY COLLEGE</td>
-<td>303 LOWE ST.</td>
-<td>VALDEZ</td>
-<td>AK</td>
-<td>99686</td>
-<td>9078341600</td>
-</tr>
-<tr>
-<td>USPO - WASILLA</td>
-<td>401 N. MAIN ST.</td>
-<td>WASILLA</td>
-<td>AK</td>
-<td>99654</td>
-<td>9073731910</td>
-</tr>
-<tr>
-<td>USPO - WILLOW</td>
-<td>13232 N. MCKINLEY WAY</td>
-<td>WILLOW</td>
-<td>AK</td>
-<td>99688</td>
-<td>9074956266</td>
-</tr>
-<tr>
-<td>USPO - WRANGELL</td>
-<td>112 FEDERAL WAY</td>
-<td>WRANGELL</td>
-<td>AK</td>
-<td>99929</td>
-<td>9078743714</td>
-</tr>
-</tbody>
-</table>

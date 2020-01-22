@@ -1,446 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>CONCORD UNIVERSITY</td>
-<td>1000 VERMILLION STREET</td>
-<td>ATHENS</td>
-<td>WV</td>
-<td>24712</td>
-<td>3043845285</td>
-</tr>
-<tr>
-<td>BARBOURSVILLE POST OFFICE</td>
-<td>680 CENTRAL AVENUE</td>
-<td>BARBOURSVILLE</td>
-<td>WV</td>
-<td>25504</td>
-<td>3047363675</td>
-</tr>
-<tr>
-<td>BECKLEY POST OFFICE</td>
-<td>134 INDUSTRIAL DRIVE</td>
-<td>BECKLEY</td>
-<td>WV</td>
-<td>25801</td>
-<td>3042525336</td>
-</tr>
-<tr>
-<td>RALEIGH COUNTY CIRCUIT CLERKS  OFFICE</td>
-<td>222 MAIN ST</td>
-<td>BECKLEY</td>
-<td>WV</td>
-<td>25801</td>
-<td>3042559135</td>
-</tr>
-<tr>
-<td>BERKELEY SPRINGS POST OFFICE</td>
-<td>417 N. WASHINGTON STREET</td>
-<td>BERKELEY SPRINGS</td>
-<td>WV</td>
-<td>25411</td>
-<td>3042581424</td>
-</tr>
-<tr>
-<td>BLUEFIELD MAIN POST OFFICE</td>
-<td>3010 E CUMBERLAND RD</td>
-<td>BLUEFIELD</td>
-<td>WV</td>
-<td>24701</td>
-<td>3043259196</td>
-</tr>
-<tr>
-<td>BUCKHANNON MAIN POST OFFICE</td>
-<td>11 SOUTH SPRING ST</td>
-<td>BUCKHANNON</td>
-<td>WV</td>
-<td>26201</td>
-<td>3044722020</td>
-</tr>
-<tr>
-<td>CHARLESTON MAIN POST OFFICE</td>
-<td>1002 LEE STREET EAST</td>
-<td>CHARLESTON</td>
-<td>WV</td>
-<td>25301</td>
-<td>3045611007</td>
-</tr>
-<tr>
-<td>CLARKSBURG HARRISON PUBLIC LIBRARY</td>
-<td>404 W PIKE STREET</td>
-<td>CLARKSBURG</td>
-<td>WV</td>
-<td>26301</td>
-<td>3046272236</td>
-</tr>
-<tr>
-<td>CLARKSBURG POST OFFICE EASTPOINTE</td>
-<td>200 CAVA DRIVE</td>
-<td>CLARKSBURG</td>
-<td>WV</td>
-<td>26301</td>
-<td>3046237707</td>
-</tr>
-<tr>
-<td>HARRISON COUNTY CIRCUIT CLERK</td>
-<td>301 W MAIN ST</td>
-<td>CLARKSBURG</td>
-<td>WV</td>
-<td>26301</td>
-<td>3046248640</td>
-</tr>
-<tr>
-<td>CULLODEN MAIN POST OFFICE</td>
-<td>2000 US HIGHWAY 60</td>
-<td>CULLODEN</td>
-<td>WV</td>
-<td>25510</td>
-<td>3047435211</td>
-</tr>
-<tr>
-<td>WIRT COUNTY CIRCUIT CLERK</td>
-<td>19 WASHINGTON STREET</td>
-<td>ELIZABETH</td>
-<td>WV</td>
-<td>26143</td>
-<td>3042756597</td>
-</tr>
-<tr>
-<td>ELKINS POST OFFICE</td>
-<td>300 THIRD STREET</td>
-<td>ELKINS</td>
-<td>WV</td>
-<td>26241</td>
-<td>3046361545</td>
-</tr>
-<tr>
-<td>FAIRMONT POST OFFICE</td>
-<td>331 MADISON ST</td>
-<td>FAIRMONT</td>
-<td>WV</td>
-<td>26554</td>
-<td>3043661610</td>
-</tr>
-<tr>
-<td>PENDLETON COUNTY CIRCUIT COURT</td>
-<td>100 S MAIN ST</td>
-<td>FRANKLIN</td>
-<td>WV</td>
-<td>26807</td>
-<td>3043587067</td>
-</tr>
-<tr>
-<td>GILMER COUNTY CIRCUIT CLERKS OFFICE</td>
-<td>10 HOWARD ST</td>
-<td>GLENVILLE</td>
-<td>WV</td>
-<td>26351</td>
-<td>3044627241</td>
-</tr>
-<tr>
-<td>HARPERS FERRY POST OFFICE</td>
-<td>1010 WASHINGTON STREET</td>
-<td>HARPERS FERRY</td>
-<td>WV</td>
-<td>25425</td>
-<td>3045352479</td>
-</tr>
-<tr>
-<td>RITCHIE COUNTY CIRCUIT CLERKS OFFICE</td>
-<td>115 E MAIN ST</td>
-<td>HARRISVILLE</td>
-<td>WV</td>
-<td>26362</td>
-<td>3046432164</td>
-</tr>
-<tr>
-<td>HUNTINGTON MAIN POST OFFICE</td>
-<td>1000 VIRGINIA AVE WEST</td>
-<td>HUNTINGTON</td>
-<td>WV</td>
-<td>25704</td>
-<td>3045269600</td>
-</tr>
-<tr>
-<td>HURRICANE MAIN POST OFFICE</td>
-<td>3225 TEAYS VALLEY RD</td>
-<td>HURRICANE</td>
-<td>WV</td>
-<td>25526</td>
-<td>3045626811</td>
-</tr>
-<tr>
-<td>KEYSER MAIN POST OFFICE</td>
-<td>2 NORTH DAVIS STREET</td>
-<td>KEYSER</td>
-<td>WV</td>
-<td>26726</td>
-<td>3047881501</td>
-</tr>
-<tr>
-<td>KINGWOOD POST OFFICE</td>
-<td>225 EAST MAIN STREET</td>
-<td>KINGWOOD</td>
-<td>WV</td>
-<td>26537</td>
-<td>3043290567</td>
-</tr>
-<tr>
-<td>GREENBRIER COUNTY CIRCUIT CLERKS OFFICE</td>
-<td>912 COURT ST NORTH</td>
-<td>LEWISBURG</td>
-<td>WV</td>
-<td>24901</td>
-<td>3046476626</td>
-</tr>
-<tr>
-<td>LOGAN COUNTY CIRCUIT COURT CLERK</td>
-<td>300 STRATTON ST</td>
-<td>LOGAN</td>
-<td>WV</td>
-<td>25601</td>
-<td>3047928550</td>
-</tr>
-<tr>
-<td>MADISON POST OFFICE</td>
-<td>650 SOUTH MAIN STREET</td>
-<td>MADISON</td>
-<td>WV</td>
-<td>25130</td>
-<td>3043691251</td>
-</tr>
-<tr>
-<td>POCAHONTAS COUNTY CIRCUIT COURT</td>
-<td>900 D TENTH AVE</td>
-<td>MARLINTON</td>
-<td>WV</td>
-<td>24954</td>
-<td>3047994604</td>
-</tr>
-<tr>
-<td>MARTINSBURG POST OFFICE</td>
-<td>1355 OLD COURTHOUSE SQUARE</td>
-<td>MARTINSBURG</td>
-<td>WV</td>
-<td>25404</td>
-<td>3042677787</td>
-</tr>
-<tr>
-<td>MARTINSBURG PUBLIC LIBRARY</td>
-<td>101 WEST KING ST</td>
-<td>MARTINSBURG</td>
-<td>WV</td>
-<td>25401</td>
-<td>3042678933</td>
-</tr>
-<tr>
-<td>MASON POST OFFICE</td>
-<td>1931 2ND STREET</td>
-<td>MASON</td>
-<td>WV</td>
-<td>25260</td>
-<td>3047735732</td>
-</tr>
-<tr>
-<td>MIDDLEBOURNE POST OFFICE</td>
-<td>105 DODD STREET</td>
-<td>MIDDLEBOURNE</td>
-<td>WV</td>
-<td>26149</td>
-<td>3047584021</td>
-</tr>
-<tr>
-<td>MINERAL WELLS POST OFFICE</td>
-<td>1259 ELIZABETH PIKE</td>
-<td>MINERAL WELLS</td>
-<td>WV</td>
-<td>26150</td>
-<td>3044892890</td>
-</tr>
-<tr>
-<td>MONTGOMERY MAIN POST OFFICE</td>
-<td>315 FOURTH AVENUE</td>
-<td>MONTGOMERY</td>
-<td>WV</td>
-<td>25136</td>
-<td>3044422691</td>
-</tr>
-<tr>
-<td>HARDY COUNTY CIRCUIT COURT</td>
-<td>204 WASHINGTON ST, RM 237</td>
-<td>MOOREFIELD</td>
-<td>WV</td>
-<td>26836</td>
-<td>3045300230</td>
-</tr>
-<tr>
-<td>MORGANTOWN POST OFFICE</td>
-<td>40 HIGH STREET</td>
-<td>MORGANTOWN</td>
-<td>WV</td>
-<td>26505</td>
-<td>3042911036</td>
-</tr>
-<tr>
-<td>MOUNDSVILLE POST OFFICE</td>
-<td>1214 THIRD STREET</td>
-<td>MOUNDSVILLE</td>
-<td>WV</td>
-<td>26041</td>
-<td>3048450104</td>
-</tr>
-<tr>
-<td>HANCOCK COUNTY CIRCUIT CLERK</td>
-<td>102 N. COURT STREET</td>
-<td>NEW CUMBERLAND</td>
-<td>WV</td>
-<td>26047</td>
-<td>3045643311</td>
-</tr>
-<tr>
-<td>SIMMONS STATION POST OFFICE</td>
-<td>1050 MARKET STREET</td>
-<td>PARKERSBURG</td>
-<td>WV</td>
-<td>26101</td>
-<td>3044858009</td>
-</tr>
-<tr>
-<td>PHILIPPI POST OFFICE</td>
-<td>43 SCHOOL STREET</td>
-<td>PHILIPPI</td>
-<td>WV</td>
-<td>26416</td>
-<td>3044572676</td>
-</tr>
-<tr>
-<td>POINT PLEASANT WEST VIRGINIA POST OFFICE</td>
-<td>329 MAIN STREET</td>
-<td>POINT PLEASANT</td>
-<td>WV</td>
-<td>25550</td>
-<td>3046753510</td>
-</tr>
-<tr>
-<td>PRINCETON POST OFFICE</td>
-<td>1000 MERCER STREET</td>
-<td>PRINCETON</td>
-<td>WV</td>
-<td>24740</td>
-<td>3044253075</td>
-</tr>
-<tr>
-<td>HAMPSHIRE COUNTY CIRCUIT CLERKS OFFICE</td>
-<td>50 SOUTH HIGH STREET</td>
-<td>ROMNEY</td>
-<td>WV</td>
-<td>26757</td>
-<td>3048225022</td>
-</tr>
-<tr>
-<td>SAINT ALBANS MAIN POST OFFICE</td>
-<td>431 B STREET</td>
-<td>SAINT ALBANS</td>
-<td>WV</td>
-<td>25177</td>
-<td>3047222198</td>
-</tr>
-<tr>
-<td>PLEASANTS COUNTY CIRCUIT CLERKS OFFICE</td>
-<td>301 COURT LANE, ROOM 201</td>
-<td>SAINT MARYS</td>
-<td>WV</td>
-<td>26170</td>
-<td>3046843513</td>
-</tr>
-<tr>
-<td>SOUTH CHARLESTON PUBLIC LIBRARY</td>
-<td>312 FOURTH AVENUE</td>
-<td>SOUTH CHARLESTON</td>
-<td>WV</td>
-<td>25303</td>
-<td>3047446561</td>
-</tr>
-<tr>
-<td>SUMMERSVILLE POST OFFICE</td>
-<td>449 WATER STREET</td>
-<td>SUMMERSVILLE</td>
-<td>WV</td>
-<td>26651</td>
-<td>3048722381</td>
-</tr>
-<tr>
-<td>SUMMERSVILLE PUBLIC LIBRARY</td>
-<td>6201 WEBSTER RD</td>
-<td>SUMMERSVILLE</td>
-<td>WV</td>
-<td>26651</td>
-<td>3048720844</td>
-</tr>
-<tr>
-<td>MONROE COUNTY PUBLIC LIBRARY</td>
-<td>303 SOUTH MAIN STREET</td>
-<td>UNION</td>
-<td>WV</td>
-<td>24983</td>
-<td>3047723038</td>
-</tr>
-<tr>
-<td>WEIRTON POST OFFICE</td>
-<td>317 PENCO ROAD</td>
-<td>WEIRTON</td>
-<td>WV</td>
-<td>26062</td>
-<td>3047236795</td>
-</tr>
-<tr>
-<td>WELLSBURG POST OFFICE</td>
-<td>944 CHARLES STREET</td>
-<td>WELLSBURG</td>
-<td>WV</td>
-<td>26070</td>
-<td>3047374277</td>
-</tr>
-<tr>
-<td>DODDRIDGE COUNTY CIRCUIT CLERK</td>
-<td>108 COURT STREET</td>
-<td>WEST UNION</td>
-<td>WV</td>
-<td>26456</td>
-<td>3048732331</td>
-</tr>
-<tr>
-<td>OHIO COUNTY CIRCUIT CLERKS OFFICE</td>
-<td>1500 CHAPLINE ST</td>
-<td>WHEELING</td>
-<td>WV</td>
-<td>26003</td>
-<td>3042343611</td>
-</tr>
-<tr>
-<td>WHEELING POST OFFICE DOWNTOWN STATION</td>
-<td>2501 CHAPLINE STREET</td>
-<td>WHEELING</td>
-<td>WV</td>
-<td>26003</td>
-<td>3042324850</td>
-</tr>
-<tr>
-<td>WILLIAMSON PUBLIC LIBRARY</td>
-<td>101 LOGAN STREET</td>
-<td>WILLIAMSON</td>
-<td>WV</td>
-<td>25661</td>
-<td>3042356029</td>
-</tr>
-</tbody>
-</table>

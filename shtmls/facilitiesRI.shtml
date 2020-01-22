@@ -1,190 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>BARRINGTON POST OFFICE</td>
-<td>200 MIDDLE HIGHWAY</td>
-<td>BARRINGTON</td>
-<td>RI</td>
-<td>02806</td>
-<td>4012456435</td>
-</tr>
-<tr>
-<td>NEW SHOREHAM TOWN CLERK</td>
-<td>16 OLD TOWN ROAD</td>
-<td>BLOCK ISLAND</td>
-<td>RI</td>
-<td>02807</td>
-<td>4014663200</td>
-</tr>
-<tr>
-<td>BRISTOL POST OFFICE</td>
-<td>515 HOPE STREET</td>
-<td>BRISTOL</td>
-<td>RI</td>
-<td>02809</td>
-<td>4012535821</td>
-</tr>
-<tr>
-<td>COVENTRY POST OFFICE</td>
-<td>1550 NOOSENECK HILL ROAD</td>
-<td>COVENTRY</td>
-<td>RI</td>
-<td>02816</td>
-<td>4018217208</td>
-</tr>
-<tr>
-<td>GARDEN CITY STATION</td>
-<td>200 MIDWAY ROAD</td>
-<td>CRANSTON</td>
-<td>RI</td>
-<td>02920</td>
-<td>4019429855</td>
-</tr>
-<tr>
-<td>CUMBERLAND PASSPORT ACCEPTANCE AGENCY</td>
-<td>1380 DIAMOND HILL ROAD</td>
-<td>CUMBERLAND</td>
-<td>RI</td>
-<td>02864</td>
-<td>4013332500</td>
-</tr>
-<tr>
-<td>EAST PROVIDENCE FINANCE STATION</td>
-<td>17 GROVE AVE</td>
-<td>EAST PROVIDENCE</td>
-<td>RI</td>
-<td>02914</td>
-<td>4014347845</td>
-</tr>
-<tr>
-<td>EXETER PUBLIC LIBRARY</td>
-<td>773 TEN ROD ROAD</td>
-<td>EXETER</td>
-<td>RI</td>
-<td>02822</td>
-<td>4012944109</td>
-</tr>
-<tr>
-<td>GREENVILLE POST OFFICE</td>
-<td>1 AUSTIN AVE</td>
-<td>GREENVILLE</td>
-<td>RI</td>
-<td>02828</td>
-<td>4019491345</td>
-</tr>
-<tr>
-<td>NEWPORT POST OFFICE</td>
-<td>320 THAMES STREET</td>
-<td>NEWPORT</td>
-<td>RI</td>
-<td>02840</td>
-<td>4018479835</td>
-</tr>
-<tr>
-<td>PAWTUCKET POST OFFICE</td>
-<td>40 MONTGOMERY ST</td>
-<td>PAWTUCKET</td>
-<td>RI</td>
-<td>02860</td>
-<td> </td>
-</tr>
-<tr>
-<td>PAWTUCKET PUBLIC LIBRARY</td>
-<td>13 SUMMER STREET</td>
-<td>PAWTUCKET</td>
-<td>RI</td>
-<td>02860</td>
-<td>4017253714</td>
-</tr>
-<tr>
-<td>ELMWOOD POST OFFICE</td>
-<td>820 ELMWOOD AVENUE</td>
-<td>PROVIDENCE</td>
-<td>RI</td>
-<td>02907</td>
-<td>4019413421</td>
-</tr>
-<tr>
-<td>PROVIDENCE ANNEX POST OFFICE</td>
-<td>2 EXCHANGE TERRACE</td>
-<td>PROVIDENCE</td>
-<td>RI</td>
-<td>02903</td>
-<td>4014215214</td>
-</tr>
-<tr>
-<td>PROVIDENCE MAIN POST OFFICE</td>
-<td>24 CORLISS STREET</td>
-<td>PROVIDENCE</td>
-<td>RI</td>
-<td>02904</td>
-<td> </td>
-</tr>
-<tr>
-<td>SCITUATE TOWN CLERK</td>
-<td>195 DANIELSON PIKE</td>
-<td>SCITUATE</td>
-<td>RI</td>
-<td>02857</td>
-<td>4016472822</td>
-</tr>
-<tr>
-<td>WAKEFIELD POST OFFICE</td>
-<td>551 KINGSTOWN RD</td>
-<td>WAKEFIELD</td>
-<td>RI</td>
-<td>02879</td>
-<td>4017831091</td>
-</tr>
-<tr>
-<td>WARREN POST OFFICE</td>
-<td>53 CHILD ST</td>
-<td>WARREN</td>
-<td>RI</td>
-<td>02885</td>
-<td>4012450601</td>
-</tr>
-<tr>
-<td>WARWICK POST OFFICE</td>
-<td>325 STRAWBERRY FIELD RD</td>
-<td>WARWICK</td>
-<td>RI</td>
-<td>02886</td>
-<td>4014681077</td>
-</tr>
-<tr>
-<td>WEST WARWICK PUBLIC LIBRARY</td>
-<td>1043 MAIN STREET</td>
-<td>WEST WARWICK</td>
-<td>RI</td>
-<td>02893</td>
-<td>4018283750</td>
-</tr>
-<tr>
-<td>WESTERLY POST OFFICE</td>
-<td>110 TOM HARVEY RD</td>
-<td>WESTERLY</td>
-<td>RI</td>
-<td>02891</td>
-<td>4015961181</td>
-</tr>
-<tr>
-<td>WOONSOCKET POST OFFICE</td>
-<td>127 SOCIAL STREET</td>
-<td>WOONSOCKET</td>
-<td>RI</td>
-<td>02895</td>
-<td>4017696853</td>
-</tr>
-</tbody>
-</table>

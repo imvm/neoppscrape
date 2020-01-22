@@ -1,2198 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>USPS ALVA POST OFFICE</td>
-<td>17301 BROADWAY ST</td>
-<td>ALVA</td>
-<td>FL</td>
-<td>33920</td>
-<td>2397283924</td>
-</tr>
-<tr>
-<td>FRANKLIN COUNTY CLERK OF COURT - FRANKLIN COUNTY COURTHOUSE</td>
-<td>33 MARKET ST</td>
-<td>APALACHICOLA</td>
-<td>FL</td>
-<td>32320</td>
-<td>8506538861</td>
-</tr>
-<tr>
-<td>ORANGE COUNTY CLERK OF COURT - APOPKA BRANCH</td>
-<td>1111 N ROCK SPRINGS RD</td>
-<td>APOPKA</td>
-<td>FL</td>
-<td>32712</td>
-<td>4078362007</td>
-</tr>
-<tr>
-<td>DESOTO COUNTY CLERK OF COURT</td>
-<td>115 EAST OAK STREET</td>
-<td>ARCADIA</td>
-<td>FL</td>
-<td>34266</td>
-<td>8639934876</td>
-</tr>
-<tr>
-<td>USPS ARCHER POST OFFICE</td>
-<td>13553 SW STATE ROAD 45</td>
-<td>ARCHER</td>
-<td>FL</td>
-<td>32618</td>
-<td>3524952565</td>
-</tr>
-<tr>
-<td>POLK COUNTY CLERK OF COURT - BARTOW BRANCH</td>
-<td>255 N BROADWAY AVE</td>
-<td>BARTOW</td>
-<td>FL</td>
-<td>33830</td>
-<td>8635344000</td>
-</tr>
-<tr>
-<td>PALM BEACH COUNTY CLERK OF COURT - WEST COUNTY COURTHOUSE</td>
-<td>2950 STATE ROAD 15</td>
-<td>BELLE GLADE</td>
-<td>FL</td>
-<td>33430</td>
-<td>5619964843</td>
-</tr>
-<tr>
-<td>USPS BIG PINE KEY POST OFFICE</td>
-<td>29959 OVERSEAS HWY</td>
-<td>BIG PINE KEY</td>
-<td>FL</td>
-<td>33043</td>
-<td>3058722531</td>
-</tr>
-<tr>
-<td>CALHOUN COUNTY CLERK OF COURT</td>
-<td>20859 CENTRAL AVE E</td>
-<td>BLOUNTSTOWN</td>
-<td>FL</td>
-<td>32424</td>
-<td>8506744545</td>
-</tr>
-<tr>
-<td>USPS DOWNTOWN BOCA RATON POST OFFICE</td>
-<td>170 NE 2ND ST</td>
-<td>BOCA RATON</td>
-<td>FL</td>
-<td>33432</td>
-<td>5613628136</td>
-</tr>
-<tr>
-<td>USPS BOKEELIA MAIN POST OFFICE</td>
-<td>15980 STRINGFELLOW RD</td>
-<td>BOKEELIA</td>
-<td>FL</td>
-<td>33922</td>
-<td>2392834258</td>
-</tr>
-<tr>
-<td>HOLMES COUNTY CLERK OF COURT</td>
-<td>201 N OKLAHOMA ST</td>
-<td>BONIFAY</td>
-<td>FL</td>
-<td>32425</td>
-<td>8505471100</td>
-</tr>
-<tr>
-<td>USPS BONITA SPRINGS POST OFFICE</td>
-<td>26150 OLD 41ST ROAD</td>
-<td>BONITA SPRINGS</td>
-<td>FL</td>
-<td>34135</td>
-<td>2399920442</td>
-</tr>
-<tr>
-<td>USPS BOYNTON BEACH MAIN POST OFFICE</td>
-<td>1530 W BOYNTON BEACH BLVD</td>
-<td>BOYNTON BEACH</td>
-<td>FL</td>
-<td>33436</td>
-<td>5617407329</td>
-</tr>
-<tr>
-<td>MANATEE COUNTY CLERK OF COURT</td>
-<td>1115 MANATEE AVE W</td>
-<td>BRADENTON</td>
-<td>FL</td>
-<td>34205</td>
-<td>9417414020</td>
-</tr>
-<tr>
-<td>HILLSBOROUGH COUNTY CLERK OF COURT - BRANDON REGIONAL SERVICE CENTER</td>
-<td>311 PAULS DR</td>
-<td>BRANDON</td>
-<td>FL</td>
-<td>33511</td>
-<td>8132768100</td>
-</tr>
-<tr>
-<td>USPS BRANDON POST OFFICE</td>
-<td>1315 OAKFIELD DR</td>
-<td>BRANDON</td>
-<td>FL</td>
-<td>33511</td>
-<td>8136611503</td>
-</tr>
-<tr>
-<td>LIBERTY COUNTY CLERK OF COURT</td>
-<td>10818 NW STATE ROAD 20</td>
-<td>BRISTOL</td>
-<td>FL</td>
-<td>32321</td>
-<td>8506432215</td>
-</tr>
-<tr>
-<td>BROOKSVILLE MAIN POST OFFICE</td>
-<td>19101 CORTEZ BLVD.</td>
-<td>BROOKSVILLE</td>
-<td>FL</td>
-<td>34601</td>
-<td>3525444093</td>
-</tr>
-<tr>
-<td>HERNANDO COUNTY CLERK OF COURT - MAIN OFFICE</td>
-<td>20 N MAIN ST</td>
-<td>BROOKSVILLE</td>
-<td>FL</td>
-<td>34601</td>
-<td>3525406768</td>
-</tr>
-<tr>
-<td>FLAGLER COUNTY PUBLIC LIBRARY- BUNNELL BRANCH</td>
-<td>103 E. MOODY BLVD.</td>
-<td>BUNNELL</td>
-<td>FL</td>
-<td>32110</td>
-<td>3864377390</td>
-</tr>
-<tr>
-<td>USPS BUNNELL MAIN POST OFFICE</td>
-<td>704 E MOODY BVLD</td>
-<td>BUNNELL</td>
-<td>FL</td>
-<td>32110</td>
-<td>3864378453</td>
-</tr>
-<tr>
-<td>SUMTER COUNTY CLERK OF COURT - MAIN OFFICE</td>
-<td>215 E MCCOLLUM AVE</td>
-<td>BUSHNELL</td>
-<td>FL</td>
-<td>33513</td>
-<td>3525696600</td>
-</tr>
-<tr>
-<td>CITY OF CAPE CORAL</td>
-<td>1015 CULTURAL PARK BLVD</td>
-<td>CAPE CORAL</td>
-<td>FL</td>
-<td>33990</td>
-<td>2395740411</td>
-</tr>
-<tr>
-<td>USPS CASSELBERRY MAIN POST OFFICE</td>
-<td>109 LIVE OAKS BLVD</td>
-<td>CASSELBERRY</td>
-<td>FL</td>
-<td>32707</td>
-<td>4073397288</td>
-</tr>
-<tr>
-<td>USPS CENTURY POST OFFICE</td>
-<td>8450 N CENTURY BLVD</td>
-<td>CENTURY</td>
-<td>FL</td>
-<td>32535</td>
-<td>8502562376</td>
-</tr>
-<tr>
-<td>WASHINGTON COUNTY CLERK OF COURT</td>
-<td>1293 JACKSON AVE</td>
-<td>CHIPLEY</td>
-<td>FL</td>
-<td>32428</td>
-<td>8506386285</td>
-</tr>
-<tr>
-<td>USPS CHRISTMAS POST OFFICE</td>
-<td>23580 E COLONIAL DR</td>
-<td>CHRISTMAS</td>
-<td>FL</td>
-<td>32709</td>
-<td>4075682941</td>
-</tr>
-<tr>
-<td>PINELLAS COUNTY CLERK OF COURT - CLEARWATER BRANCH</td>
-<td>315 COURT ST</td>
-<td>CLEARWATER</td>
-<td>FL</td>
-<td>33756</td>
-<td>7274647000</td>
-</tr>
-<tr>
-<td>PINELLAS COUNTY CLERK OF COURT - NORTH COUNTY BRANCH</td>
-<td>29582 US HWY 19 N</td>
-<td>CLEARWATER</td>
-<td>FL</td>
-<td>33761</td>
-<td>7274647000</td>
-</tr>
-<tr>
-<td>USPS CLEARWATER MAIN POST OFFICE</td>
-<td>100 S BELCHER RD</td>
-<td>CLEARWATER</td>
-<td>FL</td>
-<td>33765</td>
-<td>7274642906</td>
-</tr>
-<tr>
-<td>CITY OF COCOA - OFFICE OF THE CITY CLERK</td>
-<td>65 STONE ST</td>
-<td>COCOA</td>
-<td>FL</td>
-<td>32922</td>
-<td>3214338480</td>
-</tr>
-<tr>
-<td>USPS COCOA POST OFFICE</td>
-<td>2000 STATE ROAD 524</td>
-<td>COCOA</td>
-<td>FL</td>
-<td>32926</td>
-<td>3216327190</td>
-</tr>
-<tr>
-<td>CITY OF COOPER CITY</td>
-<td>9090 SW 50TH PLACE</td>
-<td>COOPER CITY</td>
-<td>FL</td>
-<td>33328</td>
-<td>9544344300</td>
-</tr>
-<tr>
-<td>CITY OF CORAL GABLES</td>
-<td>4520 PONCE DE LEON BLVD</td>
-<td>CORAL GABLES</td>
-<td>FL</td>
-<td>33146</td>
-<td>3054605351</td>
-</tr>
-<tr>
-<td>CITY OF CORAL SPRINGS - CITY HALL IN THE MALL</td>
-<td>9239 W ATLANTIC BLVD</td>
-<td>CORAL SPRINGS</td>
-<td>FL</td>
-<td>33071</td>
-<td>9543441828</td>
-</tr>
-<tr>
-<td>USPS CORTEZ POST OFFICE</td>
-<td>12112 44TH AVE W</td>
-<td>CORTEZ</td>
-<td>FL</td>
-<td>34215</td>
-<td>9417941219</td>
-</tr>
-<tr>
-<td>WAKULLA COUNTY CLERK OF COURT</td>
-<td>3056 CRAWFORDVILLE HWY</td>
-<td>CRAWFORDVILLE</td>
-<td>FL</td>
-<td>32327</td>
-<td>8509260905</td>
-</tr>
-<tr>
-<td>PUTNAM COUNTY CLERK OF COURT - CRESCENT CITY SATELLITE OFFICE</td>
-<td>115 N SUMMIT ST</td>
-<td>CRESCENT CITY</td>
-<td>FL</td>
-<td>32190</td>
-<td>3866981217</td>
-</tr>
-<tr>
-<td>OKALOOSA COUNTY CLERK OF COURT - COURTHOUSE</td>
-<td>101 E JAMES LEE BLVD</td>
-<td>CRESTVIEW</td>
-<td>FL</td>
-<td>32536</td>
-<td>8506895000</td>
-</tr>
-<tr>
-<td>USPS CRESTVIEW POST OFFICE</td>
-<td>1325 COMMERCE DR</td>
-<td>CRESTVIEW</td>
-<td>FL</td>
-<td>32539</td>
-<td>8506822634</td>
-</tr>
-<tr>
-<td>PASCO COUNTY CLERK OF COURT - EAST PASCO GOVERNMENT CENTER</td>
-<td>14236 6TH ST</td>
-<td>DADE CITY</td>
-<td>FL</td>
-<td>33523</td>
-<td>3525214469</td>
-</tr>
-<tr>
-<td>USPS DANIA POST OFFICE</td>
-<td>21 NW 1ST AVE</td>
-<td>DANIA</td>
-<td>FL</td>
-<td>33004</td>
-<td>9549295745</td>
-</tr>
-<tr>
-<td>USPS DAYTONA BEACH MAIN POST OFFICE</td>
-<td>500 BILL FRANCE BOULEVARD</td>
-<td>DAYTONA BEACH</td>
-<td>FL</td>
-<td>32114</td>
-<td>3862746329</td>
-</tr>
-<tr>
-<td>USPS DE LEON SPRINGS POST OFFICE</td>
-<td>155 PONCE DE LEON BLVD</td>
-<td>DE LEON SPRINGS</td>
-<td>FL</td>
-<td>32130</td>
-<td>3869854326</td>
-</tr>
-<tr>
-<td>USPS DEBARY POST OFFICE</td>
-<td>133 S CHARLES RICHARD BEALL BLVD</td>
-<td>DEBARY</td>
-<td>FL</td>
-<td>32713</td>
-<td>3866685468</td>
-</tr>
-<tr>
-<td>BROWARD COUNTY CLERK OF COURT - NORTH REGIONAL COURTHOUSE</td>
-<td>1600 W HILLSBORO BLVD</td>
-<td>DEERFIELD BEACH</td>
-<td>FL</td>
-<td>33442</td>
-<td>9548311453</td>
-</tr>
-<tr>
-<td>USPS DEERFIELD BEACH POST OFFICE</td>
-<td>212 E HILLSBORO BLVD</td>
-<td>DEERFIELD BEACH</td>
-<td>FL</td>
-<td>33441</td>
-<td>9544210812</td>
-</tr>
-<tr>
-<td>WALTON COUNTY CLERK OF COURT - MAIN COURTHOUSE</td>
-<td>571 US HWY 90 E</td>
-<td>DEFUNIAK SPRINGS</td>
-<td>FL</td>
-<td>32433</td>
-<td>8508928115</td>
-</tr>
-<tr>
-<td>VOLUSIA COUNTY CLERK OF COURT - VOLUSIA COUNTY COURTHOUSE</td>
-<td>101 N ALABAMA AVE</td>
-<td>DELAND</td>
-<td>FL</td>
-<td>32724</td>
-<td>3867365913</td>
-</tr>
-<tr>
-<td>PALM BEACH COUNTY CLERK OF COURT- SOUTH COUNTY COURTHOUSE</td>
-<td>200 W ATLANTIC AVE</td>
-<td>DELRAY BEACH</td>
-<td>FL</td>
-<td>33444</td>
-<td>5612741588</td>
-</tr>
-<tr>
-<td>USPS EDGEWATER POST OFFICE</td>
-<td>400 S RIDGEWOOD AVE</td>
-<td>EDGEWATER</td>
-<td>FL</td>
-<td>32132</td>
-<td>3864286656</td>
-</tr>
-<tr>
-<td>USPS EGLIN AFB POST OFFICE</td>
-<td>307 W VAN MATRE AVE</td>
-<td>EGLIN AFB</td>
-<td>FL</td>
-<td>32542</td>
-<td>8508823548</td>
-</tr>
-<tr>
-<td>USPS ENGLEWOOD MAIN POST OFFICE</td>
-<td>950 S RIVER RD</td>
-<td>ENGLEWOOD</td>
-<td>FL</td>
-<td>34223</td>
-<td>9414758372</td>
-</tr>
-<tr>
-<td>COLLIER COUNTY CLERK OF COURT - EVERGLADES CITY HALL</td>
-<td>102 COPELAND AVE</td>
-<td>EVERGLADES CITY</td>
-<td>FL</td>
-<td>34139</td>
-<td>2392525477</td>
-</tr>
-<tr>
-<td>USPS FELLSMERE POST OFFICE</td>
-<td>15 N OAK ST</td>
-<td>FELLSMERE</td>
-<td>FL</td>
-<td>32948</td>
-<td>7725718315</td>
-</tr>
-<tr>
-<td>NASSAU COUNTY PUBLIC LIBRARY SYSTEM - FERNANDINA BEACH BRANCH</td>
-<td>25 N 4TH ST</td>
-<td>FERNANDINA BEACH</td>
-<td>FL</td>
-<td>32034</td>
-<td>9045306500</td>
-</tr>
-<tr>
-<td>USPS FERNANDINA BEACH MAIN POST OFFICE</td>
-<td>1997 SADLER RD</td>
-<td>FERNANDINA BEACH</td>
-<td>FL</td>
-<td>32034</td>
-<td>9044914680</td>
-</tr>
-<tr>
-<td>USPS FLEMING ISLAND POST OFFICE</td>
-<td>1880 EASTWEST PKWY</td>
-<td>FLEMING ISLAND</td>
-<td>FL</td>
-<td>32003</td>
-<td>9042648913</td>
-</tr>
-<tr>
-<td>BROWARD COUNTY CLERK OF COURT - CENTRAL COURTHOUSE</td>
-<td>201 SE 6TH ST</td>
-<td>FORT LAUDERDALE</td>
-<td>FL</td>
-<td>33301</td>
-<td>9548312343</td>
-</tr>
-<tr>
-<td>BROWARD COUNTY RECORDS, TAXES AND TREASURY DIVISION - PASSPORT SECTION</td>
-<td>115 S ANDREWS AVE</td>
-<td>FORT LAUDERDALE</td>
-<td>FL</td>
-<td>33301</td>
-<td>9548314000</td>
-</tr>
-<tr>
-<td>USPS ALRIDGE STATION</td>
-<td>400 NW 7TH AVE</td>
-<td>FORT LAUDERDALE</td>
-<td>FL</td>
-<td>33311</td>
-<td>9545230327</td>
-</tr>
-<tr>
-<td>USPS EVERGLADES BRANCH</td>
-<td>6759 SW 196TH AVE</td>
-<td>FORT LAUDERDALE</td>
-<td>FL</td>
-<td>33332</td>
-<td>9544348517</td>
-</tr>
-<tr>
-<td>USPS FORT LAUDERDALE MAIN POST OFFICE</td>
-<td>1900 W OAKLAND PARK BLVD</td>
-<td>FORT LAUDERDALE</td>
-<td>FL</td>
-<td>33310</td>
-<td>9545273245</td>
-</tr>
-<tr>
-<td>USPS PAGE FIELD POST OFFICE</td>
-<td>2655 N AIRPORT RD</td>
-<td>FORT MYERS</td>
-<td>FL</td>
-<td>33907</td>
-<td>2392773336</td>
-</tr>
-<tr>
-<td>USPS FORT PIERCE MAIN POST OFFICE</td>
-<td>5000 W MIDWAY RD</td>
-<td>FORT PIERCE</td>
-<td>FL</td>
-<td>34981</td>
-<td>7724600841</td>
-</tr>
-<tr>
-<td>FORT WALTON BEACH LIBRARY</td>
-<td>185 MIRACLE STRIP PKWY SE</td>
-<td>FORT WALTON BEACH</td>
-<td>FL</td>
-<td>32548</td>
-<td>8508339590</td>
-</tr>
-<tr>
-<td>INDIAN TEMPLE MOUND MUSEUM</td>
-<td>139 MIRACLE STRIP PKWY SE</td>
-<td>FORT WALTON BEACH</td>
-<td>FL</td>
-<td>32548</td>
-<td>8508339595</td>
-</tr>
-<tr>
-<td>OKALOOSA COUNTY CLERK OF COURT - COURTHOUSE ANNEX EXTENSION</td>
-<td>1940 LEWIS TURNER BLVD</td>
-<td>FORT WALTON BEACH</td>
-<td>FL</td>
-<td>32547</td>
-<td>8506517200</td>
-</tr>
-<tr>
-<td>USPS FORT WALTON BEACH POST OFFICE</td>
-<td>21 WALTER MARTIN RD NE</td>
-<td>FORT WALTON BEACH</td>
-<td>FL</td>
-<td>32548</td>
-<td>8507963194</td>
-</tr>
-<tr>
-<td>LEE COUNTY CLERK OF COURT</td>
-<td>2115 2ND ST</td>
-<td>FT. MYERS</td>
-<td>FL</td>
-<td>33901</td>
-<td>2395335007</td>
-</tr>
-<tr>
-<td>SAINT LUCIE COUNTY CLERK OF COURT - MAIN OFFICE</td>
-<td>201 S INDIAN RIVER DR</td>
-<td>FT. PIERCE</td>
-<td>FL</td>
-<td>34950</td>
-<td>7724623207</td>
-</tr>
-<tr>
-<td>ALACUHA COUNTY CLERK OF COURT - FAMILY/CIVIL JUSTICE CENTER</td>
-<td>201 E UNIVERSITY AVE</td>
-<td>GAINESVILLE</td>
-<td>FL</td>
-<td>32601</td>
-<td>3523743636</td>
-</tr>
-<tr>
-<td>UNIVERSITY OF FLORIDA - MAIL AND DOCUMENT SERVICES</td>
-<td>3030 RADIO RD</td>
-<td>GAINESVILLE</td>
-<td>FL</td>
-<td>32611</td>
-<td>3523921134</td>
-</tr>
-<tr>
-<td>USPS MAIN STREET STATION</td>
-<td>1401 N MAIN ST</td>
-<td>GAINESVILLE</td>
-<td>FL</td>
-<td>32601</td>
-<td>3523763757</td>
-</tr>
-<tr>
-<td>USPS UNIVERSITY STATION</td>
-<td>1630 NW 1ST AVE</td>
-<td>GAINESVILLE</td>
-<td>FL</td>
-<td>32603</td>
-<td>3523763757</td>
-</tr>
-<tr>
-<td>USPS GLEN SAINT MARY POST OFFICE</td>
-<td>7345 W MOUNT VERNON ST</td>
-<td>GLEN SAINT MARY</td>
-<td>FL</td>
-<td>32040</td>
-<td>9042596789</td>
-</tr>
-<tr>
-<td>USPS GONZALEZ POST OFFICE</td>
-<td>1450 OLD CHEMSTRAND RD</td>
-<td>GONZALEZ</td>
-<td>FL</td>
-<td>32560</td>
-<td>8509689338</td>
-</tr>
-<tr>
-<td>CLAY COUNTY CLERK OF COURT - MAIN OFFICE</td>
-<td>825 N ORANGE AVE</td>
-<td>GREEN COVE SPRINGS</td>
-<td>FL</td>
-<td>32043</td>
-<td>9042846362</td>
-</tr>
-<tr>
-<td>CITY OF GREENACRES - CITY HALL</td>
-<td>5800 MELALEUCA LANE</td>
-<td>GREENACRES</td>
-<td>FL</td>
-<td>33463</td>
-<td>5616422024</td>
-</tr>
-<tr>
-<td>SANTA ROSA COUNTY CLERK OF COURT - SOUTH END SERVICE CENTER</td>
-<td>5841 GULF BREEZE PKWY</td>
-<td>GULF BREEZE</td>
-<td>FL</td>
-<td>32563</td>
-<td>8509831823</td>
-</tr>
-<tr>
-<td>USPS HAINES CITY POST OFFICE</td>
-<td>1051 STATE ROAD 544 E</td>
-<td>HAINES CITY</td>
-<td>FL</td>
-<td>33844</td>
-<td>8634222901</td>
-</tr>
-<tr>
-<td>USPS HALLANDALE MAIN POST OFFICE</td>
-<td>500 S FEDERAL HWY</td>
-<td>HALLANDALE BEACH</td>
-<td>FL</td>
-<td>33009</td>
-<td>9544559733</td>
-</tr>
-<tr>
-<td>USPS EL MERCADO POSTAL STORE</td>
-<td>2440 W 60TH ST</td>
-<td>HIALEAH</td>
-<td>FL</td>
-<td>33016</td>
-<td>3058229954</td>
-</tr>
-<tr>
-<td>USPS HIALEAH MAIN POST OFFICE</td>
-<td>325 E 1ST AVE</td>
-<td>HIALEAH</td>
-<td>FL</td>
-<td>33010</td>
-<td>3058895421</td>
-</tr>
-<tr>
-<td>USPS PALMETTO LAKES POST OFFICE</td>
-<td>5375 NW 159TH ST</td>
-<td>HIALEAH</td>
-<td>FL</td>
-<td>33014</td>
-<td>3056237993</td>
-</tr>
-<tr>
-<td>USPS PROMENADE BRANCH</td>
-<td>3690 W 18TH AVE</td>
-<td>HIALEAH</td>
-<td>FL</td>
-<td>33012</td>
-<td>3058199945</td>
-</tr>
-<tr>
-<td>MARTIN COUNTY CLERK OF COURT - HOBE SOUND BRANCH OFFICE</td>
-<td>11730 SE FEDERAL HWY</td>
-<td>HOBE SOUND</td>
-<td>FL</td>
-<td>33455</td>
-<td>7725461308</td>
-</tr>
-<tr>
-<td>USPS HOLDER POST OFFICE</td>
-<td>6906 N FLORIDA AVE</td>
-<td>HOLDER</td>
-<td>FL</td>
-<td>34445</td>
-<td>3524895351</td>
-</tr>
-<tr>
-<td>BROWARD COUNTY CLERK OF COURT - SOUTH REGIONAL COURTHOUSE</td>
-<td>3550 HOLLYWOOD BLVD</td>
-<td>HOLLYWOOD</td>
-<td>FL</td>
-<td>33021</td>
-<td>9548310320</td>
-</tr>
-<tr>
-<td>USPS HOLLYWOOD MAIN POST OFFICE</td>
-<td>1801 POLK ST</td>
-<td>HOLLYWOOD</td>
-<td>FL</td>
-<td>33022</td>
-<td>9549268669</td>
-</tr>
-<tr>
-<td>USPS HOMESTEAD MAIN POST OFFICE</td>
-<td>739 WASHINGTON AVE</td>
-<td>HOMESTEAD</td>
-<td>FL</td>
-<td>33030</td>
-<td>3052471556</td>
-</tr>
-<tr>
-<td>USPS HUDSON POST OFFICE</td>
-<td>13610 BIG BEND DR</td>
-<td>HUDSON</td>
-<td>FL</td>
-<td>34667</td>
-<td>7278190073</td>
-</tr>
-<tr>
-<td>COLLIER COUNTY CLERK OF COURT - IMMOKALEE COURTHOUSE</td>
-<td>106 S 1ST ST</td>
-<td>IMMOKALEE</td>
-<td>FL</td>
-<td>34142</td>
-<td>2392525477</td>
-</tr>
-<tr>
-<td>USPS INDIAN ROCKS BEACH POST OFFICE</td>
-<td>204 4TH AVE</td>
-<td>INDIAN ROCKS BEACH</td>
-<td>FL</td>
-<td>33785</td>
-<td>7275962894</td>
-</tr>
-<tr>
-<td>USPS INDIANTOWN POST OFFICE</td>
-<td>15300 SW ADAMS AVE</td>
-<td>INDIANTOWN</td>
-<td>FL</td>
-<td>34956</td>
-<td>7725972406</td>
-</tr>
-<tr>
-<td>USPS INTERLACHEN POST OFFICE</td>
-<td>100 MATHE AVE</td>
-<td>INTERLACHEN</td>
-<td>FL</td>
-<td>32148</td>
-<td>3866842228</td>
-</tr>
-<tr>
-<td>CITRUS COUNTY CLERK OF COURT - MAIN COURTHOUSE</td>
-<td>120 N. MONTGOMERY AVENUE</td>
-<td>INVERNESS</td>
-<td>FL</td>
-<td>34450</td>
-<td>3523416424</td>
-</tr>
-<tr>
-<td>USPS ISLAMORADA POST OFFICE</td>
-<td>82801 OVERSEAS HWY</td>
-<td>ISLAMORADA</td>
-<td>FL</td>
-<td>33036</td>
-<td>3056640649</td>
-</tr>
-<tr>
-<td>DUVAL COUNTY CLERK OF COURT - DOWNTOWN COURTHOUSE</td>
-<td>501 W ADAMS ST</td>
-<td>JACKSONVILLE</td>
-<td>FL</td>
-<td>32202</td>
-<td>9042551930</td>
-</tr>
-<tr>
-<td>USPS JACKSONVILLE MAIN OFFICE WINDOW UNIT</td>
-<td>1100 KINGS ROAD</td>
-<td>JACKSONVILLE</td>
-<td>FL</td>
-<td>32203</td>
-<td>9043664886</td>
-</tr>
-<tr>
-<td>USPS MANDARIN POST OFFICE</td>
-<td>4411 SUNBEAM RD</td>
-<td>JACKSONVILLE</td>
-<td>FL</td>
-<td>32257</td>
-<td>9043664866</td>
-</tr>
-<tr>
-<td>USPS POTTSBURG STATION</td>
-<td>10700 BEACH BLVD</td>
-<td>JACKSONVILLE</td>
-<td>FL</td>
-<td>32246</td>
-<td>9043664886</td>
-</tr>
-<tr>
-<td>USPS JENSEN BEACH POST OFFICE</td>
-<td>2301 NE SAVANNAH RD</td>
-<td>JENSEN BEACH</td>
-<td>FL</td>
-<td>34957</td>
-<td>7722320869</td>
-</tr>
-<tr>
-<td>KATHLEEN POST OFFICE</td>
-<td>6136 KATHLEEN ROAD</td>
-<td>KATHLEEN</td>
-<td>FL</td>
-<td>33849</td>
-<td>8638162201</td>
-</tr>
-<tr>
-<td>USPS KEY BISCAYNE BRANCH</td>
-<td>951 CRANDON BLVD</td>
-<td>KEY BISCAYNE</td>
-<td>FL</td>
-<td>33149</td>
-<td>3053619149</td>
-</tr>
-<tr>
-<td>VILLAGE OF KEY BISCAYNE</td>
-<td>10 VILLAGE GREEN WAY</td>
-<td>KEY BISCAYNE</td>
-<td>FL</td>
-<td>33149</td>
-<td>3053658900</td>
-</tr>
-<tr>
-<td>FLORIDA KEYS COMMUNITY COLLEGE</td>
-<td>5901 COLLEGE RD</td>
-<td>KEY WEST</td>
-<td>FL</td>
-<td>33040</td>
-<td>3058093186</td>
-</tr>
-<tr>
-<td>USPS KEY WEST POST OFFICE</td>
-<td>400 WHITEHEAD ST</td>
-<td>KEY WEST</td>
-<td>FL</td>
-<td>33040</td>
-<td>3052949539</td>
-</tr>
-<tr>
-<td>OSCEOLA COUNTY CLERK OF COURT - MAIN OFFICE</td>
-<td>2 COURTHOUSE SQ</td>
-<td>KISSIMMEE</td>
-<td>FL</td>
-<td>34741</td>
-<td>4077423530</td>
-</tr>
-<tr>
-<td>HENDRY COUNTY CLERK OF CIRCUIT COURT</td>
-<td>25 E HICKPOCHEE AVE</td>
-<td>LABELLE</td>
-<td>FL</td>
-<td>33935</td>
-<td>8636755216</td>
-</tr>
-<tr>
-<td>LAKE COUNTY CLERK OF COURT - NORTH LAKE BRANCH OFFICE</td>
-<td>902 AVENIDA CENTRAL</td>
-<td>LADY LAKE</td>
-<td>FL</td>
-<td>32159</td>
-<td>3527532064</td>
-</tr>
-<tr>
-<td>UNION COUNTY CLERK OF COURTS</td>
-<td>55 W MAIN ST</td>
-<td>LAKE BUTLER</td>
-<td>FL</td>
-<td>32054</td>
-<td>3864963711</td>
-</tr>
-<tr>
-<td>COLUMBIA COUNTY CLERK OF COURT</td>
-<td>173 NE HERNANDO AVE</td>
-<td>LAKE CITY</td>
-<td>FL</td>
-<td>32055</td>
-<td>3867547005</td>
-</tr>
-<tr>
-<td>US POSTAL SERVICE LAKE HELEN FL</td>
-<td>104 E. MICHIGAN AVE.</td>
-<td>LAKE HELEN</td>
-<td>FL</td>
-<td>32744</td>
-<td>3862282227</td>
-</tr>
-<tr>
-<td>USPS LAKE PLACID POST OFFICE</td>
-<td>901 HILLCREST AVE</td>
-<td>LAKE PLACID</td>
-<td>FL</td>
-<td>33852</td>
-<td>8636996776</td>
-</tr>
-<tr>
-<td>POLK COUNTY CLERK OF COURT - LAKELAND BRANCH</td>
-<td>930 E PARKER ST</td>
-<td>LAKELAND</td>
-<td>FL</td>
-<td>33801</td>
-<td>8635344000</td>
-</tr>
-<tr>
-<td>USPS LAKELAND MAIN POST OFFICE</td>
-<td>2800 LAKELAND HILLS BLVD</td>
-<td>LAKELAND</td>
-<td>FL</td>
-<td>33805</td>
-<td>8638022070</td>
-</tr>
-<tr>
-<td>USPS LAND O LAKES MAIN POST OFFICE</td>
-<td>5230 LAND O LAKES BLVD</td>
-<td>LAND O LAKES</td>
-<td>FL</td>
-<td>34639</td>
-<td>18002758777</td>
-</tr>
-<tr>
-<td>LAKE COUNTY LIBRARY SYSTEM - LEESBURG PUBLIC LIBRARY</td>
-<td>100 E MAIN ST</td>
-<td>LEESBURG</td>
-<td>FL</td>
-<td>34748</td>
-<td>3527289790</td>
-</tr>
-<tr>
-<td>USPS LEHIGH ACRES POST OFFICE</td>
-<td>1201 BUSINESS WAY</td>
-<td>LEHIGH ACRES</td>
-<td>FL</td>
-<td>33936</td>
-<td>2393698911</td>
-</tr>
-<tr>
-<td>SUWANNEE COUNTY CLERK OF COURT</td>
-<td>200 S OHIO AVE</td>
-<td>LIVE OAK</td>
-<td>FL</td>
-<td>32064</td>
-<td>3863620500</td>
-</tr>
-<tr>
-<td>BAKER COUNTY CLERK OF COURT</td>
-<td>339 E MACCLENNY AVE</td>
-<td>MACCLENNY</td>
-<td>FL</td>
-<td>32063</td>
-<td>9042590205</td>
-</tr>
-<tr>
-<td>MADISON COUNTY CLERK OF COURT</td>
-<td>125 SW RANGE AVE</td>
-<td>MADISON</td>
-<td>FL</td>
-<td>32340</td>
-<td>8509731500</td>
-</tr>
-<tr>
-<td>USPS MARATHON POST OFFICE</td>
-<td>5171 OVERSEAS HWY</td>
-<td>MARATHON</td>
-<td>FL</td>
-<td>33050</td>
-<td>3057435238</td>
-</tr>
-<tr>
-<td>JACKSON COUNTY CLERK OF COURT</td>
-<td>4445 LAFAYETTE ST</td>
-<td>MARIANNA</td>
-<td>FL</td>
-<td>32446</td>
-<td>8504829552</td>
-</tr>
-<tr>
-<td>LAFAYETTE COUNTY CLERK OF COURT</td>
-<td>120 W MAIN ST</td>
-<td>MAYO</td>
-<td>FL</td>
-<td>32066</td>
-<td>3862941600</td>
-</tr>
-<tr>
-<td>USPS MAYO POST OFFICE</td>
-<td>157 E MAIN ST</td>
-<td>MAYO</td>
-<td>FL</td>
-<td>32066</td>
-<td>3862941623</td>
-</tr>
-<tr>
-<td>BREVARD COUNTY CLERK OF COURT - MELBOURNE BRANCH COURTHOUSE</td>
-<td>51 S NIEMAN AVE</td>
-<td>MELBOURNE</td>
-<td>FL</td>
-<td>32901</td>
-<td>3216375413</td>
-</tr>
-<tr>
-<td>USPS MELBOURNE MAIN POST OFFICE</td>
-<td>640 E NEW HAVEN AVE</td>
-<td>MELBOURNE</td>
-<td>FL</td>
-<td>32901</td>
-<td>3217241488</td>
-</tr>
-<tr>
-<td>BREVARD COUNTY CLERK OF COURT - MERRITT ISLAND OFFICE</td>
-<td>2575 N COURTENAY PKWY</td>
-<td>MERRITT ISLAND</td>
-<td>FL</td>
-<td>32953</td>
-<td>3216375413</td>
-</tr>
-<tr>
-<td>CITY OF MIAMI</td>
-<td>3500 PAN AMERICAN DR</td>
-<td>MIAMI</td>
-<td>FL</td>
-<td>33133</td>
-<td>3058592705</td>
-</tr>
-<tr>
-<td>MIAMI-DADE PUBLIC LIBRARY SYSTEM - SOUTH DADE REGIONAL LIBRARY</td>
-<td>10750 SW 211TH ST</td>
-<td>MIAMI</td>
-<td>FL</td>
-<td>33189</td>
-<td>3052338140</td>
-</tr>
-<tr>
-<td>USPS JOSE MARTI STATION</td>
-<td>425 NW 27TH AVE</td>
-<td>MIAMI</td>
-<td>FL</td>
-<td>33125</td>
-<td>3055413264</td>
-</tr>
-<tr>
-<td>USPS KENDALL FINANCE UNIT</td>
-<td>8821 SW 136TH ST</td>
-<td>MIAMI</td>
-<td>FL</td>
-<td>33176</td>
-<td>3052351973</td>
-</tr>
-<tr>
-<td>USPS LITTLE RIVER BRANCH</td>
-<td>140 NE 84TH ST</td>
-<td>MIAMI</td>
-<td>FL</td>
-<td>33138</td>
-<td>3057541329</td>
-</tr>
-<tr>
-<td>USPS MIAMI GENERAL MAIL FACILITY</td>
-<td>2200 NW 72ND AVE</td>
-<td>MIAMI</td>
-<td>FL</td>
-<td>33152</td>
-<td>8558643379</td>
-</tr>
-<tr>
-<td>USPS QUAIL HEIGHTS BRANCH</td>
-<td>10360 SW 186TH ST</td>
-<td>MIAMI</td>
-<td>FL</td>
-<td>33197</td>
-<td>8558643379</td>
-</tr>
-<tr>
-<td>USPS SNAPPER CREEK BRANCH</td>
-<td>11000 SW 104TH ST</td>
-<td>MIAMI</td>
-<td>FL</td>
-<td>33116</td>
-<td>3055966024</td>
-</tr>
-<tr>
-<td>USPS SOUTH MIAMI BRANCH</td>
-<td>5927 SW 70TH ST</td>
-<td>MIAMI</td>
-<td>FL</td>
-<td>33143</td>
-<td>3056615435</td>
-</tr>
-<tr>
-<td>USPS SURFSIDE POST OFFICE</td>
-<td>250 95TH ST</td>
-<td>MIAMI</td>
-<td>FL</td>
-<td>33154</td>
-<td>3058679637</td>
-</tr>
-<tr>
-<td>USPS TOWN AND COUNTRY POSTAL STORE</td>
-<td>8266 MILLS DR</td>
-<td>MIAMI</td>
-<td>FL</td>
-<td>33283</td>
-<td>3052790679</td>
-</tr>
-<tr>
-<td>CITY OF MIAMI BEACH - FINANCE OFFICE</td>
-<td>1755 MERIDIAN AVE</td>
-<td>MIAMI BEACH</td>
-<td>FL</td>
-<td>33139</td>
-<td>3056737420</td>
-</tr>
-<tr>
-<td>USPS MIAMI BEACH MAIN POST OFFICE</td>
-<td>1300 WASHINGTON AVENUE</td>
-<td>MIAMI BEACH</td>
-<td>FL</td>
-<td>33139</td>
-<td>3055341891</td>
-</tr>
-<tr>
-<td>USPS NORMANDY POST OFFICE</td>
-<td>525 71ST ST</td>
-<td>MIAMI BEACH</td>
-<td>FL</td>
-<td>33141</td>
-<td>3058648155</td>
-</tr>
-<tr>
-<td>USPS OCEAN VIEW POST OFFICE</td>
-<td>445 W 40TH ST</td>
-<td>MIAMI BEACH</td>
-<td>FL</td>
-<td>33140</td>
-<td>3055386536</td>
-</tr>
-<tr>
-<td>NORTH DADE REGIONAL LIBRARY</td>
-<td>2455 N.W. 183RD STREET</td>
-<td>MIAMI GARDENS</td>
-<td>FL</td>
-<td>33056</td>
-<td>3056256424</td>
-</tr>
-<tr>
-<td>SANTA ROSA COUNTY CLERK OF COURT - RECORDING DEPARTMENT</td>
-<td>6495 CAROLINE ST</td>
-<td>MILTON</td>
-<td>FL</td>
-<td>32570</td>
-<td>8509831980</td>
-</tr>
-<tr>
-<td>USPS MIMS POST OFFICE</td>
-<td>3405 KELLY RD</td>
-<td>MIMS</td>
-<td>FL</td>
-<td>32754</td>
-<td>3212675122</td>
-</tr>
-<tr>
-<td>LAKE COUNTY CLERK OF COURT - SOUTH LAKE MINNEOLA BRANCH OFFICE</td>
-<td>800 N US HIGHWAY 27</td>
-<td>MINNEOLA</td>
-<td>FL</td>
-<td>34715</td>
-<td>3523942018</td>
-</tr>
-<tr>
-<td>CITY OF MIRAMAR</td>
-<td>2300 CIVIC CENTER PL</td>
-<td>MIRAMAR</td>
-<td>FL</td>
-<td>33025</td>
-<td>9546023011</td>
-</tr>
-<tr>
-<td>JEFFERSON COUNTY CLERK OF COURT</td>
-<td>1 COURTHOUSE CIR</td>
-<td>MONTICELLO</td>
-<td>FL</td>
-<td>32344</td>
-<td>8503420218</td>
-</tr>
-<tr>
-<td>GLADES COUNTY CLERK OF COURT</td>
-<td>500 AVE J</td>
-<td>MOORE HAVEN</td>
-<td>FL</td>
-<td>33471</td>
-<td>8639466010</td>
-</tr>
-<tr>
-<td>COLLIER COUNTY CLERK OF CIRCUIT COURT - MAIN OFFICE</td>
-<td>3315 E TAMIAMI TRL E</td>
-<td>NAPLES</td>
-<td>FL</td>
-<td>34112</td>
-<td>2392527242</td>
-</tr>
-<tr>
-<td>COLLIER COUNTY CLERK OF COURT - EAGLE CREEK SATELLITE OFFICE</td>
-<td>12668 E TAMIAMI TRAIL</td>
-<td>NAPLES</td>
-<td>FL</td>
-<td>34113</td>
-<td>2394173066</td>
-</tr>
-<tr>
-<td>COLLIER COUNTY CLERK OF COURT - GOLDEN GATE ANNEX</td>
-<td>4715 GOLDEN GATE PKWY</td>
-<td>NAPLES</td>
-<td>FL</td>
-<td>34116</td>
-<td>2392525477</td>
-</tr>
-<tr>
-<td>COLLIER COUNTY CLERK OF COURT - NORTH COLLIER GOVERNMENT SERVICES CENTER</td>
-<td>2335 ORANGE BLOSSOM DR</td>
-<td>NAPLES</td>
-<td>FL</td>
-<td>34109</td>
-<td>2392525477</td>
-</tr>
-<tr>
-<td>DUVAL COUNTY CLERK OF COURT - BEACHES BRANCH</td>
-<td>1543 ALTANTIC BLVD</td>
-<td>NEPTUNE BEACH</td>
-<td>FL</td>
-<td>32266</td>
-<td>9042552000</td>
-</tr>
-<tr>
-<td>PASCO COUNTY CLERK OF COURT - WEST PASCO GOVERNMENT CENTER</td>
-<td>8731 CITIZENS DR</td>
-<td>NEW PORT RICHEY</td>
-<td>FL</td>
-<td>34654</td>
-<td>7278478086</td>
-</tr>
-<tr>
-<td>USPS NEW PORT RICHEY MAIN POST OFFICE</td>
-<td>6550 MAIN ST</td>
-<td>NEW PORT RICHEY</td>
-<td>FL</td>
-<td>34653</td>
-<td>7278471659</td>
-</tr>
-<tr>
-<td>OKALOOSA COUNTY TAX COLLECTOR - NICEVILLE TAX OFFICE</td>
-<td>701 E JOHN SIMS PKWY</td>
-<td>NICEVILLE</td>
-<td>FL</td>
-<td>32578</td>
-<td>8506517300</td>
-</tr>
-<tr>
-<td>NORTH BAY VILLAGE - OFFICE OF THE VILLAGE CLERK</td>
-<td>1666 KENNEDY CSWY</td>
-<td>NORTH BAY VILLAGE</td>
-<td>FL</td>
-<td>33141</td>
-<td>3057567171</td>
-</tr>
-<tr>
-<td>CITY OF NORTH MIAMI</td>
-<td>776 NE 125TH ST</td>
-<td>NORTH MIAMI</td>
-<td>FL</td>
-<td>33161</td>
-<td>3058959817</td>
-</tr>
-<tr>
-<td>USPS NORTH MIAMI BRANCH</td>
-<td>14311 BISCAYNE BLVD</td>
-<td>NORTH MIAMI</td>
-<td>FL</td>
-<td>33181</td>
-<td>3053544612</td>
-</tr>
-<tr>
-<td>NORTH MIAMI BEACH PUBLIC LIBRARY</td>
-<td>1601 NE 164 ST</td>
-<td>NORTH MIAMI BEACH</td>
-<td>FL</td>
-<td>33162</td>
-<td>3059482970</td>
-</tr>
-<tr>
-<td>USPS OAK HILL POST OFFICE</td>
-<td>129 EAST HALIFAX AVENUE</td>
-<td>OAK HILL</td>
-<td>FL</td>
-<td>32759</td>
-<td>3863453574</td>
-</tr>
-<tr>
-<td>MARION COUNTY CLERK OF COURT - ANNEX BUILDING</td>
-<td>19 NORTHWEST PINE AVENUE</td>
-<td>OCALA</td>
-<td>FL</td>
-<td>34475</td>
-<td>3526715588</td>
-</tr>
-<tr>
-<td>OCALA PADDOCK BRANCH</td>
-<td>4545 S.W. 60TH AVENUE</td>
-<td>OCALA</td>
-<td>FL</td>
-<td>34474</td>
-<td>3528618188</td>
-</tr>
-<tr>
-<td>ORANGE COUNTY CLERK OF COURT - OCOEE BRANCH</td>
-<td>475 W STORY RD</td>
-<td>OCOEE</td>
-<td>FL</td>
-<td>34761</td>
-<td>4078362007</td>
-</tr>
-<tr>
-<td>OKEECHOBEE COUNTY CLERK OF CIRCUIT COURT</td>
-<td>312 NW 3RD ST</td>
-<td>OKEECHOBEE</td>
-<td>FL</td>
-<td>34972</td>
-<td>8637632131</td>
-</tr>
-<tr>
-<td>USPS OLDSMAR POST OFFICE</td>
-<td>3905 TAMPA RD</td>
-<td>OLDSMAR</td>
-<td>FL</td>
-<td>34677</td>
-<td>8138544660</td>
-</tr>
-<tr>
-<td>USPS ONECO POST OFFICE</td>
-<td>2333 53RD AVE E</td>
-<td>ONECO</td>
-<td>FL</td>
-<td>34264</td>
-<td>9417568216</td>
-</tr>
-<tr>
-<td>CLAY COUNTY CLERK OF COURT - ORANGE PARK BRANCH</td>
-<td>1478 PARK AVE</td>
-<td>ORANGE PARK</td>
-<td>FL</td>
-<td>32073</td>
-<td>9042784769</td>
-</tr>
-<tr>
-<td>ORANGE COUNTY CLERK OF COURT - GOLDENROD SERVICE CENTER</td>
-<td>684 S GOLDENROD RD</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32822</td>
-<td>4078362000</td>
-</tr>
-<tr>
-<td>ORANGE COUNTY CLERK OF COURT - ORANGE COUNTY COURTHOUSE</td>
-<td>425 N ORANGE AVE</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32801</td>
-<td>4078366373</td>
-</tr>
-<tr>
-<td>ORLANDO PUBLIC LIBRARY SYSTEM</td>
-<td>101 E. CENTRAL BLVD.</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32801</td>
-<td>4078357323</td>
-</tr>
-<tr>
-<td>UNIVERSITY OF CENTRAL FLORIDA - THE SPOT</td>
-<td>106 AQUARIUS AGORA DR</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32816</td>
-<td>4078232500</td>
-</tr>
-<tr>
-<td>USPS ALAFAYA POST OFFICE</td>
-<td>650 NORTH ALAFAYA TRAIL</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32828</td>
-<td>4072736788</td>
-</tr>
-<tr>
-<td>USPS DIXIE VILLAGE STATION</td>
-<td>2860 DELANEY AVE</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32806</td>
-<td>4074252868</td>
-</tr>
-<tr>
-<td>USPS DOWNTOWN ORLANDO STATION</td>
-<td>51 E JEFFERSON ST</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32801</td>
-<td>4074256464</td>
-</tr>
-<tr>
-<td>USPS HERNDON POST OFFICE</td>
-<td>821 HERNDON AVE</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32814</td>
-<td>4078976774</td>
-</tr>
-<tr>
-<td>USPS ORLANDO LOCKHART BRANCH</td>
-<td>5087 EDGEWATER DRIVE</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32810</td>
-<td>4072935360</td>
-</tr>
-<tr>
-<td>USPS ORLANDO MOWU</td>
-<td>10401 POST OFFICE BOULEVARD</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32862</td>
-<td>4078506334</td>
-</tr>
-<tr>
-<td>USPS SAND LAKE BRANCH</td>
-<td>10450 TURKEY LAKE RD</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32819</td>
-<td>4073510613</td>
-</tr>
-<tr>
-<td>USPS SOUTH CREEK POST OFFICE</td>
-<td>1701 WEST WETHERBEE ROAD</td>
-<td>ORLANDO</td>
-<td>FL</td>
-<td>32837</td>
-<td>4078556558</td>
-</tr>
-<tr>
-<td>USPS OSPREY POST OFFICE</td>
-<td>333 S TAMIAMI TRL</td>
-<td>OSPREY</td>
-<td>FL</td>
-<td>34229</td>
-<td>9419665381</td>
-</tr>
-<tr>
-<td>USPS PAISLEY POST OFFICE</td>
-<td>24952 COUNTY ROAD 42</td>
-<td>PAISLEY</td>
-<td>FL</td>
-<td>32767</td>
-<td>3526694253</td>
-</tr>
-<tr>
-<td>PUTNAM COUNTY CLERK OF COURT - RECORDING DEPARTMENT</td>
-<td>518 ST. JOHNS AVE</td>
-<td>PALATKA</td>
-<td>FL</td>
-<td>32177</td>
-<td>3863267680</td>
-</tr>
-<tr>
-<td>BREVARD COUNTY CLERK OF COURT - PALM BAY OFFICE</td>
-<td>450 COGAN DR SE</td>
-<td>PALM BAY</td>
-<td>FL</td>
-<td>32909</td>
-<td>3216375413</td>
-</tr>
-<tr>
-<td>CITY OF PALM BAY</td>
-<td>120 MALABAR RD</td>
-<td>PALM BAY</td>
-<td>FL</td>
-<td>32907</td>
-<td>3217333023</td>
-</tr>
-<tr>
-<td>PALM BEACH COUNTY CLERK OF COURT - NORTH COUNTY COURTHOUSE</td>
-<td>3188 PGA BLVD</td>
-<td>PALM BEACH GARDENS</td>
-<td>FL</td>
-<td>33410</td>
-<td>5616246650</td>
-</tr>
-<tr>
-<td>USPS PALM BEACH GARDENS BRANCH</td>
-<td>3330 FAIRCHILD GARDENS AVE</td>
-<td>PALM BEACH GARDENS</td>
-<td>FL</td>
-<td>33410</td>
-<td>5617994068</td>
-</tr>
-<tr>
-<td>FLAGLER COUNTY PUBLIC LIBRARY - MAIN BRANCH</td>
-<td>2500 PALM COAST PKWY NW</td>
-<td>PALM COAST</td>
-<td>FL</td>
-<td>32137</td>
-<td>3864466763</td>
-</tr>
-<tr>
-<td>VILLAGE OF PALMETTO BAY</td>
-<td>9705 EAST HIBISCUS ST</td>
-<td>PALMETTO BAY</td>
-<td>FL</td>
-<td>33157</td>
-<td>3052591234</td>
-</tr>
-<tr>
-<td>BAY COUNTY CLERK OF COURT</td>
-<td>300 E 4TH ST</td>
-<td>PANAMA CITY</td>
-<td>FL</td>
-<td>32401</td>
-<td>8507639061</td>
-</tr>
-<tr>
-<td>USPS PANAMA CITY DOWNTOWN STATION</td>
-<td>421 JENKS AVENUE</td>
-<td>PANAMA CITY</td>
-<td>FL</td>
-<td>32401</td>
-<td>8507636509</td>
-</tr>
-<tr>
-<td>USPS PANAMA CITY GMF</td>
-<td>1336 SHERMAN AVE</td>
-<td>PANAMA CITY</td>
-<td>FL</td>
-<td>32401</td>
-<td>8507474853</td>
-</tr>
-<tr>
-<td>CITY OF PEMBROKE PINES</td>
-<td>601 CITY CENTER WAY</td>
-<td>PEMBROKE PINES</td>
-<td>FL</td>
-<td>33025</td>
-<td>9544501043</td>
-</tr>
-<tr>
-<td>ESCAMBIA COUNTY CLERK OF COURT - CLERK COMPTROLLER OFFICES</td>
-<td>221 PALAFOX PL</td>
-<td>PENSACOLA</td>
-<td>FL</td>
-<td>32502</td>
-<td>8505953930</td>
-</tr>
-<tr>
-<td>USPS NOBLES STATION</td>
-<td>7150 TIPPIN AVENUE</td>
-<td>PENSACOLA</td>
-<td>FL</td>
-<td>32504</td>
-<td>8504776871</td>
-</tr>
-<tr>
-<td>USPS WARRINGTON STATION</td>
-<td>901 S OLD CORRY FIELD RD</td>
-<td>PENSACOLA</td>
-<td>FL</td>
-<td>32507</td>
-<td>8504581602</td>
-</tr>
-<tr>
-<td>USPS PLACIDA POST OFFICE</td>
-<td>8601 PLACIDA RD</td>
-<td>PLACIDA</td>
-<td>FL</td>
-<td>33946</td>
-<td>9416977614</td>
-</tr>
-<tr>
-<td>HILLSBOROUGH COUNTY CLERK OF COURT - PLANT CITY BRANCH</td>
-<td>301 N MICHIGAN AVE</td>
-<td>PLANT CITY</td>
-<td>FL</td>
-<td>33563</td>
-<td>8137573918</td>
-</tr>
-<tr>
-<td>USPS PLANT CITY POST OFFICE</td>
-<td>2501 WALDEN WOODS DR</td>
-<td>PLANT CITY</td>
-<td>FL</td>
-<td>33566</td>
-<td>8137196733</td>
-</tr>
-<tr>
-<td>BROWARD COUNTY CLERK OF COURT - WEST REGIONAL COURTHOUSE</td>
-<td>100 NORTH PINE ISLAND ROAD</td>
-<td>PLANTATION</td>
-<td>FL</td>
-<td>33324</td>
-<td>9548316528</td>
-</tr>
-<tr>
-<td>USPS POLK CITY POST OFFICE</td>
-<td>112 CARTER BLVD</td>
-<td>POLK CITY</td>
-<td>FL</td>
-<td>33868</td>
-<td>8639844547</td>
-</tr>
-<tr>
-<td>PONTE VEDRA BEACH POST OFFICE</td>
-<td>130 CORRIDOR ROAD</td>
-<td>PONTE VEDRA BEACH</td>
-<td>FL</td>
-<td>32082</td>
-<td>9045438607</td>
-</tr>
-<tr>
-<td>CHARLOTTE COUNTY CLERK OF COURT- MURDOCK ADMINISTRATION BUILDING</td>
-<td>18500 MURDOCK CIR</td>
-<td>PORT CHARLOTTE</td>
-<td>FL</td>
-<td>33948</td>
-<td>9417431400</td>
-</tr>
-<tr>
-<td>GULF COUNTY CLERK OF COURT - GULF COUNTY COURTHOUSE</td>
-<td>1000 CECIL G COSTIN SR BLVD</td>
-<td>PORT SAINT JOE</td>
-<td>FL</td>
-<td>32456</td>
-<td>8502296112</td>
-</tr>
-<tr>
-<td>SAINT LUCIE COUNTY CLERK OF COURT - SOUTH COUNTY ANNEX</td>
-<td>250 NW COUNTRY CLUB DR</td>
-<td>PORT ST. LUCIE</td>
-<td>FL</td>
-<td>34986</td>
-<td>7728717200</td>
-</tr>
-<tr>
-<td>CHARLOTTE COUNTY CLERK OF COURT - CHARLOTTE COUNTY JUSTICE CENTER</td>
-<td>350 E MARION AVE</td>
-<td>PUNTA GORDA</td>
-<td>FL</td>
-<td>33950</td>
-<td>9416372245</td>
-</tr>
-<tr>
-<td>USPS QUINCY POST OFFICE</td>
-<td>772 PAT THOMAS PKWY</td>
-<td>QUINCY</td>
-<td>FL</td>
-<td>32351</td>
-<td>8506278490</td>
-</tr>
-<tr>
-<td>USPS REDDICK POST OFFICE</td>
-<td>15373 NW GAINESVILLE RD</td>
-<td>REDDICK</td>
-<td>FL</td>
-<td>32686</td>
-<td>3525912838</td>
-</tr>
-<tr>
-<td>USPS RIVERVIEW POST OFFICE</td>
-<td>10810 BOYETTE RD</td>
-<td>RIVERVIEW</td>
-<td>FL</td>
-<td>33569</td>
-<td>8136724562</td>
-</tr>
-<tr>
-<td>USPS RIVIERA BEACH POST OFFICE</td>
-<td>1905 W BLUE HERON BLVD</td>
-<td>RIVIERA BEACH</td>
-<td>FL</td>
-<td>33404</td>
-<td>8558643379</td>
-</tr>
-<tr>
-<td>ROSELAND POST OFFICE</td>
-<td>13305 ROSELAND ROAD</td>
-<td>ROSELAND</td>
-<td>FL</td>
-<td>32957</td>
-<td>7725895095</td>
-</tr>
-<tr>
-<td>USPS PALMS WEST POST OFFICE</td>
-<td>10299 SOUTHERN BLVD</td>
-<td>ROYAL PALM BEACH</td>
-<td>FL</td>
-<td>33411</td>
-<td>5612463480</td>
-</tr>
-<tr>
-<td>HILLSBOROUGH COUNTY CLERK OF COURT - SOUTHSHORE OFFICE</td>
-<td>410 30TH ST SE</td>
-<td>RUSKIN</td>
-<td>FL</td>
-<td>33570</td>
-<td>8132768100</td>
-</tr>
-<tr>
-<td>SEMINOLE COUNTY CLERK OF COURT - RECORDS CENTER</td>
-<td>1750 E LAKE MARY BLVD</td>
-<td>SANFORD</td>
-<td>FL</td>
-<td>32773</td>
-<td>4076654405</td>
-</tr>
-<tr>
-<td>WALTON COUNTY CLERK OF COURT - COURTHOUSE ANNEX</td>
-<td>31 COASTAL CENTRE BLVD</td>
-<td>SANTA ROSA BEACH</td>
-<td>FL</td>
-<td>32459</td>
-<td>8502673066</td>
-</tr>
-<tr>
-<td>SARASOTA COUNTY CLERK OF COURT - MAIN OFFICE</td>
-<td>2000 MAIN ST</td>
-<td>SARASOTA</td>
-<td>FL</td>
-<td>34236</td>
-<td>9418617400</td>
-</tr>
-<tr>
-<td>USPS GULF GATE POST OFFICE</td>
-<td>2875 ASHTON RD</td>
-<td>SARASOTA</td>
-<td>FL</td>
-<td>34231</td>
-<td>9419226522</td>
-</tr>
-<tr>
-<td>USPS LAKE JACKSON BRANCH</td>
-<td>829 MALL RING RD</td>
-<td>SEBRING</td>
-<td>FL</td>
-<td>33872</td>
-<td>8633826138</td>
-</tr>
-<tr>
-<td>USPS SEBRING MAIN POST OFFICE</td>
-<td>518 N RIDGEWOOD DR</td>
-<td>SEBRING</td>
-<td>FL</td>
-<td>33870</td>
-<td>8633826138</td>
-</tr>
-<tr>
-<td>USPS SEMINOLE POST OFFICE</td>
-<td>9355 113TH ST</td>
-<td>SEMINOLE</td>
-<td>FL</td>
-<td>33772</td>
-<td>7273940847</td>
-</tr>
-<tr>
-<td>OKALOOSA COUNTY TAX COLLECTOR OFFICE - SHALIMAR TAX OFFICE</td>
-<td>1250 N. EGLIN PARKWAY</td>
-<td>SHALIMAR</td>
-<td>FL</td>
-<td>32579</td>
-<td>8506517310</td>
-</tr>
-<tr>
-<td>USPS SOUTH BAY POST OFFICE</td>
-<td>190 U.S. HIGHWAY 27 SOUTH</td>
-<td>SOUTH BAY</td>
-<td>FL</td>
-<td>33493</td>
-<td>5619965390</td>
-</tr>
-<tr>
-<td>HERNANDO COUNTY CLERK OF COURT - SPRING HILL OFFICE</td>
-<td>7405 FOREST OAKS BLVD</td>
-<td>SPRING HILL</td>
-<td>FL</td>
-<td>34606</td>
-<td>3525406387</td>
-</tr>
-<tr>
-<td>ST. JOHNS COUNTY CLERK OF COURTS - MAIN OFFICE</td>
-<td>4010 LEWIS SPEEDWAY</td>
-<td>ST. AUGUSTINE</td>
-<td>FL</td>
-<td>32084</td>
-<td>9048193600</td>
-</tr>
-<tr>
-<td>PINELLAS COUNTY CLERK OF COURT - ST. PETERSBURG BRANCH OFFICE</td>
-<td>545 1ST AVE N</td>
-<td>ST. PETERSBURG</td>
-<td>FL</td>
-<td>33701</td>
-<td>7274647000</td>
-</tr>
-<tr>
-<td>USPS GATEWAY STATION</td>
-<td>701 77TH AVE N</td>
-<td>ST. PETERSBURG</td>
-<td>FL</td>
-<td>33702</td>
-<td>7275782802</td>
-</tr>
-<tr>
-<td>USPS GULFWINDS STATION</td>
-<td>4222 22ND AVE S</td>
-<td>ST. PETERSBURG</td>
-<td>FL</td>
-<td>33711</td>
-<td>7273278469</td>
-</tr>
-<tr>
-<td>BRADFORD COUNTY CLERK OF COURT</td>
-<td>945 N TEMPLE AVE</td>
-<td>STARKE</td>
-<td>FL</td>
-<td>32091</td>
-<td>9049666280</td>
-</tr>
-<tr>
-<td>MARTIN COUNTY CLERK OF COURT - COURTHOUSE STUART OFFICE</td>
-<td>100 SE OCEAN BLVD</td>
-<td>STUART</td>
-<td>FL</td>
-<td>34994</td>
-<td>7722885553</td>
-</tr>
-<tr>
-<td>USPS SUMMERFIELD POST OFFICE</td>
-<td>14560 S US HWY 301</td>
-<td>SUMMERFIELD</td>
-<td>FL</td>
-<td>34491</td>
-<td>3522452784</td>
-</tr>
-<tr>
-<td>USPS SUMMERLAND KEY POST OFFICE</td>
-<td>24700 OVERSEAS HWY</td>
-<td>SUMMERLAND KEY</td>
-<td>FL</td>
-<td>33042</td>
-<td>3057453391</td>
-</tr>
-<tr>
-<td>USPS SUNRISE BRANCH</td>
-<td>3225 N HIATUS RD</td>
-<td>SUNRISE</td>
-<td>FL</td>
-<td>33345</td>
-<td>9547470552</td>
-</tr>
-<tr>
-<td>CITY OF SWEETWATER</td>
-<td>512 SW 109TH AVE</td>
-<td>SWEETWATER</td>
-<td>FL</td>
-<td>33174</td>
-<td>3052073343</td>
-</tr>
-<tr>
-<td>FAMU - OFFICE OF INTERNATIONAL EDUCATION AND DEVELOPMENT</td>
-<td>1601 S MARTIN LUTHER KING JR BLVD</td>
-<td>TALLAHASSEE</td>
-<td>FL</td>
-<td>32307</td>
-<td>8505993295</td>
-</tr>
-<tr>
-<td>FLORIDA STATE UNIVERSITY - INTERNATIONAL PROGRAMS OFFICE</td>
-<td>282 CHAMPIONS WAY</td>
-<td>TALLAHASSEE</td>
-<td>FL</td>
-<td>32306</td>
-<td>8506459714</td>
-</tr>
-<tr>
-<td>LEON COUNTY CLERK OF COURT - NORTHEAST BRANCH</td>
-<td>1276 METROPOLITAN BLVD</td>
-<td>TALLAHASSEE</td>
-<td>FL</td>
-<td>32312</td>
-<td>8506064060</td>
-</tr>
-<tr>
-<td>USPS TALLAHASSEE POST OFFICE</td>
-<td>2800 S ADAMS ST</td>
-<td>TALLAHASSEE</td>
-<td>FL</td>
-<td>32301</td>
-<td>8502164326</td>
-</tr>
-<tr>
-<td>HILLSBOROUGH COUNTY CLERK OF COURT - DOWNTOWN TAMPA</td>
-<td>419 PIERCE ST</td>
-<td>TAMPA</td>
-<td>FL</td>
-<td>33602</td>
-<td>8132768100</td>
-</tr>
-<tr>
-<td>JAN KAMINIS PLATT REGIONAL LIBRARY</td>
-<td>3910 S MANHATTAN AVENUE</td>
-<td>TAMPA</td>
-<td>FL</td>
-<td>33611</td>
-<td>8132733652</td>
-</tr>
-<tr>
-<td>NEW TAMPA REGIONAL LIBRARY</td>
-<td>10001 CROSS CREEK BLVD.</td>
-<td>TAMPA</td>
-<td>FL</td>
-<td>33647</td>
-<td>8132733652</td>
-</tr>
-<tr>
-<td>TOWN N COUNTRY REGIONAL LIBRARY</td>
-<td>7606 PAULA DR. SUITE 120</td>
-<td>TAMPA</td>
-<td>FL</td>
-<td>33615</td>
-<td>8132733652</td>
-</tr>
-<tr>
-<td>USF SHIMBERG HEALTH SCIENCES LIBRARY</td>
-<td>12901 BRUCE B. DOWNS</td>
-<td>TAMPA</td>
-<td>FL</td>
-<td>33612</td>
-<td>8139748432</td>
-</tr>
-<tr>
-<td>USPS EHRLICH BRANCH</td>
-<td>14910 NORTH DALE MABRY HIGHWAY</td>
-<td>TAMPA</td>
-<td>FL</td>
-<td>33618</td>
-<td>8139083478</td>
-</tr>
-<tr>
-<td>USPS FALKENBURG BRANCH</td>
-<td>10121 E ADAMO DR</td>
-<td>TAMPA</td>
-<td>FL</td>
-<td>33619</td>
-<td>8136260654</td>
-</tr>
-<tr>
-<td>USPS NEW TAMPA POST OFFICE</td>
-<td>16350 BRUCE B DOWNS BLVD</td>
-<td>TAMPA</td>
-<td>FL</td>
-<td>33647</td>
-<td>8139107987</td>
-</tr>
-<tr>
-<td>USPS TAMPA MOWU</td>
-<td>3501 BESSIE COLEMAN BLVD</td>
-<td>TAMPA</td>
-<td>FL</td>
-<td>33630</td>
-<td>8138770395</td>
-</tr>
-<tr>
-<td>LAKE COUNTY CLERK OF COURT - LAKE COUNTY COURTHOUSE</td>
-<td>550 W MAIN ST</td>
-<td>TAVARES</td>
-<td>FL</td>
-<td>32778</td>
-<td>3522532650</td>
-</tr>
-<tr>
-<td>USPS TAVERNIER POST OFFICE</td>
-<td>91220 OVERSEAS HWY</td>
-<td>TAVERNIER</td>
-<td>FL</td>
-<td>33070</td>
-<td>3058531052</td>
-</tr>
-<tr>
-<td>BREVARD COUNTY CLERK OF COURT - PARKWAY COMPLEX</td>
-<td>700 S PARK AVE</td>
-<td>TITUSVILLE</td>
-<td>FL</td>
-<td>32780</td>
-<td>3216372006</td>
-</tr>
-<tr>
-<td>BREVARD COUNTY CLERK OF COURTS - FULL SERVICE COUNTER</td>
-<td>400 SOUTH ST</td>
-<td>TITUSVILLE</td>
-<td>FL</td>
-<td>32780</td>
-<td>3216375413</td>
-</tr>
-<tr>
-<td>GILCHRIST COUNTY CLERK OF COURT</td>
-<td>112 S MAIN ST</td>
-<td>TRENTON</td>
-<td>FL</td>
-<td>32693</td>
-<td>3524633170</td>
-</tr>
-<tr>
-<td>BLOOMINGDALE REGIONAL LIBRARY</td>
-<td>1906 BLOOMINGDALE AVENUE</td>
-<td>VALRICO</td>
-<td>FL</td>
-<td>33596</td>
-<td>8132733652</td>
-</tr>
-<tr>
-<td>USPS VALRICO POST OFFICE</td>
-<td>2406 STATE ROAD 60 E</td>
-<td>VALRICO</td>
-<td>FL</td>
-<td>33594</td>
-<td>8136570495</td>
-</tr>
-<tr>
-<td>SARASOTA COUNTY CLERK OF COURT - VENICE BRANCH</td>
-<td>4000 S TAMIAMI TRAIL</td>
-<td>VENICE</td>
-<td>FL</td>
-<td>34293</td>
-<td>9418617400</td>
-</tr>
-<tr>
-<td>INDIAN RIVER COUNTY CLERK OF COURT - VERO BEACH COURTHOUSE</td>
-<td>2000 16TH AVE</td>
-<td>VERO BEACH</td>
-<td>FL</td>
-<td>32960</td>
-<td>7727705185</td>
-</tr>
-<tr>
-<td>BREVARD COUNTY CLERK OF COURT - MOORE JUSTICE CENTER</td>
-<td>2825 JUDGE FRAN JAMISON WAY</td>
-<td>VIERA</td>
-<td>FL</td>
-<td>32940</td>
-<td>3216375413</td>
-</tr>
-<tr>
-<td>HARDEE COUNTY CLERK OF COURT</td>
-<td>417 W MAIN ST</td>
-<td>WAUCHULA</td>
-<td>FL</td>
-<td>33873</td>
-<td>8637734174</td>
-</tr>
-<tr>
-<td>USPS WAUCHULA MAIN POST OFFICE</td>
-<td>300 E MAIN ST</td>
-<td>WAUCHULA</td>
-<td>FL</td>
-<td>33873</td>
-<td>8637735811</td>
-</tr>
-<tr>
-<td>CITY OF WEST MIAMI</td>
-<td>901 SW 62ND AVE</td>
-<td>WEST MIAMI</td>
-<td>FL</td>
-<td>33144</td>
-<td>3052661122</td>
-</tr>
-<tr>
-<td>USPS DOWNTOWN WEST PALM BEACH POST OFFICE</td>
-<td>640 CLEMATIS ST</td>
-<td>WEST PALM BEACH</td>
-<td>FL</td>
-<td>33401</td>
-<td>5618330929</td>
-</tr>
-<tr>
-<td>USPS HAVERHILL STATION</td>
-<td>3900 N HAVERHILL RD</td>
-<td>WEST PALM BEACH</td>
-<td>FL</td>
-<td>33417</td>
-<td>5616835415</td>
-</tr>
-<tr>
-<td>USPS WEST PALM BEACH MOWU</td>
-<td>3200 SUMMIT BLVD</td>
-<td>WEST PALM BEACH</td>
-<td>FL</td>
-<td>33406</td>
-<td>5616972123</td>
-</tr>
-<tr>
-<td>USPS WIMAUMA POST OFFICE</td>
-<td>5608 STATE ROAD 674</td>
-<td>WIMAUMA</td>
-<td>FL</td>
-<td>33598</td>
-<td>8136344282</td>
-</tr>
-<tr>
-<td>POLK COUNTY CLERK OF COURT - NORTHEAST BRANCH</td>
-<td>3425 LAKE ALFRED RD</td>
-<td>WINTER HAVEN</td>
-<td>FL</td>
-<td>33881</td>
-<td>8635344000</td>
-</tr>
-<tr>
-<td>USPS WINTER HAVEN MAIN POST OFFICE</td>
-<td>111 W CENTRAL AVE</td>
-<td>WINTER HAVEN</td>
-<td>FL</td>
-<td>33880</td>
-<td>8632997824</td>
-</tr>
-<tr>
-<td>ORANGE COUNTY CLERK OF COURT - WINTER PARK BRANCH</td>
-<td>450 N LAKEMONT AVE</td>
-<td>WINTER PARK</td>
-<td>FL</td>
-<td>32792</td>
-<td>4078362000</td>
-</tr>
-<tr>
-<td>USPS WINTER SPRINGS POST OFFICE</td>
-<td>1065 E STATE ROAD 434</td>
-<td>WINTER SPRINGS</td>
-<td>FL</td>
-<td>32708</td>
-<td>4073274569</td>
-</tr>
-<tr>
-<td>USPS ZEPHYRHILLS POST OFFICE</td>
-<td>38032 POSTAL DR</td>
-<td>ZEPHYRHILLS</td>
-<td>FL</td>
-<td>33542</td>
-<td>8137150149</td>
-</tr>
-</tbody>
-</table>

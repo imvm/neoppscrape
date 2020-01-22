@@ -1,366 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ALBURGH POST OFFICE</td>
-<td>12 SOUTH MAIN STREET</td>
-<td>ALBURGH</td>
-<td>VT</td>
-<td>05440</td>
-<td>8027963489</td>
-</tr>
-<tr>
-<td>BARTON POST OFFICE</td>
-<td>405 MAIN STREET</td>
-<td>BARTON</td>
-<td>VT</td>
-<td>05822</td>
-<td>8025256262</td>
-</tr>
-<tr>
-<td>BENNINGTON SUPERIOR COURT</td>
-<td>207 SOUTH ST</td>
-<td>BENNINGTON</td>
-<td>VT</td>
-<td>05201</td>
-<td>8024472700</td>
-</tr>
-<tr>
-<td>BRADFORD POST OFFICE</td>
-<td>41 BARTON STREET</td>
-<td>BRADFORD</td>
-<td>VT</td>
-<td>05033</td>
-<td>8022224414</td>
-</tr>
-<tr>
-<td>BRATTLEBORO POST OFFICE</td>
-<td>204 MAIN STREET</td>
-<td>BRATTLEBORO</td>
-<td>VT</td>
-<td>05301</td>
-<td>8022544110</td>
-</tr>
-<tr>
-<td>BRIDGEWATER POST OFFICE</td>
-<td>102 MILL ROAD</td>
-<td>BRIDGEWATER</td>
-<td>VT</td>
-<td>05034</td>
-<td>8026725166</td>
-</tr>
-<tr>
-<td>BROWNSVILLE POST OFFICE</td>
-<td>1269 ROUTE 44</td>
-<td>BROWNSVILLE</td>
-<td>VT</td>
-<td>05037</td>
-<td>8024845057</td>
-</tr>
-<tr>
-<td>BURLINGTON POST OFFICE</td>
-<td>11 ELMWOOD AVE</td>
-<td>BURLINGTON</td>
-<td>VT</td>
-<td>05401</td>
-<td>8028636033</td>
-</tr>
-<tr>
-<td>CHITTENDEN SUPERIOR COURT</td>
-<td>175 MAIN STREET</td>
-<td>BURLINGTON</td>
-<td>VT</td>
-<td>05401</td>
-<td>8029515106</td>
-</tr>
-<tr>
-<td>CHARLOTTE POST OFFICE</td>
-<td>161 FERRY RD</td>
-<td>CHARLOTTE</td>
-<td>VT</td>
-<td>05445</td>
-<td>8024252200</td>
-</tr>
-<tr>
-<td>ORANGE COUNTY SUPERIOR COURT</td>
-<td>5 COURT STREET</td>
-<td>CHELSEA</td>
-<td>VT</td>
-<td>05038</td>
-<td>8026854610</td>
-</tr>
-<tr>
-<td>CHESTER POST OFFICE</td>
-<td>203 SOUTH MAIN STREET</td>
-<td>CHESTER</td>
-<td>VT</td>
-<td>05143</td>
-<td>8028753014</td>
-</tr>
-<tr>
-<td>COLCHESTER TOWN CLERK</td>
-<td>781 BLAKELY ROAD</td>
-<td>COLCHESTER</td>
-<td>VT</td>
-<td>05446</td>
-<td>8022645520</td>
-</tr>
-<tr>
-<td>DANBY POST OFFICE</td>
-<td>214 N MAIN STREET</td>
-<td>DANBY</td>
-<td>VT</td>
-<td>05739</td>
-<td>8022935105</td>
-</tr>
-<tr>
-<td>DERBY LINE POST OFFICE</td>
-<td>84 MAIN ST</td>
-<td>DERBY LINE</td>
-<td>VT</td>
-<td>05830</td>
-<td>8028733332</td>
-</tr>
-<tr>
-<td>FAIRLEE POST OFFICE</td>
-<td>21 SCHOOL STREET</td>
-<td>FAIRLEE</td>
-<td>VT</td>
-<td>05045</td>
-<td>8023334305</td>
-</tr>
-<tr>
-<td>HARDWICK POST OFFICE</td>
-<td>52 MILL ST</td>
-<td>HARDWICK</td>
-<td>VT</td>
-<td>05843</td>
-<td>8024726022</td>
-</tr>
-<tr>
-<td>HARTLAND POST OFFICE</td>
-<td>159 US ROUTE 5</td>
-<td>HARTLAND</td>
-<td>VT</td>
-<td>05048</td>
-<td>8024362655</td>
-</tr>
-<tr>
-<td>LYNDONVILLE POST OFFICE</td>
-<td>1025 BROAD ST</td>
-<td>LYNDONVILLE</td>
-<td>VT</td>
-<td>05851</td>
-<td>8026265421</td>
-</tr>
-<tr>
-<td>MANCHESTER POST OFFICE</td>
-<td>300 SEMINARY AVE</td>
-<td>MANCHESTER</td>
-<td>VT</td>
-<td>05254</td>
-<td>8023621170</td>
-</tr>
-<tr>
-<td>ADDISON SUPERIOR COURT</td>
-<td>7 MAHADY COURT</td>
-<td>MIDDLEBURY</td>
-<td>VT</td>
-<td>05753</td>
-<td>8023881966</td>
-</tr>
-<tr>
-<td>MIDDLEBURY POST OFFICE</td>
-<td>10 MAIN ST</td>
-<td>MIDDLEBURY</td>
-<td>VT</td>
-<td>05753</td>
-<td>8023882681</td>
-</tr>
-<tr>
-<td>WASHINGTON COUNTY CLERK</td>
-<td>10 ELM STREET</td>
-<td>MONTPELIER</td>
-<td>VT</td>
-<td>05602</td>
-<td>8028283075</td>
-</tr>
-<tr>
-<td>MORRISVILLE POST OFFICE</td>
-<td>16 PORTLAND STREET</td>
-<td>MORRISVILLE</td>
-<td>VT</td>
-<td>05661</td>
-<td>8028883557</td>
-</tr>
-<tr>
-<td>NEWPORT POST OFFICE</td>
-<td>59 COVENTRY STREET</td>
-<td>NEWPORT</td>
-<td>VT</td>
-<td>05855</td>
-<td>8023342420</td>
-</tr>
-<tr>
-<td>NORTH SPRINGFIELD POST OFFICE</td>
-<td>39 MAIN ST</td>
-<td>NORTH SPRINGFIELD</td>
-<td>VT</td>
-<td>05150</td>
-<td>8028868161</td>
-</tr>
-<tr>
-<td>TOWN OF NORTHFIELD</td>
-<td>51 SOUTH MAIN STREET</td>
-<td>NORTHFIELD</td>
-<td>VT</td>
-<td>05663</td>
-<td>8024859823</td>
-</tr>
-<tr>
-<td>PAWLET POST OFFICE</td>
-<td>5707 VT ROUTE 30</td>
-<td>PAWLET</td>
-<td>VT</td>
-<td>05761</td>
-<td>8023253065</td>
-</tr>
-<tr>
-<td>RANDOLPH POST OFFICE</td>
-<td>9 SALISBURY ST</td>
-<td>RANDOLPH</td>
-<td>VT</td>
-<td>05060</td>
-<td>8027285444</td>
-</tr>
-<tr>
-<td>RICHFORD POST OFFICE</td>
-<td>80 MAIN ST</td>
-<td>RICHFORD</td>
-<td>VT</td>
-<td>05476</td>
-<td>8028487742</td>
-</tr>
-<tr>
-<td>RUTLAND POST OFFICE</td>
-<td>151 WEST STREET</td>
-<td>RUTLAND</td>
-<td>VT</td>
-<td>05701</td>
-<td>8027730301</td>
-</tr>
-<tr>
-<td>SHAFTSBURY POST OFFICE</td>
-<td>56 CHURCH STREET</td>
-<td>SHAFTSBURY</td>
-<td>VT</td>
-<td>05262</td>
-<td>8024422142</td>
-</tr>
-<tr>
-<td>SHELBURNE POST OFFICE</td>
-<td>495 FALLS RD</td>
-<td>SHELBURNE</td>
-<td>VT</td>
-<td>05482</td>
-<td>8029853615</td>
-</tr>
-<tr>
-<td>SHELBURNE TOWN CLERK</td>
-<td>5420 SHELBURNE ROAD</td>
-<td>SHELBURNE</td>
-<td>VT</td>
-<td>05482</td>
-<td>8029855116</td>
-</tr>
-<tr>
-<td>SOUTH ROYALTON POST OFFICE</td>
-<td>239 CHELSEA STREET</td>
-<td>SOUTH ROYALTON</td>
-<td>VT</td>
-<td>05068</td>
-<td>8027637330</td>
-</tr>
-<tr>
-<td>FRANKLIN COUNTY CLERK OF COURT</td>
-<td>17 CHURCH STREET</td>
-<td>ST. ALBANS</td>
-<td>VT</td>
-<td>05478</td>
-<td>8025243863</td>
-</tr>
-<tr>
-<td>ST ALBANS POST OFFICE</td>
-<td>153 N. MAIN ST</td>
-<td>ST. ALBANS</td>
-<td>VT</td>
-<td>05478</td>
-<td>8025246518</td>
-</tr>
-<tr>
-<td>STOWE TOWN CLERK</td>
-<td>67 MAIN STREET</td>
-<td>STOWE</td>
-<td>VT</td>
-<td>05672</td>
-<td>8022536133</td>
-</tr>
-<tr>
-<td>SWANTON POST OFFICE</td>
-<td>21 GRAND AVE</td>
-<td>SWANTON</td>
-<td>VT</td>
-<td>05488</td>
-<td>8028684188</td>
-</tr>
-<tr>
-<td>VERGENNES POST OFFICE</td>
-<td>9 N GREEN STREET</td>
-<td>VERGENNES</td>
-<td>VT</td>
-<td>05491</td>
-<td>8028772681</td>
-</tr>
-<tr>
-<td>WATERBURY POST OFFICE</td>
-<td>47 N MAIN STREET</td>
-<td>WATERBURY</td>
-<td>VT</td>
-<td>05676</td>
-<td>8022447318</td>
-</tr>
-<tr>
-<td>WEST DOVER POST OFFICE</td>
-<td>1A MOUNTAIN PARK PLAZA</td>
-<td>WEST DOVER</td>
-<td>VT</td>
-<td>05356</td>
-<td>8024648677</td>
-</tr>
-<tr>
-<td>WHITE RIVER JUNCTION POST OFFICE</td>
-<td>195 SYKES MOUNTAIN AVE</td>
-<td>WHITE RIVER JUNCTION</td>
-<td>VT</td>
-<td>05001</td>
-<td>8022963346</td>
-</tr>
-<tr>
-<td>WILLISTON TOWN CLERK</td>
-<td>7900 WILLISTON ROAD</td>
-<td>WILLISTON</td>
-<td>VT</td>
-<td>05495</td>
-<td>8028785121</td>
-</tr>
-</tbody>
-</table>

@@ -1,742 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>VERMILION PARISH CLERK OF COURT</td>
-<td>100 N STATE ST SUITE 101</td>
-<td>ABBEVILLE</td>
-<td>LA</td>
-<td>70510</td>
-<td>3378981992</td>
-</tr>
-<tr>
-<td>ALEXANDRIA MAIN POST OFFICE</td>
-<td>1715 ODOM STREET</td>
-<td>ALEXANDRIA</td>
-<td>LA</td>
-<td>71301</td>
-<td>3184844602</td>
-</tr>
-<tr>
-<td>TANGIPAHOA PARISH CLERK OF COURT</td>
-<td>110 N BAY ST STE 100</td>
-<td>AMITE</td>
-<td>LA</td>
-<td>70422</td>
-<td>9857484146</td>
-</tr>
-<tr>
-<td>MOREHOUSE PARISH CLERK OF COURT</td>
-<td>100 E MADISON AVE</td>
-<td>BASTROP</td>
-<td>LA</td>
-<td>71220</td>
-<td>3182813343</td>
-</tr>
-<tr>
-<td>BATON ROUGE GENERAL MAIL FACILITY</td>
-<td>8101 BLUEBONNET BLVD</td>
-<td>BATON ROUGE</td>
-<td>LA</td>
-<td>70826</td>
-<td>2257633696</td>
-</tr>
-<tr>
-<td>BATON ROUGE MAIN POST OFFICE</td>
-<td>750 FLORIDA ST</td>
-<td>BATON ROUGE</td>
-<td>LA</td>
-<td>70801</td>
-<td>2253810325</td>
-</tr>
-<tr>
-<td>EAST BATON ROUGE PARISH CLERK OF COURT</td>
-<td>222 ST LOUIS STREET</td>
-<td>BATON ROUGE</td>
-<td>LA</td>
-<td>70802</td>
-<td>2253893950</td>
-</tr>
-<tr>
-<td>EAST BATON ROUGE PARISH CLERK OF COURTS OFFICE</td>
-<td>9050 AIRLINE HWY</td>
-<td>BATON ROUGE</td>
-<td>LA</td>
-<td>70815</td>
-<td>2252932933</td>
-</tr>
-<tr>
-<td>LSU OLINDE CAREER CENTER</td>
-<td>158 LSU STUDENT UNION</td>
-<td>BATON ROUGE</td>
-<td>LA</td>
-<td>70803</td>
-<td>2255782162</td>
-</tr>
-<tr>
-<td>WOODLAWN STATION</td>
-<td>4700 MILLWOOD DRIVE</td>
-<td>BATON ROUGE</td>
-<td>LA</td>
-<td>70817</td>
-<td>2257524251</td>
-</tr>
-<tr>
-<td>PLAQUEMINES PARISH CLERK OF COURT</td>
-<td>301 MAIN STREET</td>
-<td>BELLE CHASSE</td>
-<td>LA</td>
-<td>70037</td>
-<td>5042975197</td>
-</tr>
-<tr>
-<td>BOGALUSA POST OFFICE</td>
-<td>305 AVENUE B</td>
-<td>BOGALUSA</td>
-<td>LA</td>
-<td>70427</td>
-<td>9857351356</td>
-</tr>
-<tr>
-<td>BOSSIER CITY POST OFFICE</td>
-<td>150 BENTON RD</td>
-<td>BOSSIER CITY</td>
-<td>LA</td>
-<td>71111</td>
-<td>3187467926</td>
-</tr>
-<tr>
-<td>BOURG POST OFFICE</td>
-<td>3806 COUNTRY DRIVE</td>
-<td>BOURG</td>
-<td>LA</td>
-<td>70343</td>
-<td>9859170496</td>
-</tr>
-<tr>
-<td>BOUTTE POST OFFICE</td>
-<td>13322 HWY 90</td>
-<td>BOUTTE</td>
-<td>LA</td>
-<td>70039</td>
-<td>9852407031</td>
-</tr>
-<tr>
-<td>CHALMETTE POST OFFICE</td>
-<td>3340 PARIS RD</td>
-<td>CHALMETTE</td>
-<td>LA</td>
-<td>70043</td>
-<td>5042713140</td>
-</tr>
-<tr>
-<td>COLFAX POST OFFICE</td>
-<td>707 8TH STREET</td>
-<td>COLFAX</td>
-<td>LA</td>
-<td>71417</td>
-<td>3186275300</td>
-</tr>
-<tr>
-<td>CALDWELL PARISH CLERK OF COURTS</td>
-<td>201 MAIN STREET SUITE 1</td>
-<td>COLUMBIA</td>
-<td>LA</td>
-<td>71418</td>
-<td>3186492272</td>
-</tr>
-<tr>
-<td>RED RIVER PARISH CLERK OF COURT OFFICE</td>
-<td>615 EAST CARROLL ST</td>
-<td>COUSHATTA</td>
-<td>LA</td>
-<td>71019</td>
-<td>3189326741</td>
-</tr>
-<tr>
-<td>COVINGTON MAIN POST OFFICE</td>
-<td>1775 N COLUMBIA ST</td>
-<td>COVINGTON</td>
-<td>LA</td>
-<td>70433</td>
-<td>9853176450</td>
-</tr>
-<tr>
-<td>ST TAMMANY PARISH CLERK OF COURT</td>
-<td>701 N COLUMBIA STREET</td>
-<td>COVINGTON</td>
-<td>LA</td>
-<td>70433</td>
-<td>9858098710</td>
-</tr>
-<tr>
-<td>ACADIA PARISH CLERK OF COURT</td>
-<td>500 NE COURT CIRCLE</td>
-<td>CROWLEY</td>
-<td>LA</td>
-<td>70526</td>
-<td>3377888881</td>
-</tr>
-<tr>
-<td>LAFOURCHE PARISH CLERK OF COURT</td>
-<td>16241 E MAIN STREET</td>
-<td>CUT OFF</td>
-<td>LA</td>
-<td>70345</td>
-<td>9856328111</td>
-</tr>
-<tr>
-<td>DENHAM SPRINGS POST OFFICE</td>
-<td>140 DEL ORLEANS AVE</td>
-<td>DENHAM SPRINGS</td>
-<td>LA</td>
-<td>70726</td>
-<td>2257915421</td>
-</tr>
-<tr>
-<td>DERIDDER POST OFFICE</td>
-<td>116 EAST 4TH STREET</td>
-<td>DERIDDER</td>
-<td>LA</td>
-<td>70634</td>
-<td>3374628852</td>
-</tr>
-<tr>
-<td>DESTREHAN POST OFFICE</td>
-<td>13 PLANTATION ROAD</td>
-<td>DESTREHAN</td>
-<td>LA</td>
-<td>70047</td>
-<td>9856033074</td>
-</tr>
-<tr>
-<td>ASCENSION PARISH CLERK OF COURT</td>
-<td>300 HOUMAS STREET</td>
-<td>DONALDSONVILLE</td>
-<td>LA</td>
-<td>70346</td>
-<td>2254739866</td>
-</tr>
-<tr>
-<td>ST JOHN THE BAPTIST CLERK OF COURT</td>
-<td>2393 HWY 18</td>
-<td>EDGARD</td>
-<td>LA</td>
-<td>70049</td>
-<td>9854973331</td>
-</tr>
-<tr>
-<td>FERRIDAY POST OFFICE</td>
-<td>999 FIRST STREET</td>
-<td>FERRIDAY</td>
-<td>LA</td>
-<td>71334</td>
-<td>3187576761</td>
-</tr>
-<tr>
-<td>ST MARY PARISH CLERK OF COURT</td>
-<td>500 MAIN STREET 2ND FL</td>
-<td>FRANKLIN</td>
-<td>LA</td>
-<td>70538</td>
-<td>3378284100</td>
-</tr>
-<tr>
-<td>WASHINGTON PARISH CLERK OF COURT</td>
-<td>WASHINGTON AND MAIN ST</td>
-<td>FRANKLINTON</td>
-<td>LA</td>
-<td>70438</td>
-<td>9858394663</td>
-</tr>
-<tr>
-<td>GALLIANO MAIN POST OFFICE</td>
-<td>17599 HIGHWAY 3235</td>
-<td>GALLIANO</td>
-<td>LA</td>
-<td>70354</td>
-<td>9853252652</td>
-</tr>
-<tr>
-<td>GOLDEN MEADOW POST OFFICE</td>
-<td>300 S ALEX PLAISANCE BLVD</td>
-<td>GOLDEN MEADOW</td>
-<td>LA</td>
-<td>70357</td>
-<td>9854754909</td>
-</tr>
-<tr>
-<td>ASCENSION PARISH CLERK OF COURT - GONZALES</td>
-<td>815 E WORTHEY ST</td>
-<td>GONZALES</td>
-<td>LA</td>
-<td>70737</td>
-<td>2256218400</td>
-</tr>
-<tr>
-<td>GRAMBLING POST OFFICE</td>
-<td>324 MAIN ST</td>
-<td>GRAMBLING</td>
-<td>LA</td>
-<td>71245</td>
-<td>3182471036</td>
-</tr>
-<tr>
-<td>GRAMERCY POST OFFICE</td>
-<td>417 E MAIN ST</td>
-<td>GRAMERCY</td>
-<td>LA</td>
-<td>70052</td>
-<td>2258690741</td>
-</tr>
-<tr>
-<td>GRAY POST OFFICE</td>
-<td>4442 W MAIN STREET</td>
-<td>GRAY</td>
-<td>LA</td>
-<td>70359</td>
-<td>9858767424</td>
-</tr>
-<tr>
-<td>GREENWELL SPRINGS POST OFFICE</td>
-<td>22801 GREENWELL SPRINGS RD.</td>
-<td>GREENWELL SPRINGS</td>
-<td>LA</td>
-<td>70739</td>
-<td>2252614985</td>
-</tr>
-<tr>
-<td>GRETNA MAIN POST OFFICE</td>
-<td>406 GRETNA BLVD</td>
-<td>GRETNA</td>
-<td>LA</td>
-<td>70053</td>
-<td>5042497621</td>
-</tr>
-<tr>
-<td>JEFFERSON PARISH CLERK OF COURT (WESTBANK)</td>
-<td>200 DERBIGNY ST</td>
-<td>GRETNA</td>
-<td>LA</td>
-<td>70053</td>
-<td>5043642923</td>
-</tr>
-<tr>
-<td>HAMMOND POST OFFICE</td>
-<td>105 NORTHWEST RAILROAD AVE</td>
-<td>HAMMOND</td>
-<td>LA</td>
-<td>70401</td>
-<td>9853456019</td>
-</tr>
-<tr>
-<td>TANGIPAHOA PARISH CLERK OF COURT</td>
-<td>318-A NW RAILROAD AVE</td>
-<td>HAMMOND</td>
-<td>LA</td>
-<td>70401</td>
-<td>9855491638</td>
-</tr>
-<tr>
-<td>TERREBONNE PARISH CLERK OF COURT</td>
-<td>417 GOODE STREET</td>
-<td>HOUMA</td>
-<td>LA</td>
-<td>70360</td>
-<td>9858687113</td>
-</tr>
-<tr>
-<td>JACKSON POST OFFICE</td>
-<td>3016 BANK ST</td>
-<td>JACKSON</td>
-<td>LA</td>
-<td>70748</td>
-<td>2256347052</td>
-</tr>
-<tr>
-<td>JEFFERSON PARISH CLERK OF COURT</td>
-<td>1221 ELMWOOD PARK BLVD</td>
-<td>JEFFERSON</td>
-<td>LA</td>
-<td>70123</td>
-<td>5047366390</td>
-</tr>
-<tr>
-<td>LASALLE PARISH CLERK OF COURT</td>
-<td>1050 COURTHOUSE ST</td>
-<td>JENA</td>
-<td>LA</td>
-<td>71342</td>
-<td>3189920681</td>
-</tr>
-<tr>
-<td>JEFFERSON DAVIS PARISH CLERK OF COURT</td>
-<td>300 STATE ST SUITE 106</td>
-<td>JENNINGS</td>
-<td>LA</td>
-<td>70546</td>
-<td>3378241160</td>
-</tr>
-<tr>
-<td>JACKSON PARISH CLERK OF COURT</td>
-<td>500 EAST COURT ST</td>
-<td>JONESBORO</td>
-<td>LA</td>
-<td>71251</td>
-<td>3182592424</td>
-</tr>
-<tr>
-<td>KENTWOOD POST OFFICE</td>
-<td>601 AVENUE E</td>
-<td>KENTWOOD</td>
-<td>LA</td>
-<td>70444</td>
-<td>9852292977</td>
-</tr>
-<tr>
-<td>LAFAYETTE PARISH CLERK OF COURT</td>
-<td>800 S BUCHANAN ST</td>
-<td>LAFAYETTE</td>
-<td>LA</td>
-<td>70501</td>
-<td>3372916400</td>
-</tr>
-<tr>
-<td>LAFAYETTE POST OFFICE</td>
-<td>1105 MOSS ST</td>
-<td>LAFAYETTE</td>
-<td>LA</td>
-<td>70501</td>
-<td>3372697112</td>
-</tr>
-<tr>
-<td>CALCASIEU PARISH CLERK OF COURT</td>
-<td>1000 RYAN ST</td>
-<td>LAKE CHARLES</td>
-<td>LA</td>
-<td>70601</td>
-<td>3374373550</td>
-</tr>
-<tr>
-<td>EASTSIDE STATION</td>
-<td>950 MAIN STREET</td>
-<td>LAKE CHARLES</td>
-<td>LA</td>
-<td>70615</td>
-<td>3374337689</td>
-</tr>
-<tr>
-<td>LEESVILLE POST OFFICE</td>
-<td>303 S 3RD STREET</td>
-<td>LEESVILLE</td>
-<td>LA</td>
-<td>71446</td>
-<td>3372392617</td>
-</tr>
-<tr>
-<td>LOCKPORT POST OFFICE</td>
-<td>706 CRESCENT AVENUE</td>
-<td>LOCKPORT</td>
-<td>LA</td>
-<td>70374</td>
-<td>9855328924</td>
-</tr>
-<tr>
-<td>MANDEVILLE POST OFFICE</td>
-<td>1 SAINT  ANN DR</td>
-<td>MANDEVILLE</td>
-<td>LA</td>
-<td>70471</td>
-<td>9856267271</td>
-</tr>
-<tr>
-<td>DE SOTO PARISH CLERK OF COURT</td>
-<td>101 TEXAS STREET</td>
-<td>MANSFIELD</td>
-<td>LA</td>
-<td>71052</td>
-<td>3188723110</td>
-</tr>
-<tr>
-<td>MARKSVILLE MAIN POST OFFICE</td>
-<td>226 WEST CAPPEL ST</td>
-<td>MARKSVILLE</td>
-<td>LA</td>
-<td>71351</td>
-<td>3182535439</td>
-</tr>
-<tr>
-<td>METAIRIE MAIN POST OFFICE</td>
-<td>3301 17TH ST</td>
-<td>METAIRIE</td>
-<td>LA</td>
-<td>70002</td>
-<td>5048286058</td>
-</tr>
-<tr>
-<td>MINDEN POST OFFICE</td>
-<td>111 SOUTH MONROE ST</td>
-<td>MINDEN</td>
-<td>LA</td>
-<td>71055</td>
-<td>3183771765</td>
-</tr>
-<tr>
-<td>MONROE MAIN POST OFFICE</td>
-<td>501 STERLINGTON RD.</td>
-<td>MONROE</td>
-<td>LA</td>
-<td>71203</td>
-<td>3185706007</td>
-</tr>
-<tr>
-<td>MORGAN CITY POST OFFICE</td>
-<td>1112 BRASHEAR AVE</td>
-<td>MORGAN CITY</td>
-<td>LA</td>
-<td>70380</td>
-<td>9853840276</td>
-</tr>
-<tr>
-<td>ASSUMPTION PARISH CLERK OF COURT</td>
-<td>4809 HWY1</td>
-<td>NAPOLEONVILLE</td>
-<td>LA</td>
-<td>70390</td>
-<td>9853696653</td>
-</tr>
-<tr>
-<td>NATCHITOCHES PARISH CLERK OF COURT</td>
-<td>200 CHURCH STREET RM 104</td>
-<td>NATCHITOCHES</td>
-<td>LA</td>
-<td>71457</td>
-<td>3183528152</td>
-</tr>
-<tr>
-<td>IBERIA PARISH CLERK OF COURT</td>
-<td>300 IBERIA STREET 1ST FLOOR</td>
-<td>NEW IBERIA</td>
-<td>LA</td>
-<td>70560</td>
-<td>3373657282</td>
-</tr>
-<tr>
-<td>CARROLLTON STATION POST OFFICE</td>
-<td>3400 S CARROLLTON AVE</td>
-<td>NEW ORLEANS</td>
-<td>LA</td>
-<td>70118</td>
-<td>5044850758</td>
-</tr>
-<tr>
-<td>NEW ORLEANS MAIN POST OFFICE</td>
-<td>701 LOYOLA AVE</td>
-<td>NEW ORLEANS</td>
-<td>LA</td>
-<td>70113</td>
-<td>5045891325</td>
-</tr>
-<tr>
-<td>ROY RONDENO POST OFFICE</td>
-<td>2000 LOUISIANA AVE</td>
-<td>NEW ORLEANS</td>
-<td>LA</td>
-<td>70115</td>
-<td>5048910350</td>
-</tr>
-<tr>
-<td>STATION A POST OFFICE NEW ORLEANS LA</td>
-<td>3901 MACARTHUR BLVD</td>
-<td>NEW ORLEANS</td>
-<td>LA</td>
-<td>70114</td>
-<td>5043624217</td>
-</tr>
-<tr>
-<td>NEW ROADS POST OFFICE</td>
-<td>148 NEW ROADS ST</td>
-<td>NEW ROADS</td>
-<td>LA</td>
-<td>70760</td>
-<td>2256388990</td>
-</tr>
-<tr>
-<td>OAKDALE POST OFFICE</td>
-<td>240 E 6TH AVENUE</td>
-<td>OAKDALE</td>
-<td>LA</td>
-<td>71463</td>
-<td>3183350587</td>
-</tr>
-<tr>
-<td>ST LANDRY PARISH CLERK OF COURT</td>
-<td>118 S COURT STREET SUITE 206</td>
-<td>OPELOUSAS</td>
-<td>LA</td>
-<td>70570</td>
-<td>3379425606</td>
-</tr>
-<tr>
-<td>PATTERSON POST OFFICE</td>
-<td>600 CATHERINE ST</td>
-<td>PATTERSON</td>
-<td>LA</td>
-<td>70392</td>
-<td>9853953382</td>
-</tr>
-<tr>
-<td>PINEVILLE POST OFFICE</td>
-<td>410 PINEGROVE DRIVE</td>
-<td>PINEVILLE</td>
-<td>LA</td>
-<td>71360</td>
-<td>3184426367</td>
-</tr>
-<tr>
-<td>IBERVILLE PARISH CLERK OF COURT</td>
-<td>58050 MERIAM ST</td>
-<td>PLAQUEMINE</td>
-<td>LA</td>
-<td>70764</td>
-<td>2256875160</td>
-</tr>
-<tr>
-<td>PLAQUEMINE POST OFFICE</td>
-<td>58015 CANAL ST</td>
-<td>PLAQUEMINE</td>
-<td>LA</td>
-<td>70764</td>
-<td>2256850858</td>
-</tr>
-<tr>
-<td>PONCHATOULA POST OFFICE</td>
-<td>275 N 5TH ST</td>
-<td>PONCHATOULA</td>
-<td>LA</td>
-<td>70454</td>
-<td>9853866557</td>
-</tr>
-<tr>
-<td>WEST BATON ROUGE PARISH CLERK OF COURT</td>
-<td>850 EIGHTH ST</td>
-<td>PORT ALLEN</td>
-<td>LA</td>
-<td>70767</td>
-<td>2253830378</td>
-</tr>
-<tr>
-<td>PRAIRIEVILLE POST OFFICE</td>
-<td>15655 AIRLINE HWY</td>
-<td>PRAIRIEVILLE</td>
-<td>LA</td>
-<td>70769</td>
-<td>2256738100</td>
-</tr>
-<tr>
-<td>RACELAND POST OFFICE</td>
-<td>109 RACELAND ST</td>
-<td>RACELAND</td>
-<td>LA</td>
-<td>70394</td>
-<td>9855378957</td>
-</tr>
-<tr>
-<td>SCOTT POST OFFICE</td>
-<td>5926 CAMERON ST.</td>
-<td>SCOTT</td>
-<td>LA</td>
-<td>70583</td>
-<td>3372371589</td>
-</tr>
-<tr>
-<td>SHREVEPORT MAIN POST OFFICE</td>
-<td>2400 TEXAS AVENUE</td>
-<td>SHREVEPORT</td>
-<td>LA</td>
-<td>71102</td>
-<td>3186772288</td>
-</tr>
-<tr>
-<td>SLIDELL MAIN POST OFFICE</td>
-<td>1950 SECOND ST</td>
-<td>SLIDELL</td>
-<td>LA</td>
-<td>70458</td>
-<td>9856418430</td>
-</tr>
-<tr>
-<td>SPRINGHILL POST OFFICE</td>
-<td>501 N GILES STREET</td>
-<td>SPRINGHILL</td>
-<td>LA</td>
-<td>71075</td>
-<td>3185393207</td>
-</tr>
-<tr>
-<td>ST FRANCISVILLE POST OFFICE</td>
-<td>5613  COMMERCE STREET</td>
-<td>ST FRANCISVILLE</td>
-<td>LA</td>
-<td>70775</td>
-<td>2257848945</td>
-</tr>
-<tr>
-<td>ST MARTIN PARISH CLERK OF COURT OFFICE</td>
-<td>415 ST MARTIN STREET</td>
-<td>ST MARTINVILLE</td>
-<td>LA</td>
-<td>70582</td>
-<td>3373942210</td>
-</tr>
-<tr>
-<td>MADISON PARISH CLERK OF COURT</td>
-<td>100 N CEDAR ST</td>
-<td>TALLULAH</td>
-<td>LA</td>
-<td>71282</td>
-<td>3185740655</td>
-</tr>
-<tr>
-<td>LAFOURCHE PARISH CLERK OF COURT</td>
-<td>303 W THIRD ST</td>
-<td>THIBODAUX</td>
-<td>LA</td>
-<td>70301</td>
-<td>9854474841</td>
-</tr>
-<tr>
-<td>VACHERIE POST OFFICE</td>
-<td>2747 HIGHWAY 20</td>
-<td>VACHERIE</td>
-<td>LA</td>
-<td>70090</td>
-<td>2252659138</td>
-</tr>
-<tr>
-<td>WINNFIELD POST OFFICE</td>
-<td>201 S BEVILL STREET</td>
-<td>WINNFIELD</td>
-<td>LA</td>
-<td>71483</td>
-<td>3186488164</td>
-</tr>
-<tr>
-<td>ZACHARY POST OFFICE</td>
-<td>6001 MAIN ST</td>
-<td>ZACHARY</td>
-<td>LA</td>
-<td>70791</td>
-<td>2256544549</td>
-</tr>
-</tbody>
-</table>

@@ -1,1646 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ALBANY POST OFFICE</td>
-<td>101 E CLAY ST</td>
-<td>ALBANY</td>
-<td>MO</td>
-<td>64402</td>
-<td>6607263113</td>
-</tr>
-<tr>
-<td>ARNOLD BRANCH - JEFFERSON CO LIBRARY</td>
-<td>1701 MISSOURI STATE RD</td>
-<td>ARNOLD</td>
-<td>MO</td>
-<td>63010</td>
-<td>6362965171</td>
-</tr>
-<tr>
-<td>ARNOLD POST OFFICE</td>
-<td>1314 JEFFCO BLVD</td>
-<td>ARNOLD</td>
-<td>MO</td>
-<td>63010</td>
-<td>6362961936</td>
-</tr>
-<tr>
-<td>ASH GROVE POST OFFICE</td>
-<td>102 N TOWER ST</td>
-<td>ASH GROVE</td>
-<td>MO</td>
-<td>65604</td>
-<td>4176722350</td>
-</tr>
-<tr>
-<td>AURORA POST OFFICE</td>
-<td>102 EAST OLIVE STREET</td>
-<td>AURORA</td>
-<td>MO</td>
-<td>65605</td>
-<td>4176782370</td>
-</tr>
-<tr>
-<td>BALLWIN POST OFFICE</td>
-<td>15455 MANCHESTER RD</td>
-<td>BALLWIN</td>
-<td>MO</td>
-<td>63011</td>
-<td>6362275783</td>
-</tr>
-<tr>
-<td>JEFFERSON COUNTY LIBRARY, WINDSOR BRANCH</td>
-<td>7479 METROPOLITAN BLVD</td>
-<td>BARNHART</td>
-<td>MO</td>
-<td>63012</td>
-<td>6364611914</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT SCOTT COUNTY</td>
-<td>131 S WINCHESTER ST</td>
-<td>BENTON</td>
-<td>MO</td>
-<td>63736</td>
-<td>5735453596</td>
-</tr>
-<tr>
-<td>CLERK OF COURT HARRISON COUNTY</td>
-<td>1500 MAIN STREET</td>
-<td>BETHANY</td>
-<td>MO</td>
-<td>64424</td>
-<td>6604256425</td>
-</tr>
-<tr>
-<td>BLUE SPRINGS POST OFFICE</td>
-<td>500 SW SOUTH AVE</td>
-<td>BLUE SPRINGS</td>
-<td>MO</td>
-<td>64014</td>
-<td>8162200820</td>
-</tr>
-<tr>
-<td>POLK COUNTY RECORDER</td>
-<td>102 EAST BROADWAY RM #8</td>
-<td>BOLIVAR</td>
-<td>MO</td>
-<td>65613</td>
-<td>4173264924</td>
-</tr>
-<tr>
-<td>COOPER COUNTY CLERK OF CIRCUIT COURT</td>
-<td>200 MAIN STREET ROOM 31</td>
-<td>BOONVILLE</td>
-<td>MO</td>
-<td>65233</td>
-<td>6608822232</td>
-</tr>
-<tr>
-<td>BOURBON POST OFFICE</td>
-<td>218 E PINE ST</td>
-<td>BOURBON</td>
-<td>MO</td>
-<td>65441</td>
-<td>5737324600</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT PIKE COUNTY</td>
-<td>115 W MAIN</td>
-<td>BOWLING GREEN</td>
-<td>MO</td>
-<td>63334</td>
-<td>5733245582</td>
-</tr>
-<tr>
-<td>BROOKFIELD POST OFFICE</td>
-<td>201 WEST BOSTON STREET</td>
-<td>BROOKFIELD</td>
-<td>MO</td>
-<td>64628</td>
-<td>6602587044</td>
-</tr>
-<tr>
-<td>DALLAS COUNTY RECORDER</td>
-<td>108 SOUTH MAPLE ROOM 10</td>
-<td>BUFFALO</td>
-<td>MO</td>
-<td>65622</td>
-<td>4173452242</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT BATES COUNTY</td>
-<td>1 N DELAWARE</td>
-<td>BUTLER</td>
-<td>MO</td>
-<td>64730</td>
-<td>6606795171</td>
-</tr>
-<tr>
-<td>CAMDEN COUNTY COMMISSION</td>
-<td>1 COURT CIRCLE SUITE #1</td>
-<td>CAMDENTON</td>
-<td>MO</td>
-<td>65020</td>
-<td>5733173850</td>
-</tr>
-<tr>
-<td>CAMERON POST OFFICE</td>
-<td>112 E GRAND</td>
-<td>CAMERON</td>
-<td>MO</td>
-<td>64429</td>
-<td>8166323071</td>
-</tr>
-<tr>
-<td>CAPE GIRARDEAU MAIN POST OFFICE</td>
-<td>320 N FREDERICK ST</td>
-<td>CAPE GIRARDEAU</td>
-<td>MO</td>
-<td>63701</td>
-<td>5733353137</td>
-</tr>
-<tr>
-<td>CAPE GIRARDEAU PUBLIC LIBRARY</td>
-<td>711 NO CLARK STREET</td>
-<td>CAPE GIRARDEAU</td>
-<td>MO</td>
-<td>63701</td>
-<td>5733345279</td>
-</tr>
-<tr>
-<td>CARROLLTON POST OFFICE</td>
-<td>101 NORTH FOLGER ST</td>
-<td>CARROLLTON</td>
-<td>MO</td>
-<td>64633</td>
-<td>6605422777</td>
-</tr>
-<tr>
-<td>JASPER COUNTY RECORDER OF DEEDS</td>
-<td>116 W 2ND ST</td>
-<td>CARTHAGE</td>
-<td>MO</td>
-<td>64836</td>
-<td>4173580431</td>
-</tr>
-<tr>
-<td>PEMISCOT COUNTY CLERK OF COURT</td>
-<td>610 WARD AVENUE</td>
-<td>CARUTHERSVILLE</td>
-<td>MO</td>
-<td>63830</td>
-<td>5733330182</td>
-</tr>
-<tr>
-<td>CASSVILLE POST OFFICE</td>
-<td>800 WEST ST</td>
-<td>CASSVILLE</td>
-<td>MO</td>
-<td>65625</td>
-<td>4178472890</td>
-</tr>
-<tr>
-<td>REYNOLDS COUNTY RECORDERS OFFICE</td>
-<td>2319 GREEN ST</td>
-<td>CENTERVILLE</td>
-<td>MO</td>
-<td>63633</td>
-<td>5736482494</td>
-</tr>
-<tr>
-<td>CENTRALIA PUBLIC LIBRARY</td>
-<td>210 SOUTH JEFFERSON ST</td>
-<td>CENTRALIA</td>
-<td>MO</td>
-<td>65240</td>
-<td>5736822036</td>
-</tr>
-<tr>
-<td>MISSISSIPPI COUNTY RECORDER OF DEEDS OFFICE</td>
-<td>200 N MAIN ST</td>
-<td>CHARLESTON</td>
-<td>MO</td>
-<td>63834</td>
-<td>5736832146</td>
-</tr>
-<tr>
-<td>CHESTERFIELD POST OFFICE</td>
-<td>16105 SWINGLEY RIDGE RD</td>
-<td>CHESTERFIELD</td>
-<td>MO</td>
-<td>63017</td>
-<td>6365325999</td>
-</tr>
-<tr>
-<td>CHILLICOTHE POST OFFICE</td>
-<td>401 S WASHINGTON STREET</td>
-<td>CHILLICOTHE</td>
-<td>MO</td>
-<td>64601</td>
-<td>6606461133</td>
-</tr>
-<tr>
-<td>HENRY COUNTY LIBRARY</td>
-<td>123 E GREEN ST</td>
-<td>CLINTON</td>
-<td>MO</td>
-<td>64735</td>
-<td>6608852612</td>
-</tr>
-<tr>
-<td>COLUMBIA MO POST OFFICE</td>
-<td>511 E WALNUT</td>
-<td>COLUMBIA</td>
-<td>MO</td>
-<td>65201</td>
-<td>5738767800</td>
-</tr>
-<tr>
-<td>COLUMBIA PUBLIC LIBRARY</td>
-<td>100 W. BROADWAY</td>
-<td>COLUMBIA</td>
-<td>MO</td>
-<td>65203</td>
-<td>5734433161</td>
-</tr>
-<tr>
-<td>MU INTERNATIONAL CENTER</td>
-<td>518 HITT STREET N52 MEMORIAL UNION</td>
-<td>COLUMBIA</td>
-<td>MO</td>
-<td>65211</td>
-<td>5738826007</td>
-</tr>
-<tr>
-<td>COTTLEVILLE POST OFFICE</td>
-<td>5323 HIGHWAY NORTH</td>
-<td>COTTLEVILLE</td>
-<td>MO</td>
-<td>63338</td>
-<td>6364476537</td>
-</tr>
-<tr>
-<td>DESOTO PUBLIC LIBRARY</td>
-<td>712 SOUTH MAIN ST</td>
-<td>DESOTO</td>
-<td>MO</td>
-<td>63020</td>
-<td>6365863858</td>
-</tr>
-<tr>
-<td>DEXTER POST OFFICE</td>
-<td>202 E STODDARD ST</td>
-<td>DEXTER</td>
-<td>MO</td>
-<td>63841</td>
-<td>5736243684</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT SHANNON COUNTY</td>
-<td>18529 S  MAIN ST</td>
-<td>EMINENCE</td>
-<td>MO</td>
-<td>65466</td>
-<td>5732263315</td>
-</tr>
-<tr>
-<td>ST FRANCOIS COUNTY CIRCUIT CLERK</td>
-<td>1 N WASHINGTON</td>
-<td>FARMINGTON</td>
-<td>MO</td>
-<td>63640</td>
-<td>5737564551</td>
-</tr>
-<tr>
-<td>CLERK OF COURT HOWARD COUNTY</td>
-<td>1 COURTHOUSE SQUARE</td>
-<td>FAYETTE</td>
-<td>MO</td>
-<td>65248</td>
-<td>6602482194</td>
-</tr>
-<tr>
-<td>FENTON POST OFFICE</td>
-<td>10 FENTON PLAZA</td>
-<td>FENTON</td>
-<td>MO</td>
-<td>63026</td>
-<td>6362035298</td>
-</tr>
-<tr>
-<td>FESTUS PUBLIC LIBRARY</td>
-<td>400 WEST MAIN STREET</td>
-<td>FESTUS</td>
-<td>MO</td>
-<td>63028</td>
-<td>6369372017</td>
-</tr>
-<tr>
-<td>FLORISSANT POST OFFICE</td>
-<td>2200 N HWY 67</td>
-<td>FLORISSANT</td>
-<td>MO</td>
-<td>63033</td>
-<td>3148306150</td>
-</tr>
-<tr>
-<td>FORSYTH POST OFFICE</td>
-<td>215 SHADOW ROCK DR.</td>
-<td>FORSYTH</td>
-<td>MO</td>
-<td>65653</td>
-<td>4175463802</td>
-</tr>
-<tr>
-<td>FREDERICKTOWN POST OFFICE</td>
-<td>155 S MAIN ST</td>
-<td>FREDERICKTOWN</td>
-<td>MO</td>
-<td>63645</td>
-<td>5737832446</td>
-</tr>
-<tr>
-<td>CALLAWAY COUNTY PUBLIC LIBRARY</td>
-<td>710 COURT ST</td>
-<td>FULTON</td>
-<td>MO</td>
-<td>65251</td>
-<td>5736427261</td>
-</tr>
-<tr>
-<td>FULTON POST OFFICE</td>
-<td>301 COURT STREET</td>
-<td>FULTON</td>
-<td>MO</td>
-<td>65251</td>
-<td>5736422857</td>
-</tr>
-<tr>
-<td>GALLATIN POST OFFICE</td>
-<td>111 SOUTH MAIN</td>
-<td>GALLATIN</td>
-<td>MO</td>
-<td>64640</td>
-<td>6606633312</td>
-</tr>
-<tr>
-<td>GOWER POST OFFICE</td>
-<td>99 N 3RD ST</td>
-<td>GOWER</td>
-<td>MO</td>
-<td>64454</td>
-<td>8164243322</td>
-</tr>
-<tr>
-<td>GRAIN VALLEY POST OFFICE</td>
-<td>112 W WALNUT ST</td>
-<td>GRAIN VALLEY</td>
-<td>MO</td>
-<td>64029</td>
-<td>8162282024</td>
-</tr>
-<tr>
-<td>GRANDVIEW POST OFFICE</td>
-<td>1415 MAIN ST</td>
-<td>GRANDVIEW</td>
-<td>MO</td>
-<td>64030</td>
-<td>8167610345</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT WORTH COUNTY</td>
-<td>11 WEST 4TH STREET</td>
-<td>GRANT CITY</td>
-<td>MO</td>
-<td>64456</td>
-<td>6605642210</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT DADE COUNTY</td>
-<td>300 WEST WATER</td>
-<td>GREENFIELD</td>
-<td>MO</td>
-<td>65661</td>
-<td>4176372271</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT WAYNE COUNTY</td>
-<td>109 WALNUT ST</td>
-<td>GREENVILLE</td>
-<td>MO</td>
-<td>63944</td>
-<td>5732245600</td>
-</tr>
-<tr>
-<td>HAMILTON POST OFFICE</td>
-<td>106 W BIRD ST</td>
-<td>HAMILTON</td>
-<td>MO</td>
-<td>64644</td>
-<td>8165832422</td>
-</tr>
-<tr>
-<td>HANNIBAL POST OFFICE</td>
-<td>801 BROADWAY</td>
-<td>HANNIBAL</td>
-<td>MO</td>
-<td>63401</td>
-<td>5732210957</td>
-</tr>
-<tr>
-<td>HARRISONVILLE POST OFFICE</td>
-<td>305 EAST MECHANIC STREET</td>
-<td>HARRISONVILLE</td>
-<td>MO</td>
-<td>64701</td>
-<td>8163803841</td>
-</tr>
-<tr>
-<td>HAYTI POST OFFICE</td>
-<td>607 E WASHINGTON STREET</td>
-<td>HAYTI</td>
-<td>MO</td>
-<td>63851</td>
-<td>5733590418</td>
-</tr>
-<tr>
-<td>HAZELWOOD  POST OFFICE</td>
-<td>6135 N LINDBERGH  BLVD</td>
-<td>HAZELWOOD</td>
-<td>MO</td>
-<td>63042</td>
-<td>3147311613</td>
-</tr>
-<tr>
-<td>SCENIC REGIONAL LIBRARY HERMANN BRANCH</td>
-<td>601 MARKET STREET</td>
-<td>HERMANN</td>
-<td>MO</td>
-<td>65041</td>
-<td>5734862024</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT HICKORY COUNTY</td>
-<td>23645 POLK ST SUITE 201</td>
-<td>HERMITAGE</td>
-<td>MO</td>
-<td>65668</td>
-<td>4177456421</td>
-</tr>
-<tr>
-<td>HIGH RIDGE POST OFFICE</td>
-<td>2829 HIGH RIDGE BLVD</td>
-<td>HIGH RIDGE</td>
-<td>MO</td>
-<td>63049</td>
-<td>6366771786</td>
-</tr>
-<tr>
-<td>JEFFERSON COUNTY LIBRARY NORTHWEST</td>
-<td>5680 STATE ROAD PP</td>
-<td>HIGH RIDGE</td>
-<td>MO</td>
-<td>63049</td>
-<td>6366778186</td>
-</tr>
-<tr>
-<td>JEFFERSON COUNTY COURTHOUSE</td>
-<td>300 MAIN ST</td>
-<td>HILLSBORO</td>
-<td>MO</td>
-<td>63050</td>
-<td>6367975443</td>
-</tr>
-<tr>
-<td>HOUSTON MAIN POST OFFICE</td>
-<td>203 N FIRST ST</td>
-<td>HOUSTON</td>
-<td>MO</td>
-<td>65483</td>
-<td>4179672376</td>
-</tr>
-<tr>
-<td>KANSAS CITY PUBLIC LIBRARY- TRAILS WEST BRANCH</td>
-<td>11401 E 23RD ST</td>
-<td>INDEPENDENCE</td>
-<td>MO</td>
-<td>64052</td>
-<td>8167013483</td>
-</tr>
-<tr>
-<td>OZARK REGIONAL LIBRARY</td>
-<td>402 N MAIN ST</td>
-<td>IRONTON</td>
-<td>MO</td>
-<td>63650</td>
-<td>5735462615</td>
-</tr>
-<tr>
-<td>JASPER POST OFFICE</td>
-<td>122 W GRAND ST</td>
-<td>JASPER</td>
-<td>MO</td>
-<td>64755</td>
-<td>4173942519</td>
-</tr>
-<tr>
-<td>JEFFERSON CITY POST OFFICE</td>
-<td>131 W HIGH ST</td>
-<td>JEFFERSON CITY</td>
-<td>MO</td>
-<td>65101</td>
-<td>5736364186</td>
-</tr>
-<tr>
-<td>JOPLIN MAIN POST OFFICE</td>
-<td>101 NORTH MAIN STREET</td>
-<td>JOPLIN</td>
-<td>MO</td>
-<td>64801</td>
-<td>4176236176</td>
-</tr>
-<tr>
-<td>JOPLIN PUBLIC LIBRARY</td>
-<td>1901 EAST 20TH ST</td>
-<td>JOPLIN</td>
-<td>MO</td>
-<td>64804</td>
-<td>4176237953</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT CLARK COUNTY</td>
-<td>111 E COURT STREET SUITE 210</td>
-<td>KAHOKA</td>
-<td>MO</td>
-<td>63445</td>
-<td>6607273292</td>
-</tr>
-<tr>
-<td>CIVIC CENTER</td>
-<td>601 EAST 12TH STREET</td>
-<td>KANSAS CITY</td>
-<td>MO</td>
-<td>64106</td>
-<td>8163749182</td>
-</tr>
-<tr>
-<td>GLADSTONE POST OFFICE</td>
-<td>7170 N BROADWAY</td>
-<td>KANSAS CITY</td>
-<td>MO</td>
-<td>64118</td>
-<td>8164366587</td>
-</tr>
-<tr>
-<td>HICKMAN MILLS STATION</td>
-<td>6921 E 111TH STREET</td>
-<td>KANSAS CITY</td>
-<td>MO</td>
-<td>64134</td>
-<td>8167630542</td>
-</tr>
-<tr>
-<td>KANSAS CITY PUBLIC LIBRARY- WESTPORT BRANCH</td>
-<td>118 WESTPORT RD</td>
-<td>KANSAS CITY</td>
-<td>MO</td>
-<td>64111</td>
-<td>8167013488</td>
-</tr>
-<tr>
-<td>KANSAS CITY PUBLIC LIBRARY-RUIZ BRANCH</td>
-<td>2017 WEST PENNWAY</td>
-<td>KANSAS CITY</td>
-<td>MO</td>
-<td>64108</td>
-<td>8167013487</td>
-</tr>
-<tr>
-<td>KANSAS MAIN OFFICE WINDOW UNIT</td>
-<td>30 W PERSHING RD SUITE 112</td>
-<td>KANSAS CITY</td>
-<td>MO</td>
-<td>64108</td>
-<td>8163749182</td>
-</tr>
-<tr>
-<td>LONGVIEW STATION</td>
-<td>8800 RAYTOWN RD</td>
-<td>KANSAS CITY</td>
-<td>MO</td>
-<td>64138</td>
-<td>8167373275</td>
-</tr>
-<tr>
-<td>MARTIN CITY STATION</td>
-<td>10 E 135TH STREET</td>
-<td>KANSAS CITY</td>
-<td>MO</td>
-<td>64145</td>
-<td>8169438589</td>
-</tr>
-<tr>
-<td>DUNKLIN COUNTY CIRCUIT CLERK</td>
-<td>1175 FLOYD STREET</td>
-<td>KENNETT</td>
-<td>MO</td>
-<td>63857</td>
-<td>5738882456</td>
-</tr>
-<tr>
-<td>KENNETT POST OFFICE</td>
-<td>201 NORTH MAIN STREET</td>
-<td>KENNETT</td>
-<td>MO</td>
-<td>63857</td>
-<td>5738882588</td>
-</tr>
-<tr>
-<td>CHARITON COUNTY CIRCUIT CLERK OFFICE</td>
-<td>306 SOUTH CHERRY ST</td>
-<td>KEYTESVILLE</td>
-<td>MO</td>
-<td>65261</td>
-<td>6602883602</td>
-</tr>
-<tr>
-<td>KIRKSVILLE POST OFFICE</td>
-<td>210 EAST JEFFERSON ST</td>
-<td>KIRKSVILLE</td>
-<td>MO</td>
-<td>63501</td>
-<td>6606656077</td>
-</tr>
-<tr>
-<td>KIRKWOOD POSTAL STORE</td>
-<td>343 SOUTH KIRKWOOD ROAD STE 5</td>
-<td>KIRKWOOD</td>
-<td>MO</td>
-<td>63122</td>
-<td>3149660638</td>
-</tr>
-<tr>
-<td>KIRKWOOD PUBLIC LIBRARY</td>
-<td>140 E JEFFERSON AVE</td>
-<td>KIRKWOOD</td>
-<td>MO</td>
-<td>63122</td>
-<td>3148215770</td>
-</tr>
-<tr>
-<td>KNOB NOSTER POST OFFICE</td>
-<td>505 WEST MCPHERSON ST.</td>
-<td>KNOB NOSTER</td>
-<td>MO</td>
-<td>65336</td>
-<td>6605632808</td>
-</tr>
-<tr>
-<td>LAMAR MAIN POST OFFICE</td>
-<td>131 WEST 11TH STREET</td>
-<td>LAMAR</td>
-<td>MO</td>
-<td>64759</td>
-<td>4176825435</td>
-</tr>
-<tr>
-<td>LAWSON POST OFFICE</td>
-<td>420 N PENNSYLVANIA AVE</td>
-<td>LAWSON</td>
-<td>MO</td>
-<td>64062</td>
-<td>8165807042</td>
-</tr>
-<tr>
-<td>LACLEDE COUNTY RECORDER OFFICE</td>
-<td>200 NORTH ADAMS</td>
-<td>LEBANON</td>
-<td>MO</td>
-<td>65536</td>
-<td>4175324011</td>
-</tr>
-<tr>
-<td>LEE SUMMIT POSTAL STORE</td>
-<td>1404  SW MARKET STREET</td>
-<td>LEE SUMMIT</td>
-<td>MO</td>
-<td>64081</td>
-<td>8165254173</td>
-</tr>
-<tr>
-<td>LIBERTY POST OFFICE</td>
-<td>1000 PROGRESS DRIVE</td>
-<td>LIBERTY</td>
-<td>MO</td>
-<td>64068</td>
-<td>8167922872</td>
-</tr>
-<tr>
-<td>MACKS CREEK POSTAL STORE</td>
-<td>13073 W US  HWY 54</td>
-<td>MACKS CREEK</td>
-<td>MO</td>
-<td>65786</td>
-<td>5733635431</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT SALINE COUNTY</td>
-<td>19 E ARROW</td>
-<td>MARSHALL</td>
-<td>MO</td>
-<td>65340</td>
-<td>6608862300</td>
-</tr>
-<tr>
-<td>WEBSTER COUNTY CIRCUIT COURT</td>
-<td>101 S CRITTENDEN RM 22</td>
-<td>MARSHFIELD</td>
-<td>MO</td>
-<td>65706</td>
-<td>4178592041</td>
-</tr>
-<tr>
-<td>MARYVILLE POST OFFICE</td>
-<td>507 NORTH FILLMORE STREET</td>
-<td>MARYVILLE</td>
-<td>MO</td>
-<td>64468</td>
-<td>6605822751</td>
-</tr>
-<tr>
-<td>MAYSVILLE POST OFFICE</td>
-<td>303 WEST MAIN STREET</td>
-<td>MAYSVILLE</td>
-<td>MO</td>
-<td>64469</td>
-<td>8164495800</td>
-</tr>
-<tr>
-<td>SCOTLAND COUNTY CIRCUIT CLERKS OFFICE</td>
-<td>117 SOUTH MARKET SUITE 200</td>
-<td>MEMPHIS</td>
-<td>MO</td>
-<td>63555</td>
-<td>6604658605</td>
-</tr>
-<tr>
-<td>AUDRAIN CO CIRCUIT CLERK OFFICE</td>
-<td>101 N JEFFERSON ROOM 204</td>
-<td>MEXICO</td>
-<td>MO</td>
-<td>65265</td>
-<td>5734735840</td>
-</tr>
-<tr>
-<td>MILAN POST OFFICE</td>
-<td>100 EAST 4TH STREET</td>
-<td>MILAN</td>
-<td>MO</td>
-<td>63556</td>
-<td>6602653200</td>
-</tr>
-<tr>
-<td>MOBERLY POST OFFICE</td>
-<td>121 JOHNSON ST</td>
-<td>MOBERLY</td>
-<td>MO</td>
-<td>65270</td>
-<td>6602635522</td>
-</tr>
-<tr>
-<td>MOUNTAIN GROVE POST OFFICE</td>
-<td>111 SOUTH UNION ST</td>
-<td>MOUNTAIN GROVE</td>
-<td>MO</td>
-<td>65711</td>
-<td>4179265711</td>
-</tr>
-<tr>
-<td>MOUNTAIN VIEW POST OFFICE</td>
-<td>110 WEST SECOND STREET</td>
-<td>MOUNTAIN VIEW</td>
-<td>MO</td>
-<td>65548</td>
-<td>4179342392</td>
-</tr>
-<tr>
-<td>NEOSHO POST OFFICE</td>
-<td>101 E HICKORY STREET</td>
-<td>NEOSHO</td>
-<td>MO</td>
-<td>64850</td>
-<td>4174514172</td>
-</tr>
-<tr>
-<td>NEWTON COUNTY CIRCUIT CLERK</td>
-<td>123 E MAIN</td>
-<td>NEOSHO</td>
-<td>MO</td>
-<td>64850</td>
-<td>4174518210</td>
-</tr>
-<tr>
-<td>NEVADA POST OFFICE</td>
-<td>104 S OAK ST</td>
-<td>NEVADA</td>
-<td>MO</td>
-<td>64772</td>
-<td>4176675241</td>
-</tr>
-<tr>
-<td>SCENIC REGIONAL LIBRARY NEW HAVEN BRANCH</td>
-<td>200 DOUGLAS STREET</td>
-<td>NEW HAVEN</td>
-<td>MO</td>
-<td>63068</td>
-<td>5732372189</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT NEW MADRID COUNTY</td>
-<td>450 MAIN STREET</td>
-<td>NEW MADRID</td>
-<td>MO</td>
-<td>63869</td>
-<td>5737482228</td>
-</tr>
-<tr>
-<td>NIXA POST OFFICE</td>
-<td>404 W SOUTH ST</td>
-<td>NIXA</td>
-<td>MO</td>
-<td>65714</td>
-<td>4177255112</td>
-</tr>
-<tr>
-<td>OFALLON POST OFFICE</td>
-<td>401 CHURCH STREET</td>
-<td>OFALLON</td>
-<td>MO</td>
-<td>63366</td>
-<td>6362723811</td>
-</tr>
-<tr>
-<td>ST. CHARLES CITY-COUNTY LIBRARY DISTRICT, MIDDENDORF-KREDELL BRANCH</td>
-<td>2750 HIGHWAY K</td>
-<td>OFALLON</td>
-<td>MO</td>
-<td>63368</td>
-<td>6369787926</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT HOLT COUNTY</td>
-<td>102 WEST NODAWAY</td>
-<td>OREGON</td>
-<td>MO</td>
-<td>64473</td>
-<td>6604463301</td>
-</tr>
-<tr>
-<td>OSAGE BEACH LIBRARY</td>
-<td>1064 GUTRIDGE LANE</td>
-<td>OSAGE BEACH</td>
-<td>MO</td>
-<td>65065</td>
-<td>5733483282</td>
-</tr>
-<tr>
-<td>ST CLAIR CO CIRCUIT CLERK OFFICE</td>
-<td>655 2ND STREET</td>
-<td>OSCEOLA</td>
-<td>MO</td>
-<td>64776</td>
-<td>4176462226</td>
-</tr>
-<tr>
-<td>SCENIC REGIONAL LIBRARY OWENSVILLE BRANCH</td>
-<td>503 OLIVE STREET</td>
-<td>OWENSVILLE</td>
-<td>MO</td>
-<td>65066</td>
-<td>5734372188</td>
-</tr>
-<tr>
-<td>OZARK POST OFFICE</td>
-<td>1450 W JACKSON ST</td>
-<td>OZARK</td>
-<td>MO</td>
-<td>65721</td>
-<td>4175812754</td>
-</tr>
-<tr>
-<td>SCENIC REGIONAL LIBRARY PACIFIC BRANCH</td>
-<td>111 LAMAR PARKWAY</td>
-<td>PACIFIC</td>
-<td>MO</td>
-<td>63069</td>
-<td>6362572712</td>
-</tr>
-<tr>
-<td>PARK HILLS POST OFFICE</td>
-<td>302 TJ STEWART DRIVE</td>
-<td>PARK HILLS</td>
-<td>MO</td>
-<td>63601</td>
-<td>5734314906</td>
-</tr>
-<tr>
-<td>ST. FRANCOIS COUNTY HEALTH CENTER</td>
-<td>1025 WEST MAIN</td>
-<td>PARK HILLS</td>
-<td>MO</td>
-<td>63601</td>
-<td>5734311947</td>
-</tr>
-<tr>
-<td>PERRYVILLE POST OFFICE</td>
-<td>322 PCR 812</td>
-<td>PERRYVILLE</td>
-<td>MO</td>
-<td>63775</td>
-<td>5735474343</td>
-</tr>
-<tr>
-<td>MCDONALD COUNTY COURTHOUSE</td>
-<td>602 MAIN ST</td>
-<td>PINEVILLE</td>
-<td>MO</td>
-<td>64856</td>
-<td>4172237512</td>
-</tr>
-<tr>
-<td>PLATTE CITY POST OFFICE</td>
-<td>1101 HAMPTON LANE</td>
-<td>PLATTE CITY</td>
-<td>MO</td>
-<td>64079</td>
-<td>8168582431</td>
-</tr>
-<tr>
-<td>POINT LOOKOUT POST OFFICE</td>
-<td>9998 ACADEMIC  AVE.</td>
-<td>POINT LOOKOUT</td>
-<td>MO</td>
-<td>65726</td>
-<td>4173344050</td>
-</tr>
-<tr>
-<td>POLO POST OFFICE</td>
-<td>104 WEST ELM ST</td>
-<td>POLO</td>
-<td>MO</td>
-<td>64671</td>
-<td>6603542666</td>
-</tr>
-<tr>
-<td>BUTLER COUNTY CIRCUIT CLERK</td>
-<td>100 N MAIN</td>
-<td>POPLAR BLUFF</td>
-<td>MO</td>
-<td>63901</td>
-<td>5736868082</td>
-</tr>
-<tr>
-<td>POPLAR BLUFF MUNICIPAL LIBRARY</td>
-<td>318 NORTH MAIN STREET</td>
-<td>POPLAR BLUFF</td>
-<td>MO</td>
-<td>63901</td>
-<td>5736868639</td>
-</tr>
-<tr>
-<td>POPLAR BLUFF POST OFFICE</td>
-<td>430 POPLAR STREET</td>
-<td>POPLAR BLUFF</td>
-<td>MO</td>
-<td>63901</td>
-<td>5737851491</td>
-</tr>
-<tr>
-<td>COUNTY CLERKS OFFICE- WASHINGTON COUNTY</td>
-<td>102 N. MISSOURI ST</td>
-<td>POTOSI</td>
-<td>MO</td>
-<td>63664</td>
-<td>5734386111</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT MERCER COUNTY</td>
-<td>802 EAST MAIN ST</td>
-<td>PRINCETON</td>
-<td>MO</td>
-<td>64673</td>
-<td>6607484335</td>
-</tr>
-<tr>
-<td>RAYTOWN POST OFFICE</td>
-<td>10501 E 63RD ST</td>
-<td>RAYTOWN</td>
-<td>MO</td>
-<td>64133</td>
-<td>8163560686</td>
-</tr>
-<tr>
-<td>REEDS SPRING POST OFFICE</td>
-<td>22153 MAIN ST</td>
-<td>REEDS SPRING</td>
-<td>MO</td>
-<td>65737</td>
-<td>4172723243</td>
-</tr>
-<tr>
-<td>REPUBLIC POST OFFICE</td>
-<td>660 E HARRISON STREET</td>
-<td>REPUBLIC</td>
-<td>MO</td>
-<td>65738</td>
-<td>4177324733</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT RAY COUNTY</td>
-<td>100 W MAIN ST STE 22</td>
-<td>RICHMOND</td>
-<td>MO</td>
-<td>64085</td>
-<td>8167763377</td>
-</tr>
-<tr>
-<td>ROCK PORT POST OFFICE</td>
-<td>110 W OPP ST</td>
-<td>ROCK PORT</td>
-<td>MO</td>
-<td>64482</td>
-<td>6607442188</td>
-</tr>
-<tr>
-<td>ROGERSVILLE POST OFFICE</td>
-<td>226 W CENTER ST</td>
-<td>ROGERSVILLE</td>
-<td>MO</td>
-<td>65742</td>
-<td>4177532811</td>
-</tr>
-<tr>
-<td>PHELPS COUNTY CLERK</td>
-<td>200 N MAIN ST STE 102</td>
-<td>ROLLA</td>
-<td>MO</td>
-<td>65401</td>
-<td>5734586115</td>
-</tr>
-<tr>
-<td>ST. CHARLES CITY-COUNTY LIBRARY DISTRICT, KISKER ROAD BRANCH</td>
-<td>1000 KISKER ROAD</td>
-<td>SAINT CHARLES</td>
-<td>MO</td>
-<td>63304</td>
-<td>6364477323</td>
-</tr>
-<tr>
-<td>ROLLING HILLS CONSOLIDATED LIBRARY BELT BRANCH</td>
-<td>1904 N BELT HWY</td>
-<td>SAINT JOSEPH</td>
-<td>MO</td>
-<td>64506</td>
-<td>8162325479</td>
-</tr>
-<tr>
-<td>ST. CHARLES CITY-COUNTY LIBRARY DISTRICT, SPENCER ROAD BRANCH</td>
-<td>427 SPENCER ROAD</td>
-<td>SAINT PETERS</td>
-<td>MO</td>
-<td>63376</td>
-<td>6364472320</td>
-</tr>
-<tr>
-<td>DENT COUNTY JUDICIAL BUILDING</td>
-<td>112 E 5TH STREET SUITE 2</td>
-<td>SALEM</td>
-<td>MO</td>
-<td>65560</td>
-<td>5737292198</td>
-</tr>
-<tr>
-<td>SALEM POST OFFICE</td>
-<td>303 N JACKSON STREET</td>
-<td>SALEM</td>
-<td>MO</td>
-<td>65560</td>
-<td>5737293442</td>
-</tr>
-<tr>
-<td>SARCOXIE POST OFFICE</td>
-<td>216 N 5TH ST</td>
-<td>SARCOXIE</td>
-<td>MO</td>
-<td>64862</td>
-<td>4175483531</td>
-</tr>
-<tr>
-<td>ROLLING HILLS CONSOLIDATED LIBRARY SAVANNAH BRANCH</td>
-<td>514 W MAIN ST</td>
-<td>SAVANNAH</td>
-<td>MO</td>
-<td>64485</td>
-<td>8162325479</td>
-</tr>
-<tr>
-<td>SEDALIA POST OFFICE</td>
-<td>405 EAST 5TH STREET</td>
-<td>SEDALIA</td>
-<td>MO</td>
-<td>65301</td>
-<td>6608268887</td>
-</tr>
-<tr>
-<td>SHELBY COUNTY CIRCUIT CLERK</td>
-<td>100 E MAIN</td>
-<td>SHELBYVILLE</td>
-<td>MO</td>
-<td>63469</td>
-<td>5736332151</td>
-</tr>
-<tr>
-<td>SIKESTON PUBLIC LIBRARY</td>
-<td>121 E NORTH ST</td>
-<td>SIKESTON</td>
-<td>MO</td>
-<td>63801</td>
-<td>5734714140</td>
-</tr>
-<tr>
-<td>SPRINGFIELD MAIN POST OFFICE</td>
-<td>500 W CHESTNUT EXPY</td>
-<td>SPRINGFIELD</td>
-<td>MO</td>
-<td>65801</td>
-<td>4178640117</td>
-</tr>
-<tr>
-<td>THE LIBRARY CENTER- SPRINGFIELD-GREENE COUNTY LIBRARY DISTRICT</td>
-<td>4653 S CAMPBELL AVE</td>
-<td>SPRINGFIELD</td>
-<td>MO</td>
-<td>65810</td>
-<td>4178835341</td>
-</tr>
-<tr>
-<td>THE LIBRARY STATION SPRINGFIELD-GREENE COUNTY LIBRARY</td>
-<td>2535 NORTH KANSAS EXPRESSWAY</td>
-<td>SPRINGFIELD</td>
-<td>MO</td>
-<td>65803</td>
-<td>4178651340</td>
-</tr>
-<tr>
-<td>ST ANN POST OFFICE</td>
-<td>10401 INTERNATIONAL PLAZA DRIVE</td>
-<td>ST ANN</td>
-<td>MO</td>
-<td>63074</td>
-<td>3144287153</td>
-</tr>
-<tr>
-<td>SAINT CHARLES COUNTY DEPT OF PUBLIC HEALTH</td>
-<td>1650 BOONES LICK RD</td>
-<td>ST CHARLES</td>
-<td>MO</td>
-<td>63301</td>
-<td>6369497412</td>
-</tr>
-<tr>
-<td>ST CHARLES MAIN POST OFFICE</td>
-<td>1890 FIRST CAPITOL DR</td>
-<td>ST CHARLES</td>
-<td>MO</td>
-<td>63301</td>
-<td>6369492291</td>
-</tr>
-<tr>
-<td>SCENIC REGIONAL LIBRARY ST CLAIR BRANCH</td>
-<td>515 EAST SPRINGFIELD ROAD</td>
-<td>ST CLAIR</td>
-<td>MO</td>
-<td>63077</td>
-<td>6366292546</td>
-</tr>
-<tr>
-<td>ST JOSEPH MAIN POST OFFICE</td>
-<td>201 SOUTH 8TH ST</td>
-<td>ST JOSEPH</td>
-<td>MO</td>
-<td>64501</td>
-<td>8163643231</td>
-</tr>
-<tr>
-<td>AFFTON POST OFFICE</td>
-<td>55 GRASSO PLAZA</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63123</td>
-<td>3145447929</td>
-</tr>
-<tr>
-<td>CHARLES J COYLE BRANCH</td>
-<td>1203 LEMAY FERRY ROAD</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63125</td>
-<td>3145445169</td>
-</tr>
-<tr>
-<td>CLAYTON BRANCH</td>
-<td>7750 MARYLAND AVE</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63105</td>
-<td>3148621822</td>
-</tr>
-<tr>
-<td>CREVE COEUR POST OFFICE</td>
-<td>331 N NEW BALLAS ROAD</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63141</td>
-<td>3144323664</td>
-</tr>
-<tr>
-<td>DES PERES POST OFFICE</td>
-<td>1015 GRUPP RD</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63131</td>
-<td>3149666397</td>
-</tr>
-<tr>
-<td>GAFFNEY BRANCH</td>
-<td>2318 WOODSON RD</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63114</td>
-<td>3144274109</td>
-</tr>
-<tr>
-<td>GRAVOIS STATION</td>
-<td>4455 RIDGEWOOD</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63116</td>
-<td>3144810014</td>
-</tr>
-<tr>
-<td>JENNINGS BRANCH</td>
-<td>9810 HALLS FERRY RD</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63136</td>
-<td>3148670814</td>
-</tr>
-<tr>
-<td>MACKENZIE POINTE BRANCH POST OFFICE</td>
-<td>7217 WATSON ROAD</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63119</td>
-<td>3143515281</td>
-</tr>
-<tr>
-<td>MARIAN OLDHAM POST OFFICE</td>
-<td>4021 LACLEDE AVE</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63108</td>
-<td>3145335058</td>
-</tr>
-<tr>
-<td>NORTH COUNTY BRANCH</td>
-<td>11001 DUNKLIN DRIVE</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63138</td>
-<td>3148690566</td>
-</tr>
-<tr>
-<td>OLIVETTE BRANCH</td>
-<td>9621 OLIVE BLVD</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63132</td>
-<td>3149940529</td>
-</tr>
-<tr>
-<td>SAINT LOUIS MAIN POST OFFICE (CARRIER SQUARE)</td>
-<td>1720 MARKET ST, RM 1009</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63155</td>
-<td>3144366853</td>
-</tr>
-<tr>
-<td>SAPPINGTON BRANCH</td>
-<td>11662 GRAVOIS RD</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63126</td>
-<td>3148432560</td>
-</tr>
-<tr>
-<td>SOUTH COUNTY BRANCH</td>
-<td>5636 TELEGRAPH RD</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63129</td>
-<td>3148464152</td>
-</tr>
-<tr>
-<td>SOUTH COUNTY POSTAL STORE</td>
-<td>375 A SOUTH COUNTY CENTERWAY</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63129</td>
-<td>3148464152</td>
-</tr>
-<tr>
-<td>SOUTHWEST STATION</td>
-<td>3232 CLIFTON AVE</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63139</td>
-<td>3146450902</td>
-</tr>
-<tr>
-<td>ST LOUIS PUBLIC LIBRARY-CARPENTER BRANCH</td>
-<td>3309 S GRAND BLVD</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63118</td>
-<td>3147726586</td>
-</tr>
-<tr>
-<td>ST LOUIS PUBLIC LIBRARY-JULIA DAVIS BRANCH</td>
-<td>4415 NATURAL BRIDGE AVE</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63115</td>
-<td>3143833021</td>
-</tr>
-<tr>
-<td>ST LOUIS PUBLIC LIBRARY-SCHLAFLY BRANCH</td>
-<td>225 N EUCLID AVE</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63108</td>
-<td>3143674120</td>
-</tr>
-<tr>
-<td>UNIVERSITY CITY POST OFFICE</td>
-<td>561 KINGSLAND AVE</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63130</td>
-<td>3147261067</td>
-</tr>
-<tr>
-<td>UNIVERSITY OF MISSOURI - ST LOUIS</td>
-<td>1 UNIVERSITY BLVD SSB RM 301</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63121</td>
-<td>3145167297</td>
-</tr>
-<tr>
-<td>WEST COUNTY BRANCH</td>
-<td>2002 CONGRESSIONAL DR.</td>
-<td>ST LOUIS</td>
-<td>MO</td>
-<td>63146</td>
-<td>3149931402</td>
-</tr>
-<tr>
-<td>ST PETERS POST OFFICE</td>
-<td>7055 MEXICO ROAD</td>
-<td>ST PETERS</td>
-<td>MO</td>
-<td>63376</td>
-<td>6363975809</td>
-</tr>
-<tr>
-<td>STE GENEVIEVE COUNTY HEALTH DEPT</td>
-<td>115 BASLER DRIVE</td>
-<td>STE GENEVIEVE</td>
-<td>MO</td>
-<td>63670</td>
-<td>5738837411</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT CRAWFORD COUNTY</td>
-<td>302 W MAIN STREET</td>
-<td>STEELVILLE</td>
-<td>MO</td>
-<td>65565</td>
-<td>5737752866</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT CEDAR COUNTY</td>
-<td>113 SOUTH STREET</td>
-<td>STOCKTON</td>
-<td>MO</td>
-<td>65785</td>
-<td>4172766700</td>
-</tr>
-<tr>
-<td>STURGEON POST OFFICE</td>
-<td>111 NORTH WENTZ STREET</td>
-<td>STURGEON</td>
-<td>MO</td>
-<td>65284</td>
-<td>5736873885</td>
-</tr>
-<tr>
-<td>SCENIC REGIONAL LIBRARY SULLIVAN  BRANCH</td>
-<td>525 CUMBERLAND WAY</td>
-<td>SULLIVAN</td>
-<td>MO</td>
-<td>63080</td>
-<td>5734684372</td>
-</tr>
-<tr>
-<td>SUNRISE BEACH POST OFFICE</td>
-<td>14190 N STATE HWY 5</td>
-<td>SUNRISE BEACH</td>
-<td>MO</td>
-<td>65079</td>
-<td>5733747993</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT GRUNDY COUNTY</td>
-<td>700 MAIN ST SUITE 7</td>
-<td>TRENTON</td>
-<td>MO</td>
-<td>64683</td>
-<td>6603594040</td>
-</tr>
-<tr>
-<td>LINCOLN COUNTY HEALTH DEPARTMENT</td>
-<td>5 HEALTH DEPARTMENT DRIVE</td>
-<td>TROY</td>
-<td>MO</td>
-<td>63379</td>
-<td>6365286117</td>
-</tr>
-<tr>
-<td>MILLER COUNTY RECORDER OFFICE</td>
-<td>2001 HIGHWAY 52</td>
-<td>TUSCUMBIA</td>
-<td>MO</td>
-<td>65082</td>
-<td>5733691935</td>
-</tr>
-<tr>
-<td>SCENIC REGIONAL LIBRARY- UNION BRANCH</td>
-<td>251 UNION PLAZA DR</td>
-<td>UNION</td>
-<td>MO</td>
-<td>63084</td>
-<td>6365833224</td>
-</tr>
-<tr>
-<td>UNION POST OFFICE</td>
-<td>1276 NORTH HIGHWAY 47</td>
-<td>UNION</td>
-<td>MO</td>
-<td>63084</td>
-<td>6365832442</td>
-</tr>
-<tr>
-<td>CLERK OF CIRCUIT COURT PUTNAM COUNTY</td>
-<td>1601 MAIN STREET  ROOM 204</td>
-<td>UNIONVILLE</td>
-<td>MO</td>
-<td>63565</td>
-<td>6609472071</td>
-</tr>
-<tr>
-<td>VAN BUREN POST OFFICE</td>
-<td>307 W OLIVER ST.</td>
-<td>VAN BUREN</td>
-<td>MO</td>
-<td>63965</td>
-<td>5733234703</td>
-</tr>
-<tr>
-<td>MORGAN COUNTY CIRCUIT CLERK</td>
-<td>211 E NEWTON STREET SUITE 4</td>
-<td>VERSAILLES</td>
-<td>MO</td>
-<td>65084</td>
-<td>5733784413</td>
-</tr>
-<tr>
-<td>WARRENSBURG POST OFFICE</td>
-<td>201 EAST GAY STREET</td>
-<td>WARRENSBURG</td>
-<td>MO</td>
-<td>64093</td>
-<td>6607475211</td>
-</tr>
-<tr>
-<td>SCENIC REGIONAL LIBRARY- WARREN BRANCH</td>
-<td>912 S HIGHWAY 47</td>
-<td>WARRENTON</td>
-<td>MO</td>
-<td>63383</td>
-<td>6364563321</td>
-</tr>
-<tr>
-<td>WARRENTON POST OFFICE</td>
-<td>501 E BOONESLICK RD</td>
-<td>WARRENTON</td>
-<td>MO</td>
-<td>63383</td>
-<td>6364563324</td>
-</tr>
-<tr>
-<td>WASHINGTON POST OFFICE</td>
-<td>1777 WASHINGTON CROSSING</td>
-<td>WASHINGTON</td>
-<td>MO</td>
-<td>63090</td>
-<td>6362393207</td>
-</tr>
-<tr>
-<td>WASHINGTON PUBLIC LIBRARY</td>
-<td>410 LAFAYETTE STREET</td>
-<td>WASHINGTON</td>
-<td>MO</td>
-<td>63090</td>
-<td>6363901070</td>
-</tr>
-<tr>
-<td>PULASKI COUNTY CIRCUIT CLERK</td>
-<td>301 HISTORIC ROUTE 66 EAST SUITE 202</td>
-<td>WAYNESVILLE</td>
-<td>MO</td>
-<td>65583</td>
-<td>5737744755</td>
-</tr>
-<tr>
-<td>WEBB CITY POST OFFICE</td>
-<td>220 W DAUGHERTY ST</td>
-<td>WEBB CITY</td>
-<td>MO</td>
-<td>64870</td>
-<td>4176734346</td>
-</tr>
-<tr>
-<td>WEBSTER GROVES PUBLIC LIBRARY</td>
-<td>301 E LOCKWOOD AVE</td>
-<td>WEBSTER GROVES</td>
-<td>MO</td>
-<td>63119</td>
-<td>3149613784</td>
-</tr>
-<tr>
-<td>ST CHARLES CITY-COUNTY LIBRARY DISTRICT, CORPORATE PARKWAY BRANCH</td>
-<td>1200 CORPORATE PARKWAY</td>
-<td>WENTZVILLE</td>
-<td>MO</td>
-<td>63385</td>
-<td>6363274010</td>
-</tr>
-<tr>
-<td>WEST PLAINS POST OFFICE</td>
-<td>212 WASHINGTON  AVE</td>
-<td>WEST PLAINS</td>
-<td>MO</td>
-<td>65775</td>
-<td>4172565775</td>
-</tr>
-<tr>
-<td>WILLARD POST OFFICE</td>
-<td>107 WILLEY ST</td>
-<td>WILLARD</td>
-<td>MO</td>
-<td>65781</td>
-<td>4177423311</td>
-</tr>
-<tr>
-<td>SCENIC REGIONAL LIBRARY WRIGHT CITY BRANCH</td>
-<td>60 WILDCAT DRIVE</td>
-<td>WRIGHT CITY</td>
-<td>MO</td>
-<td>63390</td>
-<td>6369446100</td>
-</tr>
-</tbody>
-</table>

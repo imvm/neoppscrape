@@ -1,1566 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ABBOTSFORD POST OFFICE</td>
-<td>113 N. 2ND ST.</td>
-<td>ABBOTSFORD</td>
-<td>WI</td>
-<td>54405</td>
-<td>7152236082</td>
-</tr>
-<tr>
-<td>BUFFALO COUNTY CLERK OF COURT</td>
-<td>407 S. 2ND STREET</td>
-<td>ALMA</td>
-<td>WI</td>
-<td>54610</td>
-<td>6086856212</td>
-</tr>
-<tr>
-<td>AMERY POST OFFICE</td>
-<td>1024 RIVERPLACE DR.</td>
-<td>AMERY</td>
-<td>WI</td>
-<td>54001</td>
-<td>7152687144</td>
-</tr>
-<tr>
-<td>ANTIGO POST OFFICE</td>
-<td>501 CLERMONT ST.</td>
-<td>ANTIGO</td>
-<td>WI</td>
-<td>54409</td>
-<td>7156274812</td>
-</tr>
-<tr>
-<td>APPLETON MAIN POST OFFICE</td>
-<td>410 W. FRANKLIN STREET</td>
-<td>APPLETON</td>
-<td>WI</td>
-<td>54911</td>
-<td>9209933081</td>
-</tr>
-<tr>
-<td>GRAND CHUTE POSTAL STORE</td>
-<td>311 N. CASALOMA DR.</td>
-<td>APPLETON</td>
-<td>WI</td>
-<td>54913</td>
-<td>9209933081</td>
-</tr>
-<tr>
-<td>OUTAGAMIE COUNTY CLERK OF CIRCUIT COURT</td>
-<td>320 S. WALNUT ST.</td>
-<td>APPLETON</td>
-<td>WI</td>
-<td>54911</td>
-<td>9208325131</td>
-</tr>
-<tr>
-<td>ARCADIA POST OFFICE</td>
-<td>1495 E. WILSON AVE</td>
-<td>ARCADIA</td>
-<td>WI</td>
-<td>54612</td>
-<td>6083237103</td>
-</tr>
-<tr>
-<td>ASHLAND POST OFFICE</td>
-<td>615 WEST MAIN ST W</td>
-<td>ASHLAND</td>
-<td>WI</td>
-<td>54806</td>
-<td>7156824848</td>
-</tr>
-<tr>
-<td>BAILEYS HARBOR POST OFFICE</td>
-<td>2398 BLUFF ROAD</td>
-<td>BAILEYS HARBOR</td>
-<td>WI</td>
-<td>54202</td>
-<td>9208392859</td>
-</tr>
-<tr>
-<td>POLK COUNTY WI CLERK</td>
-<td>100 POLK COUNTY PLAZA</td>
-<td>BALSAM LAKE</td>
-<td>WI</td>
-<td>54810</td>
-<td>7154859226</td>
-</tr>
-<tr>
-<td>SAUK COUNTY CLERK</td>
-<td>505 BROADWAY, RM. 144</td>
-<td>BARABOO</td>
-<td>WI</td>
-<td>53913</td>
-<td>6083553286</td>
-</tr>
-<tr>
-<td>BARRON COUNTY CLERK OF COURT</td>
-<td>1420 STATE HWY 25 NORTH</td>
-<td>BARRON</td>
-<td>WI</td>
-<td>54812</td>
-<td>7155376265</td>
-</tr>
-<tr>
-<td>BEAVER DAM POST OFFICE</td>
-<td>411 N. SPRING ST.</td>
-<td>BEAVER DAM</td>
-<td>WI</td>
-<td>53916</td>
-<td>9208856843</td>
-</tr>
-<tr>
-<td>BELLEVILLE WI POST OFFICE</td>
-<td>102 S. VINE ST.</td>
-<td>BELLEVILLE</td>
-<td>WI</td>
-<td>53508</td>
-<td>6084246524</td>
-</tr>
-<tr>
-<td>BELOIT POST OFFICE</td>
-<td>300 MILL ST.</td>
-<td>BELOIT</td>
-<td>WI</td>
-<td>53511</td>
-<td>6083657755</td>
-</tr>
-<tr>
-<td>BIG BEND POST OFFICE</td>
-<td>S87 W 22530 EDGEWOOD AVE.</td>
-<td>BIG BEND</td>
-<td>WI</td>
-<td>53103</td>
-<td>2626620996</td>
-</tr>
-<tr>
-<td>JACKSON COUNTY CLERK</td>
-<td>307 MAIN ST.</td>
-<td>BLACK RIVER FALLS</td>
-<td>WI</td>
-<td>54615</td>
-<td>7152840201</td>
-</tr>
-<tr>
-<td>BRISTOL POST OFFICE</td>
-<td>8223 199TH AVE.</td>
-<td>BRISTOL</td>
-<td>WI</td>
-<td>53104</td>
-<td>2628577111</td>
-</tr>
-<tr>
-<td>BROOKFIELD POST OFFICE</td>
-<td>17345 CIVIC DR.</td>
-<td>BROOKFIELD</td>
-<td>WI</td>
-<td>53045</td>
-<td>2627820588</td>
-</tr>
-<tr>
-<td>BURLINGTON POST OFFICE</td>
-<td>100 S. PINE STREET</td>
-<td>BURLINGTON</td>
-<td>WI</td>
-<td>53105</td>
-<td>2627636300</td>
-</tr>
-<tr>
-<td>BUTLER POST OFFICE</td>
-<td>12420 W. HAMPTON AVE.</td>
-<td>BUTLER</td>
-<td>WI</td>
-<td>53007</td>
-<td>2627814064</td>
-</tr>
-<tr>
-<td>BUTTERNUT POST OFFICE</td>
-<td>101 E. MAIN ST.</td>
-<td>BUTTERNUT</td>
-<td>WI</td>
-<td>54514</td>
-<td>7157693471</td>
-</tr>
-<tr>
-<td>CEDARBURG POST OFFICE</td>
-<td>W63 N605 HANOVER AVE.</td>
-<td>CEDARBURG</td>
-<td>WI</td>
-<td>53012</td>
-<td>2623770388</td>
-</tr>
-<tr>
-<td>CALUMET COUNTY CLERK OF COURT</td>
-<td>206 COURT STREET</td>
-<td>CHILTON</td>
-<td>WI</td>
-<td>53014</td>
-<td>9208491414</td>
-</tr>
-<tr>
-<td>CHILTON POST OFFICE</td>
-<td>57 E. MAIN STREET</td>
-<td>CHILTON</td>
-<td>WI</td>
-<td>53014</td>
-<td>9208492651</td>
-</tr>
-<tr>
-<td>CHIPPEWA COUNTY CLERK</td>
-<td>711 N. BRIDGE ST.</td>
-<td>CHIPPEWA FALLS</td>
-<td>WI</td>
-<td>54729</td>
-<td>7157267980</td>
-</tr>
-<tr>
-<td>COLFAX POST OFFICE</td>
-<td>602 MAIN ST.</td>
-<td>COLFAX</td>
-<td>WI</td>
-<td>54730</td>
-<td>7159623777</td>
-</tr>
-<tr>
-<td>FOREST COUNTY CLERK OF COURT</td>
-<td>200 E. MADISON</td>
-<td>CRANDON</td>
-<td>WI</td>
-<td>54520</td>
-<td>7154783323</td>
-</tr>
-<tr>
-<td>CUSTER POST OFFICE</td>
-<td>2224 CUSTER ROAD</td>
-<td>CUSTER</td>
-<td>WI</td>
-<td>54423</td>
-<td>7155924176</td>
-</tr>
-<tr>
-<td>LAFAYETTE COUNTY CLERK OF COURT</td>
-<td>626 MAIN STREET</td>
-<td>DARLINGTON</td>
-<td>WI</td>
-<td>53530</td>
-<td>6087764832</td>
-</tr>
-<tr>
-<td>DEPERE CLERK OFFICE</td>
-<td>335 SOUTH BROADWAY STREET</td>
-<td>DE PERE</td>
-<td>WI</td>
-<td>54115</td>
-<td>9203394050</td>
-</tr>
-<tr>
-<td>DEFOREST POST OFFICE</td>
-<td>619 S. MAIN STREET</td>
-<td>DEFOREST</td>
-<td>WI</td>
-<td>53532</td>
-<td>6088465910</td>
-</tr>
-<tr>
-<td>DELAFIELD POST OFFICE</td>
-<td>925 GENESEE ST.</td>
-<td>DELAFIELD</td>
-<td>WI</td>
-<td>53018</td>
-<td>2626468423</td>
-</tr>
-<tr>
-<td>DELAVAN POST OFFICE</td>
-<td>335 E. WALWORTH AVE.</td>
-<td>DELAVAN</td>
-<td>WI</td>
-<td>53115</td>
-<td>2627282100</td>
-</tr>
-<tr>
-<td>DEPERE POST OFFICE</td>
-<td>123 S. 9TH STREET</td>
-<td>DEPERE</td>
-<td>WI</td>
-<td>54115</td>
-<td>9203364306</td>
-</tr>
-<tr>
-<td>IOWA COUNTY CLERK OF CIRCUIT COURT</td>
-<td>222 N. IOWA STREET</td>
-<td>DODGEVILLE</td>
-<td>WI</td>
-<td>53533</td>
-<td>6089350395</td>
-</tr>
-<tr>
-<td>VILAS COUNTY CLERK OF COURT</td>
-<td>330 COURT STREET</td>
-<td>EAGLE RIVER</td>
-<td>WI</td>
-<td>54521</td>
-<td>7154793632</td>
-</tr>
-<tr>
-<td>EAU CLAIRE MAIN OFFICE</td>
-<td>225 EAST MADISON ST</td>
-<td>EAU CLAIRE</td>
-<td>WI</td>
-<td>54703</td>
-<td>7158305300</td>
-</tr>
-<tr>
-<td>ELKHORN POST OFFICE</td>
-<td>102 E. WALWORTH ST.</td>
-<td>ELKHORN</td>
-<td>WI</td>
-<td>53121</td>
-<td>2627232679</td>
-</tr>
-<tr>
-<td>WALWORTH COUNTY CLERK OF COURT</td>
-<td>1800 CTY HWY NN</td>
-<td>ELKHORN</td>
-<td>WI</td>
-<td>53121</td>
-<td>2627417012</td>
-</tr>
-<tr>
-<td>PIERCE COUNTY CLERK</td>
-<td>414 WEST MAIN STREET</td>
-<td>ELLSWORTH</td>
-<td>WI</td>
-<td>54011</td>
-<td>7152736744</td>
-</tr>
-<tr>
-<td>FENNIMORE POST OFFICE</td>
-<td>1090 12TH ST.</td>
-<td>FENNIMORE</td>
-<td>WI</td>
-<td>53809</td>
-<td>6088226788</td>
-</tr>
-<tr>
-<td>FOND DU LAC COUNTY CLERK OF CIRCUIT COURT</td>
-<td>160 S. MACY ST.</td>
-<td>FOND DU LAC</td>
-<td>WI</td>
-<td>54935</td>
-<td>9209293037</td>
-</tr>
-<tr>
-<td>FORT ATKINSON</td>
-<td>24 MILWAUKEE AVENUE E.</td>
-<td>FORT ATKINSON</td>
-<td>WI</td>
-<td>53538</td>
-<td>9205635881</td>
-</tr>
-<tr>
-<td>FRANKLIN POST OFFICE</td>
-<td>9575 BRENWOOD PARK DRIVE</td>
-<td>FRANKLIN</td>
-<td>WI</td>
-<td>53132</td>
-<td>4144271414</td>
-</tr>
-<tr>
-<td>FREDONIA POST OFFICE</td>
-<td>207 REGAL DR.</td>
-<td>FREDONIA</td>
-<td>WI</td>
-<td>53021</td>
-<td>2626922341</td>
-</tr>
-<tr>
-<td>ADAMS COUNTY CLERK OF CIRCUIT COURT</td>
-<td>402 MAIN STREET</td>
-<td>FRIENDSHIP</td>
-<td>WI</td>
-<td>53934</td>
-<td>6083394208</td>
-</tr>
-<tr>
-<td>GERMANTOWN POST OFFICE</td>
-<td>W156 N11301 PILGRIM ROAD</td>
-<td>GERMANTOWN</td>
-<td>WI</td>
-<td>53022</td>
-<td>2622516411</td>
-</tr>
-<tr>
-<td>GRAFTON POST OFFICE</td>
-<td>1817 HIGHLAND DR.</td>
-<td>GRAFTON</td>
-<td>WI</td>
-<td>53024</td>
-<td>2623774250</td>
-</tr>
-<tr>
-<td>BROWN COUNTY CLERK GREEN BAY WI</td>
-<td>305 EAST WALNUT STREET</td>
-<td>GREEN BAY</td>
-<td>WI</td>
-<td>54301</td>
-<td>9204484016</td>
-</tr>
-<tr>
-<td>GREEN BAY DOWNTOWN STATION</td>
-<td>118 N. MONROE</td>
-<td>GREEN BAY</td>
-<td>WI</td>
-<td>54301</td>
-<td>9204320229</td>
-</tr>
-<tr>
-<td>GREEN BAY HANSEN RD STATION</td>
-<td>790 HANSEN RD.</td>
-<td>GREEN BAY</td>
-<td>WI</td>
-<td>54304</td>
-<td>9204050665</td>
-</tr>
-<tr>
-<td>GREEN BAY MAIN OFFICE</td>
-<td>300 PACKERLAND DRIVE</td>
-<td>GREEN BAY</td>
-<td>WI</td>
-<td>54303</td>
-<td>9204983895</td>
-</tr>
-<tr>
-<td>GREEN LAKE COUNTY CLERK</td>
-<td>571 COUNTY ROAD A</td>
-<td>GREEN LAKE</td>
-<td>WI</td>
-<td>54941</td>
-<td>9202944005</td>
-</tr>
-<tr>
-<td>GREENDALE POST OFFICE</td>
-<td>5741 BROAD ST.</td>
-<td>GREENDALE</td>
-<td>WI</td>
-<td>53129</td>
-<td>4144217406</td>
-</tr>
-<tr>
-<td>HARTFORD POST OFFICE</td>
-<td>45 E. WISCONSIN ST.</td>
-<td>HARTFORD</td>
-<td>WI</td>
-<td>53027</td>
-<td>2626706974</td>
-</tr>
-<tr>
-<td>WASHINGTON COUNTY CLERK - HARTFORD LOCATION</td>
-<td>1121 E. SUMNER ST.</td>
-<td>HARTFORD</td>
-<td>WI</td>
-<td>53027</td>
-<td>2623354301</td>
-</tr>
-<tr>
-<td>HARTLAND POST OFFICE</td>
-<td>401 E.  INDUSTRIAL DRIVE</td>
-<td>HARTLAND</td>
-<td>WI</td>
-<td>53029</td>
-<td>2623670963</td>
-</tr>
-<tr>
-<td>HILLSBORO POST OFFICE</td>
-<td>713 WATER AVE.</td>
-<td>HILLSBORO</td>
-<td>WI</td>
-<td>54634</td>
-<td>6084893528</td>
-</tr>
-<tr>
-<td>HORTONVILLE POST OFFICE</td>
-<td>119 N. PINE STREET</td>
-<td>HORTONVILLE</td>
-<td>WI</td>
-<td>54944</td>
-<td>9207796888</td>
-</tr>
-<tr>
-<td>OFFICE OF COUNTY CLERK ST CROIX COUNTY</td>
-<td>1101 CARMICHAEL ROAD</td>
-<td>HUDSON</td>
-<td>WI</td>
-<td>54016</td>
-<td>7153864610</td>
-</tr>
-<tr>
-<td>ROCK COUNTY CLERKS OFFICE</td>
-<td>51 S. MAIN ST.</td>
-<td>JANESVILLE</td>
-<td>WI</td>
-<td>53545</td>
-<td>6087575660</td>
-</tr>
-<tr>
-<td>JEFFERSON COUNTY CLERK</td>
-<td>311 S CENTER AVE</td>
-<td>JEFFERSON</td>
-<td>WI</td>
-<td>53549</td>
-<td>9206748777</td>
-</tr>
-<tr>
-<td>KAUKANA POST OFFICE</td>
-<td>120 DOTY ST.</td>
-<td>KAUKANA</td>
-<td>WI</td>
-<td>54130</td>
-<td>9207665750</td>
-</tr>
-<tr>
-<td>KENOSHA COUNTY ADMINISTRATION BLDG</td>
-<td>1010 56TH STREET</td>
-<td>KENOSHA</td>
-<td>WI</td>
-<td>53140</td>
-<td>2626532552</td>
-</tr>
-<tr>
-<td>KENOSHA POST OFFICE</td>
-<td>5605 SHERIDAN RD.</td>
-<td>KENOSHA</td>
-<td>WI</td>
-<td>53140</td>
-<td>2626575955</td>
-</tr>
-<tr>
-<td>KEWASKUM WI POST OFFICE</td>
-<td>347 MAIN ST.</td>
-<td>KEWASKUM</td>
-<td>WI</td>
-<td>53040</td>
-<td>2626262575</td>
-</tr>
-<tr>
-<td>KEWAUNEE COUNTY CLERKS OFFICE</td>
-<td>810 LINCOLN STREET</td>
-<td>KEWAUNEE</td>
-<td>WI</td>
-<td>54216</td>
-<td>9203887120</td>
-</tr>
-<tr>
-<td>KIEL POST OFFICE</td>
-<td>220 FREEMONT STREET</td>
-<td>KIEL</td>
-<td>WI</td>
-<td>53042</td>
-<td>9208942345</td>
-</tr>
-<tr>
-<td>LACROSSE WI POST OFFICE</td>
-<td>425 STATE ST.</td>
-<td>LACROSSE</td>
-<td>WI</td>
-<td>54601</td>
-<td>6087918100</td>
-</tr>
-<tr>
-<td>LADYSMITH POST OFFICE</td>
-<td>212 MINER AVE W.</td>
-<td>LADYSMITH</td>
-<td>WI</td>
-<td>54848</td>
-<td>7155323400</td>
-</tr>
-<tr>
-<td>LAKE GENEVA POST OFFICE</td>
-<td>672 W. MAIN STREET</td>
-<td>LAKE GENEVA</td>
-<td>WI</td>
-<td>53147</td>
-<td>2622483545</td>
-</tr>
-<tr>
-<td>LAKEWOOD POST OFFICE</td>
-<td>15283 STATE HWY 32</td>
-<td>LAKEWOOD</td>
-<td>WI</td>
-<td>54138</td>
-<td>7152767667</td>
-</tr>
-<tr>
-<td>GRANT COUNTY CLERK OF COURT</td>
-<td>130 W. MAPLE ST.</td>
-<td>LANCASTER</td>
-<td>WI</td>
-<td>53813</td>
-<td>6087232752</td>
-</tr>
-<tr>
-<td>LODI POST OFFICE</td>
-<td>113 1ST STREET</td>
-<td>LODI</td>
-<td>WI</td>
-<td>53555</td>
-<td>6085924220</td>
-</tr>
-<tr>
-<td>DANE COUNTY CLERK OF COURTS</td>
-<td>215 S. HAMILTON ST.</td>
-<td>MADISON</td>
-<td>WI</td>
-<td>53703</td>
-<td>6082664311</td>
-</tr>
-<tr>
-<td>MADISON - WESTSIDE STATION</td>
-<td>733 STRUCK STREET</td>
-<td>MADISON</td>
-<td>WI</td>
-<td>53711</td>
-<td>6082741793</td>
-</tr>
-<tr>
-<td>MADISON POST OFFICE</td>
-<td>3902 MILWAUKEE STREET</td>
-<td>MADISON</td>
-<td>WI</td>
-<td>53714</td>
-<td>6082461277</td>
-</tr>
-<tr>
-<td>SOUTHSIDE STATION MADISON POST OFFICE</td>
-<td>820 W. WINGRA DR.</td>
-<td>MADISON</td>
-<td>WI</td>
-<td>53715</td>
-<td>6082506514</td>
-</tr>
-<tr>
-<td>MANITOWOC POST OFFICE</td>
-<td>1202 FRANKLIN STREET</td>
-<td>MANITOWOC</td>
-<td>WI</td>
-<td>54220</td>
-<td>9206826166</td>
-</tr>
-<tr>
-<td>MANITOWOC WI COUNTY CLERK</td>
-<td>1010 SOUTH EIGHTH ST.</td>
-<td>MANITOWOC</td>
-<td>WI</td>
-<td>54220</td>
-<td>9206834003</td>
-</tr>
-<tr>
-<td>MARATHON MAIN POST OFFICE</td>
-<td>305 WALNUT ST.</td>
-<td>MARATHON</td>
-<td>WI</td>
-<td>54448</td>
-<td>7154432026</td>
-</tr>
-<tr>
-<td>MARINETTE COUNTY CLERK OF COURT</td>
-<td>1926 HALL AVE.</td>
-<td>MARINETTE</td>
-<td>WI</td>
-<td>54143</td>
-<td>7157327450</td>
-</tr>
-<tr>
-<td>MARINETTE POST OFFICE</td>
-<td>2016 MAPLE AVE.</td>
-<td>MARINETTE</td>
-<td>WI</td>
-<td>54143</td>
-<td>7157357342</td>
-</tr>
-<tr>
-<td>MARSHFIELD POST OFFICE</td>
-<td>202 S. CHESTNUT AVE.</td>
-<td>MARSHFIELD</td>
-<td>WI</td>
-<td>54449</td>
-<td>7153892215</td>
-</tr>
-<tr>
-<td>CLERK OF COURT JUNEAU COUNTY</td>
-<td>200 OAK STREET</td>
-<td>MAUSTON</td>
-<td>WI</td>
-<td>53948</td>
-<td>6088479357</td>
-</tr>
-<tr>
-<td>JUNEAU COUNTY CLERKS OFFICE</td>
-<td>220 EAST STATE ST.</td>
-<td>MAUSTON</td>
-<td>WI</td>
-<td>53948</td>
-<td>6088479300</td>
-</tr>
-<tr>
-<td>MAYVILLE POST OFFICE</td>
-<td>7 N. SCHOOL STREET</td>
-<td>MAYVILLE</td>
-<td>WI</td>
-<td>53050</td>
-<td>9203875350</td>
-</tr>
-<tr>
-<td>CLERK OF COURT TAYLOR COUNTY</td>
-<td>224 S. 2ND STREET</td>
-<td>MEDFORD</td>
-<td>WI</td>
-<td>54451</td>
-<td>7157481425</td>
-</tr>
-<tr>
-<td>MEDFORD POST OFFICE</td>
-<td>120 W. BROADWAY AVE.</td>
-<td>MEDFORD</td>
-<td>WI</td>
-<td>54451</td>
-<td>7157483981</td>
-</tr>
-<tr>
-<td>MENASHA POST OFFICE</td>
-<td>84 RACINE STREET</td>
-<td>MENASHA</td>
-<td>WI</td>
-<td>54952</td>
-<td>9207220326</td>
-</tr>
-<tr>
-<td>MENOMONEE FALLS POST OFFICE</td>
-<td>N85 W16110 APPLETON AVE</td>
-<td>MENOMONEE FALLS</td>
-<td>WI</td>
-<td>53051</td>
-<td>2622514016</td>
-</tr>
-<tr>
-<td>DUNN COUNTY CLERK OF COURT</td>
-<td>615 STOKKE PARKWAY</td>
-<td>MENOMONIE</td>
-<td>WI</td>
-<td>54751</td>
-<td>7152322611</td>
-</tr>
-<tr>
-<td>MERRILL POST OFFICE</td>
-<td>430 E. 2ND ST.</td>
-<td>MERRILL</td>
-<td>WI</td>
-<td>54452</td>
-<td>7155393287</td>
-</tr>
-<tr>
-<td>MIDDLETON POST OFFICE</td>
-<td>7613 ELMWOOD AVE.</td>
-<td>MIDDLETON</td>
-<td>WI</td>
-<td>53562</td>
-<td>6088315501</td>
-</tr>
-<tr>
-<td>AIRPORT MAIL CENTER</td>
-<td>5500 S. HOWELL AVE.</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53237</td>
-<td>4144810272</td>
-</tr>
-<tr>
-<td>BAY VIEW POST OFFICE</td>
-<td>1603 E. OKLAHOMA AVE.</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53207</td>
-<td>4144810219</td>
-</tr>
-<tr>
-<td>FRED JOHN POST OFFICE</td>
-<td>5555 N. 91ST ST.</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53225</td>
-<td>4144663738</td>
-</tr>
-<tr>
-<td>GREENFIELD BRANCH</td>
-<td>7353 W. FOREST HOME</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53220</td>
-<td>4145458744</td>
-</tr>
-<tr>
-<td>JUNEAU STATION</td>
-<td>606 EAST JUNEAU AVE.</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53202</td>
-<td>4142890809</td>
-</tr>
-<tr>
-<td>MILWAUKEE MAIN OFFICE</td>
-<td>345 W. ST. PAUL AVE.</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53203</td>
-<td>4142702308</td>
-</tr>
-<tr>
-<td>MILWAUKEE WI COUNTY CLERK</td>
-<td>901 N. NINTH STREET</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53233</td>
-<td>4142784067</td>
-</tr>
-<tr>
-<td>NORTH MILWAUKEE STATION</td>
-<td>5995 N. TEUTONIA AVE.</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53209</td>
-<td>4144663735</td>
-</tr>
-<tr>
-<td>NORTH SHORE POST OFFICE</td>
-<td>5651 N. LYDELL AVE.</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53217</td>
-<td>4149629831</td>
-</tr>
-<tr>
-<td>ROOT RIVER BRANCH POST OFFICE MILWAUKEE WI</td>
-<td>11015 W. OKLAHOMA AVENUE</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53227</td>
-<td>4145458782</td>
-</tr>
-<tr>
-<td>SEQUOIA RETAIL POST OFFICE</td>
-<td>6825 W. BROWN DEER RD.</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53223</td>
-<td>4143544430</td>
-</tr>
-<tr>
-<td>WAUWATOSA BRANCH WI POST OFFICE</td>
-<td>1655 N. MAYFAIR RD.</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53226</td>
-<td>4142589210</td>
-</tr>
-<tr>
-<td>WEST MILWAUKEE BRANCH POST OFFICE</td>
-<td>4300 W. LINCOLN AVE.</td>
-<td>MILWAUKEE</td>
-<td>WI</td>
-<td>53219</td>
-<td>4146430443</td>
-</tr>
-<tr>
-<td>MINOCQUA POST OFFICE</td>
-<td>126 W. FRONT ST.</td>
-<td>MINOCQUA</td>
-<td>WI</td>
-<td>54548</td>
-<td>7153563373</td>
-</tr>
-<tr>
-<td>MONROE POST OFFICE</td>
-<td>1724 11TH STREET</td>
-<td>MONROE</td>
-<td>WI</td>
-<td>53566</td>
-<td>6083253031</td>
-</tr>
-<tr>
-<td>MARQUETTE COUNTY CLERK</td>
-<td>77 WEST PARK STREET</td>
-<td>MONTELLO</td>
-<td>WI</td>
-<td>53949</td>
-<td>6082973016</td>
-</tr>
-<tr>
-<td>MOSINEE POST OFFICE</td>
-<td>408 2ND STREET</td>
-<td>MOSINEE</td>
-<td>WI</td>
-<td>54455</td>
-<td>7156932315</td>
-</tr>
-<tr>
-<td>MOUNT HOREB POST OFFICE</td>
-<td>108 S. FIRST ST.</td>
-<td>MOUNT HOREB</td>
-<td>WI</td>
-<td>53572</td>
-<td>6084375133</td>
-</tr>
-<tr>
-<td>MUKWONAGO POST OFFICE</td>
-<td>911 GREENRIDGE CENTER</td>
-<td>MUKWONAGO</td>
-<td>WI</td>
-<td>53149</td>
-<td>2623637741</td>
-</tr>
-<tr>
-<td>MUSKEGO POST OFFICE</td>
-<td>S74W16860 JANESVILLE RD.</td>
-<td>MUSKEGO</td>
-<td>WI</td>
-<td>53150</td>
-<td>4144229501</td>
-</tr>
-<tr>
-<td>NEENAH POST OFFICE</td>
-<td>130 W. FRANKLIN AVE.</td>
-<td>NEENAH</td>
-<td>WI</td>
-<td>54956</td>
-<td>9207250577</td>
-</tr>
-<tr>
-<td>CLARK COUNTY CLERK OF CIRCUIT COURT</td>
-<td>517 COURT STREET</td>
-<td>NEILLSVILLE</td>
-<td>WI</td>
-<td>54456</td>
-<td>7157435181</td>
-</tr>
-<tr>
-<td>NEW BERLIN POST OFFICE</td>
-<td>15300 W. HOWARD AVE.</td>
-<td>NEW BERLIN</td>
-<td>WI</td>
-<td>53151</td>
-<td>2627972510</td>
-</tr>
-<tr>
-<td>OAK CREEK POST OFFICE</td>
-<td>200 E. CENTENNIAL DR.</td>
-<td>OAK CREEK</td>
-<td>WI</td>
-<td>53154</td>
-<td>4147660583</td>
-</tr>
-<tr>
-<td>OCONOMOWOC POST OFFICE</td>
-<td>38 S. MAIN STREET</td>
-<td>OCONOMOWOC</td>
-<td>WI</td>
-<td>53066</td>
-<td>2625677241</td>
-</tr>
-<tr>
-<td>OCONTO FALLS POST OFFICE</td>
-<td>145 N. FRANKLIN ST.</td>
-<td>OCONTO FALLS</td>
-<td>WI</td>
-<td>54154</td>
-<td>9208460439</td>
-</tr>
-<tr>
-<td>ONALASKA POST OFFICE</td>
-<td>304 11TH AVE N</td>
-<td>ONALASKA</td>
-<td>WI</td>
-<td>54650</td>
-<td>6087818777</td>
-</tr>
-<tr>
-<td>OOSTBURG POST OFFICE</td>
-<td>1508 CENTER AVE.</td>
-<td>OOSTBURG</td>
-<td>WI</td>
-<td>53070</td>
-<td>9205642533</td>
-</tr>
-<tr>
-<td>OREGON POST OFFICE</td>
-<td>252 BROOK STREET</td>
-<td>OREGON</td>
-<td>WI</td>
-<td>53575</td>
-<td>6088350894</td>
-</tr>
-<tr>
-<td>OSHKOSH MAIN POST OFFICE</td>
-<td>1025 W. 20TH AVENUE</td>
-<td>OSHKOSH</td>
-<td>WI</td>
-<td>54903</td>
-<td>9202360627</td>
-</tr>
-<tr>
-<td>OSSEO POST OFFICE</td>
-<td>50669 HARMONY ST.</td>
-<td>OSSEO</td>
-<td>WI</td>
-<td>54758</td>
-<td>7155972018</td>
-</tr>
-<tr>
-<td>PARDEEVILLE POST OFFICE</td>
-<td>107 INDUSTRIAL DR.</td>
-<td>PARDEEVILLE</td>
-<td>WI</td>
-<td>53954</td>
-<td>6084294331</td>
-</tr>
-<tr>
-<td>PRICE COUNTY CLERKS OFFICE</td>
-<td>126 CHERRY STREET RM 106</td>
-<td>PHILLIPS</td>
-<td>WI</td>
-<td>54555</td>
-<td>7153393325</td>
-</tr>
-<tr>
-<td>PLATTEVILLE POST OFFICE</td>
-<td>85 S. COURT ST.</td>
-<td>PLATTEVILLE</td>
-<td>WI</td>
-<td>53818</td>
-<td>6083482181</td>
-</tr>
-<tr>
-<td>PLEASANT PRAIRIE WI POST OFFICE</td>
-<td>4225 101ST  STREET</td>
-<td>PLEASANT PRAIRIE</td>
-<td>WI</td>
-<td>53158</td>
-<td>2626946013</td>
-</tr>
-<tr>
-<td>PLYMOUTH POST OFFICE</td>
-<td>302 E. MAIN ST.</td>
-<td>PLYMOUTH</td>
-<td>WI</td>
-<td>53073</td>
-<td>9208928859</td>
-</tr>
-<tr>
-<td>OZAUKEE COUNTY CLERKS OFFICE</td>
-<td>121 W. MAIN ST.</td>
-<td>PORT WASHINGTON</td>
-<td>WI</td>
-<td>53074</td>
-<td>2622388110</td>
-</tr>
-<tr>
-<td>COLUMBIA COUNTY CLERK OF COURT</td>
-<td>400 DEWITT STREET</td>
-<td>PORTAGE</td>
-<td>WI</td>
-<td>53901</td>
-<td>6087429642</td>
-</tr>
-<tr>
-<td>CRAWFORD COUNTY CLERK OF COURTS</td>
-<td>220 N. BEAUMONT RD.</td>
-<td>PRAIRIE DU CHIEN</td>
-<td>WI</td>
-<td>53821</td>
-<td>6083260209</td>
-</tr>
-<tr>
-<td>PRAIRIE DU CHIEN WI POST OFFICE</td>
-<td>120 S. BEAUMONT RD.</td>
-<td>PRAIRIE DU CHIEN</td>
-<td>WI</td>
-<td>53821</td>
-<td>6083266914</td>
-</tr>
-<tr>
-<td>PULASKI POST OFFICE</td>
-<td>306 S ST. AUGUSTINE</td>
-<td>PULASKI</td>
-<td>WI</td>
-<td>54162</td>
-<td>9208225666</td>
-</tr>
-<tr>
-<td>FOUR MILE STATION</td>
-<td>2635 FOUR MILE ROAD</td>
-<td>RACINE</td>
-<td>WI</td>
-<td>53404</td>
-<td>2626817866</td>
-</tr>
-<tr>
-<td>RACINE COUNTY CLERK</td>
-<td>730 WISCONSIN AVENUE</td>
-<td>RACINE</td>
-<td>WI</td>
-<td>53403</td>
-<td>2626363482</td>
-</tr>
-<tr>
-<td>WEST RACINE STATION POST OFFICE</td>
-<td>1300 PERRY AVENUE</td>
-<td>RACINE</td>
-<td>WI</td>
-<td>53406</td>
-<td>2626321008</td>
-</tr>
-<tr>
-<td>RHINELANDER POST OFFICE</td>
-<td>156 S. COURTNEY STREET</td>
-<td>RHINELANDER</td>
-<td>WI</td>
-<td>54501</td>
-<td>7153696813</td>
-</tr>
-<tr>
-<td>RICE LAKE POST OFFICE</td>
-<td>14 E. EAU CLAIRE ST.</td>
-<td>RICE LAKE</td>
-<td>WI</td>
-<td>54868</td>
-<td>7152343553</td>
-</tr>
-<tr>
-<td>RICHLAND CENTER MAIN POST OFFICE</td>
-<td>213 N. CENTRAL AVENUE</td>
-<td>RICHLAND CENTER</td>
-<td>WI</td>
-<td>53581</td>
-<td>6086472060</td>
-</tr>
-<tr>
-<td>RIPON POST OFFICE</td>
-<td>220 BLACKBURN ST.</td>
-<td>RIPON</td>
-<td>WI</td>
-<td>54971</td>
-<td>9207483287</td>
-</tr>
-<tr>
-<td>RIVER FALLS POST OFFICE</td>
-<td>208 N. 2ND. ST.</td>
-<td>RIVER FALLS</td>
-<td>WI</td>
-<td>54022</td>
-<td>7154258483</td>
-</tr>
-<tr>
-<td>VILLAGE OF ROCHESTER CLERK - TREASURER</td>
-<td>300 W. SPRING ST.</td>
-<td>ROCHESTER</td>
-<td>WI</td>
-<td>53167</td>
-<td>2625342431</td>
-</tr>
-<tr>
-<td>SCHOFIELD POST OFFICE</td>
-<td>5404 NORMANDY ST.</td>
-<td>SCHOFIELD</td>
-<td>WI</td>
-<td>54476</td>
-<td>7153593464</td>
-</tr>
-<tr>
-<td>SHAWANO COUNTY CLERK OF COURT</td>
-<td>311 N. MAIN STREET</td>
-<td>SHAWANO</td>
-<td>WI</td>
-<td>54166</td>
-<td>7155269347</td>
-</tr>
-<tr>
-<td>SHEBOYGAN COUNTY CLERKS OFFICE</td>
-<td>508 NEW YORK AVENUE</td>
-<td>SHEBOYGAN</td>
-<td>WI</td>
-<td>53081</td>
-<td>9204593003</td>
-</tr>
-<tr>
-<td>SHEBOYGAN POST OFFICE</td>
-<td>522 N. 9TH ST.</td>
-<td>SHEBOYGAN</td>
-<td>WI</td>
-<td>53081</td>
-<td>9204582353</td>
-</tr>
-<tr>
-<td>SHEBOYGAN FALLS POST OFFICE</td>
-<td>108 MAPLE ST.</td>
-<td>SHEBOYGAN FALLS</td>
-<td>WI</td>
-<td>53085</td>
-<td>9204676510</td>
-</tr>
-<tr>
-<td>SHOREWOOD POST OFFICE</td>
-<td>1620 E. CAPITOL DRIVE</td>
-<td>SHOREWOOD</td>
-<td>WI</td>
-<td>53211</td>
-<td>4143322241</td>
-</tr>
-<tr>
-<td>BURNETT COUNTY CLERK</td>
-<td>7410 COUNTY ROAD K, #105</td>
-<td>SIREN</td>
-<td>WI</td>
-<td>54872</td>
-<td>7153492173</td>
-</tr>
-<tr>
-<td>SOMERSET POST OFFICE</td>
-<td>750 RIVARD STREET</td>
-<td>SOMERSET</td>
-<td>WI</td>
-<td>54025</td>
-<td>7152473551</td>
-</tr>
-<tr>
-<td>SOUTH MILWAUKEE POST OFFICE</td>
-<td>2210 10TH  AVE.</td>
-<td>SOUTH MILWAUKEE</td>
-<td>WI</td>
-<td>53172</td>
-<td>4147620601</td>
-</tr>
-<tr>
-<td>MONROE COUNTY CLERK OF COURT</td>
-<td>112 S. COURT ST.</td>
-<td>SPARTA</td>
-<td>WI</td>
-<td>54656</td>
-<td>6082698745</td>
-</tr>
-<tr>
-<td>SPOONER WI POST OFFICE</td>
-<td>704 N. FRONT ST.</td>
-<td>SPOONER</td>
-<td>WI</td>
-<td>54801</td>
-<td>7156358716</td>
-</tr>
-<tr>
-<td>PORTAGE COUNTY CLERK OF COURT</td>
-<td>1516 CHURCH ST.</td>
-<td>STEVENS POINT</td>
-<td>WI</td>
-<td>54481</td>
-<td>7153461364</td>
-</tr>
-<tr>
-<td>STOUGHTON POST OFFICE</td>
-<td>246 E. MAIN ST</td>
-<td>STOUGHTON</td>
-<td>WI</td>
-<td>53589</td>
-<td>6088779020</td>
-</tr>
-<tr>
-<td>STURGEON BAY POST OFFICE</td>
-<td>359 LOUISIANA STREET</td>
-<td>STURGEON BAY</td>
-<td>WI</td>
-<td>54235</td>
-<td>9207433297</td>
-</tr>
-<tr>
-<td>STURTEVANT POST OFFICE</td>
-<td>2849 WISCONSIN STREET</td>
-<td>STURTEVANT</td>
-<td>WI</td>
-<td>53177</td>
-<td>2628864104</td>
-</tr>
-<tr>
-<td>SUN PRAIRIE</td>
-<td>1715 LINNERUD DR.</td>
-<td>SUN PRAIRIE</td>
-<td>WI</td>
-<td>53590</td>
-<td>6088340952</td>
-</tr>
-<tr>
-<td>COUNTY CLERK DOUGLAS COUNTY WI</td>
-<td>1313 BELKNAP ST</td>
-<td>SUPERIOR</td>
-<td>WI</td>
-<td>54880</td>
-<td>7153951341</td>
-</tr>
-<tr>
-<td>SUPERIOR MAIN POST OFFICE</td>
-<td>805 BELKNAP ST.</td>
-<td>SUPERIOR</td>
-<td>WI</td>
-<td>54880</td>
-<td>7153947209</td>
-</tr>
-<tr>
-<td>SUSSEX WI POST OFFICE</td>
-<td>N63W23565 SILVER SPRING DR</td>
-<td>SUSSEX</td>
-<td>WI</td>
-<td>53089</td>
-<td>2622468395</td>
-</tr>
-<tr>
-<td>THORP POST OFFICE</td>
-<td>102 EAST SCHOOL STREET</td>
-<td>THORP</td>
-<td>WI</td>
-<td>54771</td>
-<td>7156695766</td>
-</tr>
-<tr>
-<td>TOMAH POSTAL OFFICE</td>
-<td>1000 N. SUPERIOR AVE.</td>
-<td>TOMAH</td>
-<td>WI</td>
-<td>54660</td>
-<td>6083725611</td>
-</tr>
-<tr>
-<td>TOMAHAWK POST OFFICE</td>
-<td>311 WEST WISCONSIN AVE.</td>
-<td>TOMAHAWK</td>
-<td>WI</td>
-<td>54487</td>
-<td>7154532831</td>
-</tr>
-<tr>
-<td>TWO RIVERS POST OFFICE</td>
-<td>1516 18TH STREET</td>
-<td>TWO RIVERS</td>
-<td>WI</td>
-<td>54241</td>
-<td>9207947014</td>
-</tr>
-<tr>
-<td>VIROQUA POST OFFICE</td>
-<td>119 E. JEFFERSON ST.</td>
-<td>VIROQUA</td>
-<td>WI</td>
-<td>54665</td>
-<td>6086373292</td>
-</tr>
-<tr>
-<td>BAYFIELD COUNTY CLERK OF COURT</td>
-<td>117 E. FIFTH ST., ROOM 107</td>
-<td>WASHBURN</td>
-<td>WI</td>
-<td>54891</td>
-<td>7153736108</td>
-</tr>
-<tr>
-<td>WATERFORD POST OFFICE</td>
-<td>218 N. MILWAUKEE STREET</td>
-<td>WATERFORD</td>
-<td>WI</td>
-<td>53185</td>
-<td>2625343255</td>
-</tr>
-<tr>
-<td>WATERTOWN POST OFFICE</td>
-<td>411 DODGE ST.</td>
-<td>WATERTOWN</td>
-<td>WI</td>
-<td>53094</td>
-<td>9202615929</td>
-</tr>
-<tr>
-<td>WAUKESHA COUNTY CLERK</td>
-<td>515 W. MORELAND BLVD #120</td>
-<td>WAUKESHA</td>
-<td>WI</td>
-<td>53188</td>
-<td>2625487010</td>
-</tr>
-<tr>
-<td>WAUKESHA POST OFFICE</td>
-<td>300 E. BROADWAY AVENUE</td>
-<td>WAUKESHA</td>
-<td>WI</td>
-<td>53186</td>
-<td>2626505388</td>
-</tr>
-<tr>
-<td>WAUNAKEE WI POST OFFICE</td>
-<td>101 N. KLEIN DR.</td>
-<td>WAUNAKEE</td>
-<td>WI</td>
-<td>53597</td>
-<td>6088504177</td>
-</tr>
-<tr>
-<td>WAUPACA COUNTY CLERK</td>
-<td>811 HARDING ST</td>
-<td>WAUPACA</td>
-<td>WI</td>
-<td>54981</td>
-<td>7152586200</td>
-</tr>
-<tr>
-<td>WAUPUN WI POST OFFICE</td>
-<td>400 EAST FRANKLIN STREET</td>
-<td>WAUPUN</td>
-<td>WI</td>
-<td>53963</td>
-<td>9203244111</td>
-</tr>
-<tr>
-<td>MARATHON COUNTY CLERKS OFFICE</td>
-<td>500 FOREST STREET</td>
-<td>WAUSAU</td>
-<td>WI</td>
-<td>54403</td>
-<td>7152611500</td>
-</tr>
-<tr>
-<td>MARATHON COUNTY PUBLIC LIBRARY</td>
-<td>300 NORTH FIRST STREET</td>
-<td>WAUSAU</td>
-<td>WI</td>
-<td>54403</td>
-<td>7152617240</td>
-</tr>
-<tr>
-<td>WAUSAU WI POST OFFICE</td>
-<td>235 FOREST ST.</td>
-<td>WAUSAU</td>
-<td>WI</td>
-<td>54403</td>
-<td>7152614231</td>
-</tr>
-<tr>
-<td>WAUSHARA COUNTY CLERK</td>
-<td>209 SOUTH SAINT MARIE STREET</td>
-<td>WAUTOMA</td>
-<td>WI</td>
-<td>54982</td>
-<td>9207870442</td>
-</tr>
-<tr>
-<td>WEST ALLIS POST OFFICE</td>
-<td>7440 W. GREENFIELD AVE.</td>
-<td>WEST ALLIS</td>
-<td>WI</td>
-<td>53214</td>
-<td>4142587964</td>
-</tr>
-<tr>
-<td>WASHINGTON COUNTY CLERK - WEST BEND</td>
-<td>432 EAST WASHINTON STREET</td>
-<td>WEST BEND</td>
-<td>WI</td>
-<td>53095</td>
-<td>2623354301</td>
-</tr>
-<tr>
-<td>WEST BEND WI POST OFFICE</td>
-<td>607 ELM ST.</td>
-<td>WEST BEND</td>
-<td>WI</td>
-<td>53095</td>
-<td>2623343299</td>
-</tr>
-<tr>
-<td>WEST SALEM POST OFFICE</td>
-<td>111 N. LEONARD ST.</td>
-<td>WEST SALEM</td>
-<td>WI</td>
-<td>54669</td>
-<td>6087861710</td>
-</tr>
-<tr>
-<td>TREMPEALEAU COUNTY CLERK OF COURT</td>
-<td>36245 MAIN ST.</td>
-<td>WHITEHALL</td>
-<td>WI</td>
-<td>54773</td>
-<td>7155382311</td>
-</tr>
-<tr>
-<td>WHITEWATER WI POST OFFICE</td>
-<td>213 W. CENTER ST.</td>
-<td>WHITEWATER</td>
-<td>WI</td>
-<td>53190</td>
-<td>2624732103</td>
-</tr>
-<tr>
-<td>WILMOT POST OFFICE</td>
-<td>30725 113TH ST</td>
-<td>WILMOT</td>
-<td>WI</td>
-<td>53192</td>
-<td>2628622728</td>
-</tr>
-<tr>
-<td>WISCONSIN DELLS POST OFFICE</td>
-<td>310 MINNESOTA AVE.</td>
-<td>WISCONSIN DELLS</td>
-<td>WI</td>
-<td>53965</td>
-<td>6082546412</td>
-</tr>
-<tr>
-<td>WISCONSIN RAPIDS POST OFFICE</td>
-<td>320 EAST GRAND AVE.</td>
-<td>WISCONSIN RAPIDS</td>
-<td>WI</td>
-<td>54494</td>
-<td>7154232150</td>
-</tr>
-<tr>
-<td>WOOD COUNTY CLERKS OFFICE</td>
-<td>COURTHOUSE - 400 MARKET STREET</td>
-<td>WISCONSIN RAPIDS</td>
-<td>WI</td>
-<td>54495</td>
-<td>7154218460</td>
-</tr>
-<tr>
-<td>WITTENBERG POST OFFICE</td>
-<td>101 W. VINAL ST.</td>
-<td>WITTENBERG</td>
-<td>WI</td>
-<td>54499</td>
-<td>7152532639</td>
-</tr>
-<tr>
-<td>WOODRUFF POST OFFICE</td>
-<td>610 VETERANS PARKWAY</td>
-<td>WOODRUFF</td>
-<td>WI</td>
-<td>54568</td>
-<td>7153565577</td>
-</tr>
-</tbody>
-</table>

@@ -1,1062 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>NORMAN COUNTY AUDITOR - TREASURER</td>
-<td>16 E. THIRD AVE</td>
-<td>ADA</td>
-<td>MN</td>
-<td>56510</td>
-<td>2187845471</td>
-</tr>
-<tr>
-<td>AITKIN COUNTY TREASURER</td>
-<td>307 2ND ST. NW ROOM 119</td>
-<td>AITKIN</td>
-<td>MN</td>
-<td>56431</td>
-<td>2189277325</td>
-</tr>
-<tr>
-<td>USPO - ALBERT LEA</td>
-<td>141 S NEWTON AVE</td>
-<td>ALBERT LEA</td>
-<td>MN</td>
-<td>56007</td>
-<td>5073733167</td>
-</tr>
-<tr>
-<td>DOUGLAS COUNTY RECORDER</td>
-<td>305 - 8TH AVE. W.</td>
-<td>ALEXANDRIA</td>
-<td>MN</td>
-<td>56308</td>
-<td>3207623877</td>
-</tr>
-<tr>
-<td>USPO - ALEXANDRIA</td>
-<td>519 ELM ST</td>
-<td>ALEXANDRIA</td>
-<td>MN</td>
-<td>56308</td>
-<td>3207633432</td>
-</tr>
-<tr>
-<td>USPO - ANNANDALE</td>
-<td>83 OAK AVE N</td>
-<td>ANNANDALE</td>
-<td>MN</td>
-<td>55302</td>
-<td>3202743600</td>
-</tr>
-<tr>
-<td>USPO - ANOKA</td>
-<td>2168 7TH AVE N</td>
-<td>ANOKA</td>
-<td>MN</td>
-<td>55303</td>
-<td>7634211115</td>
-</tr>
-<tr>
-<td>DAKOTA COUNTY - WESTERN CENTER</td>
-<td>14955 GALAXIE AVE. W.</td>
-<td>APPLE VALLEY</td>
-<td>MN</td>
-<td>55124</td>
-<td>9528917570</td>
-</tr>
-<tr>
-<td>USPO -  ATWATER</td>
-<td>107 3RD ST N</td>
-<td>ATWATER</td>
-<td>MN</td>
-<td>56209</td>
-<td>3209748676</td>
-</tr>
-<tr>
-<td>MOWER COUNTY RECORDER</td>
-<td>201 1ST ST NE</td>
-<td>AUSTIN</td>
-<td>MN</td>
-<td>55912</td>
-<td>5074379493</td>
-</tr>
-<tr>
-<td>CLEARWATER COUNTY AUDITORS OFFICE</td>
-<td>213 MAIN AVE N</td>
-<td>BAGLEY</td>
-<td>MN</td>
-<td>56621</td>
-<td>2186946520</td>
-</tr>
-<tr>
-<td>LAKE OF THE WOODS COUNTY RECORDER</td>
-<td>206 8TH AVE SE</td>
-<td>BAUDETTE</td>
-<td>MN</td>
-<td>56623</td>
-<td>2186341902</td>
-</tr>
-<tr>
-<td>BELTRAMI COUNTY LICENSE CENTER</td>
-<td>701 MINNESOTA AVE NW, SUITE 100</td>
-<td>BEMIDJI</td>
-<td>MN</td>
-<td>56601</td>
-<td>2183334138</td>
-</tr>
-<tr>
-<td>USPO - BEMIDJI</td>
-<td>401 IRVINE AVE NW</td>
-<td>BEMIDJI</td>
-<td>MN</td>
-<td>56601</td>
-<td>2187511059</td>
-</tr>
-<tr>
-<td>SWIFT COUNTY LAND RECORDS</td>
-<td>301 14TH STREET NORTH</td>
-<td>BENSON</td>
-<td>MN</td>
-<td>56215</td>
-<td>3208433377</td>
-</tr>
-<tr>
-<td>ANOKA COUNTY BLAINE PASSPORT FACILITY</td>
-<td>10995 CLUB WEST PARKWAY NE</td>
-<td>BLAINE</td>
-<td>MN</td>
-<td>55449</td>
-<td>7633242140</td>
-</tr>
-<tr>
-<td>CITY OF BLOOMINGTON</td>
-<td>1800 W OLD SHAKOPEE RD.</td>
-<td>BLOOMINGTON</td>
-<td>MN</td>
-<td>55431</td>
-<td>9525638700</td>
-</tr>
-<tr>
-<td>FARIBAULT COUNTY</td>
-<td>415 N. MAIN STREET</td>
-<td>BLUE EARTH</td>
-<td>MN</td>
-<td>56013</td>
-<td>5075266252</td>
-</tr>
-<tr>
-<td>USPO - BRAINERD</td>
-<td>422 LAUREL ST</td>
-<td>BRAINERD</td>
-<td>MN</td>
-<td>56401</td>
-<td>2188293101</td>
-</tr>
-<tr>
-<td>USPO - BROOKLYN PARK</td>
-<td>5001 EDINBROOK TERRACE</td>
-<td>BROOKLYN PARK</td>
-<td>MN</td>
-<td>55443</td>
-<td>7633910753</td>
-</tr>
-<tr>
-<td>WRIGHT COUNTY AUDITOR - TREASURER</td>
-<td>10 2ND ST NW</td>
-<td>BUFFALO</td>
-<td>MN</td>
-<td>55313</td>
-<td>7636827584</td>
-</tr>
-<tr>
-<td>USPO - BURNSVILLE</td>
-<td>13800 NICOLLET BOULEVARD W</td>
-<td>BURNSVILLE</td>
-<td>MN</td>
-<td>55337</td>
-<td>9528902274</td>
-</tr>
-<tr>
-<td>HOUSTON COUNTY TREASURER</td>
-<td>304 S MARSHALL</td>
-<td>CALEDONIA</td>
-<td>MN</td>
-<td>55921</td>
-<td> </td>
-</tr>
-<tr>
-<td>ISANTI COUNTY AUDITOR</td>
-<td>555 18TH AVE. SW</td>
-<td>CAMBRIDGE</td>
-<td>MN</td>
-<td>55008</td>
-<td>7636891644</td>
-</tr>
-<tr>
-<td>USPO - CARVER</td>
-<td>317 BROADWAY ST</td>
-<td>CARVER</td>
-<td>MN</td>
-<td>55315</td>
-<td>9524486363</td>
-</tr>
-<tr>
-<td>USPO - CHAMPLIN</td>
-<td>12299 CHAMPLIN DR</td>
-<td>CHAMPLIN</td>
-<td>MN</td>
-<td>55316</td>
-<td>7634272370</td>
-</tr>
-<tr>
-<td>CARVER COUNTY SERVICE CENTER</td>
-<td>7808 KERBER BLVD.</td>
-<td>CHANHASSEN</td>
-<td>MN</td>
-<td>55317</td>
-<td>9523613900</td>
-</tr>
-<tr>
-<td>CARVER COUNTY GOVERNMENT CENTER</td>
-<td>600 E 4TH ST</td>
-<td>CHASKA</td>
-<td>MN</td>
-<td>55318</td>
-<td>9523611910</td>
-</tr>
-<tr>
-<td>USPO - CIRCLE PINES</td>
-<td>300 CIVIC HEIGHTS DR.</td>
-<td>CIRCLE PINES</td>
-<td>MN</td>
-<td>55014</td>
-<td>7637170595</td>
-</tr>
-<tr>
-<td>USPO - CLOQUET</td>
-<td>316 CLOQUET AVE.</td>
-<td>CLOQUET</td>
-<td>MN</td>
-<td>55720</td>
-<td>2188799442</td>
-</tr>
-<tr>
-<td>USPO - COKATO</td>
-<td>190 3RD ST. SE</td>
-<td>COKATO</td>
-<td>MN</td>
-<td>55321</td>
-<td>3202862815</td>
-</tr>
-<tr>
-<td>ANOKA COUNTY COON RAPIDS PASSPORT FACILITY</td>
-<td>455 99TH AVE NW</td>
-<td>COON RAPIDS</td>
-<td>MN</td>
-<td>55433</td>
-<td>7633242140</td>
-</tr>
-<tr>
-<td>WASHINGTON COUNTY SERVICE CENTER - COTTAGE GROVE</td>
-<td>13000 RAVINE PKWY S</td>
-<td>COTTAGE GROVE</td>
-<td>MN</td>
-<td>55016</td>
-<td>6514304065</td>
-</tr>
-<tr>
-<td>BECKER COUNTY RECORDER</td>
-<td>915 LAKE AVE</td>
-<td>DETROIT LAKES</td>
-<td>MN</td>
-<td>56501</td>
-<td>2188467304</td>
-</tr>
-<tr>
-<td>USPO - DETROIT LAKES</td>
-<td>250 STATE ST. W.</td>
-<td>DETROIT LAKES</td>
-<td>MN</td>
-<td>56501</td>
-<td>2188476230</td>
-</tr>
-<tr>
-<td>INTERNATIONAL PROGRAM AND SERVICES, U OF MN DULUTH</td>
-<td>138 KIRBY PLAZA</td>
-<td>DULUTH</td>
-<td>MN</td>
-<td>55812</td>
-<td>2187268764</td>
-</tr>
-<tr>
-<td>ST LOUIS COUNTY AUDITOR</td>
-<td>1600 MILLER TRUNK HIGHWAY</td>
-<td>DULUTH</td>
-<td>MN</td>
-<td>55811</td>
-<td>2182792520</td>
-</tr>
-<tr>
-<td>USPO - DULUTH</td>
-<td>2800 W MICHIGAN ST.</td>
-<td>DULUTH</td>
-<td>MN</td>
-<td>55806</td>
-<td>2187232526</td>
-</tr>
-<tr>
-<td>USPO - NORMANDALE</td>
-<td>5108 W 74TH ST</td>
-<td>EDINA</td>
-<td>MN</td>
-<td>55439</td>
-<td>9528351150</td>
-</tr>
-<tr>
-<td>GRANT COUNTY RECORDER</td>
-<td>10 - 2ND ST. NE</td>
-<td>ELBOW LAKE</td>
-<td>MN</td>
-<td>56531</td>
-<td>2186858255</td>
-</tr>
-<tr>
-<td>SHERBURNE COUNTY RECORDER</td>
-<td>13880 BUSINESS CENTER DRIVE</td>
-<td>ELK RIVER</td>
-<td>MN</td>
-<td>55330</td>
-<td>7637654420</td>
-</tr>
-<tr>
-<td>CITY OF ELY - CLERKS OFFICE</td>
-<td>209 E CHAPMAN ST</td>
-<td>ELY</td>
-<td>MN</td>
-<td>55731</td>
-<td>2182265449</td>
-</tr>
-<tr>
-<td>MARTIN COUNTY RECORDER</td>
-<td>201 LAKE AVENUE, SUITE 203</td>
-<td>FAIRMONT</td>
-<td>MN</td>
-<td>56031</td>
-<td>5072383213</td>
-</tr>
-<tr>
-<td>RICE COUNTY RECORDER</td>
-<td>320 NW 3RD ST</td>
-<td>FARIBAULT</td>
-<td>MN</td>
-<td>55021</td>
-<td>5073326114</td>
-</tr>
-<tr>
-<td>OTTER TAIL COUNTY TREASURER</td>
-<td>570 FIR AVE W</td>
-<td>FERGUS FALLS</td>
-<td>MN</td>
-<td>56537</td>
-<td>2189988295</td>
-</tr>
-<tr>
-<td>USPO - FINLAYSON</td>
-<td>2217 FINLAND AVENUE</td>
-<td>FINLAYSON</td>
-<td>MN</td>
-<td>55735</td>
-<td>3202336581</td>
-</tr>
-<tr>
-<td>USPO - FOREST LAKE</td>
-<td>78 6TH AVE. SW</td>
-<td>FOREST LAKE</td>
-<td>MN</td>
-<td>55025</td>
-<td>6514641353</td>
-</tr>
-<tr>
-<td>WASHINGTON COUNTY SERVICE CENTER</td>
-<td>19955 FOREST ROAD NORTH</td>
-<td>FOREST LAKE</td>
-<td>MN</td>
-<td>55025</td>
-<td>6512757200</td>
-</tr>
-<tr>
-<td>SIBLEY COUNTY RECORDER</td>
-<td>400 COURT AVENUE</td>
-<td>GAYLORD</td>
-<td>MN</td>
-<td>55334</td>
-<td>5072374080</td>
-</tr>
-<tr>
-<td>MCLEOD COUNTY RECORDER</td>
-<td>2389 HENNEPIN AVE N</td>
-<td>GLENCOE</td>
-<td>MN</td>
-<td>55336</td>
-<td>3208641327</td>
-</tr>
-<tr>
-<td>POPE COUNTY AUDITOR - TREASURER</td>
-<td>130 MINNESOTA AVE E</td>
-<td>GLENWOOD</td>
-<td>MN</td>
-<td>56334</td>
-<td>3206347706</td>
-</tr>
-<tr>
-<td>COOK COUNTY AUDITOR</td>
-<td>411 W 2ND ST</td>
-<td>GRAND MARAIS</td>
-<td>MN</td>
-<td>55604</td>
-<td>2183873640</td>
-</tr>
-<tr>
-<td>GRAND RAPIDS AREA LIBRARY</td>
-<td>140 NE 2ND ST</td>
-<td>GRAND RAPIDS</td>
-<td>MN</td>
-<td>55744</td>
-<td>2183267640</td>
-</tr>
-<tr>
-<td>UNIVERSITY OF MN EXTENSION OFFICE - KITTSON COUNTY</td>
-<td>410 FIFTH STREET</td>
-<td>HALLOCK</td>
-<td>MN</td>
-<td>56728</td>
-<td>2188433674</td>
-</tr>
-<tr>
-<td>USPO - HAMEL</td>
-<td>105 HAMEL RD.</td>
-<td>HAMEL</td>
-<td>MN</td>
-<td>55340</td>
-<td>7634786741</td>
-</tr>
-<tr>
-<td>DAKOTA COUNTY ADMINISTRATION CENTER</td>
-<td>1590 HIGHWAY 55</td>
-<td>HASTINGS</td>
-<td>MN</td>
-<td>55033</td>
-<td>6514384576</td>
-</tr>
-<tr>
-<td>USPO - HASTINGS</td>
-<td>300 2ND ST. E.</td>
-<td>HASTINGS</td>
-<td>MN</td>
-<td>55033</td>
-<td>6514371663</td>
-</tr>
-<tr>
-<td>USPS - HOPKINS</td>
-<td>910 1ST STREET SOUTH</td>
-<td>HOPKINS</td>
-<td>MN</td>
-<td>55343</td>
-<td>9522382242</td>
-</tr>
-<tr>
-<td>USPO - HOYT LAKES</td>
-<td>281 KENNEDY MEMORIAL DRIVE</td>
-<td>HOYT LAKES</td>
-<td>MN</td>
-<td>55750</td>
-<td>2182252091</td>
-</tr>
-<tr>
-<td>KOOCHICHING COUNTY RECORDER</td>
-<td>715 4TH ST.</td>
-<td>INTERNATIONAL FALLS</td>
-<td>MN</td>
-<td>56649</td>
-<td>2182831193</td>
-</tr>
-<tr>
-<td>LINCOLN COUNTY RECORDER</td>
-<td>319 N REBECCA ST</td>
-<td>IVANHOE</td>
-<td>MN</td>
-<td>56142</td>
-<td>5076941019</td>
-</tr>
-<tr>
-<td>JACKSON COUNTY AUDITOR - TREASURER</td>
-<td>405 4TH STREET</td>
-<td>JACKSON</td>
-<td>MN</td>
-<td>56143</td>
-<td>5078472763</td>
-</tr>
-<tr>
-<td>USPO - JORDAN</td>
-<td>214 2ND ST. E</td>
-<td>JORDAN</td>
-<td>MN</td>
-<td>55352</td>
-<td>9524922114</td>
-</tr>
-<tr>
-<td>LE SUEUR COUNTY</td>
-<td>88 S PARK AVENUE</td>
-<td>LE CENTER</td>
-<td>MN</td>
-<td>56057</td>
-<td>5073572251</td>
-</tr>
-<tr>
-<td>MEEKER COUNTY RECORDER OFFICE</td>
-<td>325 NORTH SIBLEY AVE</td>
-<td>LITCHFIELD</td>
-<td>MN</td>
-<td>55355</td>
-<td>3206935440</td>
-</tr>
-<tr>
-<td>MORRISON COUNTY RECORDER</td>
-<td>213  SE 1ST AVE.</td>
-<td>LITTLE FALLS</td>
-<td>MN</td>
-<td>56345</td>
-<td>3206320146</td>
-</tr>
-<tr>
-<td>USPS-LUVERNE</td>
-<td>407 E LINCOLN ST</td>
-<td>LUVERNE</td>
-<td>MN</td>
-<td>56156</td>
-<td>5072832186</td>
-</tr>
-<tr>
-<td>LAC QUI PARLE COUNTY ENVIRONMENTAL OFFICE</td>
-<td>600 6TH STREET</td>
-<td>MADISON</td>
-<td>MN</td>
-<td>56256</td>
-<td>3205983132</td>
-</tr>
-<tr>
-<td>MAHNOMEN CO AUDITORS OFFICE</td>
-<td>311 N MAIN ST</td>
-<td>MAHNOMEN</td>
-<td>MN</td>
-<td>56557</td>
-<td>2189355669</td>
-</tr>
-<tr>
-<td>BLUE EARTH CO PROPERTY AND ENVIRONMENTAL RESOURCES</td>
-<td>204 S FIFTH ST</td>
-<td>MANKATO</td>
-<td>MN</td>
-<td>56001</td>
-<td>5073044251</td>
-</tr>
-<tr>
-<td>DODGE COUNTY FINANCE</td>
-<td>721 MAIN ST N</td>
-<td>MANTORVILLE</td>
-<td>MN</td>
-<td>55955</td>
-<td>5076356240</td>
-</tr>
-<tr>
-<td>CITY OF MAPLE GROVE</td>
-<td>12800 ARBOR LAKES PARKWAY</td>
-<td>MAPLE GROVE</td>
-<td>MN</td>
-<td>55369</td>
-<td>7634945988</td>
-</tr>
-<tr>
-<td>CITY OF MAPLEWOOD</td>
-<td>1830 COUNTY RD B EAST</td>
-<td>MAPLEWOOD</td>
-<td>MN</td>
-<td>55109</td>
-<td>6512492020</td>
-</tr>
-<tr>
-<td>LYON COUNTY</td>
-<td>607 WEST MAIN ST</td>
-<td>MARSHALL</td>
-<td>MN</td>
-<td>56258</td>
-<td>5075376980</td>
-</tr>
-<tr>
-<td>USPO - MARSHALL</td>
-<td>302 W LYON ST.</td>
-<td>MARSHALL</td>
-<td>MN</td>
-<td>56258</td>
-<td>5075324937</td>
-</tr>
-<tr>
-<td>MILLE LACS COUNTY AUDITORS OFFICE</td>
-<td>635 2ND ST SE</td>
-<td>MILACA</td>
-<td>MN</td>
-<td>56353</td>
-<td>3209838310</td>
-</tr>
-<tr>
-<td>MINNEAPOLIS MAIN POST OFFICE</td>
-<td>100 SOUTH 1ST ST</td>
-<td>MINNEAPOLIS</td>
-<td>MN</td>
-<td>55401</td>
-<td>6123494713</td>
-</tr>
-<tr>
-<td>UNIVERSITY OF MN - UNIVERSITY INTERNATIONAL CENTER</td>
-<td>331 17TH AVE SE</td>
-<td>MINNEAPOLIS</td>
-<td>MN</td>
-<td>55414</td>
-<td>6126255186</td>
-</tr>
-<tr>
-<td>USPO - LORING STATION</td>
-<td>18 NORTH 12TH STREET</td>
-<td>MINNEAPOLIS</td>
-<td>MN</td>
-<td>55403</td>
-<td>6123336213</td>
-</tr>
-<tr>
-<td>USPO - MINNEOTA</td>
-<td>114 E 1ST ST</td>
-<td>MINNEOTA</td>
-<td>MN</td>
-<td>56264</td>
-<td>5078726382</td>
-</tr>
-<tr>
-<td>CHIPPEWA COUNTY FAMILY SERVICES</td>
-<td>719 N. 7TH ST</td>
-<td>MONTEVIDEO</td>
-<td>MN</td>
-<td>56265</td>
-<td>3202696401</td>
-</tr>
-<tr>
-<td>USPO - MOORHEAD</td>
-<td>119 S FIFTH STREET S</td>
-<td>MOORHEAD</td>
-<td>MN</td>
-<td>56560</td>
-<td>2184222001</td>
-</tr>
-<tr>
-<td>USPO - MOOSE LAKE</td>
-<td>205 ELM AVE.</td>
-<td>MOOSE LAKE</td>
-<td>MN</td>
-<td>55767</td>
-<td>2184854303</td>
-</tr>
-<tr>
-<td>KANABEC COUNTY AUDITOR - TREASURERS OFFICE</td>
-<td>18 N. VINE ST. SUITE 261A</td>
-<td>MORA</td>
-<td>MN</td>
-<td>55051</td>
-<td>3206796430</td>
-</tr>
-<tr>
-<td>STEVENS COUNTY AUDITOR - TREASURER</td>
-<td>400 COLORADO AVE</td>
-<td>MORRIS</td>
-<td>MN</td>
-<td>56267</td>
-<td>3202086570</td>
-</tr>
-<tr>
-<td>CITY OF NEW BRIGHTON</td>
-<td>803 OLD HIGHWAY 8 NE</td>
-<td>NEW BRIGHTON</td>
-<td>MN</td>
-<td>55112</td>
-<td> </td>
-</tr>
-<tr>
-<td>BROWN COUNTY RECORDER</td>
-<td>14 S. STATE ST.</td>
-<td>NEW ULM</td>
-<td>MN</td>
-<td>56073</td>
-<td>5072336658</td>
-</tr>
-<tr>
-<td>RENVILLE COUNTY RECORDER</td>
-<td>500 E DEPUE AVE</td>
-<td>OLIVIA</td>
-<td>MN</td>
-<td>56277</td>
-<td>3205233669</td>
-</tr>
-<tr>
-<td>BIG STONE COUNTY TREASURER</td>
-<td>20 2ND ST SE</td>
-<td>ORTONVILLE</td>
-<td>MN</td>
-<td>56278</td>
-<td>3208396395</td>
-</tr>
-<tr>
-<td>STEELE COUNTY RECORDER</td>
-<td>630 FLORENCE AVE.</td>
-<td>OWATONNA</td>
-<td>MN</td>
-<td>55060</td>
-<td>5074447450</td>
-</tr>
-<tr>
-<td>HUBBARD COUNTY</td>
-<td>301 COURT AVE</td>
-<td>PARK RAPIDS</td>
-<td>MN</td>
-<td>56470</td>
-<td>2187323452</td>
-</tr>
-<tr>
-<td>USPO - PAYNESVILLE</td>
-<td>211 W. JAMES ST.</td>
-<td>PAYNESVILLE</td>
-<td>MN</td>
-<td>56362</td>
-<td>3202433954</td>
-</tr>
-<tr>
-<td>USPO - PILLAGER</td>
-<td>123 CEDAR AVE E</td>
-<td>PILLAGER</td>
-<td>MN</td>
-<td>56473</td>
-<td>2187463180</td>
-</tr>
-<tr>
-<td>PIPESTONE COUNTY COURTHOUSE</td>
-<td>416 SOUTH HIAWATHA AVE</td>
-<td>PIPESTONE</td>
-<td>MN</td>
-<td>56164</td>
-<td>5078251233</td>
-</tr>
-<tr>
-<td>FILLMORE COUNTY AUDITOR - TREASURER OFFICE</td>
-<td>101 FILLMORE ST</td>
-<td>PRESTON</td>
-<td>MN</td>
-<td>55965</td>
-<td>5077654701</td>
-</tr>
-<tr>
-<td>RED LAKE COUNTY AUDITOR</td>
-<td>124 LANGEVIN AVE</td>
-<td>RED LAKE FALLS</td>
-<td>MN</td>
-<td>56750</td>
-<td>2182532598</td>
-</tr>
-<tr>
-<td>GOODHUE COUNTY RECORDER</td>
-<td>509 W 5TH STREET</td>
-<td>RED WING</td>
-<td>MN</td>
-<td>55066</td>
-<td>6513853223</td>
-</tr>
-<tr>
-<td>REDWOOD COUNTY GOVERNMENT CENTER</td>
-<td>403 S MILL ST</td>
-<td>REDWOOD FALLS</td>
-<td>MN</td>
-<td>56283</td>
-<td>5076374016</td>
-</tr>
-<tr>
-<td>CITY OF RICHFIELD</td>
-<td>6700 PORTLAND AVE. S</td>
-<td>RICHFIELD</td>
-<td>MN</td>
-<td>55423</td>
-<td>6128619730</td>
-</tr>
-<tr>
-<td>CITY OF ROBBINSDALE</td>
-<td>4100 LAKEVIEW AVE N</td>
-<td>ROBBINSDALE</td>
-<td>MN</td>
-<td>55422</td>
-<td>7635358133</td>
-</tr>
-<tr>
-<td>OLMSTED COUNTY PASSPORT OFFICE</td>
-<td>151 4TH STREET SE</td>
-<td>ROCHESTER</td>
-<td>MN</td>
-<td>55904</td>
-<td>5073287629</td>
-</tr>
-<tr>
-<td>ROSEAU COUNTY RECORDER</td>
-<td>606 5 AVENUE SW ROOM 170</td>
-<td>ROSEAU</td>
-<td>MN</td>
-<td>56751</td>
-<td>2184632061</td>
-</tr>
-<tr>
-<td>ROSEVILLE PASSPORT CENTER</td>
-<td>2737 LEXINGTON AVE N</td>
-<td>ROSEVILLE</td>
-<td>MN</td>
-<td>55113</td>
-<td>6517927010</td>
-</tr>
-<tr>
-<td>SCOTT COUNTY RECORDER</td>
-<td>200 FOURTH AVE W</td>
-<td>SHAKOPEE</td>
-<td>MN</td>
-<td>55379</td>
-<td>9524968150</td>
-</tr>
-<tr>
-<td>MURRAY COUNTY RECORDER</td>
-<td>2500 28TH STREET</td>
-<td>SLAYTON</td>
-<td>MN</td>
-<td>56172</td>
-<td>5078361161</td>
-</tr>
-<tr>
-<td>USPO - ST CHARLES</td>
-<td>1201 WHITEWATER AVE.</td>
-<td>ST. CHARLES</td>
-<td>MN</td>
-<td>55972</td>
-<td>5079324552</td>
-</tr>
-<tr>
-<td>STEARNS COUNTY AUDITOR-TREASURER</td>
-<td>705 COURTHOUSE SQUARE ROOM 136</td>
-<td>ST. CLOUD</td>
-<td>MN</td>
-<td>56303</td>
-<td>3206563877</td>
-</tr>
-<tr>
-<td>WATONWAN COUNTY RECORDER</td>
-<td>710 2ND AVE. S.</td>
-<td>ST. JAMES</td>
-<td>MN</td>
-<td>56081</td>
-<td>5073751216</td>
-</tr>
-<tr>
-<td>USPO - ST JOSEPH</td>
-<td>117 W. ASH ST.</td>
-<td>ST. JOSEPH</td>
-<td>MN</td>
-<td>56374</td>
-<td>3203638360</td>
-</tr>
-<tr>
-<td>RAMSEY COUNTY PROPERTY RECORDS AND REVENUE DEPT</td>
-<td>90 PLATO BLVD W</td>
-<td>ST. PAUL</td>
-<td>MN</td>
-<td>55107</td>
-<td>6512662180</td>
-</tr>
-<tr>
-<td>USPO - TWIN CITIES AMC</td>
-<td>5001 NORTHWEST DRIVE</td>
-<td>ST. PAUL</td>
-<td>MN</td>
-<td>55111</td>
-<td>6129707645</td>
-</tr>
-<tr>
-<td>USPS - ELWAY</td>
-<td>1715 SEVENTH STREET WEST</td>
-<td>ST. PAUL</td>
-<td>MN</td>
-<td>55116</td>
-<td>6516992762</td>
-</tr>
-<tr>
-<td>NICOLLET COUNTY RECORDER</td>
-<td>501 S. MINNESOTA AVE.</td>
-<td>ST. PETER</td>
-<td>MN</td>
-<td>56082</td>
-<td>5079347322</td>
-</tr>
-<tr>
-<td>WASHINGTON COUNTY - STILLWATER LICENSE CENTER</td>
-<td>1520 W FRONTAGE ROAD</td>
-<td>STILLWATER</td>
-<td>MN</td>
-<td>55082</td>
-<td>6512757010</td>
-</tr>
-<tr>
-<td>PENNINGTON COUNTY AUDITOR/TREASURER</td>
-<td>101 MAIN AVE N</td>
-<td>THIEF RIVER FALLS</td>
-<td>MN</td>
-<td>56701</td>
-<td>2186837022</td>
-</tr>
-<tr>
-<td>USPO - VIRGINIA</td>
-<td>231 1ST ST. S.</td>
-<td>VIRGINIA</td>
-<td>MN</td>
-<td>55792</td>
-<td>2187414919</td>
-</tr>
-<tr>
-<td>WADENA COUNTY PLANNING - ZONING</td>
-<td>415 JEFFERSON ST. S</td>
-<td>WADENA</td>
-<td>MN</td>
-<td>56482</td>
-<td>2186317604</td>
-</tr>
-<tr>
-<td>STEARNS COUNTY SERVICE CENTER</td>
-<td>3301 COUNTY RD 138</td>
-<td>WAITE PARK</td>
-<td>MN</td>
-<td>56387</td>
-<td>3206566540</td>
-</tr>
-<tr>
-<td>CASS COUNTY RECORDER</td>
-<td>303 MINNESOTA AVE WEST</td>
-<td>WALKER</td>
-<td>MN</td>
-<td>56484</td>
-<td>2185477381</td>
-</tr>
-<tr>
-<td>MARSHALL COUNTY ASSESSOR OFFICE</td>
-<td>208 E COLVIN AVE</td>
-<td>WARREN</td>
-<td>MN</td>
-<td>56762</td>
-<td>2187455331</td>
-</tr>
-<tr>
-<td>WASECA COUNTY RECORDERS OFFICE</td>
-<td>307 N STATE ST</td>
-<td>WASECA</td>
-<td>MN</td>
-<td>56093</td>
-<td>5078350671</td>
-</tr>
-<tr>
-<td>CITY OF WAYZATA MOTOR VEHICLE DEPT</td>
-<td>600 RICE ST E</td>
-<td>WAYZATA</td>
-<td>MN</td>
-<td>55391</td>
-<td>9524045320</td>
-</tr>
-<tr>
-<td>USPO - WAYZATA</td>
-<td>229 MINNETONKA AVE S.</td>
-<td>WAYZATA</td>
-<td>MN</td>
-<td>55391</td>
-<td>9524756809</td>
-</tr>
-<tr>
-<td>CITY OF WHITE BEAR LAKE</td>
-<td>4701 HIGHWAY 61</td>
-<td>WHITE BEAR LAKE</td>
-<td>MN</td>
-<td>55110</td>
-<td>6514075300</td>
-</tr>
-<tr>
-<td>KANDIYOHI COUNTY OFFICE BUILDING</td>
-<td>400 SW BENSON AVE</td>
-<td>WILLMAR</td>
-<td>MN</td>
-<td>56201</td>
-<td>3202316202</td>
-</tr>
-<tr>
-<td>COTTONWOOD COUNTY AUDITOR - TREASURER OFFICE</td>
-<td>900 3RD AVE</td>
-<td>WINDOM</td>
-<td>MN</td>
-<td>56101</td>
-<td>5078311905</td>
-</tr>
-<tr>
-<td>USPO - WINONA</td>
-<td>67 W 5TH ST</td>
-<td>WINONA</td>
-<td>MN</td>
-<td>55987</td>
-<td>5074545268</td>
-</tr>
-<tr>
-<td>WINONA STATE UNIVERSITY</td>
-<td>170  W 8TH STREET</td>
-<td>WINONA</td>
-<td>MN</td>
-<td>55987</td>
-<td>5074575081</td>
-</tr>
-<tr>
-<td>WASHINGTON COUNTY SERVICE CENTER - WOODBURY</td>
-<td>2150 RADIO DRIVE</td>
-<td>WOODBURY</td>
-<td>MN</td>
-<td>55125</td>
-<td>6512758600</td>
-</tr>
-<tr>
-<td>USPO - WORTHINGTON</td>
-<td>850 10TH ST.</td>
-<td>WORTHINGTON</td>
-<td>MN</td>
-<td>56187</td>
-<td>5073764870</td>
-</tr>
-<tr>
-<td>USPO - ZIMMERMAN</td>
-<td>26278  2ND ST. E</td>
-<td>ZIMMERMAN</td>
-<td>MN</td>
-<td>55398</td>
-<td>7638569540</td>
-</tr>
-</tbody>
-</table>

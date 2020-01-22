@@ -1,1190 +1,0 @@
-<table id='passportoffices'>
-<thead>
-<tr>
-<th scope="col"><b>Facility</b></th>
-<th scope="col"><b>Address</b></th>
-<th scope="col"><b>City</b></th>
-<th scope="col"><b>State</b></th>
-<th scope="col"><b>ZIP</b></th>
-<th scope="col"><b>Phone</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>USPO - ABERDEEN</td>
-<td>115 NORTH K ST.</td>
-<td>ABERDEEN</td>
-<td>WA</td>
-<td>98520</td>
-<td>3605377205</td>
-</tr>
-<tr>
-<td>USPO - AIRWAY HEIGHTS</td>
-<td>1501 S. MULLEN RD</td>
-<td>AIRWAY HEIGHTS</td>
-<td>WA</td>
-<td>99001</td>
-<td>5092440725</td>
-</tr>
-<tr>
-<td>USPO - ALLYN</td>
-<td>18329 E. STATE ROUTE 3</td>
-<td>ALLYN</td>
-<td>WA</td>
-<td>98524</td>
-<td>3602756504</td>
-</tr>
-<tr>
-<td>ANACORTES PUBLIC LIBRARY</td>
-<td>1220 10TH ST</td>
-<td>ANACORTES</td>
-<td>WA</td>
-<td>98221</td>
-<td>3602931910</td>
-</tr>
-<tr>
-<td>CITY OF ARLINGTON</td>
-<td>238 N. OLYMPIC AVE</td>
-<td>ARLINGTON</td>
-<td>WA</td>
-<td>98223</td>
-<td>3604033421</td>
-</tr>
-<tr>
-<td>CITY OF AUBURN</td>
-<td>25 W MAIN STREET</td>
-<td>AUBURN</td>
-<td>WA</td>
-<td>98001</td>
-<td>2539313039</td>
-</tr>
-<tr>
-<td>BAINBRIDGE ISLAND MUNICIPAL COURT</td>
-<td>10255 NE VALLEY ROAD</td>
-<td>BAINBRIDGE ISLAND</td>
-<td>WA</td>
-<td>98110</td>
-<td>2068425641</td>
-</tr>
-<tr>
-<td>USPO - BATTLE GROUND</td>
-<td>418 W. MAIN ST.</td>
-<td>BATTLE GROUND</td>
-<td>WA</td>
-<td>98604</td>
-<td>3606662861</td>
-</tr>
-<tr>
-<td>KCDC - BELLEVUE</td>
-<td>1309 114TH AVE SE, STE 100</td>
-<td>BELLEVUE</td>
-<td>WA</td>
-<td>98004</td>
-<td>2062059200</td>
-</tr>
-<tr>
-<td>USPO - BELLEVUE</td>
-<td>12224 NE BEL-RED ROAD</td>
-<td>BELLEVUE</td>
-<td>WA</td>
-<td>98005</td>
-<td>4254547288</td>
-</tr>
-<tr>
-<td>USPO - BELLINGHAM</td>
-<td>315 PROSPECT ST.</td>
-<td>BELLINGHAM</td>
-<td>WA</td>
-<td>98225</td>
-<td>3607529822</td>
-</tr>
-<tr>
-<td>WHATCOM COUNTY TREASURERS OFFICE</td>
-<td>311 GRAND AVENUE, SUITE 104</td>
-<td>BELLINGHAM</td>
-<td>WA</td>
-<td>98225</td>
-<td>3607785162</td>
-</tr>
-<tr>
-<td>USPO - BENTON CITY</td>
-<td>909 DALE AVE.</td>
-<td>BENTON CITY</td>
-<td>WA</td>
-<td>99320</td>
-<td>5095882740</td>
-</tr>
-<tr>
-<td>USPO - BLACK DIAMOND</td>
-<td>25228 BAKER ST</td>
-<td>BLACK DIAMOND</td>
-<td>WA</td>
-<td>98010</td>
-<td>8002758777</td>
-</tr>
-<tr>
-<td>CITY OF BLAINE</td>
-<td>435 MARTIN ST, STE 3000</td>
-<td>BLAINE</td>
-<td>WA</td>
-<td>98230</td>
-<td>3603328311</td>
-</tr>
-<tr>
-<td>USPO - BLAINE</td>
-<td>701 HARRISON AVE.</td>
-<td>BLAINE</td>
-<td>WA</td>
-<td>98230</td>
-<td>3603327184</td>
-</tr>
-<tr>
-<td>BONNEY LAKE MUNICIPAL COURT</td>
-<td>9002 MAIN STREET E. STE 100</td>
-<td>BONNEY LAKE</td>
-<td>WA</td>
-<td>98391</td>
-<td>2538626606</td>
-</tr>
-<tr>
-<td>CITY OF BREMERTON FINANCIAL SERVICES</td>
-<td>345 6TH ST., SUITE 100</td>
-<td>BREMERTON</td>
-<td>WA</td>
-<td>98337</td>
-<td>3604735030</td>
-</tr>
-<tr>
-<td>CITY OF BUCKLEY</td>
-<td>933 MAIN ST.</td>
-<td>BUCKLEY</td>
-<td>WA</td>
-<td>98321</td>
-<td>3608291921</td>
-</tr>
-<tr>
-<td>KCDC - BURIEN</td>
-<td>601 SW 149TH ST.</td>
-<td>BURIEN</td>
-<td>WA</td>
-<td>98166</td>
-<td>2062059200</td>
-</tr>
-<tr>
-<td>BURLINGTON MUNICIPAL COURT</td>
-<td>311 CEDAR ST, STE A</td>
-<td>BURLINGTON</td>
-<td>WA</td>
-<td>98233</td>
-<td>3607550492</td>
-</tr>
-<tr>
-<td>USPO - CASTLE ROCK</td>
-<td>126 COWLITZ ST. W</td>
-<td>CASTLE ROCK</td>
-<td>WA</td>
-<td>98611</td>
-<td>3602745209</td>
-</tr>
-<tr>
-<td>WAHKIAKUM COUNTY CLERK</td>
-<td>64 MAIN STREET</td>
-<td>CATHLAMET</td>
-<td>WA</td>
-<td>98612</td>
-<td>3607953558</td>
-</tr>
-<tr>
-<td>USPO - CENTRALIA</td>
-<td>214 CENTRALIA COLLEGE BLVD</td>
-<td>CENTRALIA</td>
-<td>WA</td>
-<td>98531</td>
-<td>3608071169</td>
-</tr>
-<tr>
-<td>LEWIS COUNTY CLERK</td>
-<td>345 W. MAIN ST.</td>
-<td>CHEHALIS</td>
-<td>WA</td>
-<td>98532</td>
-<td>3607402704</td>
-</tr>
-<tr>
-<td>USPO - CHENEY</td>
-<td>224 2ND STREET</td>
-<td>CHENEY</td>
-<td>WA</td>
-<td>99004</td>
-<td>5092356416</td>
-</tr>
-<tr>
-<td>WHITMAN COUNTY CLERK</td>
-<td>400 N MAIN STREET</td>
-<td>COLFAX</td>
-<td>WA</td>
-<td>99111</td>
-<td>5093976240</td>
-</tr>
-<tr>
-<td>STEVENS COUNTY CLERK</td>
-<td>215 SOUTH OAK STREET, ROOM #206</td>
-<td>COLVILLE</td>
-<td>WA</td>
-<td>99114</td>
-<td>5096847575</td>
-</tr>
-<tr>
-<td>USPO - COLVILLE</td>
-<td>204 S. OAK STREET</td>
-<td>COLVILLE</td>
-<td>WA</td>
-<td>99114</td>
-<td>5096842241</td>
-</tr>
-<tr>
-<td>USPO - COVINGTON STATION</td>
-<td>17300 SE 270TH PLACE</td>
-<td>COVINGTON</td>
-<td>WA</td>
-<td>98042</td>
-<td>2536396833</td>
-</tr>
-<tr>
-<td>USPO - DANVILLE</td>
-<td>2 FOURTH OF JULY CREEK RD</td>
-<td>DANVILLE</td>
-<td>WA</td>
-<td>99121</td>
-<td>5097794485</td>
-</tr>
-<tr>
-<td>USPO DAVENPORT</td>
-<td>402 7TH ST</td>
-<td>DAVENPORT</td>
-<td>WA</td>
-<td>99122</td>
-<td>5097251131</td>
-</tr>
-<tr>
-<td>COLUMBIA COUNTY CLERK</td>
-<td>341 E. MAIN ST. STE 2</td>
-<td>DAYTON</td>
-<td>WA</td>
-<td>99328</td>
-<td>5093824321</td>
-</tr>
-<tr>
-<td>USPO - DEER PARK</td>
-<td>19 S. VERNON AVE</td>
-<td>DEER PARK</td>
-<td>WA</td>
-<td>99006</td>
-<td>5092761091</td>
-</tr>
-<tr>
-<td>USPO - DES MOINES STATION</td>
-<td>2003 S. 216TH ST.</td>
-<td>DES MOINES</td>
-<td>WA</td>
-<td>98198</td>
-<td>2068243647</td>
-</tr>
-<tr>
-<td>UPSO - DUPONT</td>
-<td>1313 THOMPSON CIRCLE</td>
-<td>DUPONT</td>
-<td>WA</td>
-<td>98327</td>
-<td>2539648333</td>
-</tr>
-<tr>
-<td>EATONVILLE FINANCE DEPARTMENT</td>
-<td>201 CENTER STREET W</td>
-<td>EATONVILLE</td>
-<td>WA</td>
-<td>98328</td>
-<td>3608323361</td>
-</tr>
-<tr>
-<td>EDMONDS MUNICIPAL COURT</td>
-<td>250 - 5TH AVENUE NORTH</td>
-<td>EDMONDS</td>
-<td>WA</td>
-<td>98020</td>
-<td>4257710210</td>
-</tr>
-<tr>
-<td>KITTITAS COUNTY CLERK</td>
-<td>205 W. 5TH, SUITE #210</td>
-<td>ELLENSBURG</td>
-<td>WA</td>
-<td>98926</td>
-<td>5099627531</td>
-</tr>
-<tr>
-<td>USPO - ELLENSBURG</td>
-<td>100 EAST 3RD AVE.</td>
-<td>ELLENSBURG</td>
-<td>WA</td>
-<td>98926</td>
-<td>5099624360</td>
-</tr>
-<tr>
-<td>CITY OF ENUMCLAW</td>
-<td>1339 GRIFFIN AVE.</td>
-<td>ENUMCLAW</td>
-<td>WA</td>
-<td>98022</td>
-<td>3606155605</td>
-</tr>
-<tr>
-<td>GRANT COUNTY CLERK</td>
-<td>35 C ST. NW, ROOM 218</td>
-<td>EPHRATA</td>
-<td>WA</td>
-<td>98823</td>
-<td>5097542011</td>
-</tr>
-<tr>
-<td>EVERETT PUBLIC LIBRARY-MAIN LIBRARY</td>
-<td>2702 HOYT AVENUE</td>
-<td>EVERETT</td>
-<td>WA</td>
-<td>98201</td>
-<td>4252578000</td>
-</tr>
-<tr>
-<td>USPO - EVERETT</td>
-<td>3102 HOYT AVE.</td>
-<td>EVERETT</td>
-<td>WA</td>
-<td>98201</td>
-<td>4252573208</td>
-</tr>
-<tr>
-<td>CITY OF EVERSON</td>
-<td>111 W. MAIN ST.</td>
-<td>EVERSON</td>
-<td>WA</td>
-<td>98247</td>
-<td>3609663411</td>
-</tr>
-<tr>
-<td>CITY OF FEDERAL WAY</td>
-<td>33325 8TH AVENUE SOUTH</td>
-<td>FEDERAL WAY</td>
-<td>WA</td>
-<td>98003</td>
-<td>2538357000</td>
-</tr>
-<tr>
-<td>CITY OF FIRCREST - PLANNING AND BUILDING DEPT.</td>
-<td>115 RAMSDELL ST</td>
-<td>FIRCREST</td>
-<td>WA</td>
-<td>98466</td>
-<td>2535648901</td>
-</tr>
-<tr>
-<td>SAN JUAN COUNTY CLERK</td>
-<td>350 COURT STREET, SUITE 7</td>
-<td>FRIDAY HARBOR</td>
-<td>WA</td>
-<td>98250</td>
-<td>3603782163</td>
-</tr>
-<tr>
-<td>KLICKITAT COUNTY CLERK</td>
-<td>205 S. COLUMBUS AVE. #204 MS CH-03</td>
-<td>GOLDENDALE</td>
-<td>WA</td>
-<td>98620</td>
-<td>5097735744</td>
-</tr>
-<tr>
-<td>USPO - GRAND COULEE</td>
-<td>407 MIDWAY AVE</td>
-<td>GRAND COULEE</td>
-<td>WA</td>
-<td>99133</td>
-<td>5096330781</td>
-</tr>
-<tr>
-<td>CITY OF ISSAQUAH</td>
-<td>1775 12TH AVE NW</td>
-<td>ISSAQUAH</td>
-<td>WA</td>
-<td>98027</td>
-<td>4258373000</td>
-</tr>
-<tr>
-<td>KCDC - ISSAQUAH</td>
-<td>5415 - 220TH AVE. SE</td>
-<td>ISSAQUAH</td>
-<td>WA</td>
-<td>98029</td>
-<td>2062059200</td>
-</tr>
-<tr>
-<td>USPO - ISSAQUAH</td>
-<td>400 NW GILMAN BLVD</td>
-<td>ISSAQUAH</td>
-<td>WA</td>
-<td>98027</td>
-<td>4258378795</td>
-</tr>
-<tr>
-<td>COWLITZ COUNTY DISTRICT COURT</td>
-<td>312 SW 1ST AVE. RM 207</td>
-<td>KELSO</td>
-<td>WA</td>
-<td>98626</td>
-<td>3605773073</td>
-</tr>
-<tr>
-<td>BENTON COUNTY CLERK</td>
-<td>7122 W. OKANOGAN PL, BLDG A</td>
-<td>KENNEWICK</td>
-<td>WA</td>
-<td>99336</td>
-<td>5097358388</td>
-</tr>
-<tr>
-<td>CITY OF KIRKLAND</td>
-<td>123 5TH AVENUE</td>
-<td>KIRKLAND</td>
-<td>WA</td>
-<td>98033</td>
-<td>4255873005</td>
-</tr>
-<tr>
-<td>USPO - LA CENTER</td>
-<td>421 NE JOHN STORM AVE.</td>
-<td>LA CENTER</td>
-<td>WA</td>
-<td>98629</td>
-<td>3602637269</td>
-</tr>
-<tr>
-<td>CITY OF LACEY</td>
-<td>420 COLLEGE ST SE</td>
-<td>LACEY</td>
-<td>WA</td>
-<td>98503</td>
-<td>3604913212</td>
-</tr>
-<tr>
-<td>CITY OF LAKE FOREST PARK</td>
-<td>17425 BALLINGER WAY NE</td>
-<td>LAKE FOREST PARK</td>
-<td>WA</td>
-<td>98155</td>
-<td>2069572834</td>
-</tr>
-<tr>
-<td>USPO - LAKEWOOD</td>
-<td>5409 100TH STREET SW</td>
-<td>LAKEWOOD</td>
-<td>WA</td>
-<td>98499</td>
-<td>2539838266</td>
-</tr>
-<tr>
-<td>CITY OF LANGLEY</td>
-<td>112 2ND STREET</td>
-<td>LANGLEY</td>
-<td>WA</td>
-<td>98260</td>
-<td>3602214246</td>
-</tr>
-<tr>
-<td>USPO - LONG BEACH</td>
-<td>101 OREGON AVE N.</td>
-<td>LONG BEACH</td>
-<td>WA</td>
-<td>98631</td>
-<td>3606423984</td>
-</tr>
-<tr>
-<td>USPO - LONGVIEW</td>
-<td>1603 LARCH STREET</td>
-<td>LONGVIEW</td>
-<td>WA</td>
-<td>98632</td>
-<td>3606368593</td>
-</tr>
-<tr>
-<td>USPO - LYNNWOOD</td>
-<td>6817 - 208TH ST. SW</td>
-<td>LYNNWOOD</td>
-<td>WA</td>
-<td>98036</td>
-<td>4257783447</td>
-</tr>
-<tr>
-<td>CITY OF MAPLE VALLEY</td>
-<td>22017 SE WAX ROAD, STE 200</td>
-<td>MAPLE VALLEY</td>
-<td>WA</td>
-<td>98038</td>
-<td>4254138800</td>
-</tr>
-<tr>
-<td>CITY OF MEDINA</td>
-<td>501 EVERGREEN POINT ROAD</td>
-<td>MEDINA</td>
-<td>WA</td>
-<td>98039</td>
-<td>4252336400</td>
-</tr>
-<tr>
-<td>USPO - MERCER ISLAND</td>
-<td>3040 78TH AVE SE</td>
-<td>MERCER ISLAND</td>
-<td>WA</td>
-<td>98040</td>
-<td>2062328834</td>
-</tr>
-<tr>
-<td>CITY OF MILL CREEK PASSPORT OFFICE</td>
-<td>15728 MAIN ST</td>
-<td>MILL CREEK</td>
-<td>WA</td>
-<td>98012</td>
-<td>4259215743</td>
-</tr>
-<tr>
-<td>CITY OF MONROE</td>
-<td>806 W. MAIN ST.</td>
-<td>MONROE</td>
-<td>WA</td>
-<td>98272</td>
-<td>3607947400</td>
-</tr>
-<tr>
-<td>USPO - MONROE</td>
-<td>122 N. BLAKELEY ST.</td>
-<td>MONROE</td>
-<td>WA</td>
-<td>98272</td>
-<td>3608051962</td>
-</tr>
-<tr>
-<td>USPO - MONTESANO</td>
-<td>211 W. PIONEER AVE.</td>
-<td>MONTESANO</td>
-<td>WA</td>
-<td>98563</td>
-<td>3602493322</td>
-</tr>
-<tr>
-<td>USPO - MOSES LAKE</td>
-<td>223 W 3RD AVE.</td>
-<td>MOSES LAKE</td>
-<td>WA</td>
-<td>98837</td>
-<td>5097646701</td>
-</tr>
-<tr>
-<td>SKAGIT COUNTY CLERK</td>
-<td>205 WEST KINCAID, SUITE 103</td>
-<td>MOUNT VERNON</td>
-<td>WA</td>
-<td>98273</td>
-<td>3604161800</td>
-</tr>
-<tr>
-<td>USPO - MOUNT VERNON</td>
-<td>1207 CLEVELAND AVE</td>
-<td>MOUNT VERNON</td>
-<td>WA</td>
-<td>98273</td>
-<td>3603365812</td>
-</tr>
-<tr>
-<td>CITY OF MOUNTLAKE TERRACE</td>
-<td>6100 219TH ST SW.  STE 200</td>
-<td>MOUNTLAKE TERRACE</td>
-<td>WA</td>
-<td>98043</td>
-<td>4257761161</td>
-</tr>
-<tr>
-<td>PEND OREILLE COUNTY CLERK</td>
-<td>229 S. GARDEN AVE</td>
-<td>NEWPORT</td>
-<td>WA</td>
-<td>99156</td>
-<td>5094472435</td>
-</tr>
-<tr>
-<td>USPO - NEWPORT</td>
-<td>100 N. WASHINGTON AVE</td>
-<td>NEWPORT</td>
-<td>WA</td>
-<td>99156</td>
-<td>5094474221</td>
-</tr>
-<tr>
-<td>USPO - NORTH BEND</td>
-<td>451 E. NORTH BEND WAY</td>
-<td>NORTH BEND</td>
-<td>WA</td>
-<td>98045</td>
-<td>4258317020</td>
-</tr>
-<tr>
-<td>CITY OF OAK HARBOR SENIOR CENTER</td>
-<td>51 SE JEROME ST</td>
-<td>OAK HARBOR</td>
-<td>WA</td>
-<td>98277</td>
-<td>3602794580</td>
-</tr>
-<tr>
-<td>USPO - OAK HARBOR</td>
-<td>1155 SE CITY BEACH ST.</td>
-<td>OAK HARBOR</td>
-<td>WA</td>
-<td>98277</td>
-<td>3606756273</td>
-</tr>
-<tr>
-<td>USPO - OCEAN SHORES</td>
-<td>689 DOLPHIN AVE. NE</td>
-<td>OCEAN SHORES</td>
-<td>WA</td>
-<td>98569</td>
-<td>3602893665</td>
-</tr>
-<tr>
-<td>OKANOGAN COUNTY CLERK</td>
-<td>149 N. 3RD AVE #301</td>
-<td>OKANOGAN</td>
-<td>WA</td>
-<td>98840</td>
-<td>5094227275</td>
-</tr>
-<tr>
-<td>THURSTON COUNTY AUDITOR</td>
-<td>2000 LAKERIDGE DR SW</td>
-<td>OLYMPIA</td>
-<td>WA</td>
-<td>98502</td>
-<td>3607865405</td>
-</tr>
-<tr>
-<td>USPO - OLYMPIA</td>
-<td>900 JEFFERSON ST. SE</td>
-<td>OLYMPIA</td>
-<td>WA</td>
-<td>98501</td>
-<td>3605706300</td>
-</tr>
-<tr>
-<td>USPO - OMAK</td>
-<td>104 S. MAIN ST</td>
-<td>OMAK</td>
-<td>WA</td>
-<td>98841</td>
-<td>5098262060</td>
-</tr>
-<tr>
-<td>USPO - ORONDO</td>
-<td>14003 STATE ROUTE 2</td>
-<td>ORONDO</td>
-<td>WA</td>
-<td>98843</td>
-<td>5097841270</td>
-</tr>
-<tr>
-<td>CITY OF ORTING</td>
-<td>110 TRAIN ST. SE</td>
-<td>ORTING</td>
-<td>WA</td>
-<td>98360</td>
-<td>3608932219</td>
-</tr>
-<tr>
-<td>FRANKLIN COUNTY CLERK</td>
-<td>1016 N 4TH AVE, STE 306</td>
-<td>PASCO</td>
-<td>WA</td>
-<td>99301</td>
-<td>5095453525</td>
-</tr>
-<tr>
-<td>GARFIELD COUNTY CLERK</td>
-<td>789 MAIN ST.</td>
-<td>POMEROY</td>
-<td>WA</td>
-<td>99347</td>
-<td>5098433731</td>
-</tr>
-<tr>
-<td>CLALLAM COUNTY AUDITORS OFFICE</td>
-<td>223 E. 4TH ST, STE 1</td>
-<td>PORT ANGELES</td>
-<td>WA</td>
-<td>98362</td>
-<td>3604172220</td>
-</tr>
-<tr>
-<td>USPO - PORT ANGELES</td>
-<td>424 EAST 1ST STREET</td>
-<td>PORT ANGELES</td>
-<td>WA</td>
-<td>98362</td>
-<td>3604177528</td>
-</tr>
-<tr>
-<td>KITSAP COUNTY CLERK</td>
-<td>614 DIVISION ST.</td>
-<td>PORT ORCHARD</td>
-<td>WA</td>
-<td>98366</td>
-<td>3603377164</td>
-</tr>
-<tr>
-<td>JEFFERSON COUNTY AUDITOR</td>
-<td>1820 JEFFERSON ST.</td>
-<td>PORT TOWNSEND</td>
-<td>WA</td>
-<td>98368</td>
-<td>3603859116</td>
-</tr>
-<tr>
-<td>CITY OF POULSBO</td>
-<td>200 NE MOE ST</td>
-<td>POULSBO</td>
-<td>WA</td>
-<td>98370</td>
-<td>3607793901</td>
-</tr>
-<tr>
-<td>BENTON COUNTY CLERK</td>
-<td>620 MARKET ST.</td>
-<td>PROSSER</td>
-<td>WA</td>
-<td>99350</td>
-<td>5097358388</td>
-</tr>
-<tr>
-<td>USPO - PULLMAN</td>
-<td>1135 S. GRAND AVE.</td>
-<td>PULLMAN</td>
-<td>WA</td>
-<td>99163</td>
-<td>5093343093</td>
-</tr>
-<tr>
-<td>USPO - RAYMOND</td>
-<td>406 DURYEA ST.</td>
-<td>RAYMOND</td>
-<td>WA</td>
-<td>98577</td>
-<td>3609425911</td>
-</tr>
-<tr>
-<td>USPO - REDMOND</td>
-<td>7241 185TH AVE NE</td>
-<td>REDMOND</td>
-<td>WA</td>
-<td>98052</td>
-<td>4258693690</td>
-</tr>
-<tr>
-<td>KCCSC - BLACK RIVER</td>
-<td>919 SW GRADY WAY</td>
-<td>RENTON</td>
-<td>WA</td>
-<td>98057</td>
-<td>2064774881</td>
-</tr>
-<tr>
-<td>RENTON MUNICIPAL COURT</td>
-<td>1055 S GRADY WAY</td>
-<td>RENTON</td>
-<td>WA</td>
-<td>98057</td>
-<td>4254306550</td>
-</tr>
-<tr>
-<td>USPO - RENTON HIGHLANDS</td>
-<td>4301 NE 4TH STREET</td>
-<td>RENTON</td>
-<td>WA</td>
-<td>98059</td>
-<td>4252276304</td>
-</tr>
-<tr>
-<td>FERRY COUNTY CLERK</td>
-<td>350 E. DELAWARE, STE 4</td>
-<td>REPUBLIC</td>
-<td>WA</td>
-<td>99166</td>
-<td>5097755225</td>
-</tr>
-<tr>
-<td>USPO - RICHLAND</td>
-<td>639 CULLUM AVE</td>
-<td>RICHLAND</td>
-<td>WA</td>
-<td>99352</td>
-<td>5099437536</td>
-</tr>
-<tr>
-<td>ADAMS COUNTY SUP CT CLERK</td>
-<td>210 W. BROADWAY</td>
-<td>RITZVILLE</td>
-<td>WA</td>
-<td>99169</td>
-<td>5096593257</td>
-</tr>
-<tr>
-<td>CITY OF SAMMAMISH</td>
-<td>801 228TH AVENUE SE</td>
-<td>SAMMAMISH</td>
-<td>WA</td>
-<td>98075</td>
-<td>4252950500</td>
-</tr>
-<tr>
-<td>CSC -  SOUTHEAST CENTER</td>
-<td>3815 S. OTHELLO ST., STE. 105</td>
-<td>SEATTLE</td>
-<td>WA</td>
-<td>98118</td>
-<td>2066150725</td>
-</tr>
-<tr>
-<td>CSC - BALLARD</td>
-<td>5604 22ND AVE. NW</td>
-<td>SEATTLE</td>
-<td>WA</td>
-<td>98107</td>
-<td>2066150725</td>
-</tr>
-<tr>
-<td>CSC - CENTRAL</td>
-<td>464 12TH AVE</td>
-<td>SEATTLE</td>
-<td>WA</td>
-<td>98122</td>
-<td>2066150725</td>
-</tr>
-<tr>
-<td>CSC - LAKE CITY</td>
-<td>12525 28TH AVE NE</td>
-<td>SEATTLE</td>
-<td>WA</td>
-<td>98125</td>
-<td>2066150725</td>
-</tr>
-<tr>
-<td>CSC - SOUTHWEST</td>
-<td>2801 SW THISTLE ST</td>
-<td>SEATTLE</td>
-<td>WA</td>
-<td>98126</td>
-<td>2066150725</td>
-</tr>
-<tr>
-<td>CSC - UNIVERSITY DISTRICT</td>
-<td>4534 UNIVERSITY WAY NE</td>
-<td>SEATTLE</td>
-<td>WA</td>
-<td>98105</td>
-<td>2066150725</td>
-</tr>
-<tr>
-<td>KCDC - SEATTLE DIVISION</td>
-<td>516 3RD AVE, E327</td>
-<td>SEATTLE</td>
-<td>WA</td>
-<td>98104</td>
-<td>2062059200</td>
-</tr>
-<tr>
-<td>USPO - SEATTLE MIDTOWN</td>
-<td>301 UNION STREET</td>
-<td>SEATTLE</td>
-<td>WA</td>
-<td>98101</td>
-<td>2067485413</td>
-</tr>
-<tr>
-<td>USPO - TERMINAL STATION</td>
-<td>2420 4TH AVE S.</td>
-<td>SEATTLE</td>
-<td>WA</td>
-<td>98134</td>
-<td>2066522467</td>
-</tr>
-<tr>
-<td>USPO - WESTWOOD STATION</td>
-<td>2721 SW TRENTON ST</td>
-<td>SEATTLE</td>
-<td>WA</td>
-<td>98126</td>
-<td>2069387769</td>
-</tr>
-<tr>
-<td>USPO - SEDRO-WOOLLEY</td>
-<td>111 WOODWORTH ST.</td>
-<td>SEDRO-WOOLLEY</td>
-<td>WA</td>
-<td>98284</td>
-<td>3608550545</td>
-</tr>
-<tr>
-<td>MASON COUNTY CLERK</td>
-<td>419 N. 4TH ST.</td>
-<td>SHELTON</td>
-<td>WA</td>
-<td>98584</td>
-<td>3604279670</td>
-</tr>
-<tr>
-<td>KCDC - SHORELINE DIVISION</td>
-<td>18050 MERIDIAN AVE N</td>
-<td>SHORELINE</td>
-<td>WA</td>
-<td>98133</td>
-<td>2062059200</td>
-</tr>
-<tr>
-<td>USPO - NORTH CITY STATION</td>
-<td>18336 AURORA N, STE 105</td>
-<td>SHORELINE</td>
-<td>WA</td>
-<td>98133</td>
-<td>2065428075</td>
-</tr>
-<tr>
-<td>USPO - SILVERDALE</td>
-<td>10855 SILVERDALE WAY NW</td>
-<td>SILVERDALE</td>
-<td>WA</td>
-<td>98383</td>
-<td>3603080301</td>
-</tr>
-<tr>
-<td>USPO - SNOHOMISH</td>
-<td>1323 AVE. D</td>
-<td>SNOHOMISH</td>
-<td>WA</td>
-<td>98290</td>
-<td>3605680904</td>
-</tr>
-<tr>
-<td>USPO - LIBERTY PARK STATION</td>
-<td>1602 E. SPRAGUE AVE.</td>
-<td>SPOKANE</td>
-<td>WA</td>
-<td>99202</td>
-<td>5095329352</td>
-</tr>
-<tr>
-<td>USPO - SHADLE GARLAND</td>
-<td>1903 W. GARLAND AVE</td>
-<td>SPOKANE</td>
-<td>WA</td>
-<td>99205</td>
-<td>5093286724</td>
-</tr>
-<tr>
-<td>USPO RIVERSIDE STATION</td>
-<td>904 W. RIVERSIDE AVE</td>
-<td>SPOKANE</td>
-<td>WA</td>
-<td>99201</td>
-<td>5092522337</td>
-</tr>
-<tr>
-<td>USPO - VERADALE</td>
-<td>15202 E. SPRAUGE AVE.</td>
-<td>SPOKANE VALLEY</td>
-<td>WA</td>
-<td>99037</td>
-<td>5098930288</td>
-</tr>
-<tr>
-<td>CITY OF STANWOOD</td>
-<td>10220 - 270TH ST. NW</td>
-<td>STANWOOD</td>
-<td>WA</td>
-<td>98292</td>
-<td>3606292181</td>
-</tr>
-<tr>
-<td>SKAMANIA COUNTY CLERK</td>
-<td>240 VANCOUVER AVE, STE 33</td>
-<td>STEVENSON</td>
-<td>WA</td>
-<td>98648</td>
-<td>5094273770</td>
-</tr>
-<tr>
-<td>CITY OF SULTAN</td>
-<td>319 MAIN ST., STE. 200</td>
-<td>SULTAN</td>
-<td>WA</td>
-<td>98294</td>
-<td>3607932231</td>
-</tr>
-<tr>
-<td>CITY OF SUMAS</td>
-<td>433 CHERRY ST.</td>
-<td>SUMAS</td>
-<td>WA</td>
-<td>98295</td>
-<td>3609885711</td>
-</tr>
-<tr>
-<td>USPO - SUMNER</td>
-<td>1313 FRYAR AVE</td>
-<td>SUMNER</td>
-<td>WA</td>
-<td>98390</td>
-<td>2538919601</td>
-</tr>
-<tr>
-<td>PIERCE COUNTY AUDITIORS OFFICE (SATELLITE)</td>
-<td>3629 S. D ST</td>
-<td>TACOMA</td>
-<td>WA</td>
-<td>98418</td>
-<td>2537987427</td>
-</tr>
-<tr>
-<td>PIERCE COUNTY AUDITOR</td>
-<td>2401 S 35TH ST, RM. 200</td>
-<td>TACOMA</td>
-<td>WA</td>
-<td>98409</td>
-<td>2537987427</td>
-</tr>
-<tr>
-<td>USPO - EVERGREEN STATION</td>
-<td>4001 SOUTH PINE STREET</td>
-<td>TACOMA</td>
-<td>WA</td>
-<td>98413</td>
-<td>2534715384</td>
-</tr>
-<tr>
-<td>USPO - TACOMA DOWNTOWN STATION</td>
-<td>1102 A STREET</td>
-<td>TACOMA</td>
-<td>WA</td>
-<td>98402</td>
-<td>2536274026</td>
-</tr>
-<tr>
-<td>USPO - UNIVERSITY PLACE</td>
-<td>6817 27TH STREET W</td>
-<td>TACOMA</td>
-<td>WA</td>
-<td>98466</td>
-<td>2535667133</td>
-</tr>
-<tr>
-<td>USPO - VANCOUVER</td>
-<td>2700 CAPLES AVE</td>
-<td>VANCOUVER</td>
-<td>WA</td>
-<td>98661</td>
-<td>3609925000</td>
-</tr>
-<tr>
-<td>USPO - VANCOUVER DOWNTOWN STATION</td>
-<td>1211 DANIELS ST.</td>
-<td>VANCOUVER</td>
-<td>WA</td>
-<td>98666</td>
-<td>3607197496</td>
-</tr>
-<tr>
-<td>USPO - WALLA WALLA</td>
-<td>128 N. 2ND AVE</td>
-<td>WALLA WALLA</td>
-<td>WA</td>
-<td>99362</td>
-<td>5095223824</td>
-</tr>
-<tr>
-<td>WALLA WALLA COUNTY CLERK</td>
-<td>315 W. MAIN</td>
-<td>WALLA WALLA</td>
-<td>WA</td>
-<td>99362</td>
-<td>5095242780</td>
-</tr>
-<tr>
-<td>USPO - WASHOUGAL</td>
-<td>129 PENDLETON WAY</td>
-<td>WASHOUGAL</td>
-<td>WA</td>
-<td>98671</td>
-<td>3608358582</td>
-</tr>
-<tr>
-<td>CHELAN COUNTY CLERK</td>
-<td>350 ORONDO AVE, STE 501</td>
-<td>WENATCHEE</td>
-<td>WA</td>
-<td>98801</td>
-<td>5096676380</td>
-</tr>
-<tr>
-<td>USPO - WENATCHEE</td>
-<td>1050 MAPLE ST</td>
-<td>WENATCHEE</td>
-<td>WA</td>
-<td>98801</td>
-<td>5096622033</td>
-</tr>
-<tr>
-<td>WESTPORT MUNICIPAL COURT</td>
-<td>604 N. MONTESANO ST</td>
-<td>WESTPORT</td>
-<td>WA</td>
-<td>98595</td>
-<td>3602680125</td>
-</tr>
-<tr>
-<td>CITY OF WOODINVILLE POLICE DEPT</td>
-<td>17301 133RD AVE NE</td>
-<td>WOODINVILLE</td>
-<td>WA</td>
-<td>98072</td>
-<td>4258772279</td>
-</tr>
-<tr>
-<td>USPO - YAKIMA</td>
-<td>205 WEST WASHINGTON AVE.</td>
-<td>YAKIMA</td>
-<td>WA</td>
-<td>98903</td>
-<td>5092251389</td>
-</tr>
-<tr>
-<td>YAKIMA COUNTY AUDITOR</td>
-<td>128 N 2ND STREET</td>
-<td>YAKIMA</td>
-<td>WA</td>
-<td>98901</td>
-<td>5095741400</td>
-</tr>
-<tr>
-<td>YELM MUNICIPAL COURT</td>
-<td>206 MCKENZIE AVE SE</td>
-<td>YELM</td>
-<td>WA</td>
-<td>98597</td>
-<td>3604583242</td>
-</tr>
-</tbody>
-</table>
